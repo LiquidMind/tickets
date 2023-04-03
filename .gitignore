@@ -1,0 +1,8 @@
+conf.py
+*.log
+docker/*
+.venv
+venv
+.idea/*
+__pycache__/
+tmp.*
