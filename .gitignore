@@ -1,8 +1,9 @@
 conf.py
 *.log
-docker/*
+docker/db/data/
 .venv
 venv
 .idea/*
 __pycache__/
 tmp.*
+*.yml
