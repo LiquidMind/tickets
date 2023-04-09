@@ -1,0 +1,196 @@
+Andorra
+The government ID number format for Andorra is as follows:
+
+    The ID number is composed of 12 characters.
+    The first three characters are the letter 'NAT', which stands for "national".
+    The next two characters are the two-digit birth year of the person (e.g. "98" for someone born in 1998).
+    The next two characters are the two-digit birth month of the person (e.g. "03" for someone born in March).
+    The next two characters are the two-digit birth day of the person (e.g. "25" for someone born on the 25th day of the month).
+    The next four characters are a unique identifier assigned by the government.
+    The last character is a checksum digit calculated based on the first 11 characters using a specific algorithm.
+
+Austria
+The Austrian passport number is composed of two letters followed by seven digits. The two letters at the beginning of the passport number are the country code for Austria, which is "AT." The seven digits that follow are unique to each individual passport holder and are used to identify the passport.
+
+The rules for the formation of the seven-digit portion of the passport number are as follows:
+
+    The first digit is always a letter and represents the series of the passport. It can be any letter except for "O" and "U", which are not used to avoid confusion with the numbers zero and one, respectively.
+
+    The next two digits represent the issuing authority, which is usually a government agency or embassy. The range of numbers used for this portion of the passport number is from 01 to 99.
+
+    The final four digits are a unique sequence of numbers assigned to each individual passport holder. This sequence can be any combination of numbers and does not follow a specific pattern or rule.
+
+For example, an Austrian passport number might look like this: AT A123 4567. In this example, "A" represents the series of the passport, "12" represents the issuing authority, and "3456" represents the unique sequence of numbers assigned to the passport holder.
+
+Belarus
+
+Please, show template for government id numbers for Belarus. Specifically tell which parts ID consists from and where are those parts located. Mark separate group of digits/letters with different capital letter.
+
+The government ID number for Belarus is known as the "personal identification number" (PIN) or "passport number". The PIN is a 14-digit number that consists of the following parts:
+
+AB1234567C8910
+
+A - First digit represents the gender of the person (odd numbers for males and even numbers for females)
+B - Second and third digits indicate the birth year of the person (e.g. "91" for someone born in 1991)
+1234567 - Seven digits indicate the person's individual number within the birth year cohort
+C - The last digit is a checksum digit calculated using a specific algorithm
+
+The passport number has a different format and is a nine-digit number that consists of the following parts:
+
+AB1234567
+
+A - First letter is "N" for a passport issued to a citizen of Belarus, or "P" for a passport issued to a permanent resident of Belarus
+B - Second letter indicates the type of passport (e.g. "P" for a standard passport or "B" for a diplomatic passport)
+1234567 - Seven digits are a unique identifier for the passport
+
+It's important to note that while the PIN and passport number are different identifiers, they may share some digits depending on the person's birth year and other factors.
+
+----------------- Belgium
+
+Please, show template for government id numbers for Belgium. Specifically tell which parts ID consists from and where are those parts located. Mark separate group of digits/letters with different capital letter.
+
+Sure, here's a template for the Belgian national identity card number:
+
+BBYYMMDDXXXK
+
+Where:
+
+    BB: Birthplace code (2 digits)
+    YY: Year of birth (2 digits)
+    MM: Month of birth (2 digits)
+    DD: Day of birth (2 digits)
+    XXX: Unique identifier (3 digits)
+    K: Checksum digit (1 digit)
+
+The birthplace code consists of two digits and represents the code of the municipality where the person was born. The year, month, and day of birth are self-explanatory.
+
+The unique identifier is a three-digit number that is randomly generated and unique to each individual. This number ensures that each person has a unique ID number, even if they have the same birth date and place.
+
+Finally, the checksum digit is used to ensure that the ID number is valid and has not been tampered with. It is calculated using a specific formula that takes into account the other digits in the ID number.
+
+It's worth noting that the Belgian national identity card number is also sometimes referred to as the "rijksregisternummer" or "numéro de registre national" in Dutch and French respectively.
+
+
+------------------- Bosnia and Herzegovinaы
+
+In Bosnia and Herzegovina, the government ID number is called "JMBG" which stands for "Jedinstveni matični broj građana" or "Unique Citizen Identification Number".
+
+The JMBG consists of 13 digits, which are divided into several groups:
+
+AABBCCDDRRRRGG, where:
+
+    AA - the last two digits of the birth year
+    BB - month of birth (add 50 to the month for female)
+    CC - day of birth
+    DD - regional code (based on place of birth)
+    RRRR - individual's unique number
+    GG - control number (calculated using a specific formula)
+
+For example, if someone was born on May 15th, 1990 in the city of Sarajevo, and has the individual's unique number of 1234, their JMBG would be: 9005151XXXXXX1.
+
+Note that the Xs represent the digits that are determined by the individual's birth year, month, day, and regional code. The control number is calculated based on the previous 12 digits using a specific formula.
+
+It is important to note that the JMBG is used for various government and administrative purposes, such as identification, tax, social security, and health insurance, among others.
+
+--------------- Bulgaria
+
+The Bulgarian government ID number, known as "ЕГН" (EGN), consists of 10 digits and is structured as follows:
+
+AABBCCDDW(E)
+
+Where:
+
+    AA - the year of birth in two digits
+    BB - the month of birth in two digits (01-12 for month, 21-32 for females born after 31 December 1999)
+    CC - the day of birth in two digits
+    DD - a sequential number based on the birthdate and gender of the person (odd numbers for males, even numbers for females)
+    W - a control digit calculated using a formula based on the other digits
+    (E) - an optional extra digit used for people born outside of Bulgaria, assigned by the embassy or consulate
+
+For example, if someone was born on January 1st, 1990 and is male, his EGN might be 9001010011, where:
+
+    AA = 90 (the year of birth in two digits)
+    BB = 01 (the month of birth in two digits)
+    CC = 01 (the day of birth in two digits)
+    DD = 001 (the sequential number based on birthdate and gender)
+    W = 1 (the control digit calculated using a formula based on the other digits)
+
+
+---------- Croatia
+The government identification number in Croatia is called "OIB" (Osobni identifikacijski broj), which translates to "Personal Identification Number". It consists of 11 digits and is assigned to each citizen and legal entity in Croatia.
+
+The OIB number is structured as follows:
+
+AAABBBCCCCC
+
+    AAA: The first three digits represent the unique identifier of the registry office where the individual or entity was registered.
+    BBB: The next three digits represent the unique identifier of the individual or entity within the registry office.
+    CCCCC: The last five digits are a check digit calculated using a specific algorithm based on the first nine digits of the OIB.
+
+For example, if the OIB number is 12345678901, it can be broken down as follows:
+
+    AAA: 123 represents the registry office.
+    BBB: 456 represents the individual or entity within the registry office.
+    CCCCC: 78901 represents the check digit.
+
+It is important to note that the OIB is used for various purposes in Croatia, including tax and social security registration, healthcare, and identification.
+
+---------- Cyprus
+n Cyprus, the government-issued identification number is called the "Cyprus Identity Card Number". It consists of nine digits, followed by one letter, and is structured as follows:
+
+    The first six digits represent the person's date of birth in the format of DDMMYY.
+    The seventh and eighth digits indicate the district where the person was born.
+    The ninth digit is a check digit.
+    The final letter indicates the person's gender, with 'M' representing male and 'F' representing female.
+
+Therefore, the format of the Cyprus Identity Card Number can be represented as follows:
+
+DDMMYY-XX-C
+
+Where:
+
+    DD: Day of birth (two digits)
+    MM: Month of birth (two digits)
+    YY: Year of birth (two digits)
+    XX: District code (two digits)
+    C: Check digit (one digit)
+    '-': hyphen separator
+
+
+
+----------------- Czech Republic
+
+In the Czech Republic, the government-issued identification number is called the "Personal Identification Number" (Rodné číslo or RČ). It consists of ten digits and is structured as follows:
+
+    The first six digits represent the person's date of birth in the format of YYMMDD.
+    The seventh digit indicates the century of the person's birth, with 1 representing a person born between 1900 and 1999, and 2 representing a person born after 2000.
+    The eighth and ninth digits represent a unique identifier assigned to each person, based on their gender and birth date.
+    The final digit is a check digit.
+
+Therefore, the format of the Czech Personal Identification Number can be represented as follows:
+
+YYMMDD-XXXX
+
+Where:
+
+    YY: Year of birth (two digits)
+    MM: Month of birth (two digits)
+    DD: Day of birth (two digits)
+    X: Unique identifier (four digits)
+    '-': hyphen separator
+
+Note that the first digit of the unique identifier indicates the person's gender, with odd numbers representing males and even numbers representing females. The second and third digits represent the date of birth within the year, with the possibility of adding 50 to the value for females born after 1953.
+
+
+--------------- Denmark
+The national identification number used in Denmark is known as the CPR number (Central Person Register number). The CPR number is a 10-digit number that consists of three different parts, separated by a hyphen, in the following format:
+
+DDMMYY-SSSS
+
+where:
+
+    DDMMYY: The date of birth of the person in the format of day, month, and year (in Danish format). For example, if a person was born on March 25th, 1990, this part of the number would be 250390.
+
+    SSSS: A four-digit number assigned by the Danish Civil Registration System to uniquely identify each individual. The first digit of this part of the number is odd for males and even for females.
+
+The CPR number is a unique identification number assigned to every Danish citizen and residents of Denmark, and it is used for various purposes, including tax administration, healthcare, social security, and other government-related activities.

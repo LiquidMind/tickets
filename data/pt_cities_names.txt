@@ -1,0 +1,348 @@
+Lisbon:Micael Pinto
+Sintra:Fabiana-Pilar Soares
+Vila Nova de Gaia:Nuria-Salome Oliveira
+Porto:Alicia Magalhaes
+Braga:Adriana-Carlota Tavares
+Matosinhos:Carlota Nogueira
+Amadora:Iris Carvalho
+Almada:Caetana da Maia
+Oeiras:Lorena Domingues
+Gondomar:Beatriz Soares
+Guimaraes:Isabela Reis
+Odivelas:Alvaro Jesus
+Coimbra:Afonso do Amaral
+Vila Franca de Xira:Afonso Morais
+Maia:Renata Matos
+Setubal:Benedita Rodrigues
+Funchal:Micael Abreu
+Viseu:Laura Macedo
+Valongo:Emanuel Pinheiro
+Viana do Castelo:Gabriela Martins
+Paredes:Afonso Nogueira
+Vila do Conde:Jessica Batista
+Torres Vedras:Filipe Andrade
+Aveiro:Eva da Anjos
+Queluz:Helena Marques
+Mafra:Alexandra Lopes
+Penafiel:Yasmin Cruz
+Loule:Yara Sa
+Ponta Delgada:Caetana Magalhaes
+Moita:Valentina Cardoso
+Faro:Iara Oliveira
+Povoa de Varzim:Sara Cruz
+Palmela:Iara Jesus
+Santarem:Brian Carvalho
+Figueira da Foz:Beatriz Oliveira
+Felgueiras:Margarida Carvalho
+Pacos de Ferreira:Nuria Carvalho
+Castelo Branco:Alvaro de Machado
+Evora:Salvador Neves-Pereira
+Portimao:Tiago Teixeira
+Pombal:Melanie Paiva
+Marco de Canavezes:Maria Maia-Sousa
+Vila Real:Emma Matias-Ramos
+Covilha:Paulo do Faria
+Caldas da Rainha:Salome Loureiro
+Montijo:Nair Paiva
+Rio Tinto:Marcio Magalhaes
+Fafe:Tatiana-Clara Costa
+Sesimbra:Brian Figueiredo
+Amora:Patricia Brito
+Vila Verde:Gabriela Nogueira
+Lousada:Santiago Pacheco
+Corroios:Ema Domingues
+Ourem:Leticia Baptista-Nascimento
+Olhao:Duarte Domingues
+Leiria:Irina Reis
+Ponte de Lima:Irina Valente
+Santa Cruz:Alvaro Brito
+Guarda:Soraia Simoes
+Chaves:Tatiana Lourenco
+Tomar:Alice-Lia Carneiro
+Ilhavo:Ema Brito
+Trofa:Tomas Maia
+Mafamude:Claudio Leite
+Ermezinde:Miriam Jesus
+Silves:Madalena-Beatriz Torres
+Torres Novas:Tiago Marques
+Beja:Vicente Moura
+Agualva:Flor Batista
+Camara de Lobos:Bruno Leal
+Angra do Heroismo:Afonso Rodrigues
+Braganca:Fernando Costa
+Esposende:Micael Barbosa
+Ribeira Grande:Caetana-Iris Domingues
+Espinho:Martim Tavares
+Lagos:Diego Brito
+Anadia:Cesar Rodrigues
+Benavente:Noa da Cruz
+Massama:Salvador Almeida
+Estarreja:Francisco Lima
+Lamego:Paulo Soares-Borges
+Estoril:Tomas Silva
+Montemor-o-Velho:Lisandro Carvalho-Loureiro
+Tavira:Cristiano Moura
+Odemira:Laura de Macedo
+Albergaria-a-Velha:Pedro Lopes
+Portalegre:Kevin Correia
+Porto de Mos:Afonso Lopes
+Mirandela:Bruna Gaspar
+Vizela:Joaquim Tavares
+Canico:Luciana-Alicia Faria
+Oliveira do Bairro:Mafalda Freitas-Martins
+Vale de Cambra:Alicia-Renata Leite
+Arcos de Valdevez:Lisandro Valente
+Povoa de Lanhoso:Nadia-Yasmin Leal
+Azambuja:Vera Morais
+Sao Joao da Madeira:Iris-Iara Leal
+Cacem:Isabel Neto
+Rio Maior:Cristiano Matos
+Praia da Vitoria:Goncalo Coelho
+Elvas:Frederico Monteiro
+Baiao:Valentina Nogueira
+Cinfaes:Vitoria Pinto
+Entroncamento:Kyara Tavares
+Celorico de Basto:Simao Ramos
+Alfena:Bernardo Martins
+Soure:Pilar Brito
+Moncao:Isabel Freitas
+Vila Real de Santo Antonio:Salome Monteiro
+Amares:Vera Reis
+Sacavem:Edgar Cunha
+Lousa:Alexandre Goncalves-Barros
+Alcochete:Lucas Antunes
+Montemor-o-Novo:Pedro Soares-Pires
+Peso da Regua:Enzo Mota-Ferreira
+Condeixa-a-Nova:Eduardo Soares
+Sao Pedro do Sul:Lara do Cardoso
+Ponte de Sor:Sandro Cardoso
+Cabeceiras de Basto:Juliana Marques-Amaral
+Quarteira:Pilar Valente
+Serta:Dinis Garcia
+Macedo de Cavaleiros:Julia de Cardoso
+Serpa:Bruna Campos
+Castro Daire:Melissa Nascimento
+Penacova:Angelo Barbosa
+Moura:Marcio Neves-Almeida
+Nazare:Henrique Jesus
+Horta:Sandro da Nunes
+Falagueira:Francisca do Figueiredo
+Cadaval:Leonor Maia
+Estremoz:Nuno Machado
+Sines:Madalena Lourenco
+Valenca:Nuria Alves
+Gouveia:Gabriela Barbosa
+Nelas:Madalena Assuncao
+Gafanha da Nazare:Miguel Abreu
+Arruda dos Vinhos:Alicia Matos
+Ribeira Brava:Gaspar Lopes-Magalhaes
+Vila Pouca de Aguiar:Andreia Ferreira
+Ansiao:Emilia Neto
+Miranda do Corvo:Luna Moura
+Alcacer do Sal:Adriana Torres
+Vieira do Minho:Camila Pinho
+Mira:Nelson Fernandes
+Satao:Irina Neto
+Arcozelo:Diogo do Faria
+Sever do Vouga:Rafaela Mendes
+Tabua:Jose Macedo
+Alijo:Eva Loureiro
+Vendas Novas:Daniel Carvalho
+Costa de Caparica:Cesar Moura
+Obidos:Gabriel Campos
+Calheta:Edgar Garcia
+Resende:Joao do Fernandes
+Vila Franca do Campo:Ana Barros
+Reguengos de Monsaraz:Carlota Branco
+Valadares:Bruno Pires
+Sao Bras de Alportel:Cristiano Magalhaes
+Murtosa:Pedro Mota-Nunes
+Moimenta da Beira:Emilia do Cunha
+Sobral de Monte Agraco:Laura Figueiredo
+Trancoso:Marta Mota-Monteiro
+Carregal do Sal:Iris Costa
+Idanha-a-Nova:Diogo Barbosa
+Pinhel:Rafael Pinho
+Melgaco:Andreia Morais-Costa
+Vinhais:Flor Jesus
+Almargem:Isaac Lourenco
+Aver-o-Mar:Filipe Carneiro-Barros
+Ponta do Sol:Vasco Miranda
+Ferreira do Zezere:Diana Gomes
+Torre de Moncorvo:Leandro Nascimento
+Campo Maior:Daniel Miranda-Fernandes
+Argoncilhe:Caetana Simoes
+Vila Vicosa:Lucia Gomes
+Proenca-a-Nova:Violeta de Loureiro
+Tarouca:Ricardo de Cunha
+Penalva do Castelo:Marcos Pinheiro
+Sao Joao da Pesqueira:Naiara Costa
+Santana:Matilde Borges
+Alpiarca:Luna Sa
+Celorico da Beira:Angelo Pereira
+Joane:Fabio do Ramos
+Mondim de Basto:Larissa Matos
+Miranda do Douro:Jessica Anjos
+Nisa:Mara Pacheco-Nunes
+Almodovar:Brian de Anjos
+Arraiolos:Bruno Goncalves
+Santa Marta de Penaguiao:Beatriz Correia
+Vila Nova da Barquinha:Ivo Neves
+Vila Nova de Foz Coa:Fernando Monteiro
+Casteloes de Cepeda:Filipa do Esteves
+Alvaiazere:Larissa Barros
+Poiares:Emilia Gomes
+Castro Verde:Brian Nascimento
+Mertola:Lorena Amaral
+Terras de Bouro:Tiago da Campos
+Almeida:Rita Figueiredo
+Redondo:Mateus Leite
+Castro Marim:Margarida Neves
+Ribeira de Pena:Filipa da Costa
+Portel:Ismael Rocha
+Carrazeda de Anciaes:Lucia de Baptista
+Sabrosa:Mafalda do Ferreira
+Tabuaco:Emanuel Reis
+Povoacao:Mariana Henriques
+Armamar:Antonio Miranda
+Figueira de Castelo Rodrigo:Mario Pires
+Sao Martinho:Helena Maia
+Madalena:Renato da Goncalves
+Monchique:Larissa Oliveira
+Celeiroz:Salome Teixeira
+Penela:Vasco Marques
+Murca:Leonor Pinto
+Vidigueira:Daniela-Kyara Rodrigues
+Aljezur:Noah Barros
+Alandroal:Gaspar Pinho
+Olival:Noah Almeida
+Viana do Alentejo:Juliana-Patricia Teixeira
+Oleiros:Isabela-Eduarda Mota
+Penamacor:Laura Monteiro
+Vila do Porto:Emilia Magalhaes
+Vila de Porto Santo:Rui Carvalho
+Aguiar da Beira:Beatriz Esteves
+Golega:Jose Rocha
+Riachos:Duarte Soares-Figueiredo
+Velas:Renata Nunes
+Ourique:Micael Morais
+Vila do Bispo:Igor Nascimento
+Vila Nova de Paiva:Angelo Lopes
+Terrujem:Duarte Marques
+Alfandega da Fe:Valentina Machado-Nogueira
+Sousel:Maria Miranda
+Fornos de Algodres:Leandro Cunha
+Mora:Ariana Matias-Macedo
+Caranguejeira:Nuria Fonseca
+Nordeste:Filipe Carneiro
+Cuba:Adriana Santos
+Real:Simao Anjos
+Pampilhosa da Serra:Carolina Anjos
+Lajes:Renato Valente
+Vimioso:Camila-Leticia Oliveira
+Avis:Afonso Vicente-Morais
+Mesao Frio:Yasmin da Pires
+Valpacos:Victoria Pires
+Santa Cruz da Graciosa:Filipa Domingues
+Gois:Leandro Vicente
+Vila Nova de Milfontes:Catarina Melo
+Constancia:Andreia Henriques
+Sardoal:Daniel Macedo
+Arcozelo:Laura Reis
+Lorvao:Renata Pereira
+Pedrogao Grande:Ivo Monteiro
+Freixo de Espada a Cinta:Ana Monteiro
+Calheta:Kelly-Raquel Lourenco
+Armacao de Pera:Pedro Brito
+Vila Velha de Rodao:Tomas Lima
+Marvao:Diogo Fonseca
+Canas de Senhorim:Pilar-Luisa Fonseca
+Tramagal:Miguel de Melo
+Vila de Rei:Filipa Lourenco
+Manteigas:Tomas Freitas
+Riba de Ave:Diego de Gomes
+Fronteira:Joao do Simoes
+Castelo de Vide:Tatiana da Rodrigues
+Sao Roque do Pico:Erika Mendes
+Monforte:Helena Neves
+Valado de Frades:Salvador Barros
+Fermentelos:Emanuel Amaral
+Castanheira de Pera:Carolina Paiva
+Arronches:Bianca Henriques
+Sao Vicente:Marta Valente
+Trouxemil:Ana Moreira
+Ferreiros:Bruna Nunes
+Trofa:Luca Maia
+Carvoeiro:Vitoria-Iris Vieira
+Mourao:Rodrigo Fonseca
+Alvito:Fernando do Campos
+Barrancos:Diana Paiva
+Caminha:Tiago Amaral
+Boticas:Victoria Moreira
+Barcelos:Ricardo Ferreira
+Loures:Lucas Carvalho
+Santo Tirso:Miguel Coelho
+Famalicao:Erica-Mara Amaral
+Cartaxo:Carlota Brito
+Fundao:Angela Figueiredo
+Oliveira de Azemeis:Joana Gaspar
+Ovar:Marta Sousa
+Lagoa:Leandro Mendes
+Albufeira:Camila Antunes
+Agueda:Caetana-Beatriz Pacheco
+Peniche:Melanie Campos
+Borba:David Pereira
+Marinha Grande:Mia Ferreira
+Salvaterra de Magos:Renata Esteves-Nascimento
+Barreiro:Jorge Morais-Sa
+Cascais:Kevin Borges
+Ponte da Barca:Joel Macedo
+Amarante:Eva Freitas
+Aljustrel:Bruna Moura
+Alcobaca:Brian Ramos-Alves
+Oliveira do Hospital:Barbara Cardoso
+Abrantes:Larissa Almeida
+Santiago do Cacem:Luana Figueiredo-Miranda
+Cantanhede:Fabiana Leite-Melo
+Grandola:Lisandro Moura
+Mangualde:Clara da Fernandes
+Arouca:Nuno Pacheco
+Feira:Matias Brito
+Seia:Andreia-Angela Henriques
+Coruche:Alexandra Pereira
+Chamusca:Petra-Ana Brito
+Crato:Carolina da Vicente
+Belmonte:Matilde Magalhaes
+Vagos:Artur Leal
+Tondela:Irina Jesus
+Arganil:Xavier de Campos
+Gaviao:Jorge do Matos
+Santa Comba Dao:Joao Jesus
+Mogadouro:Alice do Rocha
+Paredes de Coura:Margarida Rodrigues-Machado
+Seixal:Guilherme Moreira
+Alenquer:Juliana do Mota
+Meda:Mia Moreira
+Vouzela:Valentina Valente
+Macao:Yara Martins
+Trofa:Sandro Moreira
+Alter do Chao:Isabel Matias
+Mortagua:Constanca Cunha
+Bombarral:Soraia Coelho
+Vila Nova de Cerveira:Santiago Pinheiro
+Sabugal:Violeta Soares
+Almeirim:Ruben Valente
+Alcanena:Catarina Cunha
+Mealhada:Rafaela Torres
+Sernancelhe:Artur do Gomes
+Batalha:Erika Almeida
+Figueiro dos Vinhos:Gustavo Paiva-Sa
+Vila Flor:Lisandro Miranda
+Castelo de Paiva:Bryan Neto
+Penedono:Camila-Helena Carvalho
+Oliveira de Frades:Noa Cunha-Loureiro
+Vizela:Lorena Loureiro
+Montalegre:Andre Borges
+Alcoutim:Diogo Magalhaes
+Lourinha:Matias Machado
+Ferreira do Alentejo:Helena Goncalves

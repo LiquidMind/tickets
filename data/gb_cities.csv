@@ -1,0 +1,2621 @@
+,name,lat,lng,capital,tag,prime
+0,London,51.5072,-0.1275,United Kingdom,london,is_city
+1,Birmingham,52.48,-1.9025,United Kingdom,birmingham,is_city
+2,Manchester,53.4794,-2.2453,United Kingdom,manchester,is_city
+3,Leeds,53.7997,-1.5492,United Kingdom,leeds,is_city
+4,Newcastle,55.0077,-1.6578,United Kingdom,newcastle,is_city
+5,Birstall,52.6736,-1.12,United Kingdom,birstall,is_city
+6,Glasgow,55.8609,-4.2514,United Kingdom,glasgow,is_city
+7,Liverpool,53.4,-2.9833,United Kingdom,liverpool,is_city
+8,Portsmouth,50.8058,-1.0872,United Kingdom,portsmouth,is_city
+9,Southampton,50.9,-1.4,United Kingdom,southampton,is_city
+10,Nottingham,52.95,-1.15,United Kingdom,nottingham,is_city
+11,Bristol,51.45,-2.5833,United Kingdom,bristol,is_city
+12,Sheffield,53.3833,-1.4667,United Kingdom,sheffield,is_city
+13,Kingston upon Hull,53.7444,-0.3325,United Kingdom,kingston upon hull,is_city
+14,Leicester,52.6333,-1.1333,United Kingdom,leicester,is_city
+15,Edinburgh,55.953,-3.189,United Kingdom,edinburgh,is_city
+16,Caerdydd,51.4833,-3.1833,United Kingdom,caerdydd,is_city
+17,Stoke-on-Trent,53.0,-2.1833,United Kingdom,stoke-on-trent,is_city
+18,Coventry,52.4081,-1.5106,United Kingdom,coventry,is_city
+19,Reading,51.4542,-0.9731,United Kingdom,reading,is_city
+20,Belfast,54.5964,-5.93,United Kingdom,belfast,is_city
+21,Derby,52.9167,-1.4667,United Kingdom,derby,is_city
+22,Plymouth,50.3714,-4.1422,United Kingdom,plymouth,is_city
+23,Wolverhampton,52.5833,-2.1333,United Kingdom,wolverhampton,is_city
+24,Abertawe,51.6167,-3.95,United Kingdom,abertawe,is_city
+25,Milton Keynes,52.04,-0.76,United Kingdom,milton keynes,is_city
+26,Aberdeen,57.15,-2.11,United Kingdom,aberdeen,is_city
+27,Norwich,52.63,1.297,United Kingdom,norwich,is_city
+28,Luton,51.8783,-0.4147,United Kingdom,luton,is_city
+29,Islington,51.544,-0.1027,United Kingdom,islington,is_city
+30,Swindon,51.56,-1.78,United Kingdom,swindon,is_city
+31,Croydon,51.3727,-0.1099,United Kingdom,croydon,is_city
+32,Basildon,51.5761,0.4886,United Kingdom,basildon,is_city
+33,Bournemouth,50.72,-1.88,United Kingdom,bournemouth,is_city
+34,Worthing,50.8147,-0.3714,United Kingdom,worthing,is_city
+35,Ipswich,52.0594,1.1556,United Kingdom,ipswich,is_city
+36,Middlesbrough,54.5767,-1.2355,United Kingdom,middlesbrough,is_city
+37,Sunderland,54.9061,-1.3811,United Kingdom,sunderland,is_city
+38,Ilford,51.5588,0.0855,United Kingdom,ilford,is_city
+39,Warrington,53.3917,-2.5972,United Kingdom,warrington,is_city
+40,Slough,51.51,-0.59,United Kingdom,slough,is_city
+41,Huddersfield,53.645,-1.7798,United Kingdom,huddersfield,is_city
+42,Oxford,51.7519,-1.2578,United Kingdom,oxford,is_city
+43,York,53.9583,-1.0803,United Kingdom,york,is_city
+44,Poole,50.7167,-1.9833,United Kingdom,poole,is_city
+45,Harrow,51.5836,-0.3464,United Kingdom,harrow,is_city
+46,Dundee,56.462,-2.9707,United Kingdom,dundee,is_city
+47,Saint Albans,51.755,-0.336,United Kingdom,saint albans,is_city
+48,Telford,52.6766,-2.4469,United Kingdom,telford,is_city
+49,Blackpool,53.8142,-3.0503,United Kingdom,blackpool,is_city
+50,Brighton,50.8429,-0.1313,United Kingdom,brighton,is_city
+51,Sale,53.424,-2.322,United Kingdom,sale,is_city
+52,Enfield,51.6522,-0.0808,United Kingdom,enfield,is_city
+53,Tottenham,51.588,-0.072,United Kingdom,tottenham,is_city
+54,Bolton,53.578,-2.429,United Kingdom,bolton,is_city
+55,Newport,51.5833,-3.0,United Kingdom,newport,is_city
+56,High Wycombe,51.6287,-0.7482,United Kingdom,high wycombe,is_city
+57,Exeter,50.7167,-3.5333,United Kingdom,exeter,is_city
+58,Solihull,52.413,-1.778,United Kingdom,solihull,is_city
+59,Romford,51.5768,0.1801,United Kingdom,romford,is_city
+60,Preston,53.759,-2.699,United Kingdom,preston,is_city
+61,Gateshead,54.95,-1.6,United Kingdom,gateshead,is_city
+62,Blackburn,53.748,-2.482,United Kingdom,blackburn,is_city
+63,Cheltenham,51.9,-2.0667,United Kingdom,cheltenham,is_city
+64,Basingstoke,51.2667,-1.0876,United Kingdom,basingstoke,is_city
+65,Maidstone,51.272,0.529,United Kingdom,maidstone,is_city
+66,Colchester,51.8917,0.903,United Kingdom,colchester,is_city
+67,Chelmsford,51.7361,0.4798,United Kingdom,chelmsford,is_city
+68,Wythenshawe,53.392,-2.264,United Kingdom,wythenshawe,is_city
+69,Doncaster,53.515,-1.133,United Kingdom,doncaster,is_city
+70,Rotherham,53.43,-1.357,United Kingdom,rotherham,is_city
+71,Walthamstow,51.59,-0.0,United Kingdom,walthamstow,is_city
+72,Rochdale,53.6136,-2.161,United Kingdom,rochdale,is_city
+73,Bedford,52.135,-0.47,United Kingdom,bedford,is_city
+74,Crawley,51.1092,-0.1872,United Kingdom,crawley,is_city
+75,Mansfield,53.15,-1.2,United Kingdom,mansfield,is_city
+76,Dagenham,51.5397,0.1422,United Kingdom,dagenham,is_city
+77,Stockport,53.4083,-2.1494,United Kingdom,stockport,is_city
+78,Darlington,54.527,-1.5526,United Kingdom,darlington,is_city
+79,Fyfield,51.739,0.2722,United Kingdom,fyfield,is_city
+80,Gillingham,51.385,0.55,United Kingdom,gillingham,is_city
+81,Salford,53.483,-2.2931,United Kingdom,salford,is_city
+82,Eastbourne,50.77,0.28,United Kingdom,eastbourne,is_city
+83,Wigan,53.5448,-2.6318,United Kingdom,wigan,is_city
+84,Hounslow,51.4668,-0.375,United Kingdom,hounslow,is_city
+85,Wembley,51.5528,-0.2979,United Kingdom,wembley,is_city
+86,Saint Helens,53.4541,-2.7461,United Kingdom,saint helens,is_city
+87,Worcester,52.192,-2.22,United Kingdom,worcester,is_city
+88,Wakefield,53.68,-1.49,United Kingdom,wakefield,is_city
+89,Lincoln,53.2344,-0.5386,United Kingdom,lincoln,is_city
+90,Hemel Hempstead,51.7526,-0.4692,United Kingdom,hemel hempstead,is_city
+91,Watford,51.655,-0.3957,United Kingdom,watford,is_city
+92,Oldham,53.5444,-2.1169,United Kingdom,oldham,is_city
+93,Sutton Coldfield,52.563,-1.822,United Kingdom,sutton coldfield,is_city
+94,Kettering,52.3931,-0.7229,United Kingdom,kettering,is_city
+95,Hastings,50.85,0.57,United Kingdom,hastings,is_city
+96,Hartlepool,54.69,-1.21,United Kingdom,hartlepool,is_city
+97,Hove,50.8352,-0.1758,United Kingdom,hove,is_city
+98,Barnsley,53.5537,-1.4791,United Kingdom,barnsley,is_city
+99,Southport,53.6475,-3.0053,United Kingdom,southport,is_city
+100,Bath,51.38,-2.36,United Kingdom,bath,is_city
+101,Birkenhead,53.393,-3.014,United Kingdom,birkenhead,is_city
+102,Grimsby,53.5595,-0.068,United Kingdom,grimsby,is_city
+103,Halifax,53.725,-1.863,United Kingdom,halifax,is_city
+104,Bromley,51.407,0.021,United Kingdom,bromley,is_city
+105,Fulham,51.4828,-0.195,United Kingdom,fulham,is_city
+106,Nuneaton,52.523,-1.468,United Kingdom,nuneaton,is_city
+107,Derry,54.9917,-7.3417,United Kingdom,derry,is_city
+108,Ealing,51.5175,-0.2988,United Kingdom,ealing,is_city
+109,Stockton-on-Tees,54.57,-1.32,United Kingdom,stockton-on-tees,is_city
+110,Woolwich,51.488,0.063,United Kingdom,woolwich,is_city
+111,Bracknell,51.416,-0.749,United Kingdom,bracknell,is_city
+112,Hayes,51.5127,-0.4211,United Kingdom,hayes,is_city
+113,Edmonton,51.6154,-0.0708,United Kingdom,edmonton,is_city
+114,Scunthorpe,53.5809,-0.6502,United Kingdom,scunthorpe,is_city
+115,Redditch,52.3069,-1.9492,United Kingdom,redditch,is_city
+116,Chester,53.19,-2.89,United Kingdom,chester,is_city
+117,Dudley,52.508,-2.089,United Kingdom,dudley,is_city
+118,Bury,53.593,-2.298,United Kingdom,bury,is_city
+119,Brixton,51.463,-0.106,United Kingdom,brixton,is_city
+120,West Bromwich,52.519,-1.995,United Kingdom,west bromwich,is_city
+121,Paisley,55.8466,-4.4236,United Kingdom,paisley,is_city
+122,Guildford,51.2365,-0.5703,United Kingdom,guildford,is_city
+123,Chatham,51.37,0.52,United Kingdom,chatham,is_city
+124,Edgware,51.6185,-0.2729,United Kingdom,edgware,is_city
+125,East Ham,51.5323,0.0554,United Kingdom,east ham,is_city
+126,Weston-super-Mare,51.346,-2.977,United Kingdom,weston-super-mare,is_city
+127,East Kilbride,55.7645,-4.1771,United Kingdom,east kilbride,is_city
+128,South Shields,54.995,-1.43,United Kingdom,south shields,is_city
+129,Carlisle,54.891,-2.944,United Kingdom,carlisle,is_city
+130,Newcastle under Lyme,53.0109,-2.2278,United Kingdom,newcastle under lyme,is_city
+131,Harrogate,53.9919,-1.5378,United Kingdom,harrogate,is_city
+132,Ashford,51.1465,0.8676,United Kingdom,ashford,is_city
+133,Gravesend,51.4415,0.3685,United Kingdom,gravesend,is_city
+134,Burnley,53.789,-2.248,United Kingdom,burnley,is_city
+135,Burton upon Trent,52.8019,-1.6367,United Kingdom,burton upon trent,is_city
+136,Crewe,53.099,-2.44,United Kingdom,crewe,is_city
+137,Shrewsbury,52.708,-2.754,United Kingdom,shrewsbury,is_city
+138,Gosport,50.7948,-1.1243,United Kingdom,gosport,is_city
+139,Lisburn,54.5167,-6.0333,United Kingdom,lisburn,is_city
+140,Lowestoft,52.48,1.75,United Kingdom,lowestoft,is_city
+141,Rugby,52.37,-1.26,United Kingdom,rugby,is_city
+142,Uxbridge,51.5404,-0.4778,United Kingdom,uxbridge,is_city
+143,Inverness,57.4781,-4.2233,United Kingdom,inverness,is_city
+144,Keighley,53.867,-1.911,United Kingdom,keighley,is_city
+145,Southall,51.5121,-0.3779,United Kingdom,southall,is_city
+146,Maidenhead,51.5217,-0.7177,United Kingdom,maidenhead,is_city
+147,Stafford,52.8066,-2.1171,United Kingdom,stafford,is_city
+148,Wimbledon,51.422,-0.208,United Kingdom,wimbledon,is_city
+149,Walsall,52.58,-1.98,United Kingdom,walsall,is_city
+150,Tynemouth,55.017,-1.423,United Kingdom,tynemouth,is_city
+151,Washington,54.9,-1.52,United Kingdom,washington,is_city
+152,Loughborough,52.7705,-1.2046,United Kingdom,loughborough,is_city
+153,Chingford,51.631,0.016,United Kingdom,chingford,is_city
+154,Thornton Heath,51.4002,-0.1086,United Kingdom,thornton heath,is_city
+155,Finchley,51.599,-0.187,United Kingdom,finchley,is_city
+156,Wrecsam,53.046,-2.993,United Kingdom,wrecsam,is_city
+157,Torquay,50.47,-3.53,United Kingdom,torquay,is_city
+158,Farnborough,51.29,-0.75,United Kingdom,farnborough,is_city
+159,Kensington,51.5,-0.19,United Kingdom,kensington,is_city
+160,Waterlooville,50.88,-1.03,United Kingdom,waterlooville,is_city
+161,Hornchurch,51.5565,0.2128,United Kingdom,hornchurch,is_city
+162,Mitcham,51.4009,-0.1517,United Kingdom,mitcham,is_city
+163,Feltham,51.4496,-0.4089,United Kingdom,feltham,is_city
+164,Stourbridge,52.4575,-2.1479,United Kingdom,stourbridge,is_city
+165,Rochester,51.375,0.5,United Kingdom,rochester,is_city
+166,Dewsbury,53.691,-1.633,United Kingdom,dewsbury,is_city
+167,Woking,51.3162,-0.561,United Kingdom,woking,is_city
+168,Rhondda,51.6159,-3.4175,United Kingdom,rhondda,is_city
+169,Sittingbourne,51.34,0.74,United Kingdom,sittingbourne,is_city
+170,Acton,51.5135,-0.2707,United Kingdom,acton,is_city
+171,Twickenham,51.449,-0.337,United Kingdom,twickenham,is_city
+172,Runcorn,53.341,-2.729,United Kingdom,runcorn,is_city
+173,Scarborough,54.2773,-0.4017,United Kingdom,scarborough,is_city
+174,Wandsworth,51.455,-0.192,United Kingdom,wandsworth,is_city
+175,Widnes,53.363,-2.728,United Kingdom,widnes,is_city
+176,Margate,51.385,1.3838,United Kingdom,margate,is_city
+177,Bangor,54.66,-5.67,United Kingdom,bangor,is_city
+178,Morecambe,54.073,-2.87,United Kingdom,morecambe,is_city
+179,Taunton,51.019,-3.1,United Kingdom,taunton,is_city
+180,Wallasey,53.4158,-3.0233,United Kingdom,wallasey,is_city
+181,Royal Tunbridge Wells,51.132,0.263,United Kingdom,royal tunbridge wells,is_city
+182,Barking,51.54,0.08,United Kingdom,barking,is_city
+183,Aylesbury,51.8168,-0.8124,United Kingdom,aylesbury,is_city
+184,Ruislip,51.576,-0.433,United Kingdom,ruislip,is_city
+185,Halesowen,52.4502,-2.0509,United Kingdom,halesowen,is_city
+186,Streatham,51.4279,-0.1235,United Kingdom,streatham,is_city
+187,Livingston,55.8834,-3.5157,United Kingdom,livingston,is_city
+188,Clacton-on-Sea,51.7918,1.1457,United Kingdom,clacton-on-sea,is_city
+189,Barrow in Furness,54.1108,-3.2261,United Kingdom,barrow in furness,is_city
+190,Hereford,52.0565,-2.716,United Kingdom,hereford,is_city
+191,Ellesmere Port,53.279,-2.897,United Kingdom,ellesmere port,is_city
+192,Kidderminster,52.3885,-2.249,United Kingdom,kidderminster,is_city
+193,Canterbury,51.28,1.08,United Kingdom,canterbury,is_city
+194,Corby,52.4914,-0.6965,United Kingdom,corby,is_city
+195,Brentwood,51.6204,0.305,United Kingdom,brentwood,is_city
+196,Hamilton,55.777,-4.039,United Kingdom,hamilton,is_city
+197,Dunfermline,56.0719,-3.4393,United Kingdom,dunfermline,is_city
+198,Braintree,51.878,0.55,United Kingdom,braintree,is_city
+199,Weymouth,50.613,-2.457,United Kingdom,weymouth,is_city
+200,Hendon,51.5837,-0.2252,United Kingdom,hendon,is_city
+201,Altrincham,53.3838,-2.3547,United Kingdom,altrincham,is_city
+202,Lancaster,54.047,-2.801,United Kingdom,lancaster,is_city
+203,Barri,51.405,-3.27,United Kingdom,barri,is_city
+204,Macclesfield,53.2581,-2.1274,United Kingdom,macclesfield,is_city
+205,Bootle,53.4457,-2.9891,United Kingdom,bootle,is_city
+206,Stratford,51.5423,-0.0026,United Kingdom,stratford,is_city
+207,Horsham,51.062,-0.325,United Kingdom,horsham,is_city
+208,Cumbernauld,55.945,-3.994,United Kingdom,cumbernauld,is_city
+209,Rowley Regis,52.48,-2.06,United Kingdom,rowley regis,is_city
+210,Kirkcaldy,56.1107,-3.1674,United Kingdom,kirkcaldy,is_city
+211,Crosby,53.4872,-3.0343,United Kingdom,crosby,is_city
+212,Leith,55.98,-3.17,United Kingdom,leith,is_city
+213,Royal Leamington Spa,52.292,-1.537,United Kingdom,royal leamington spa,is_city
+214,Llanelli,51.684,-4.163,United Kingdom,llanelli,is_city
+215,Batley,53.716,-1.627,United Kingdom,batley,is_city
+216,Pen-y-Bont ar Ogwr,51.5072,-3.5784,United Kingdom,pen-y-bont ar ogwr,is_city
+217,Wellingborough,52.2939,-0.6964,United Kingdom,wellingborough,is_city
+218,Sutton in Ashfield,53.125,-1.261,United Kingdom,sutton in ashfield,is_city
+219,Paignton,50.4353,-3.5625,United Kingdom,paignton,is_city
+220,Eltham,51.451,0.052,United Kingdom,eltham,is_city
+221,Cwmbran,51.653,-3.021,United Kingdom,cwmbran,is_city
+222,Christchurch,50.73,-1.78,United Kingdom,christchurch,is_city
+223,Morden,51.4015,-0.1949,United Kingdom,morden,is_city
+224,Durham,54.7761,-1.5733,United Kingdom,durham,is_city
+225,Barnet,51.6444,-0.1997,United Kingdom,barnet,is_city
+226,West Bridgford,52.932,-1.127,United Kingdom,west bridgford,is_city
+227,Perth,56.397,-3.437,United Kingdom,perth,is_city
+228,Stretford,53.4466,-2.3086,United Kingdom,stretford,is_city
+229,Banbury,52.061,-1.336,United Kingdom,banbury,is_city
+230,Beckenham,51.408,-0.022,United Kingdom,beckenham,is_city
+231,Greenford,51.5299,-0.3488,United Kingdom,greenford,is_city
+232,Wokingham,51.41,-0.84,United Kingdom,wokingham,is_city
+233,Folkestone,51.081,1.166,United Kingdom,folkestone,is_city
+234,Welwyn Garden City,51.8062,-0.1932,United Kingdom,welwyn garden city,is_city
+235,Ayr,55.458,-4.629,United Kingdom,ayr,is_city
+236,Kilmarnock,55.6111,-4.4957,United Kingdom,kilmarnock,is_city
+237,Havant,50.85,-0.98,United Kingdom,havant,is_city
+238,Chippenham,51.4585,-2.1158,United Kingdom,chippenham,is_city
+239,Erith,51.48,0.1778,United Kingdom,erith,is_city
+240,Hinckley,52.5413,-1.3725,United Kingdom,hinckley,is_city
+241,Ashton,53.4897,-2.0952,United Kingdom,ashton,is_city
+242,Winchester,51.0632,-1.308,United Kingdom,winchester,is_city
+243,Surbiton,51.394,-0.307,United Kingdom,surbiton,is_city
+244,Yeovil,50.9452,-2.637,United Kingdom,yeovil,is_city
+245,Catford,51.4452,-0.0207,United Kingdom,catford,is_city
+246,Grantham,52.918,-0.638,United Kingdom,grantham,is_city
+247,Morley,53.7492,-1.6023,United Kingdom,morley,is_city
+248,Cheshunt,51.702,-0.035,United Kingdom,cheshunt,is_city
+249,Coatbridge,55.8625,-4.0266,United Kingdom,coatbridge,is_city
+250,Wallsend,54.991,-1.534,United Kingdom,wallsend,is_city
+251,Merthyr Tudful,51.743,-3.378,United Kingdom,merthyr tudful,is_city
+252,Bexhill,50.8424,0.4676,United Kingdom,bexhill,is_city
+253,Sidcup,51.4263,0.1024,United Kingdom,sidcup,is_city
+254,Kingston upon Thames,51.4103,-0.2995,United Kingdom,kingston upon thames,is_city
+255,Middleton,53.555,-2.187,United Kingdom,middleton,is_city
+256,King's Lynn,52.7543,0.3976,United Kingdom,king's lynn,is_city
+257,Fareham,50.85,-1.18,United Kingdom,fareham,is_city
+258,Greenock,55.95,-4.765,United Kingdom,greenock,is_city
+259,Urmston,53.4487,-2.3747,United Kingdom,urmston,is_city
+260,Worksop,53.3042,-1.1244,United Kingdom,worksop,is_city
+261,Sutton,51.3656,-0.1963,United Kingdom,sutton,is_city
+262,Caerphilly,51.578,-3.218,United Kingdom,caerphilly,is_city
+263,Bridgwater,51.128,-2.993,United Kingdom,bridgwater,is_city
+264,Leigh,53.4975,-2.515,United Kingdom,leigh,is_city
+265,Newbury,51.401,-1.323,United Kingdom,newbury,is_city
+266,Welling,51.4594,0.1097,United Kingdom,welling,is_city
+267,Kingswood,51.46,-2.505,United Kingdom,kingswood,is_city
+268,Bury Saint Edmunds,52.2474,0.7183,United Kingdom,bury saint edmunds,is_city
+269,Kirkby,53.4826,-2.892,United Kingdom,kirkby,is_city
+270,Ramsgate,51.336,1.416,United Kingdom,ramsgate,is_city
+271,Tonbridge,51.1987,0.2764,United Kingdom,tonbridge,is_city
+272,Salisbury,51.074,-1.7936,United Kingdom,salisbury,is_city
+273,Castleford,53.716,-1.356,United Kingdom,castleford,is_city
+274,Bishops Stortford,51.872,0.1725,United Kingdom,bishops stortford,is_city
+275,Abingdon,51.667,-1.283,United Kingdom,abingdon,is_city
+276,Aberdare,51.713,-3.445,United Kingdom,aberdare,is_city
+277,Farnham,51.215,-0.799,United Kingdom,farnham,is_city
+278,Aldridge,52.606,-1.9179,United Kingdom,aldridge,is_city
+279,Hatfield,51.762,-0.228,United Kingdom,hatfield,is_city
+280,Cleethorpes,53.5533,-0.0215,United Kingdom,cleethorpes,is_city
+281,Skelmersdale,53.55,-2.776,United Kingdom,skelmersdale,is_city
+282,Tipton,52.5259,-2.0751,United Kingdom,tipton,is_city
+283,Eccles,53.4824,-2.339,United Kingdom,eccles,is_city
+284,Great Yarmouth,52.606,1.729,United Kingdom,great yarmouth,is_city
+285,Ilkeston,52.971,-1.309,United Kingdom,ilkeston,is_city
+287,Andover,51.208,-1.48,United Kingdom,andover,is_city
+288,Glenrothes,56.198,-3.178,United Kingdom,glenrothes,is_city
+289,Camberley,51.335,-0.742,United Kingdom,camberley,is_city
+290,Stirling,56.1166,-3.9369,United Kingdom,stirling,is_city
+291,Arnold,53.005,-1.127,United Kingdom,arnold,is_city
+292,Long Eaton,52.898,-1.271,United Kingdom,long eaton,is_city
+293,Blyth,55.126,-1.514,United Kingdom,blyth,is_city
+294,Port Talbot,51.5906,-3.7986,United Kingdom,port talbot,is_city
+295,Bletchley,51.994,-0.732,United Kingdom,bletchley,is_city
+296,Leighton Buzzard,51.9165,-0.6617,United Kingdom,leighton buzzard,is_city
+297,Fleet,51.2834,-0.8456,United Kingdom,fleet,is_city
+298,Beeston,52.927,-1.215,United Kingdom,beeston,is_city
+299,Small Heath,52.4629,-1.8542,United Kingdom,small heath,is_city
+300,Houghton le Spring,54.841,-1.468,United Kingdom,houghton le spring,is_city
+301,Whitley Bay,55.0456,-1.4443,United Kingdom,whitley bay,is_city
+302,Airdrie,55.86,-3.98,United Kingdom,airdrie,is_city
+303,Grays,51.475,0.33,United Kingdom,grays,is_city
+304,Denton,53.4554,-2.1122,United Kingdom,denton,is_city
+305,Aldershot,51.248,-0.758,United Kingdom,aldershot,is_city
+306,Redcar,54.618,-1.069,United Kingdom,redcar,is_city
+307,Walkden,53.5239,-2.3991,United Kingdom,walkden,is_city
+308,Kenton,51.5878,-0.3086,United Kingdom,kenton,is_city
+309,Leyland,53.692,-2.697,United Kingdom,leyland,is_city
+310,Woodley,51.453,-0.902,United Kingdom,woodley,is_city
+311,Accrington,53.7534,-2.3638,United Kingdom,accrington,is_city
+312,Pont-y-pwl,51.703,-3.041,United Kingdom,pont-y-pwl,is_city
+313,Bridlington,54.0819,-0.1923,United Kingdom,bridlington,is_city
+314,Falkirk,56.0011,-3.7835,United Kingdom,falkirk,is_city
+315,Billingham,54.61,-1.27,United Kingdom,billingham,is_city
+316,Boston,52.974,-0.0214,United Kingdom,boston,is_city
+317,Dunstable,51.886,-0.521,United Kingdom,dunstable,is_city
+318,Ewell,51.35,-0.249,United Kingdom,ewell,is_city
+319,Chorley,53.653,-2.632,United Kingdom,chorley,is_city
+320,Spalding,52.7858,-0.1529,United Kingdom,spalding,is_city
+321,Exmouth,50.62,-3.413,United Kingdom,exmouth,is_city
+322,North Shields,55.0097,-1.4448,United Kingdom,north shields,is_city
+323,Colwyn Bay,53.29,-3.7,United Kingdom,colwyn bay,is_city
+324,Irvine,55.6201,-4.6614,United Kingdom,irvine,is_city
+325,Hyde,53.4474,-2.082,United Kingdom,hyde,is_city
+326,Wisbech,52.664,0.16,United Kingdom,wisbech,is_city
+327,Lichfield,52.6835,-1.8265,United Kingdom,lichfield,is_city
+328,Wickford,51.6114,0.5207,United Kingdom,wickford,is_city
+329,Hitchin,51.947,-0.283,United Kingdom,hitchin,is_city
+330,Dumfries,55.07,-3.603,United Kingdom,dumfries,is_city
+331,Letchworth,51.978,-0.23,United Kingdom,letchworth,is_city
+332,Huyton,53.41,-2.843,United Kingdom,huyton,is_city
+333,Strood,51.393,0.478,United Kingdom,strood,is_city
+334,Trowbridge,51.32,-2.21,United Kingdom,trowbridge,is_city
+335,Glossop,53.443,-1.949,United Kingdom,glossop,is_city
+336,Pontypridd,51.602,-3.342,United Kingdom,pontypridd,is_city
+337,Stroud,51.744,-2.215,United Kingdom,stroud,is_city
+338,Bicester,51.9,-1.15,United Kingdom,bicester,is_city
+339,Winsford,53.194,-2.52,United Kingdom,winsford,is_city
+340,Windsor,51.4791,-0.6095,United Kingdom,windsor,is_city
+341,Motherwell,55.7839,-3.9852,United Kingdom,motherwell,is_city
+342,Brighouse,53.707,-1.794,United Kingdom,brighouse,is_city
+343,Wigston Magna,52.5812,-1.093,United Kingdom,wigston magna,is_city
+344,Swadlincote,52.774,-1.557,United Kingdom,swadlincote,is_city
+345,Rayleigh,51.5864,0.6049,United Kingdom,rayleigh,is_city
+346,Whitstable,51.361,1.026,United Kingdom,whitstable,is_city
+347,Ecclesfield,53.4429,-1.4698,United Kingdom,ecclesfield,is_city
+348,Ryde,50.7271,-1.1618,United Kingdom,ryde,is_city
+349,Earley,51.433,-0.933,United Kingdom,earley,is_city
+350,Borehamwood,51.6578,-0.2723,United Kingdom,borehamwood,is_city
+351,Bexleyheath,51.459,0.138,United Kingdom,bexleyheath,is_city
+352,Prestwich,53.5333,-2.2833,United Kingdom,prestwich,is_city
+353,Darwen,53.698,-2.461,United Kingdom,darwen,is_city
+354,Epsom,51.336,-0.267,United Kingdom,epsom,is_city
+355,Warwick,52.28,-1.59,United Kingdom,warwick,is_city
+356,Pinner,51.5932,-0.3894,United Kingdom,pinner,is_city
+357,Rutherglen,55.8286,-4.2139,United Kingdom,rutherglen,is_city
+358,Loughton,51.6494,0.0735,United Kingdom,loughton,is_city
+359,Dover,51.1295,1.3089,United Kingdom,dover,is_city
+360,Pontefract,53.691,-1.312,United Kingdom,pontefract,is_city
+361,Saint Neots,52.228,-0.27,United Kingdom,saint neots,is_city
+362,Bedworth,52.475,-1.477,United Kingdom,bedworth,is_city
+363,Burgess Hill,50.9535,-0.1262,United Kingdom,burgess hill,is_city
+364,Northolt,51.547,-0.362,United Kingdom,northolt,is_city
+365,Farnworth,53.5452,-2.3999,United Kingdom,farnworth,is_city
+366,Wishaw,55.7739,-3.9189,United Kingdom,wishaw,is_city
+367,Harpenden,51.8175,-0.3524,United Kingdom,harpenden,is_city
+368,Deal,51.2226,1.4006,United Kingdom,deal,is_city
+369,Radcliffe,53.5615,-2.3268,United Kingdom,radcliffe,is_city
+370,Carshalton,51.3652,-0.1676,United Kingdom,carshalton,is_city
+371,Plympton,50.386,-4.051,United Kingdom,plympton,is_city
+372,Bulwell,53.001,-1.197,United Kingdom,bulwell,is_city
+373,Cambuslang,55.819,-4.1671,United Kingdom,cambuslang,is_city
+374,Sevenoaks,51.2781,0.1874,United Kingdom,sevenoaks,is_city
+375,Northfleet,51.44,0.34,United Kingdom,northfleet,is_city
+376,Cramlington,55.082,-1.585,United Kingdom,cramlington,is_city
+377,Rushden,52.288,-0.601,United Kingdom,rushden,is_city
+378,Bromsgrove,52.3353,-2.0579,United Kingdom,bromsgrove,is_city
+379,Nelson,53.8346,-2.218,United Kingdom,nelson,is_city
+380,Beverley,53.845,-0.427,United Kingdom,beverley,is_city
+381,Cannock,52.691,-2.027,United Kingdom,cannock,is_city
+382,Hanwell,51.5189,-0.3376,United Kingdom,hanwell,is_city
+383,Stanford le Hope,51.514,0.4244,United Kingdom,stanford le hope,is_city
+384,Kendal,54.326,-2.745,United Kingdom,kendal,is_city
+385,Willenhall,52.5798,-2.0605,United Kingdom,willenhall,is_city
+386,Wood Green,51.5981,-0.1149,United Kingdom,wood green,is_city
+387,Heywood,53.59,-2.219,United Kingdom,heywood,is_city
+388,Bearsden,55.9192,-4.3332,United Kingdom,bearsden,is_city
+389,Reddish,53.4383,-2.1613,United Kingdom,reddish,is_city
+390,Billericay,51.628,0.4184,United Kingdom,billericay,is_city
+391,Darlaston,52.5708,-2.0457,United Kingdom,darlaston,is_city
+392,Littlehampton,50.8094,-0.5409,United Kingdom,littlehampton,is_city
+393,Ashington,55.181,-1.568,United Kingdom,ashington,is_city
+394,Newton Mearns,55.7716,-4.3347,United Kingdom,newton mearns,is_city
+395,Yate,51.5402,-2.411,United Kingdom,yate,is_city
+396,Jarrow,54.9797,-1.4804,United Kingdom,jarrow,is_city
+397,Witney,51.78,-1.49,United Kingdom,witney,is_city
+398,Stratford-upon-Avon,52.1928,-1.7064,United Kingdom,stratford-upon-avon,is_city
+399,Shotley Bridge,54.87,-1.86,United Kingdom,shotley bridge,is_city
+401,Ormskirk,53.5665,-2.8869,United Kingdom,ormskirk,is_city
+402,Longton,52.9877,-2.1327,United Kingdom,longton,is_city
+403,Melton Mowbray,52.7661,-0.886,United Kingdom,melton mowbray,is_city
+404,Haverhill,52.08,0.44,United Kingdom,haverhill,is_city
+405,Didcot,51.606,-1.241,United Kingdom,didcot,is_city
+406,Clifton,52.904,-1.177,United Kingdom,clifton,is_city
+407,Chichester,50.8365,-0.7792,United Kingdom,chichester,is_city
+408,Hertford,51.795,-0.078,United Kingdom,hertford,is_city
+409,Highbury,51.552,-0.097,United Kingdom,highbury,is_city
+410,Newton Aycliffe,54.62,-1.58,United Kingdom,newton aycliffe,is_city
+411,Fern Down,50.81,-1.9,United Kingdom,fern down,is_city
+412,Congleton,53.162,-2.217,United Kingdom,congleton,is_city
+413,Cheadle Hulme,53.3761,-2.1897,United Kingdom,cheadle hulme,is_city
+414,East Grinstead,51.129,-0.007,United Kingdom,east grinstead,is_city
+415,Thatcham,51.405,-1.264,United Kingdom,thatcham,is_city
+416,Frome,51.2279,-2.3215,United Kingdom,frome,is_city
+417,Burntwood,52.6831,-1.92,United Kingdom,burntwood,is_city
+418,Clydebank,55.8997,-4.4006,United Kingdom,clydebank,is_city
+419,Fleetwood,53.923,-3.015,United Kingdom,fleetwood,is_city
+420,Bournville,52.4299,-1.9355,United Kingdom,bournville,is_city
+421,Shenley Brook End,52.009,-0.789,United Kingdom,shenley brook end,is_city
+422,Bushey,51.6429,-0.3604,United Kingdom,bushey,is_city
+423,New Milton,50.76,-1.65,United Kingdom,new milton,is_city
+424,Northfield,52.408,-1.963,United Kingdom,northfield,is_city
+425,Coulsdon,51.3211,-0.1386,United Kingdom,coulsdon,is_city
+426,Bilston,52.566,-2.0728,United Kingdom,bilston,is_city
+427,Newton Abbot,50.529,-3.61,United Kingdom,newton abbot,is_city
+428,Wellington,52.7001,-2.5157,United Kingdom,wellington,is_city
+430,Oldbury,52.505,-2.0159,United Kingdom,oldbury,is_city
+431,Bishop Auckland,54.6566,-1.6768,United Kingdom,bishop auckland,is_city
+432,Longbridge,52.395,-1.979,United Kingdom,longbridge,is_city
+433,Bloxwich,52.614,-2.004,United Kingdom,bloxwich,is_city
+434,Upminster,51.5557,0.2512,United Kingdom,upminster,is_city
+435,Witham,51.7978,0.6373,United Kingdom,witham,is_city
+436,Workington,54.6365,-3.5549,United Kingdom,workington,is_city
+437,Kingswinford,52.4981,-2.1657,United Kingdom,kingswinford,is_city
+438,Rhyl,53.321,-3.48,United Kingdom,rhyl,is_city
+439,Daventry,52.26,-1.16,United Kingdom,daventry,is_city
+440,Hindley,53.5355,-2.5658,United Kingdom,hindley,is_city
+441,Rainham,51.36,0.61,United Kingdom,rainham,is_city
+442,Portishead,51.484,-2.7626,United Kingdom,portishead,is_city
+443,Pitsea,51.569,0.504,United Kingdom,pitsea,is_city
+444,Westhoughton,53.549,-2.529,United Kingdom,westhoughton,is_city
+445,Broadstairs,51.3589,1.4394,United Kingdom,broadstairs,is_city
+446,Consett,54.85,-1.83,United Kingdom,consett,is_city
+447,Thornaby on Tees,54.5556,-1.3049,United Kingdom,thornaby on tees,is_city
+448,Wilmslow,53.325,-2.239,United Kingdom,wilmslow,is_city
+449,Kings Norton,52.4072,-1.9272,United Kingdom,kings norton,is_city
+450,Thetford,52.41,0.74,United Kingdom,thetford,is_city
+451,Elgin,57.65,-3.315,United Kingdom,elgin,is_city
+452,Chester-le-Street,54.8594,-1.5699,United Kingdom,chester-le-street,is_city
+453,Farnley,53.7876,-1.6159,United Kingdom,farnley,is_city
+454,Great Sankey,53.3918,-2.6383,United Kingdom,great sankey,is_city
+455,Golborne,53.4758,-2.5943,United Kingdom,golborne,is_city
+456,Plymstock,50.3569,-4.09,United Kingdom,plymstock,is_city
+457,Bognor Regis,50.7824,-0.6764,United Kingdom,bognor regis,is_city
+458,Barnstaple,51.08,-4.06,United Kingdom,barnstaple,is_city
+459,Rugeley,52.7599,-1.9388,United Kingdom,rugeley,is_city
+460,Eastleigh,50.9667,-1.35,United Kingdom,eastleigh,is_city
+461,Ashton in Makerfield,53.487,-2.641,United Kingdom,ashton in makerfield,is_city
+462,Whitehaven,54.548,-3.5855,United Kingdom,whitehaven,is_city
+463,Rickmansworth,51.6383,-0.4659,United Kingdom,rickmansworth,is_city
+464,Littleover,52.906,-1.505,United Kingdom,littleover,is_city
+465,Caversham,51.467,-0.973,United Kingdom,caversham,is_city
+466,Oadby,52.5987,-1.0763,United Kingdom,oadby,is_city
+467,Bishopbriggs,55.9046,-4.225,United Kingdom,bishopbriggs,is_city
+468,Kidsgrove,53.0874,-2.2478,United Kingdom,kidsgrove,is_city
+469,Huntingdon,52.3364,-0.1717,United Kingdom,huntingdon,is_city
+470,Stalybridge,53.4834,-2.04,United Kingdom,stalybridge,is_city
+471,Stanmore,51.618,-0.314,United Kingdom,stanmore,is_city
+472,Felixstowe,51.9639,1.3515,United Kingdom,felixstowe,is_city
+473,Marple,53.397,-2.061,United Kingdom,marple,is_city
+474,Perry Barr,52.5249,-1.9042,United Kingdom,perry barr,is_city
+475,Gosforth,55.007,-1.623,United Kingdom,gosforth,is_city
+476,Droitwich,52.267,-2.153,United Kingdom,droitwich,is_city
+477,Arbroath,56.561,-2.586,United Kingdom,arbroath,is_city
+478,Seaford,50.77,0.1,United Kingdom,seaford,is_city
+479,Evesham,52.092,-1.947,United Kingdom,evesham,is_city
+480,Whitefield,53.5521,-2.2992,United Kingdom,whitefield,is_city
+481,Penwortham,53.74,-2.72,United Kingdom,penwortham,is_city
+482,Harborne,52.46,-1.95,United Kingdom,harborne,is_city
+483,Swinton,53.5122,-2.3412,United Kingdom,swinton,is_city
+484,Market Harborough,52.4775,-0.9206,United Kingdom,market harborough,is_city
+485,Penistone,53.525,-1.629,United Kingdom,penistone,is_city
+486,Gainsborough,53.4016,-0.7732,United Kingdom,gainsborough,is_city
+487,Walton upon Thames,51.3868,-0.4133,United Kingdom,walton upon thames,is_city
+488,Erdington,52.5236,-1.8378,United Kingdom,erdington,is_city
+489,Haywards Heath,51.0048,-0.0979,United Kingdom,haywards heath,is_city
+490,Stratton Saint Margaret,51.586,-1.762,United Kingdom,stratton saint margaret,is_city
+491,Droylsden,53.4828,-2.1582,United Kingdom,droylsden,is_city
+492,Wednesfield,52.5998,-2.0817,United Kingdom,wednesfield,is_city
+493,Calverley,53.8266,-1.6908,United Kingdom,calverley,is_city
+494,Leigh-on-Sea,51.5425,0.6535,United Kingdom,leigh-on-sea,is_city
+495,Formby,53.5586,-3.0666,United Kingdom,formby,is_city
+496,Kenilworth,52.341,-1.566,United Kingdom,kenilworth,is_city
+497,Pudsey,53.797,-1.663,United Kingdom,pudsey,is_city
+498,Guiseley,53.875,-1.706,United Kingdom,guiseley,is_city
+499,Alfreton,53.097,-1.38,United Kingdom,alfreton,is_city
+500,March,52.551,0.088,United Kingdom,march,is_city
+501,Litherland,53.4727,-2.999,United Kingdom,litherland,is_city
+502,Yeadon,53.869,-1.688,United Kingdom,yeadon,is_city
+503,Acomb,53.955,-1.126,United Kingdom,acomb,is_city
+504,Buxton,53.259,-1.911,United Kingdom,buxton,is_city
+505,Newton in Makerfield,53.45,-2.633,United Kingdom,newton in makerfield,is_city
+506,Penarth,51.43,-3.17,United Kingdom,penarth,is_city
+507,Horley,51.174,-0.172,United Kingdom,horley,is_city
+508,Northwood,51.601,-0.4176,United Kingdom,northwood,is_city
+509,East Retford,53.3228,-0.9431,United Kingdom,east retford,is_city
+510,Atherton,53.523,-2.495,United Kingdom,atherton,is_city
+511,Rawtenstall,53.699,-2.291,United Kingdom,rawtenstall,is_city
+512,Musselburgh,55.942,-3.054,United Kingdom,musselburgh,is_city
+513,Renfrew,55.8791,-4.3868,United Kingdom,renfrew,is_city
+514,Belper,53.029,-1.475,United Kingdom,belper,is_city
+515,Reigate,51.237,-0.206,United Kingdom,reigate,is_city
+516,Sheldon,52.45,-1.7666,United Kingdom,sheldon,is_city
+517,Godalming,51.18,-0.61,United Kingdom,godalming,is_city
+518,Falmouth,50.15,-5.07,United Kingdom,falmouth,is_city
+519,Kilwinning,55.655,-4.703,United Kingdom,kilwinning,is_city
+520,Potters Bar,51.698,-0.183,United Kingdom,potters bar,is_city
+521,Camborne,50.213,-5.3,United Kingdom,camborne,is_city
+522,Linslade,51.9243,-0.6774,United Kingdom,linslade,is_city
+523,Chesham,51.712,-0.612,United Kingdom,chesham,is_city
+524,Richmond,51.456,-0.301,United Kingdom,richmond,is_city
+525,Chandlers Ford,50.984,-1.3792,United Kingdom,chandlers ford,is_city
+526,Darton,53.585,-1.5325,United Kingdom,darton,is_city
+527,Royton,53.566,-2.121,United Kingdom,royton,is_city
+528,Clevedon,51.438,-2.854,United Kingdom,clevedon,is_city
+529,Dronfield,53.3024,-1.4664,United Kingdom,dronfield,is_city
+530,Ossett,53.68,-1.58,United Kingdom,ossett,is_city
+531,Penzance,50.119,-5.537,United Kingdom,penzance,is_city
+532,Waltham Abbey,51.6846,0.0004,United Kingdom,waltham abbey,is_city
+533,Omagh,54.59,-7.29,United Kingdom,omagh,is_city
+534,Caterham,51.2803,-0.0816,United Kingdom,caterham,is_city
+535,Woodlesford,53.7567,-1.453,United Kingdom,woodlesford,is_city
+536,Maesteg,51.61,-3.65,United Kingdom,maesteg,is_city
+537,Normanton,53.697,-1.416,United Kingdom,normanton,is_city
+538,Wallington,51.3647,-0.1403,United Kingdom,wallington,is_city
+539,Ripley,53.05,-1.407,United Kingdom,ripley,is_city
+540,Sandhurst,51.349,-0.8,United Kingdom,sandhurst,is_city
+541,Leek,53.108,-2.0234,United Kingdom,leek,is_city
+542,Alloa,56.116,-3.793,United Kingdom,alloa,is_city
+543,Boscombe,50.725,-1.84,United Kingdom,boscombe,is_city
+544,Llandudno,53.325,-3.826,United Kingdom,llandudno,is_city
+545,Failsworth,53.5102,-2.1575,United Kingdom,failsworth,is_city
+546,Kirkstall,53.816,-1.602,United Kingdom,kirkstall,is_city
+547,Kirkby in Ashfield,53.099,-1.245,United Kingdom,kirkby in ashfield,is_city
+548,Bellshill,55.8165,-4.0262,United Kingdom,bellshill,is_city
+549,Crowborough,51.06,0.16,United Kingdom,crowborough,is_city
+550,Shoreham-by-Sea,50.834,-0.273,United Kingdom,shoreham-by-sea,is_city
+551,Dumbarton,55.95,-4.5667,United Kingdom,dumbarton,is_city
+552,Hythe,50.869,-1.399,United Kingdom,hythe,is_city
+553,Hailsham,50.8647,0.2577,United Kingdom,hailsham,is_city
+554,Maghull,53.5174,-2.9449,United Kingdom,maghull,is_city
+555,Bathgate,55.9024,-3.6431,United Kingdom,bathgate,is_city
+556,Rothwell,53.7485,-1.478,United Kingdom,rothwell,is_city
+557,Newquay,50.412,-5.0757,United Kingdom,newquay,is_city
+558,Hoddesdon,51.759,-0.015,United Kingdom,hoddesdon,is_city
+559,Seaham,54.84,-1.34,United Kingdom,seaham,is_city
+560,Peterlee,54.76,-1.33,United Kingdom,peterlee,is_city
+561,Halewood,53.3599,-2.84,United Kingdom,halewood,is_city
+562,Ely,52.3981,0.2622,United Kingdom,ely,is_city
+563,Killingworth,55.0318,-1.5557,United Kingdom,killingworth,is_city
+564,Horwich,53.592,-2.54,United Kingdom,horwich,is_city
+565,Bispham,53.852,-3.041,United Kingdom,bispham,is_city
+566,Antrim,54.7173,-6.2055,United Kingdom,antrim,is_city
+567,Wetherby,53.9276,-1.3839,United Kingdom,wetherby,is_city
+568,Saint Austell,50.3386,-4.7922,United Kingdom,saint austell,is_city
+569,Irlam,53.445,-2.422,United Kingdom,irlam,is_city
+570,Northwich,53.259,-2.518,United Kingdom,northwich,is_city
+571,Biddulph,53.12,-2.17,United Kingdom,biddulph,is_city
+572,Spennymoor,54.7,-1.59,United Kingdom,spennymoor,is_city
+573,Barrhead,55.8016,-4.388,United Kingdom,barrhead,is_city
+574,Garforth,53.792,-1.388,United Kingdom,garforth,is_city
+575,Tewkesbury,51.99,-2.16,United Kingdom,tewkesbury,is_city
+576,Stamford,52.656,-0.484,United Kingdom,stamford,is_city
+577,Kirkintilloch,55.9357,-4.1547,United Kingdom,kirkintilloch,is_city
+578,Davyhulme,53.4559,-2.3683,United Kingdom,davyhulme,is_city
+579,Skegness,53.14,0.34,United Kingdom,skegness,is_city
+580,Burnham-on-Sea,51.2376,-2.9935,United Kingdom,burnham-on-sea,is_city
+581,Abbots Langley,51.701,-0.416,United Kingdom,abbots langley,is_city
+582,Mirfield,53.6807,-1.6888,United Kingdom,mirfield,is_city
+583,Tiverton,50.903,-3.488,United Kingdom,tiverton,is_city
+584,Goole,53.6992,-0.8692,United Kingdom,goole,is_city
+585,South Ockendon,51.5207,0.2956,United Kingdom,south ockendon,is_city
+586,Romsey,50.989,-1.4966,United Kingdom,romsey,is_city
+587,Kempston,52.114,-0.497,United Kingdom,kempston,is_city
+588,Adel,53.8489,-1.5849,United Kingdom,adel,is_city
+589,Liversedge,53.7067,-1.69,United Kingdom,liversedge,is_city
+590,Hampton,51.422,-0.367,United Kingdom,hampton,is_city
+591,Great Linford,52.068,-0.7637,United Kingdom,great linford,is_city
+592,Faversham,51.3177,0.8928,United Kingdom,faversham,is_city
+593,Dukinfield,53.4739,-2.0828,United Kingdom,dukinfield,is_city
+594,Stowmarket,52.19,1.0,United Kingdom,stowmarket,is_city
+595,Neath,51.66,-3.81,United Kingdom,neath,is_city
+596,Ecclesall,53.362,-1.498,United Kingdom,ecclesall,is_city
+597,Molesey,51.401,-0.363,United Kingdom,molesey,is_city
+598,Cirencester,51.719,-1.968,United Kingdom,cirencester,is_city
+599,Dorchester,50.7154,-2.4367,United Kingdom,dorchester,is_city
+600,Monkseaton,55.043,-1.459,United Kingdom,monkseaton,is_city
+601,Linlithgow,55.9791,-3.6105,United Kingdom,linlithgow,is_city
+602,Southbourne,50.722,-1.798,United Kingdom,southbourne,is_city
+603,Horsforth,53.8341,-1.6429,United Kingdom,horsforth,is_city
+604,Prestatyn,53.331,-3.405,United Kingdom,prestatyn,is_city
+605,Kilbirnie,55.755,-4.686,United Kingdom,kilbirnie,is_city
+606,Lancing,50.832,-0.319,United Kingdom,lancing,is_city
+607,Ware,51.8109,-0.0314,United Kingdom,ware,is_city
+608,Truro,50.26,-5.051,United Kingdom,truro,is_city
+609,Eastwood,53.018,-1.304,United Kingdom,eastwood,is_city
+610,East Dereham,52.681,0.94,United Kingdom,east dereham,is_city
+611,Ebbw Vale,51.7779,-3.2117,United Kingdom,ebbw vale,is_city
+612,Peterhead,57.5091,-1.7832,United Kingdom,peterhead,is_city
+613,Appley Bridge,53.579,-2.721,United Kingdom,appley bridge,is_city
+614,Berkhampstead,51.76,-0.56,United Kingdom,berkhampstead,is_city
+615,Rawmarsh,53.4636,-1.3439,United Kingdom,rawmarsh,is_city
+616,Poulton le Fylde,53.847,-2.995,United Kingdom,poulton le fylde,is_city
+617,Staines-upon-Thames,51.433,-0.517,United Kingdom,staines-upon-thames,is_city
+618,Bedlington,55.133,-1.583,United Kingdom,bedlington,is_city
+619,Mill Hill,51.62,-0.23,United Kingdom,mill hill,is_city
+620,Almondbury,53.6344,-1.7489,United Kingdom,almondbury,is_city
+621,Hadleigh,51.5535,0.6095,United Kingdom,hadleigh,is_city
+622,Staveley,53.2694,-1.3484,United Kingdom,staveley,is_city
+623,Fulwood,53.365,-1.544,United Kingdom,fulwood,is_city
+624,Redhill,51.2393,-0.1726,United Kingdom,redhill,is_city
+625,Aberystwyth,52.414,-4.081,United Kingdom,aberystwyth,is_city
+626,Sunbury,51.423,-0.424,United Kingdom,sunbury,is_city
+627,Mickleover,52.901,-1.552,United Kingdom,mickleover,is_city
+628,Sandbach,53.146,-2.367,United Kingdom,sandbach,is_city
+629,Madeley,52.637,-2.448,United Kingdom,madeley,is_city
+630,Grangemouth,56.012,-3.717,United Kingdom,grangemouth,is_city
+631,Ramsbottom,53.6484,-2.3169,United Kingdom,ramsbottom,is_city
+632,Colne,53.8554,-2.1756,United Kingdom,colne,is_city
+633,Alton,51.1498,-0.9769,United Kingdom,alton,is_city
+634,Portchester,50.842,-1.12,United Kingdom,portchester,is_city
+635,Guisborough,54.535,-1.0563,United Kingdom,guisborough,is_city
+636,Harwich,51.934,1.266,United Kingdom,harwich,is_city
+637,Sleaford,52.996,-0.413,United Kingdom,sleaford,is_city
+638,Moreton,53.401,-3.111,United Kingdom,moreton,is_city
+639,Quedgeley,51.825,-2.28,United Kingdom,quedgeley,is_city
+640,Warminster,51.205,-2.181,United Kingdom,warminster,is_city
+641,Woodhouse,53.358,-1.373,United Kingdom,woodhouse,is_city
+642,Bramhall,53.357,-2.164,United Kingdom,bramhall,is_city
+643,Nantwich,53.067,-2.522,United Kingdom,nantwich,is_city
+644,Hednesford,52.7115,-2.0006,United Kingdom,hednesford,is_city
+645,Lewes,50.8756,0.0179,United Kingdom,lewes,is_city
+646,Houghton Regis,51.9039,-0.5247,United Kingdom,houghton regis,is_city
+647,Thornton,53.7898,-1.8504,United Kingdom,thornton,is_city
+648,Calne,51.438,-2.005,United Kingdom,calne,is_city
+649,Heanor,53.014,-1.354,United Kingdom,heanor,is_city
+650,Friern Barnet,51.6126,-0.1584,United Kingdom,friern barnet,is_city
+651,Milton,53.05,-2.142,United Kingdom,milton,is_city
+652,Glen Parva,52.5867,-1.1617,United Kingdom,glen parva,is_city
+653,Cottingham,53.7822,-0.4136,United Kingdom,cottingham,is_city
+654,Bideford,51.016,-4.209,United Kingdom,bideford,is_city
+655,Oswestry,52.8598,-3.0538,United Kingdom,oswestry,is_city
+656,Mosbrough,53.325,-1.362,United Kingdom,mosbrough,is_city
+657,Heysham,54.046,-2.894,United Kingdom,heysham,is_city
+658,Golcar,53.6378,-1.8457,United Kingdom,golcar,is_city
+659,Westbury,51.26,-2.191,United Kingdom,westbury,is_city
+660,Heckmondwike,53.708,-1.67,United Kingdom,heckmondwike,is_city
+661,Clayton,53.782,-1.8135,United Kingdom,clayton,is_city
+662,Morriston,51.6647,-3.9389,United Kingdom,morriston,is_city
+663,High Blantyre,55.793,-4.097,United Kingdom,high blantyre,is_city
+664,Braunstone,52.616,-1.175,United Kingdom,braunstone,is_city
+665,Haslingden,53.705,-2.328,United Kingdom,haslingden,is_city
+666,Northallerton,54.3378,-1.4285,United Kingdom,northallerton,is_city
+667,Haslemere,51.09,-0.712,United Kingdom,haslemere,is_city
+668,Saint Andrews,56.3404,-2.7955,United Kingdom,saint andrews,is_city
+669,Fazakerley,53.4676,-2.9408,United Kingdom,fazakerley,is_city
+671,Windlesham,51.36,-0.66,United Kingdom,windlesham,is_city
+672,Connahs Quay,53.2179,-3.0573,United Kingdom,connahs quay,is_city
+673,Plumstead,51.49,0.09,United Kingdom,plumstead,is_city
+674,Ripon,54.138,-1.524,United Kingdom,ripon,is_city
+675,Brixham,50.394,-3.516,United Kingdom,brixham,is_city
+676,Maltby,53.426,-1.21,United Kingdom,maltby,is_city
+677,Banstead,51.322,-0.204,United Kingdom,banstead,is_city
+678,Whickham,54.9456,-1.6726,United Kingdom,whickham,is_city
+679,Keynsham,51.4135,-2.4968,United Kingdom,keynsham,is_city
+680,Johnstone,55.8346,-4.5027,United Kingdom,johnstone,is_city
+681,Cleckheaton,53.725,-1.719,United Kingdom,cleckheaton,is_city
+682,Newmarket,52.2459,0.4105,United Kingdom,newmarket,is_city
+683,The Mumbles,51.573,-3.9992,United Kingdom,the mumbles,is_city
+684,Biggleswade,52.0855,-0.2557,United Kingdom,biggleswade,is_city
+685,Cowley,51.733,-1.215,United Kingdom,cowley,is_city
+686,Hebburn,54.9718,-1.5128,United Kingdom,hebburn,is_city
+687,Enfield Lock,51.6686,-0.026,United Kingdom,enfield lock,is_city
+688,Louth,53.3669,-0.0061,United Kingdom,louth,is_city
+689,Buckhaven,56.1776,-3.0303,United Kingdom,buckhaven,is_city
+690,Stone,52.9,-2.15,United Kingdom,stone,is_city
+691,Saint Ives,52.3344,-0.0761,United Kingdom,saint ives,is_city
+692,Denby Dale,53.572,-1.655,United Kingdom,denby dale,is_city
+695,Clitheroe,53.8711,-2.3916,United Kingdom,clitheroe,is_city
+696,Queensbury,53.7683,-1.8453,United Kingdom,queensbury,is_city
+697,Stepney,51.5152,-0.0462,United Kingdom,stepney,is_city
+698,Basford,52.978,-1.169,United Kingdom,basford,is_city
+699,Saltash,50.408,-4.212,United Kingdom,saltash,is_city
+700,Giffnock,55.8051,-4.2946,United Kingdom,giffnock,is_city
+701,Tyldesley,53.5166,-2.4667,United Kingdom,tyldesley,is_city
+702,East Barnet,51.643,-0.163,United Kingdom,east barnet,is_city
+703,Upton,53.385,-3.099,United Kingdom,upton,is_city
+704,Whittlesey,52.558,-0.13,United Kingdom,whittlesey,is_city
+705,Worcester Park,51.3752,-0.239,United Kingdom,worcester park,is_city
+706,Porthcawl,51.48,-3.69,United Kingdom,porthcawl,is_city
+707,East Finchley,51.5902,-0.1753,United Kingdom,east finchley,is_city
+708,Chertsey,51.3902,-0.5074,United Kingdom,chertsey,is_city
+709,Dawlish,50.581,-3.466,United Kingdom,dawlish,is_city
+710,Penicuik,55.826,-3.22,United Kingdom,penicuik,is_city
+711,Bingley,53.8509,-1.838,United Kingdom,bingley,is_city
+712,Adwick le Street,53.5677,-1.1931,United Kingdom,adwick le street,is_city
+714,Addlestone,51.3695,-0.4901,United Kingdom,addlestone,is_city
+715,Royston,52.0471,-0.0202,United Kingdom,royston,is_city
+716,Carterton,51.76,-1.59,United Kingdom,carterton,is_city
+717,Bebington,53.35,-3.003,United Kingdom,bebington,is_city
+718,Lymington,50.75,-1.55,United Kingdom,lymington,is_city
+719,Bonnyrigg,55.8747,-3.1031,United Kingdom,bonnyrigg,is_city
+720,Buckley,53.172,-3.086,United Kingdom,buckley,is_city
+721,Ince-in-Makerfield,53.5402,-2.599,United Kingdom,ince-in-makerfield,is_city
+722,Nailsea,51.43,-2.76,United Kingdom,nailsea,is_city
+723,Thundersley,51.57,0.59,United Kingdom,thundersley,is_city
+725,Wimborne Minster,50.804,-1.978,United Kingdom,wimborne minster,is_city
+726,West Ham,51.5347,0.0077,United Kingdom,west ham,is_city
+727,Saffron Walden,52.022,0.243,United Kingdom,saffron walden,is_city
+728,Stoke Gifford,51.517,-2.548,United Kingdom,stoke gifford,is_city
+729,Shipley,53.833,-1.777,United Kingdom,shipley,is_city
+730,Todmorden,53.713,-2.096,United Kingdom,todmorden,is_city
+731,Weybridge,51.362,-0.453,United Kingdom,weybridge,is_city
+732,Knaresborough,54.0084,-1.467,United Kingdom,knaresborough,is_city
+733,Helensburgh,56.0166,-4.7333,United Kingdom,helensburgh,is_city
+734,Port Glasgow,55.934,-4.6906,United Kingdom,port glasgow,is_city
+735,Seacombe,53.409,-3.029,United Kingdom,seacombe,is_city
+736,Baildon,53.851,-1.763,United Kingdom,baildon,is_city
+737,Hemsworth,53.61,-1.35,United Kingdom,hemsworth,is_city
+738,Perivale,51.5383,-0.3192,United Kingdom,perivale,is_city
+739,Wombwell,53.516,-1.4,United Kingdom,wombwell,is_city
+740,Stanley,53.7145,-1.476,United Kingdom,stanley,is_city
+741,Llantrisant,51.5423,-3.3785,United Kingdom,llantrisant,is_city
+742,Broxbourne,51.7495,-0.0216,United Kingdom,broxbourne,is_city
+743,Hazel Grove,53.375,-2.111,United Kingdom,hazel grove,is_city
+744,Featherstone,53.7,-1.37,United Kingdom,featherstone,is_city
+745,Mexborough,53.4992,-1.283,United Kingdom,mexborough,is_city
+746,Stapleford,52.929,-1.274,United Kingdom,stapleford,is_city
+747,Neston,53.289,-3.074,United Kingdom,neston,is_city
+748,Bidston,53.402,-3.078,United Kingdom,bidston,is_city
+749,Northenden,53.4075,-2.2583,United Kingdom,northenden,is_city
+750,Penrith,54.6648,-2.7548,United Kingdom,penrith,is_city
+751,Chellaston,52.8671,-1.4384,United Kingdom,chellaston,is_city
+752,Palmers Green,51.6178,-0.1092,United Kingdom,palmers green,is_city
+753,Totteridge,51.6354,-0.2,United Kingdom,totteridge,is_city
+754,Blaydon,54.963,-1.7187,United Kingdom,blaydon,is_city
+755,New Brighton,53.432,-3.049,United Kingdom,new brighton,is_city
+756,Teignmouth,50.5515,-3.4886,United Kingdom,teignmouth,is_city
+757,Newport Pagnell,52.087,-0.722,United Kingdom,newport pagnell,is_city
+758,Tredegar,51.7776,-3.2407,United Kingdom,tredegar,is_city
+759,Swallownest,53.3623,-1.3251,United Kingdom,swallownest,is_city
+760,Netherton,52.4908,-2.0835,United Kingdom,netherton,is_city
+761,Hessle,53.7239,-0.4319,United Kingdom,hessle,is_city
+762,Winkfield,51.4318,-0.7096,United Kingdom,winkfield,is_city
+763,Petersfield,51.0038,-0.9345,United Kingdom,petersfield,is_city
+764,Larkhall,55.737,-3.972,United Kingdom,larkhall,is_city
+765,Sudbury,51.5537,-0.3199,United Kingdom,sudbury,is_city
+766,Wyke,53.7369,-1.77,United Kingdom,wyke,is_city
+767,Kew Green,51.5308,-0.2248,United Kingdom,kew green,is_city
+768,Bromborough,53.336,-2.978,United Kingdom,bromborough,is_city
+769,Chislehurst,51.412,0.075,United Kingdom,chislehurst,is_city
+770,Ilkley,53.925,-1.822,United Kingdom,ilkley,is_city
+771,Baguley,53.399,-2.276,United Kingdom,baguley,is_city
+772,Minster,51.421,0.809,United Kingdom,minster,is_city
+773,Balham,51.4434,-0.1525,United Kingdom,balham,is_city
+774,Prestwick,55.4956,-4.6142,United Kingdom,prestwick,is_city
+775,Banbridge,54.343,-6.26,United Kingdom,banbridge,is_city
+776,Bodmin,50.466,-4.718,United Kingdom,bodmin,is_city
+777,Selby,53.7818,-1.0703,United Kingdom,selby,is_city
+778,Conwy,53.28,-3.83,United Kingdom,conwy,is_city
+779,Tilehurst,51.4579,-1.0406,United Kingdom,tilehurst,is_city
+780,Troon,55.54,-4.66,United Kingdom,troon,is_city
+781,Melksham,51.371,-2.138,United Kingdom,melksham,is_city
+782,Wibsey,53.7672,-1.7728,United Kingdom,wibsey,is_city
+783,Great Baddow,51.719,0.507,United Kingdom,great baddow,is_city
+785,Skipton,53.962,-2.017,United Kingdom,skipton,is_city
+786,Lowton,53.471,-2.569,United Kingdom,lowton,is_city
+787,Burbage,52.5277,-1.3483,United Kingdom,burbage,is_city
+788,Thorpe Saint Andrew,52.6354,1.3431,United Kingdom,thorpe saint andrew,is_city
+790,Moston,53.5156,-2.1848,United Kingdom,moston,is_city
+792,Chelsfield,51.3582,0.1278,United Kingdom,chelsfield,is_city
+793,Uckfield,50.97,0.1,United Kingdom,uckfield,is_city
+794,Deysbrook,53.429,-2.934,United Kingdom,deysbrook,is_city
+795,Bo'ness,56.0168,-3.6089,United Kingdom,bo'ness,is_city
+796,Armthorpe,53.5352,-1.0522,United Kingdom,armthorpe,is_city
+797,Southgate,51.6316,-0.1265,United Kingdom,southgate,is_city
+798,Dollis Hill,51.5641,-0.2341,United Kingdom,dollis hill,is_city
+799,Wymondham,52.57,1.116,United Kingdom,wymondham,is_city
+800,Hetton le Hole,54.8208,-1.4488,United Kingdom,hetton le hole,is_city
+801,Amersham,51.677,-0.603,United Kingdom,amersham,is_city
+802,West Derby,53.4338,-2.907,United Kingdom,west derby,is_city
+803,West Drayton,51.5043,-0.4646,United Kingdom,west drayton,is_city
+804,Conisbrough,53.479,-1.227,United Kingdom,conisbrough,is_city
+805,Kidbrooke,51.465,0.033,United Kingdom,kidbrooke,is_city
+806,Rock Ferry,53.373,-3.008,United Kingdom,rock ferry,is_city
+807,Shirley,51.3813,-0.0543,United Kingdom,shirley,is_city
+808,Hawick,55.422,-2.787,United Kingdom,hawick,is_city
+809,Patcham,50.864,-0.15,United Kingdom,patcham,is_city
+810,West Wickham,51.3765,-0.0193,United Kingdom,west wickham,is_city
+811,Weston,53.413,-2.798,United Kingdom,weston,is_city
+812,Poynton,53.3492,-2.1222,United Kingdom,poynton,is_city
+813,Seacroft,53.8222,-1.4599,United Kingdom,seacroft,is_city
+814,Maldon,51.7318,0.6758,United Kingdom,maldon,is_city
+815,Kearsley,53.53,-2.37,United Kingdom,kearsley,is_city
+816,Caerfyrddin,51.856,-4.316,United Kingdom,caerfyrddin,is_city
+817,Leyton,51.5606,-0.0155,United Kingdom,leyton,is_city
+818,Mackworth,52.9277,-1.5373,United Kingdom,mackworth,is_city
+819,Ashtead,51.31,-0.299,United Kingdom,ashtead,is_city
+820,Wombourn,52.5302,-2.1857,United Kingdom,wombourn,is_city
+821,Smethwick,52.4928,-1.9682,United Kingdom,smethwick,is_city
+822,Childwall,53.395,-2.881,United Kingdom,childwall,is_city
+823,Cowdenbeath,56.11,-3.35,United Kingdom,cowdenbeath,is_city
+824,Forfar,56.6442,-2.8884,United Kingdom,forfar,is_city
+825,Redruth,50.233,-5.224,United Kingdom,redruth,is_city
+826,Morpeth,55.1675,-1.6908,United Kingdom,morpeth,is_city
+827,Marlow,51.57,-0.78,United Kingdom,marlow,is_city
+828,Pemberton,53.536,-2.6738,United Kingdom,pemberton,is_city
+829,Verwood,50.8815,-1.8785,United Kingdom,verwood,is_city
+830,Bourne,52.7684,-0.3775,United Kingdom,bourne,is_city
+831,Ringwood,50.85,-1.78,United Kingdom,ringwood,is_city
+832,Brierley Hill,52.4795,-2.1245,United Kingdom,brierley hill,is_city
+833,Streetly,52.577,-1.884,United Kingdom,streetly,is_city
+834,Milford Haven,51.7142,-5.0427,United Kingdom,milford haven,is_city
+835,Bickley,51.4003,0.0466,United Kingdom,bickley,is_city
+836,North Hykeham,53.1819,-0.5849,United Kingdom,north hykeham,is_city
+837,Rustington,50.8102,-0.5052,United Kingdom,rustington,is_city
+838,Eastham,53.313,-2.962,United Kingdom,eastham,is_city
+839,Cosham,50.8424,-1.066,United Kingdom,cosham,is_city
+840,Kidlington,51.823,-1.291,United Kingdom,kidlington,is_city
+841,Knottingley,53.705,-1.249,United Kingdom,knottingley,is_city
+842,Otley,53.905,-1.687,United Kingdom,otley,is_city
+843,Rottingdean,50.815,-0.065,United Kingdom,rottingdean,is_city
+844,Allestree,52.9519,-1.4856,United Kingdom,allestree,is_city
+845,Middlewich,53.192,-2.443,United Kingdom,middlewich,is_city
+846,Bredbury,53.42,-2.113,United Kingdom,bredbury,is_city
+847,Bridport,50.7336,-2.7584,United Kingdom,bridport,is_city
+848,Rossington,53.4759,-1.0613,United Kingdom,rossington,is_city
+849,Hilsea,50.83,-1.07,United Kingdom,hilsea,is_city
+851,Milngavie,55.9421,-4.3137,United Kingdom,milngavie,is_city
+852,Shepshed,52.7711,-1.2951,United Kingdom,shepshed,is_city
+853,Ystrad Mynach,51.6419,-3.2405,United Kingdom,ystrad mynach,is_city
+854,Little Hulton,53.53,-2.418,United Kingdom,little hulton,is_city
+855,Alexandria,55.98,-4.58,United Kingdom,alexandria,is_city
+856,Rosyth,56.0339,-3.4323,United Kingdom,rosyth,is_city
+857,Chaddesden,52.9301,-1.4383,United Kingdom,chaddesden,is_city
+858,Heswall,53.328,-3.099,United Kingdom,heswall,is_city
+859,Amblecote,52.46,-2.16,United Kingdom,amblecote,is_city
+860,Saint Budeaux,50.4033,-4.1856,United Kingdom,saint budeaux,is_city
+861,Egg Buckland,50.4006,-4.1136,United Kingdom,egg buckland,is_city
+862,Bacup,53.704,-2.199,United Kingdom,bacup,is_city
+863,Ampthill,52.0263,-0.4906,United Kingdom,ampthill,is_city
+864,Shirebrook,53.2048,-1.2197,United Kingdom,shirebrook,is_city
+865,Carluke,55.7337,-3.8343,United Kingdom,carluke,is_city
+866,Standish,53.586,-2.664,United Kingdom,standish,is_city
+867,West Boldon,54.9447,-1.4409,United Kingdom,west boldon,is_city
+868,Dingle,53.3774,-2.9613,United Kingdom,dingle,is_city
+869,Whitby,54.4858,-0.6206,United Kingdom,whitby,is_city
+870,Walsall Wood,52.6277,-1.9301,United Kingdom,walsall wood,is_city
+871,Southwick,50.836,-0.239,United Kingdom,southwick,is_city
+872,Knutsford,53.3025,-2.3708,United Kingdom,knutsford,is_city
+873,Broughty Ferry,56.4672,-2.8699,United Kingdom,broughty ferry,is_city
+874,Hamworthy,50.7207,-2.0109,United Kingdom,hamworthy,is_city
+875,Fraserburgh,57.693,-2.005,United Kingdom,fraserburgh,is_city
+876,Wollaston,52.4619,-2.1663,United Kingdom,wollaston,is_city
+877,Uttoxeter,52.898,-1.86,United Kingdom,uttoxeter,is_city
+878,Great Driffield,54.005,-0.438,United Kingdom,great driffield,is_city
+879,Chard,50.8728,-2.9587,United Kingdom,chard,is_city
+880,Goodmayes,51.5584,0.1119,United Kingdom,goodmayes,is_city
+881,Pendlebury,53.5075,-2.3154,United Kingdom,pendlebury,is_city
+883,Milnrow,53.6101,-2.1111,United Kingdom,milnrow,is_city
+884,Holborn,51.5172,-0.1182,United Kingdom,holborn,is_city
+885,Brackley,52.032,-1.147,United Kingdom,brackley,is_city
+886,Midsomer Norton,51.2842,-2.4817,United Kingdom,midsomer norton,is_city
+887,Corsham,51.43,-2.19,United Kingdom,corsham,is_city
+888,Cumnock,55.4529,-4.2638,United Kingdom,cumnock,is_city
+889,Gornalwood,52.523,-2.124,United Kingdom,gornalwood,is_city
+890,Yiewsley,51.513,-0.471,United Kingdom,yiewsley,is_city
+891,Shenley Church End,52.022,-0.788,United Kingdom,shenley church end,is_city
+892,Flint,53.2482,-3.1358,United Kingdom,flint,is_city
+893,Woolton,53.374,-2.865,United Kingdom,woolton,is_city
+894,Leagrave,51.903,-0.466,United Kingdom,leagrave,is_city
+895,Cliftonville,51.3881,1.4046,United Kingdom,cliftonville,is_city
+896,Buckingham,51.995,-0.986,United Kingdom,buckingham,is_city
+897,Chilwell,52.916,-1.235,United Kingdom,chilwell,is_city
+898,Syston,52.7,-1.08,United Kingdom,syston,is_city
+899,Little Lever,53.563,-2.369,United Kingdom,little lever,is_city
+900,Sanderstead,51.3358,-0.0818,United Kingdom,sanderstead,is_city
+901,Chalfont Saint Peter,51.607,-0.556,United Kingdom,chalfont saint peter,is_city
+902,Ainsdale,53.6021,-3.0405,United Kingdom,ainsdale,is_city
+903,Flitwick,52.0038,-0.4966,United Kingdom,flitwick,is_city
+904,Brownhills,52.647,-1.933,United Kingdom,brownhills,is_city
+905,Hornsey,51.587,-0.118,United Kingdom,hornsey,is_city
+906,Sutton on Hull,53.7806,-0.3047,United Kingdom,sutton on hull,is_city
+907,Horndean,50.9136,-0.9961,United Kingdom,horndean,is_city
+908,North Walsham,52.821,1.387,United Kingdom,north walsham,is_city
+909,Galashiels,55.6194,-2.8033,United Kingdom,galashiels,is_city
+910,Selston,53.07,-1.3,United Kingdom,selston,is_city
+911,Forres,57.608,-3.62,United Kingdom,forres,is_city
+912,Wordsley,52.483,-2.15,United Kingdom,wordsley,is_city
+913,Tranent,55.945,-2.954,United Kingdom,tranent,is_city
+914,Sidmouth,50.68,-3.239,United Kingdom,sidmouth,is_city
+915,Croxley Green,51.647,-0.445,United Kingdom,croxley green,is_city
+916,Mablethorpe,53.3409,0.261,United Kingdom,mablethorpe,is_city
+917,Abergavenny,51.824,-3.0167,United Kingdom,abergavenny,is_city
+918,Wolverton,52.0626,-0.8102,United Kingdom,wolverton,is_city
+919,Costessey,52.6602,1.2161,United Kingdom,costessey,is_city
+920,Barton upon Irwell,53.476,-2.36,United Kingdom,barton upon irwell,is_city
+921,Bickenhill,52.439,-1.725,United Kingdom,bickenhill,is_city
+922,Tilbury,51.4606,0.3582,United Kingdom,tilbury,is_city
+923,Chigwell,51.6225,0.0723,United Kingdom,chigwell,is_city
+924,Blunsdon Saint Andrew,51.61,-1.79,United Kingdom,blunsdon saint andrew,is_city
+925,Hersham,51.3681,-0.4008,United Kingdom,hersham,is_city
+926,Spondon,52.92,-1.401,United Kingdom,spondon,is_city
+927,Ashby de la Zouch,52.746,-1.476,United Kingdom,ashby de la zouch,is_city
+928,Coseley,52.55,-2.083,United Kingdom,coseley,is_city
+929,Ovenden,53.7432,-1.8779,United Kingdom,ovenden,is_city
+930,Chepstow,51.642,-2.675,United Kingdom,chepstow,is_city
+931,Lymm,53.3834,-2.475,United Kingdom,lymm,is_city
+932,Lye,52.459,-2.116,United Kingdom,lye,is_city
+933,Thornbury,51.6094,-2.5249,United Kingdom,thornbury,is_city
+934,Dalkeith,55.8958,-3.0583,United Kingdom,dalkeith,is_city
+935,Tonyrefail,51.584,-3.4306,United Kingdom,tonyrefail,is_city
+936,New Mills,53.367,-2.007,United Kingdom,new mills,is_city
+937,Thatto Heath,53.4352,-2.7481,United Kingdom,thatto heath,is_city
+938,Harrow on the Hill,51.5655,-0.3327,United Kingdom,harrow on the hill,is_city
+939,Newhaven,50.8,0.06,United Kingdom,newhaven,is_city
+940,Caldicot,51.591,-2.7492,United Kingdom,caldicot,is_city
+941,Olton,52.4377,-1.8058,United Kingdom,olton,is_city
+942,Cheadle,52.9849,-1.9865,United Kingdom,cheadle,is_city
+943,Bamber Bridge,53.7281,-2.6606,United Kingdom,bamber bridge,is_city
+944,Huntington,53.9926,-1.043,United Kingdom,huntington,is_city
+945,Sedgley,52.54,-2.123,United Kingdom,sedgley,is_city
+946,Beaconsfield,51.6009,-0.6347,United Kingdom,beaconsfield,is_city
+947,Bridgnorth,52.535,-2.4195,United Kingdom,bridgnorth,is_city
+948,Fenton,52.9977,-2.1578,United Kingdom,fenton,is_city
+949,Berwick-Upon-Tweed,55.771,-2.007,United Kingdom,berwick-upon-tweed,is_city
+950,Hwlffordd,51.8,-4.97,United Kingdom,hwlffordd,is_city
+951,Wells,51.209,-2.647,United Kingdom,wells,is_city
+952,Broxburn,55.934,-3.471,United Kingdom,broxburn,is_city
+953,Warsop,53.2,-1.15,United Kingdom,warsop,is_city
+954,Minehead,51.2038,-3.4738,United Kingdom,minehead,is_city
+955,Montrose,56.708,-2.467,United Kingdom,montrose,is_city
+956,Broughton Astley,52.5278,-1.2275,United Kingdom,broughton astley,is_city
+957,Sheerness,51.441,0.76,United Kingdom,sheerness,is_city
+958,Halstead,51.9451,0.6411,United Kingdom,halstead,is_city
+959,Bargoed,51.69,-3.24,United Kingdom,bargoed,is_city
+960,Rushall,52.611,-1.957,United Kingdom,rushall,is_city
+961,Snaresbrook,51.587,0.0146,United Kingdom,snaresbrook,is_city
+962,Sandown,50.6551,-1.1541,United Kingdom,sandown,is_city
+963,Hoyland Nether,53.4985,-1.4406,United Kingdom,hoyland nether,is_city
+964,Ivybridge,50.389,-3.921,United Kingdom,ivybridge,is_city
+965,Torton,52.4522,-2.1606,United Kingdom,torton,is_city
+966,Trentham,52.9663,-2.1899,United Kingdom,trentham,is_city
+967,Hexham,54.971,-2.101,United Kingdom,hexham,is_city
+968,Honiton,50.8,-3.19,United Kingdom,honiton,is_city
+969,Wath upon Dearne,53.5022,-1.3402,United Kingdom,wath upon dearne,is_city
+970,Street,51.1235,-2.7381,United Kingdom,street,is_city
+971,Oswaldtwistle,53.743,-2.393,United Kingdom,oswaldtwistle,is_city
+972,Alsager,53.0961,-2.3048,United Kingdom,alsager,is_city
+973,Market Drayton,52.9044,-2.4848,United Kingdom,market drayton,is_city
+975,Hackney,51.5414,-0.0266,United Kingdom,hackney,is_city
+976,Tring,51.7962,-0.6592,United Kingdom,tring,is_city
+977,Devizes,51.353,-1.994,United Kingdom,devizes,is_city
+978,Sowerby Bridge,53.71,-1.91,United Kingdom,sowerby bridge,is_city
+979,Risca,51.608,-3.091,United Kingdom,risca,is_city
+980,Leominster,52.2282,-2.7385,United Kingdom,leominster,is_city
+981,Ulverston,54.193,-3.09,United Kingdom,ulverston,is_city
+982,Elland,53.683,-1.84,United Kingdom,elland,is_city
+983,Prudhoe,54.961,-1.849,United Kingdom,prudhoe,is_city
+984,Bolsover,53.2304,-1.2875,United Kingdom,bolsover,is_city
+985,Bryn,53.499,-2.657,United Kingdom,bryn,is_city
+986,Sandy,52.131,-0.297,United Kingdom,sandy,is_city
+987,Henley on Thames,51.536,-0.898,United Kingdom,henley on thames,is_city
+988,Ascot,51.4084,-0.6707,United Kingdom,ascot,is_city
+989,Sunninghill,51.405,-0.656,United Kingdom,sunninghill,is_city
+990,Stonehaven,56.964,-2.211,United Kingdom,stonehaven,is_city
+991,Abertillery,51.73,-3.13,United Kingdom,abertillery,is_city
+992,Wallingford,51.599,-1.125,United Kingdom,wallingford,is_city
+993,Thame,51.75,-0.97,United Kingdom,thame,is_city
+994,Belgrave,52.6566,-1.1262,United Kingdom,belgrave,is_city
+995,Wanstead,51.5778,0.0286,United Kingdom,wanstead,is_city
+996,Blundellsands,53.48,-3.05,United Kingdom,blundellsands,is_city
+997,Brislington,51.4316,-2.5439,United Kingdom,brislington,is_city
+998,Gourock,55.9538,-4.8173,United Kingdom,gourock,is_city
+999,Pelsall,52.631,-1.972,United Kingdom,pelsall,is_city
+1000,Tadley,51.3506,-1.1376,United Kingdom,tadley,is_city
+1001,Culcheth,53.4517,-2.5218,United Kingdom,culcheth,is_city
+1002,Sandridge,51.7808,-0.3038,United Kingdom,sandridge,is_city
+1003,Holyhead,53.309,-4.633,United Kingdom,holyhead,is_city
+1004,Haydock,53.4678,-2.6609,United Kingdom,haydock,is_city
+1005,Carnoustie,56.5005,-2.7147,United Kingdom,carnoustie,is_city
+1006,Wealdstone,51.5957,-0.3352,United Kingdom,wealdstone,is_city
+1007,Greetland,53.6869,-1.8714,United Kingdom,greetland,is_city
+1008,Stainland,53.6728,-1.8805,United Kingdom,stainland,is_city
+1010,Royal Wootton Bassett,51.533,-1.9,United Kingdom,royal wootton bassett,is_city
+1011,Buckhurst Hill,51.632,0.036,United Kingdom,buckhurst hill,is_city
+1012,Harrow Weald,51.604,-0.339,United Kingdom,harrow weald,is_city
+1013,Newtown,52.5132,-3.3141,United Kingdom,newtown,is_city
+1014,Knowsley,53.4498,-2.8501,United Kingdom,knowsley,is_city
+1015,Wantage,51.589,-1.427,United Kingdom,wantage,is_city
+1016,Leatherhead,51.295,-0.329,United Kingdom,leatherhead,is_city
+1017,Burslem,53.0426,-2.1879,United Kingdom,burslem,is_city
+1018,Oxted,51.257,-0.006,United Kingdom,oxted,is_city
+1019,Hipperholme,53.7258,-1.812,United Kingdom,hipperholme,is_city
+1020,Chorleywood,51.65,-0.51,United Kingdom,chorleywood,is_city
+1021,Stanwell,51.457,-0.4715,United Kingdom,stanwell,is_city
+1022,Astley,53.5008,-2.4454,United Kingdom,astley,is_city
+1023,Burtonwood,53.4302,-2.6614,United Kingdom,burtonwood,is_city
+1024,Maryport,54.7128,-3.4926,United Kingdom,maryport,is_city
+1025,Saltcoats,55.6352,-4.7896,United Kingdom,saltcoats,is_city
+1026,Holywood,54.636,-5.845,United Kingdom,holywood,is_city
+1027,Kingsnorth,51.1178,0.8615,United Kingdom,kingsnorth,is_city
+1028,Cranleigh,51.1363,-0.4784,United Kingdom,cranleigh,is_city
+1029,Largs,55.794,-4.867,United Kingdom,largs,is_city
+1030,Crayford,51.4491,0.1812,United Kingdom,crayford,is_city
+1032,Castle Bromwich,52.505,-1.7856,United Kingdom,castle bromwich,is_city
+1033,Dorking,51.234,-0.3318,United Kingdom,dorking,is_city
+1034,Prescot,53.422,-2.814,United Kingdom,prescot,is_city
+1035,Ilfracombe,51.208,-4.12,United Kingdom,ilfracombe,is_city
+1036,Wootton,52.2007,-0.8857,United Kingdom,wootton,is_city
+1037,Helston,50.1,-5.27,United Kingdom,helston,is_city
+1038,Shoeburyness,51.5316,0.7978,United Kingdom,shoeburyness,is_city
+1039,Eckington,53.308,-1.3643,United Kingdom,eckington,is_city
+1040,Aylestone,52.604,-1.154,United Kingdom,aylestone,is_city
+1041,Dorridge,52.372,-1.7554,United Kingdom,dorridge,is_city
+1042,Evington,52.621,-1.072,United Kingdom,evington,is_city
+1043,Southborough,51.1598,0.2652,United Kingdom,southborough,is_city
+1044,Iver,51.521,-0.507,United Kingdom,iver,is_city
+1045,Barton upon Humber,53.6833,-0.45,United Kingdom,barton upon humber,is_city
+1046,Timperley,53.387,-2.328,United Kingdom,timperley,is_city
+1047,Whitchurch,51.4064,-2.5594,United Kingdom,whitchurch,is_city
+1048,Great Wyrley,52.6593,-2.0102,United Kingdom,great wyrley,is_city
+1049,Epping,51.7004,0.1087,United Kingdom,epping,is_city
+1050,Bottesford,53.5521,-0.6714,United Kingdom,bottesford,is_city
+1051,Tavistock,50.545,-4.15,United Kingdom,tavistock,is_city
+1052,Churchdown,51.88,-2.17,United Kingdom,churchdown,is_city
+1053,Cudworth,53.5784,-1.4149,United Kingdom,cudworth,is_city
+1054,Hellesdon,52.6485,1.2509,United Kingdom,hellesdon,is_city
+1055,Highgate,51.5716,-0.1448,United Kingdom,highgate,is_city
+1056,Ardrossan,55.6432,-4.8097,United Kingdom,ardrossan,is_city
+1057,Oakham,52.6705,-0.7333,United Kingdom,oakham,is_city
+1058,Ponteland,55.048,-1.747,United Kingdom,ponteland,is_city
+1059,Mossley,53.5147,-2.0387,United Kingdom,mossley,is_city
+1060,Hollinwood,53.5183,-2.144,United Kingdom,hollinwood,is_city
+1061,Inverurie,57.28,-2.38,United Kingdom,inverurie,is_city
+1062,Soham,52.3338,0.3361,United Kingdom,soham,is_city
+1063,Rainhill,53.4157,-2.7625,United Kingdom,rainhill,is_city
+1064,Stranraer,54.902,-5.027,United Kingdom,stranraer,is_city
+1065,Earlestown,53.45,-2.65,United Kingdom,earlestown,is_city
+1066,Great Harwood,53.786,-2.408,United Kingdom,great harwood,is_city
+1067,Methil,56.1844,-3.0223,United Kingdom,methil,is_city
+1068,Wooburn,51.581,-0.691,United Kingdom,wooburn,is_city
+1069,Flixton,53.447,-2.391,United Kingdom,flixton,is_city
+1070,Parkstone,50.71,-1.95,United Kingdom,parkstone,is_city
+1071,Barnoldswick,53.9147,-2.1895,United Kingdom,barnoldswick,is_city
+1072,Stannington,53.396,-1.536,United Kingdom,stannington,is_city
+1073,Selsey,50.735,-0.7898,United Kingdom,selsey,is_city
+1075,Amesbury,51.17,-1.77,United Kingdom,amesbury,is_city
+1076,Ross on Wye,51.914,-2.587,United Kingdom,ross on wye,is_city
+1077,Desborough,52.4398,-0.8172,United Kingdom,desborough,is_city
+1078,Hatch End,51.601,-0.3743,United Kingdom,hatch end,is_city
+1079,Darfield,53.538,-1.3812,United Kingdom,darfield,is_city
+1080,Knowle,52.3881,-1.7318,United Kingdom,knowle,is_city
+1081,Aylesford,51.3033,0.4796,United Kingdom,aylesford,is_city
+1082,Cookstown,54.647,-6.745,United Kingdom,cookstown,is_city
+1083,North Tidworth,51.237,-1.664,United Kingdom,north tidworth,is_city
+1084,Longbenton,55.0,-1.57,United Kingdom,longbenton,is_city
+1085,Bishops Cleeve,51.947,-2.061,United Kingdom,bishops cleeve,is_city
+1086,Blandford Forum,50.856,-2.1648,United Kingdom,blandford forum,is_city
+1087,Englefield Green,51.4301,-0.5699,United Kingdom,englefield green,is_city
+1088,Felton,51.51,-2.574,United Kingdom,felton,is_city
+1089,Kingsteignton,50.5458,-3.5962,United Kingdom,kingsteignton,is_city
+1090,Abergele,53.28,-3.58,United Kingdom,abergele,is_city
+1092,Whitburn,55.8621,-3.6872,United Kingdom,whitburn,is_city
+1093,Monmouth,51.81,-2.72,United Kingdom,monmouth,is_city
+1094,Ryhope,54.8679,-1.3698,United Kingdom,ryhope,is_city
+1095,Fort William,56.8198,-5.1052,United Kingdom,fort william,is_city
+1096,Holbeach,52.8037,0.0154,United Kingdom,holbeach,is_city
+1097,Chatteris,52.456,0.055,United Kingdom,chatteris,is_city
+1098,Eccleston,53.4539,-2.7748,United Kingdom,eccleston,is_city
+1099,Scartho,53.5399,-0.0926,United Kingdom,scartho,is_city
+1100,Cowes,50.7595,-1.3002,United Kingdom,cowes,is_city
+1101,Charlton Kings,51.8877,-2.0413,United Kingdom,charlton kings,is_city
+1102,Ickenham,51.558,-0.4484,United Kingdom,ickenham,is_city
+1103,Shepton Mallet,51.193,-2.546,United Kingdom,shepton mallet,is_city
+1104,Prestonpans,55.9597,-2.961,United Kingdom,prestonpans,is_city
+1105,Mildenhall,52.3446,0.5089,United Kingdom,mildenhall,is_city
+1106,Broadstone,50.7605,-1.995,United Kingdom,broadstone,is_city
+1107,Spitalfields,51.5166,-0.075,United Kingdom,spitalfields,is_city
+1108,Cheam,51.36,-0.21,United Kingdom,cheam,is_city
+1109,Ludlow,52.368,-2.718,United Kingdom,ludlow,is_city
+1110,Appleton,53.3508,-2.5441,United Kingdom,appleton,is_city
+1111,Lemington,54.972,-1.723,United Kingdom,lemington,is_city
+1112,Snodland,51.328,0.4467,United Kingdom,snodland,is_city
+1113,Castleton,53.5907,-2.1737,United Kingdom,castleton,is_city
+1114,Rogerstone,51.5906,-3.0537,United Kingdom,rogerstone,is_city
+1115,Hucclecote,51.85,-2.18,United Kingdom,hucclecote,is_city
+1116,Great Missenden,51.7042,-0.7078,United Kingdom,great missenden,is_city
+1117,Corfe Mullen,50.7701,-2.0175,United Kingdom,corfe mullen,is_city
+1118,Beccles,52.458,1.563,United Kingdom,beccles,is_city
+1119,Padiham,53.797,-2.311,United Kingdom,padiham,is_city
+1120,Worsley,53.5093,-2.3845,United Kingdom,worsley,is_city
+1121,Warfield,51.442,-0.737,United Kingdom,warfield,is_city
+1122,Mold,53.166,-3.133,United Kingdom,mold,is_city
+1123,Chapeltown,53.462,-1.466,United Kingdom,chapeltown,is_city
+1124,Southwater,51.0238,-0.3526,United Kingdom,southwater,is_city
+1125,Horbury,53.6595,-1.5566,United Kingdom,horbury,is_city
+1126,Shevington,53.572,-2.69,United Kingdom,shevington,is_city
+1127,Downham Market,52.6,0.39,United Kingdom,downham market,is_city
+1128,Euxton,53.662,-2.674,United Kingdom,euxton,is_city
+1129,Marton,54.5406,-1.2124,United Kingdom,marton,is_city
+1130,Shildon,54.63,-1.65,United Kingdom,shildon,is_city
+1131,Bishopstoke,50.9679,-1.3278,United Kingdom,bishopstoke,is_city
+1132,Aberaman,51.7,-3.4333,United Kingdom,aberaman,is_city
+1133,Birchington,51.377,1.305,United Kingdom,birchington,is_city
+1134,Handsworth,53.37,-1.4,United Kingdom,handsworth,is_city
+1135,Haddington,55.958,-2.774,United Kingdom,haddington,is_city
+1136,Aldenham,51.6723,-0.3546,United Kingdom,aldenham,is_city
+1137,Baldock,51.99,-0.19,United Kingdom,baldock,is_city
+1138,Worth,51.113,-0.147,United Kingdom,worth,is_city
+1139,Stocksbridge,53.478,-1.588,United Kingdom,stocksbridge,is_city
+1140,Kilsyth,55.98,-4.06,United Kingdom,kilsyth,is_city
+1141,Ellon,57.366,-2.086,United Kingdom,ellon,is_city
+1142,Abram,53.508,-2.588,United Kingdom,abram,is_city
+1143,Caernarfon,53.14,-4.27,United Kingdom,caernarfon,is_city
+1144,Ollerton,53.2,-1.02,United Kingdom,ollerton,is_city
+1145,Choppington,55.145,-1.601,United Kingdom,choppington,is_city
+1146,Kippax,53.7669,-1.3705,United Kingdom,kippax,is_city
+1147,Tottington,53.613,-2.339,United Kingdom,tottington,is_city
+1149,Dodworth,53.5417,-1.5214,United Kingdom,dodworth,is_city
+1150,Nairn,57.586,-3.869,United Kingdom,nairn,is_city
+1151,Balderton,53.0549,-0.7727,United Kingdom,balderton,is_city
+1152,Shepperton,51.39,-0.46,United Kingdom,shepperton,is_city
+1153,Pembroke Dock,51.6933,-4.9458,United Kingdom,pembroke dock,is_city
+1154,Felpham,50.7905,-0.6539,United Kingdom,felpham,is_city
+1155,Cobham,51.329,-0.409,United Kingdom,cobham,is_city
+1156,Raynes Park,51.4033,-0.2321,United Kingdom,raynes park,is_city
+1157,Rhosllanerchrugog,53.011,-3.052,United Kingdom,rhosllanerchrugog,is_city
+1158,Lambeth,51.4903,-0.1193,United Kingdom,lambeth,is_city
+1159,Bradwell,52.05,-0.787,United Kingdom,bradwell,is_city
+1160,Glenfield,52.6491,-1.2062,United Kingdom,glenfield,is_city
+1161,Immingham,53.6139,-0.2183,United Kingdom,immingham,is_city
+1162,Hockley,51.6014,0.6363,United Kingdom,hockley,is_city
+1163,Swanage,50.608,-1.96,United Kingdom,swanage,is_city
+1164,Boxley,51.3024,0.5429,United Kingdom,boxley,is_city
+1165,Matlock,53.14,-1.55,United Kingdom,matlock,is_city
+1166,Newburn,54.983,-1.743,United Kingdom,newburn,is_city
+1167,Skelton,54.5619,-0.9874,United Kingdom,skelton,is_city
+1168,Sherborne,50.9469,-2.5171,United Kingdom,sherborne,is_city
+1169,Tadworth,51.294,-0.242,United Kingdom,tadworth,is_city
+1170,Worsborough,53.52,-1.47,United Kingdom,worsborough,is_city
+1171,London Colney,51.726,-0.3,United Kingdom,london colney,is_city
+1172,Emsworth,50.849,-0.938,United Kingdom,emsworth,is_city
+1173,Llantwit Major,51.4062,-3.475,United Kingdom,llantwit major,is_city
+1174,Bewdley,52.3752,-2.3162,United Kingdom,bewdley,is_city
+1175,Killamarsh,53.3205,-1.3116,United Kingdom,killamarsh,is_city
+1176,South Normanton,53.107,-1.343,United Kingdom,south normanton,is_city
+1177,Bradford-on-Avon,51.347,-2.251,United Kingdom,bradford-on-avon,is_city
+1178,Horsell,51.3286,-0.5617,United Kingdom,horsell,is_city
+1179,Broadwater,50.8282,-0.3742,United Kingdom,broadwater,is_city
+1180,Wilnecote,52.6081,-1.6677,United Kingdom,wilnecote,is_city
+1181,Kirkwall,58.981,-2.96,United Kingdom,kirkwall,is_city
+1182,Ledbury,52.0339,-2.4235,United Kingdom,ledbury,is_city
+1183,Crigglestone,53.644,-1.5226,United Kingdom,crigglestone,is_city
+1184,Towcester,52.13,-0.99,United Kingdom,towcester,is_city
+1185,Bowdon,53.376,-2.366,United Kingdom,bowdon,is_city
+1186,Bude,50.824,-4.542,United Kingdom,bude,is_city
+1187,Clay Cross,53.1637,-1.4128,United Kingdom,clay cross,is_city
+1188,Launceston,50.635,-4.354,United Kingdom,launceston,is_city
+1189,Cullercoats,55.033,-1.433,United Kingdom,cullercoats,is_city
+1190,Cupar,56.32,-3.01,United Kingdom,cupar,is_city
+1191,Aberbargoed,51.6968,-3.224,United Kingdom,aberbargoed,is_city
+1192,Tiptree,51.81,0.75,United Kingdom,tiptree,is_city
+1193,Burscough,53.596,-2.843,United Kingdom,burscough,is_city
+1194,Yaxley,52.52,-0.26,United Kingdom,yaxley,is_city
+1195,Pencoed,51.5228,-3.5047,United Kingdom,pencoed,is_city
+1196,Brandon,52.4474,0.6242,United Kingdom,brandon,is_city
+1197,Larbert,56.0229,-3.826,United Kingdom,larbert,is_city
+1198,Bingham,52.952,-0.953,United Kingdom,bingham,is_city
+1199,Stevenston,55.645,-4.758,United Kingdom,stevenston,is_city
+1200,Whitnash,52.268,-1.524,United Kingdom,whitnash,is_city
+1201,Usworth,54.94,-1.55,United Kingdom,usworth,is_city
+1202,Portlethen,57.061,-2.13,United Kingdom,portlethen,is_city
+1203,Dinnington,53.3667,-1.2,United Kingdom,dinnington,is_city
+1204,Frodsham,53.295,-2.725,United Kingdom,frodsham,is_city
+1205,Shanklin,50.631,-1.1734,United Kingdom,shanklin,is_city
+1206,Armadale,55.8978,-3.7047,United Kingdom,armadale,is_city
+1207,Bonhill,55.983,-4.567,United Kingdom,bonhill,is_city
+1208,Eaton Socon,52.22,-0.29,United Kingdom,eaton socon,is_city
+1209,Rye,50.95,0.73,United Kingdom,rye,is_city
+1210,Queensferry,55.99,-3.398,United Kingdom,queensferry,is_city
+1211,Barwell,52.5682,-1.3462,United Kingdom,barwell,is_city
+1212,Blairgowrie,56.5916,-3.3405,United Kingdom,blairgowrie,is_city
+1213,Bovingdon,51.7231,-0.5367,United Kingdom,bovingdon,is_city
+1214,Dunblane,56.1838,-3.9674,United Kingdom,dunblane,is_city
+1215,Ferryhill,54.69,-1.55,United Kingdom,ferryhill,is_city
+1216,Hayle,50.183,-5.416,United Kingdom,hayle,is_city
+1217,Glastonbury,51.1485,-2.714,United Kingdom,glastonbury,is_city
+1218,Felling,54.95,-1.564,United Kingdom,felling,is_city
+1219,Great Cornard,52.0245,0.7497,United Kingdom,great cornard,is_city
+1220,Caister-on-Sea,52.651,1.733,United Kingdom,caister-on-sea,is_city
+1221,Irthlingborough,52.324,-0.614,United Kingdom,irthlingborough,is_city
+1222,Sandiacre,52.923,-1.291,United Kingdom,sandiacre,is_city
+1223,Holywell,53.274,-3.223,United Kingdom,holywell,is_city
+1224,Partick,55.8699,-4.3125,United Kingdom,partick,is_city
+1225,Ifield,51.1234,-0.2073,United Kingdom,ifield,is_city
+1226,Leven,56.195,-2.9942,United Kingdom,leven,is_city
+1227,Rhymney,51.759,-3.283,United Kingdom,rhymney,is_city
+1228,Kirk of Shotts,55.823,-3.804,United Kingdom,kirk of shotts,is_city
+1229,Great Dunmow,51.873,0.3617,United Kingdom,great dunmow,is_city
+1230,Brimington,53.258,-1.3905,United Kingdom,brimington,is_city
+1231,Cherry Hinton,52.1849,0.176,United Kingdom,cherry hinton,is_city
+1233,Lydney,51.7286,-2.5285,United Kingdom,lydney,is_city
+1234,Cockermouth,54.6613,-3.362,United Kingdom,cockermouth,is_city
+1235,Littleport,52.4568,0.3046,United Kingdom,littleport,is_city
+1236,Atherstone,52.5787,-1.5462,United Kingdom,atherstone,is_city
+1237,Raunds,52.345,-0.537,United Kingdom,raunds,is_city
+1238,Chapel en le Frith,53.322,-1.917,United Kingdom,chapel en le frith,is_city
+1239,Canford Cliffs,50.7,-1.93,United Kingdom,canford cliffs,is_city
+1240,Whitwick,52.7403,-1.3556,United Kingdom,whitwick,is_city
+1241,Polegate,50.8216,0.2442,United Kingdom,polegate,is_city
+1242,Oban,56.412,-5.472,United Kingdom,oban,is_city
+1243,Sompting,50.8303,-0.3395,United Kingdom,sompting,is_city
+1244,Meltham,53.592,-1.85,United Kingdom,meltham,is_city
+1245,Worplesdon,51.272,-0.612,United Kingdom,worplesdon,is_city
+1246,Penkridge,52.7252,-2.1164,United Kingdom,penkridge,is_city
+1247,Clayton le Moors,53.775,-2.384,United Kingdom,clayton le moors,is_city
+1248,Oakengates,52.695,-2.451,United Kingdom,oakengates,is_city
+1249,Bedwas,51.5926,-3.2061,United Kingdom,bedwas,is_city
+1250,West Auckland,54.6318,-1.721,United Kingdom,west auckland,is_city
+1251,Hughenden,51.6558,-0.749,United Kingdom,hughenden,is_city
+1252,Carlton Colville,52.454,1.691,United Kingdom,carlton colville,is_city
+1253,Skewen,51.6609,-3.8399,United Kingdom,skewen,is_city
+1254,Cullompton,50.855,-3.393,United Kingdom,cullompton,is_city
+1255,Blackwood,51.67,-3.19,United Kingdom,blackwood,is_city
+1256,Bersted,50.797,-0.689,United Kingdom,bersted,is_city
+1257,Cinderford,51.8225,-2.4989,United Kingdom,cinderford,is_city
+1258,Liphook,51.076,-0.803,United Kingdom,liphook,is_city
+1259,Dunbar,56.0027,-2.5169,United Kingdom,dunbar,is_city
+1260,Ramsey,52.45,-0.12,United Kingdom,ramsey,is_city
+1261,Rochford,51.5821,0.7065,United Kingdom,rochford,is_city
+1262,Sawbridgeworth,51.814,0.15,United Kingdom,sawbridgeworth,is_city
+1263,Great Billing,52.2577,-0.8222,United Kingdom,great billing,is_city
+1264,Narborough,52.5727,-1.2023,United Kingdom,narborough,is_city
+1265,Audley,53.053,-2.304,United Kingdom,audley,is_city
+1266,Hornsea,53.9108,-0.1676,United Kingdom,hornsea,is_city
+1267,Haxby,54.016,-1.075,United Kingdom,haxby,is_city
+1268,Welwyn,51.831,-0.215,United Kingdom,welwyn,is_city
+1269,Polesworth,52.6152,-1.6174,United Kingdom,polesworth,is_city
+1271,Seaton,50.705,-3.078,United Kingdom,seaton,is_city
+1272,Woodchurch,53.375,-3.084,United Kingdom,woodchurch,is_city
+1273,Marlborough,51.42,-1.73,United Kingdom,marlborough,is_city
+1274,Annan,54.983,-3.266,United Kingdom,annan,is_city
+1275,Yarm,54.505,-1.348,United Kingdom,yarm,is_city
+1276,Aveley,51.5018,0.2534,United Kingdom,aveley,is_city
+1277,Peebles,55.65,-3.18,United Kingdom,peebles,is_city
+1278,Birtley,54.9,-1.577,United Kingdom,birtley,is_city
+1279,Torpoint,50.376,-4.205,United Kingdom,torpoint,is_city
+1280,Coleford,51.791,-2.6162,United Kingdom,coleford,is_city
+1281,Windermere,54.376,-2.907,United Kingdom,windermere,is_city
+1282,Glascote,52.6245,-1.668,United Kingdom,glascote,is_city
+1283,Aughton,53.542,-2.912,United Kingdom,aughton,is_city
+1284,Pocklington,53.9309,-0.7781,United Kingdom,pocklington,is_city
+1285,Harlington,53.481,-1.182,United Kingdom,harlington,is_city
+1286,Buckie,57.676,-2.965,United Kingdom,buckie,is_city
+1287,Tanfield,54.897,-1.703,United Kingdom,tanfield,is_city
+1288,Silsden,53.914,-1.937,United Kingdom,silsden,is_city
+1289,Paddock Wood,51.1756,0.3955,United Kingdom,paddock wood,is_city
+1291,Lanark,55.6749,-3.777,United Kingdom,lanark,is_city
+1292,Brecon,51.948,-3.391,United Kingdom,brecon,is_city
+1293,Toton,52.907,-1.254,United Kingdom,toton,is_city
+1294,Billingshurst,51.0226,-0.4508,United Kingdom,billingshurst,is_city
+1295,Mountsorrel,52.7167,-1.15,United Kingdom,mountsorrel,is_city
+1296,Radcliffe on Trent,52.947,-1.04,United Kingdom,radcliffe on trent,is_city
+1297,Bramley,53.4253,-1.2648,United Kingdom,bramley,is_city
+1298,Egremont,54.484,-3.5306,United Kingdom,egremont,is_city
+1299,Brierfield,53.824,-2.235,United Kingdom,brierfield,is_city
+1300,Gowerton,51.648,-4.043,United Kingdom,gowerton,is_city
+1301,Walmer,51.2043,1.3985,United Kingdom,walmer,is_city
+1302,Heybridge,51.7417,0.6897,United Kingdom,heybridge,is_city
+1303,Goffs Oak,51.7109,-0.0825,United Kingdom,goffs oak,is_city
+1304,Cam,51.7,-2.3667,United Kingdom,cam,is_city
+1305,Highworth,51.631,-1.712,United Kingdom,highworth,is_city
+1306,Shinfield,51.408,-0.947,United Kingdom,shinfield,is_city
+1307,Bucksburn,57.177,-2.175,United Kingdom,bucksburn,is_city
+1308,Witley,51.15,-0.646,United Kingdom,witley,is_city
+1309,Dalton in Furness,54.1544,-3.1814,United Kingdom,dalton in furness,is_city
+1310,Merstham,51.264,-0.153,United Kingdom,merstham,is_city
+1311,Wistaston,53.0821,-2.4747,United Kingdom,wistaston,is_city
+1312,Alnwick,55.4134,-1.7069,United Kingdom,alnwick,is_city
+1313,Old Colwyn,53.291,-3.704,United Kingdom,old colwyn,is_city
+1314,Monifieth,56.481,-2.82,United Kingdom,monifieth,is_city
+1315,Ystradgynlais,51.781,-3.7511,United Kingdom,ystradgynlais,is_city
+1316,Horden,54.764,-1.315,United Kingdom,horden,is_city
+1317,Brightlingsea,51.81,1.03,United Kingdom,brightlingsea,is_city
+1318,Totnes,50.432,-3.684,United Kingdom,totnes,is_city
+1319,Caerleon,51.615,-2.959,United Kingdom,caerleon,is_city
+1320,Stornoway,58.209,-6.387,United Kingdom,stornoway,is_city
+1321,Warlingham,51.3095,-0.0574,United Kingdom,warlingham,is_city
+1322,Merrow,51.2463,-0.5279,United Kingdom,merrow,is_city
+1323,Trumpington,52.174,0.109,United Kingdom,trumpington,is_city
+1324,Wroughton,51.525,-1.792,United Kingdom,wroughton,is_city
+1325,Radlett,51.685,-0.318,United Kingdom,radlett,is_city
+1326,Bearsted,51.2738,0.5789,United Kingdom,bearsted,is_city
+1327,Exhall,52.47,-1.48,United Kingdom,exhall,is_city
+1328,Hawkinge,51.117,1.1638,United Kingdom,hawkinge,is_city
+1329,Goring by Sea,50.8122,-0.4244,United Kingdom,goring by sea,is_city
+1330,Loftus,54.5569,-0.8919,United Kingdom,loftus,is_city
+1331,Princes Risborough,51.724,-0.8344,United Kingdom,princes risborough,is_city
+1332,Seasalter,51.3456,0.9981,United Kingdom,seasalter,is_city
+1333,Newbold,53.2519,-1.4461,United Kingdom,newbold,is_city
+1334,Coppull,53.62,-2.661,United Kingdom,coppull,is_city
+1335,Harworth,53.417,-1.075,United Kingdom,harworth,is_city
+1336,Willerby,53.7633,-0.4504,United Kingdom,willerby,is_city
+1337,Denny,56.018,-3.907,United Kingdom,denny,is_city
+1338,Thurso,58.596,-3.521,United Kingdom,thurso,is_city
+1339,Newport-On-Tay,56.4402,-2.941,United Kingdom,newport-on-tay,is_city
+1340,Wadebridge,50.517,-4.835,United Kingdom,wadebridge,is_city
+1341,Bollington,53.298,-2.093,United Kingdom,bollington,is_city
+1342,Binfield,51.432,-0.792,United Kingdom,binfield,is_city
+1343,Kinmel,53.31,-3.519,United Kingdom,kinmel,is_city
+1344,Latchford,53.3796,-2.5645,United Kingdom,latchford,is_city
+1345,Sileby,52.731,-1.106,United Kingdom,sileby,is_city
+1346,Crediton,50.791,-3.656,United Kingdom,crediton,is_city
+1347,Millom,54.2096,-3.2702,United Kingdom,millom,is_city
+1348,Rainworth,53.1197,-1.1235,United Kingdom,rainworth,is_city
+1349,Edenbridge,51.197,0.065,United Kingdom,edenbridge,is_city
+1350,Willesborough,51.1386,0.8957,United Kingdom,willesborough,is_city
+1351,West Thurrock,51.4836,0.282,United Kingdom,west thurrock,is_city
+1352,Rainford,53.503,-2.783,United Kingdom,rainford,is_city
+1353,Annfield Plain,54.857,-1.737,United Kingdom,annfield plain,is_city
+1354,Cross Gates,53.8063,-1.4506,United Kingdom,cross gates,is_city
+1355,Hook,51.2773,-0.9633,United Kingdom,hook,is_city
+1356,Stopsley,51.899,-0.396,United Kingdom,stopsley,is_city
+1357,Woodbridge,52.094,1.318,United Kingdom,woodbridge,is_city
+1358,Stony Stratford,52.0567,-0.8526,United Kingdom,stony stratford,is_city
+1359,Tenterden,51.0696,0.6898,United Kingdom,tenterden,is_city
+1360,Stonehouse,51.7478,-2.2838,United Kingdom,stonehouse,is_city
+1361,Byfleet,51.34,-0.47,United Kingdom,byfleet,is_city
+1362,Longridge,53.831,-2.597,United Kingdom,longridge,is_city
+1364,Cromer,52.931,1.302,United Kingdom,cromer,is_city
+1365,Treorchy,51.6594,-3.5055,United Kingdom,treorchy,is_city
+1366,Hassocks,50.9233,-0.1509,United Kingdom,hassocks,is_city
+1367,Kingsbury,52.5614,-1.6917,United Kingdom,kingsbury,is_city
+1368,Wivenhoe,51.8667,0.9625,United Kingdom,wivenhoe,is_city
+1369,Fakenham,52.8356,0.851,United Kingdom,fakenham,is_city
+1370,Angmering,50.8288,-0.4846,United Kingdom,angmering,is_city
+1371,Rhos-on-Sea,53.309,-3.738,United Kingdom,rhos-on-sea,is_city
+1372,Sundon,51.92,-0.47,United Kingdom,sundon,is_city
+1373,Codsall,52.6267,-2.1924,United Kingdom,codsall,is_city
+1374,Diss,52.3812,1.1079,United Kingdom,diss,is_city
+1375,Saint Agnes,50.312,-5.204,United Kingdom,saint agnes,is_city
+1376,Banchory,57.055,-2.49,United Kingdom,banchory,is_city
+1377,Pembroke,51.676,-4.9158,United Kingdom,pembroke,is_city
+1378,Yatton,51.3855,-2.8256,United Kingdom,yatton,is_city
+1379,Clydach,51.69,-3.91,United Kingdom,clydach,is_city
+1380,Cramond,55.9797,-3.3007,United Kingdom,cramond,is_city
+1381,Hucknall under Huthwaite,53.125,-1.301,United Kingdom,hucknall under huthwaite,is_city
+1382,Whitworth,53.663,-2.177,United Kingdom,whitworth,is_city
+1384,Currie,55.896,-3.3074,United Kingdom,currie,is_city
+1385,Dinas Powys,51.4331,-3.2134,United Kingdom,dinas powys,is_city
+1386,Northam,51.0393,-4.2104,United Kingdom,northam,is_city
+1387,Strathaven,55.677,-4.065,United Kingdom,strathaven,is_city
+1388,Norton Canes,52.6833,-1.9666,United Kingdom,norton canes,is_city
+1389,Littleborough,53.644,-2.098,United Kingdom,littleborough,is_city
+1390,Boultham,53.214,-0.5561,United Kingdom,boultham,is_city
+1391,Chobham,51.348,-0.604,United Kingdom,chobham,is_city
+1392,Burton Latimer,52.365,-0.678,United Kingdom,burton latimer,is_city
+1393,Clowne,53.276,-1.263,United Kingdom,clowne,is_city
+1394,Ripponden,53.672,-1.946,United Kingdom,ripponden,is_city
+1395,Waltham Cross,51.686,-0.0331,United Kingdom,waltham cross,is_city
+1396,Pyle,51.5291,-3.6953,United Kingdom,pyle,is_city
+1397,Wendover,51.768,-0.7463,United Kingdom,wendover,is_city
+1398,Harefield,51.6034,-0.478,United Kingdom,harefield,is_city
+1399,Wickersley,53.4199,-1.2792,United Kingdom,wickersley,is_city
+1400,Brockworth,51.85,-2.15,United Kingdom,brockworth,is_city
+1401,Durrington,51.199,-1.775,United Kingdom,durrington,is_city
+1402,Upholland,53.541,-2.728,United Kingdom,upholland,is_city
+1403,Mountain Ash,51.6814,-3.3792,United Kingdom,mountain ash,is_city
+1404,Crieff,56.3757,-3.8426,United Kingdom,crieff,is_city
+1405,Sheringham,52.94,1.213,United Kingdom,sheringham,is_city
+1406,Shenstone,52.637,-1.841,United Kingdom,shenstone,is_city
+1407,Braunton,51.11,-4.162,United Kingdom,braunton,is_city
+1408,Bannockburn,56.09,-3.91,United Kingdom,bannockburn,is_city
+1409,Greenhill,51.36,1.103,United Kingdom,greenhill,is_city
+1410,Wick,58.454,-3.089,United Kingdom,wick,is_city
+1411,Brewood,52.6769,-2.1738,United Kingdom,brewood,is_city
+1412,Partington,53.42,-2.43,United Kingdom,partington,is_city
+1414,Shaftesbury,51.0059,-2.1969,United Kingdom,shaftesbury,is_city
+1415,Southwell,53.078,-0.955,United Kingdom,southwell,is_city
+1416,Titchfield,50.8491,-1.2344,United Kingdom,titchfield,is_city
+1417,Bramcote,52.934,-1.242,United Kingdom,bramcote,is_city
+1418,Swaffham,52.6529,0.6843,United Kingdom,swaffham,is_city
+1419,Roby,53.413,-2.852,United Kingdom,roby,is_city
+1420,Basing,51.2704,-1.0473,United Kingdom,basing,is_city
+1421,Kinvere,52.4488,-2.228,United Kingdom,kinvere,is_city
+1422,Peterculter,57.097,-2.2657,United Kingdom,peterculter,is_city
+1423,Ruddington,52.893,-1.15,United Kingdom,ruddington,is_city
+1424,Cotgrave,52.914,-1.042,United Kingdom,cotgrave,is_city
+1425,Watton,52.5713,0.8259,United Kingdom,watton,is_city
+1426,Brechin,56.7299,-2.6553,United Kingdom,brechin,is_city
+1428,Kirkham,53.782,-2.87,United Kingdom,kirkham,is_city
+1429,Warsash,50.8532,-1.301,United Kingdom,warsash,is_city
+1430,West Mersea,51.7784,0.9168,United Kingdom,west mersea,is_city
+1431,Wilmington,51.4309,0.1876,United Kingdom,wilmington,is_city
+1433,Claygate,51.36,-0.342,United Kingdom,claygate,is_city
+1434,Sawston,52.1247,0.1731,United Kingdom,sawston,is_city
+1435,Higham Ferrers,52.3057,-0.5844,United Kingdom,higham ferrers,is_city
+1436,Denham,51.563,-0.499,United Kingdom,denham,is_city
+1437,Coundon,54.6637,-1.6341,United Kingdom,coundon,is_city
+1438,Pershore,52.114,-2.08,United Kingdom,pershore,is_city
+1439,Faringdon,51.657,-1.586,United Kingdom,faringdon,is_city
+1440,Ashbourne,53.016,-1.731,United Kingdom,ashbourne,is_city
+1441,Allington,51.2903,0.5019,United Kingdom,allington,is_city
+1442,Hedon,53.7395,-0.1948,United Kingdom,hedon,is_city
+1443,Wardle,53.647,-2.132,United Kingdom,wardle,is_city
+1444,Calverton,53.037,-1.083,United Kingdom,calverton,is_city
+1445,Abersychan,51.7239,-3.0587,United Kingdom,abersychan,is_city
+1446,High Ackworth,53.6408,-1.3364,United Kingdom,high ackworth,is_city
+1447,Quarrington,52.987,-0.4304,United Kingdom,quarrington,is_city
+1448,Kirkleatham,54.5833,-1.0833,United Kingdom,kirkleatham,is_city
+1449,Saint Peters,51.3651,1.4191,United Kingdom,saint peters,is_city
+1450,Burley in Wharfedale,53.9137,-1.748,United Kingdom,burley in wharfedale,is_city
+1451,Coxhoe,54.714,-1.503,United Kingdom,coxhoe,is_city
+1452,East Cowes,50.757,-1.2865,United Kingdom,east cowes,is_city
+1453,Shifnal,52.665,-2.373,United Kingdom,shifnal,is_city
+1454,Eston,54.56,-1.144,United Kingdom,eston,is_city
+1455,Crewkerne,50.8803,-2.7939,United Kingdom,crewkerne,is_city
+1456,Westgate on Sea,51.3814,1.3381,United Kingdom,westgate on sea,is_city
+1457,New Romney,50.985,0.941,United Kingdom,new romney,is_city
+1458,Warrenpoint,54.0991,-6.249,United Kingdom,warrenpoint,is_city
+1459,Filey,54.2101,-0.2893,United Kingdom,filey,is_city
+1460,Lerwick,60.155,-1.145,United Kingdom,lerwick,is_city
+1461,Cleator Moor,54.5211,-3.5119,United Kingdom,cleator moor,is_city
+1462,Dowlais,51.7585,-3.3416,United Kingdom,dowlais,is_city
+1463,Deeping Saint James,52.6717,-0.2995,United Kingdom,deeping saint james,is_city
+1465,Church Gresley,52.76,-1.566,United Kingdom,church gresley,is_city
+1466,Carlton,52.967,-1.088,United Kingdom,carlton,is_city
+1467,Thornhill,53.6622,-1.6124,United Kingdom,thornhill,is_city
+1468,Bonnybridge,55.999,-3.887,United Kingdom,bonnybridge,is_city
+1469,Duntocher,55.924,-4.417,United Kingdom,duntocher,is_city
+1470,Fishtoft,52.9617,0.0259,United Kingdom,fishtoft,is_city
+1471,Lochgelly,56.1282,-3.3111,United Kingdom,lochgelly,is_city
+1472,Pontardawe,51.722,-3.851,United Kingdom,pontardawe,is_city
+1473,Pickering,54.2439,-0.776,United Kingdom,pickering,is_city
+1474,Sturry,51.3036,1.1211,United Kingdom,sturry,is_city
+1475,Gedling,52.975,-1.081,United Kingdom,gedling,is_city
+1476,Horncastle,53.208,-0.114,United Kingdom,horncastle,is_city
+1477,Penryn,50.169,-5.107,United Kingdom,penryn,is_city
+1478,Lossiemouth,57.7189,-3.2875,United Kingdom,lossiemouth,is_city
+1479,Great Chart,51.1409,0.8372,United Kingdom,great chart,is_city
+1480,Saint Blazey,50.361,-4.716,United Kingdom,saint blazey,is_city
+1481,Park Street,51.722,-0.339,United Kingdom,park street,is_city
+1482,Bridge of Allan,56.155,-3.942,United Kingdom,bridge of allan,is_city
+1483,Torrisholme,54.066,-2.83,United Kingdom,torrisholme,is_city
+1484,Branston,52.787,-1.659,United Kingdom,branston,is_city
+1485,Bolton upon Dearne,53.5197,-1.3148,United Kingdom,bolton upon dearne,is_city
+1486,Esher,51.3691,-0.365,United Kingdom,esher,is_city
+1487,Stepps,55.8908,-4.1522,United Kingdom,stepps,is_city
+1488,North Petherton,51.091,-3.013,United Kingdom,north petherton,is_city
+1489,Sandycroft,53.195,-2.999,United Kingdom,sandycroft,is_city
+1490,Bishops Waltham,50.9536,-1.2118,United Kingdom,bishops waltham,is_city
+1491,Llandudno Junction,53.284,-3.809,United Kingdom,llandudno junction,is_city
+1492,Meopham,51.364,0.36,United Kingdom,meopham,is_city
+1493,Cranbrook,51.0967,0.5356,United Kingdom,cranbrook,is_city
+1494,Godmanchester,52.3176,-0.1725,United Kingdom,godmanchester,is_city
+1495,Crowthorne,51.37,-0.792,United Kingdom,crowthorne,is_city
+1496,Uddingston,55.8183,-4.0827,United Kingdom,uddingston,is_city
+1497,Dursley,51.6811,-2.3543,United Kingdom,dursley,is_city
+1498,Aintree,53.4793,-2.9373,United Kingdom,aintree,is_city
+1499,Farington,53.703,-2.685,United Kingdom,farington,is_city
+1500,Battle,50.92,0.48,United Kingdom,battle,is_city
+1501,Kimberley,52.997,-1.255,United Kingdom,kimberley,is_city
+1502,Sherburn in Elmet,53.7973,-1.2331,United Kingdom,sherburn in elmet,is_city
+1503,Sawley,52.882,-1.299,United Kingdom,sawley,is_city
+1504,Rishton,53.7701,-2.4187,United Kingdom,rishton,is_city
+1505,Twyford,51.477,-0.867,United Kingdom,twyford,is_city
+1506,North Berwick,56.058,-2.717,United Kingdom,north berwick,is_city
+1507,Stewarton,55.68,-4.515,United Kingdom,stewarton,is_city
+1508,Budleigh Salterton,50.6284,-3.3205,United Kingdom,budleigh salterton,is_city
+1509,Southam,52.252,-1.39,United Kingdom,southam,is_city
+1510,Lydd,50.9509,0.9064,United Kingdom,lydd,is_city
+1511,Downside,51.3117,-0.4095,United Kingdom,downside,is_city
+1512,Alvechurch,52.3506,-1.9647,United Kingdom,alvechurch,is_city
+1513,Pakefield,52.451,1.728,United Kingdom,pakefield,is_city
+1514,Chapelhall,55.845,-3.9472,United Kingdom,chapelhall,is_city
+1515,Muxton,52.72,-2.421,United Kingdom,muxton,is_city
+1516,Whetstone,52.5724,-1.1799,United Kingdom,whetstone,is_city
+1517,Billinge,53.4932,-2.7129,United Kingdom,billinge,is_city
+1518,Cove,51.2965,-0.7939,United Kingdom,cove,is_city
+1519,Dingwall,57.597,-4.428,United Kingdom,dingwall,is_city
+1520,Cwmafan,51.6155,-3.7717,United Kingdom,cwmafan,is_city
+1521,Sawtry,52.44,-0.28,United Kingdom,sawtry,is_city
+1522,Wingerworth,53.2033,-1.4347,United Kingdom,wingerworth,is_city
+1523,Kelty,56.133,-3.38,United Kingdom,kelty,is_city
+1524,Anstey,52.6715,-1.1955,United Kingdom,anstey,is_city
+1525,Frampton Cotterell,51.54,-2.48,United Kingdom,frampton cotterell,is_city
+1526,South Elmsall,53.5959,-1.2726,United Kingdom,south elmsall,is_city
+1527,Newbridge,51.67,-3.136,United Kingdom,newbridge,is_city
+1528,Danbury,51.715,0.582,United Kingdom,danbury,is_city
+1529,Coleshill,52.499,-1.708,United Kingdom,coleshill,is_city
+1530,Olney,52.1529,-0.7015,United Kingdom,olney,is_city
+1531,Houston,55.867,-4.5521,United Kingdom,houston,is_city
+1532,Bothwell,55.8023,-4.0662,United Kingdom,bothwell,is_city
+1533,Whaley Bridge,53.3304,-1.9838,United Kingdom,whaley bridge,is_city
+1534,Pinhoe,50.7407,-3.4672,United Kingdom,pinhoe,is_city
+1535,Girvan,55.2382,-4.8561,United Kingdom,girvan,is_city
+1536,Peasedown Saint John,51.315,-2.424,United Kingdom,peasedown saint john,is_city
+1537,Loanhead,55.878,-3.148,United Kingdom,loanhead,is_city
+1538,Market Weighton,53.8642,-0.6624,United Kingdom,market weighton,is_city
+1539,Castle Donnington,52.8444,-1.3377,United Kingdom,castle donnington,is_city
+1540,Waltham,53.5165,-0.1021,United Kingdom,waltham,is_city
+1541,Wheathampstead,51.812,-0.293,United Kingdom,wheathampstead,is_city
+1542,Weaverham,53.262,-2.577,United Kingdom,weaverham,is_city
+1543,Abercynon,51.6445,-3.3267,United Kingdom,abercynon,is_city
+1544,Egham,51.429,-0.548,United Kingdom,egham,is_city
+1545,Haworth,53.83,-1.96,United Kingdom,haworth,is_city
+1546,Countesthorpe,52.555,-1.14,United Kingdom,countesthorpe,is_city
+1547,Treharris,51.6689,-3.31,United Kingdom,treharris,is_city
+1548,Beith,55.7533,-4.6319,United Kingdom,beith,is_city
+1549,Long Ditton,51.385,-0.321,United Kingdom,long ditton,is_city
+1550,East Leake,52.832,-1.177,United Kingdom,east leake,is_city
+1551,Chipping Norton,51.94,-1.55,United Kingdom,chipping norton,is_city
+1552,Enderby,52.5881,-1.2092,United Kingdom,enderby,is_city
+1553,Cheddleton,53.064,-2.043,United Kingdom,cheddleton,is_city
+1554,Sauchie,56.1296,-3.7767,United Kingdom,sauchie,is_city
+1555,Burwell,52.275,0.327,United Kingdom,burwell,is_city
+1556,Newbiggin-by-the-Sea,55.183,-1.515,United Kingdom,newbiggin-by-the-sea,is_city
+1557,Lydiate,53.536,-2.959,United Kingdom,lydiate,is_city
+1558,Thames Ditton,51.389,-0.331,United Kingdom,thames ditton,is_city
+1559,Hadfield,53.46,-1.97,United Kingdom,hadfield,is_city
+1560,Swanscombe,51.4491,0.2993,United Kingdom,swanscombe,is_city
+1561,Liss,51.0429,-0.8918,United Kingdom,liss,is_city
+1562,Stainforth,53.5958,-1.0253,United Kingdom,stainforth,is_city
+1563,Pontardulais,51.71,-4.04,United Kingdom,pontardulais,is_city
+1564,Newarthill,55.81,-3.9333,United Kingdom,newarthill,is_city
+1565,Alcester,52.215,-1.876,United Kingdom,alcester,is_city
+1566,Marshfield,51.5439,-3.0469,United Kingdom,marshfield,is_city
+1567,Burntisland,56.06,-3.231,United Kingdom,burntisland,is_city
+1568,Handforth,53.35,-2.216,United Kingdom,handforth,is_city
+1570,Calstock,50.497,-4.21,United Kingdom,calstock,is_city
+1571,Thrapston,52.397,-0.538,United Kingdom,thrapston,is_city
+1572,Chalford,51.7238,-2.1491,United Kingdom,chalford,is_city
+1573,Altofts,53.697,-1.416,United Kingdom,altofts,is_city
+1574,Blaby,52.5724,-1.1678,United Kingdom,blaby,is_city
+1575,Stotfold,52.018,-0.228,United Kingdom,stotfold,is_city
+1576,Bursledon,50.8847,-1.3117,United Kingdom,bursledon,is_city
+1577,Garswood,53.488,-2.67,United Kingdom,garswood,is_city
+1578,Frimley,51.3143,-0.7387,United Kingdom,frimley,is_city
+1579,Bilton,52.3594,-1.29,United Kingdom,bilton,is_city
+1580,Barrowford,53.851,-2.221,United Kingdom,barrowford,is_city
+1581,Landore,51.64,-3.94,United Kingdom,landore,is_city
+1582,Rhoose,51.3906,-3.3524,United Kingdom,rhoose,is_city
+1583,Withernsea,53.7285,0.0382,United Kingdom,withernsea,is_city
+1584,Colnbrook,51.4835,-0.5221,United Kingdom,colnbrook,is_city
+1585,Malvern Link,52.1255,-2.3161,United Kingdom,malvern link,is_city
+1586,Bulkington,52.4769,-1.425,United Kingdom,bulkington,is_city
+1587,Magor,51.5798,-2.8312,United Kingdom,magor,is_city
+1588,Pembury,51.1456,0.3224,United Kingdom,pembury,is_city
+1589,Waddington,53.1664,-0.5389,United Kingdom,waddington,is_city
+1590,Kingsbridge,50.2833,-3.7765,United Kingdom,kingsbridge,is_city
+1591,Orsett,51.51,0.37,United Kingdom,orsett,is_city
+1592,Wem,52.8536,-2.7267,United Kingdom,wem,is_city
+1593,Stonewood,51.445,0.256,United Kingdom,stonewood,is_city
+1594,Llantwit Fardre,51.5578,-3.3341,United Kingdom,llantwit fardre,is_city
+1595,Hollington,50.875,0.548,United Kingdom,hollington,is_city
+1596,Rowlands Gill,54.9209,-1.7441,United Kingdom,rowlands gill,is_city
+1597,Cottenham,52.2865,0.1244,United Kingdom,cottenham,is_city
+1598,Chipping Ongar,51.703,0.244,United Kingdom,chipping ongar,is_city
+1599,Kirriemuir,56.6692,-3.0051,United Kingdom,kirriemuir,is_city
+1600,Blaenavon,51.7736,-3.0828,United Kingdom,blaenavon,is_city
+1601,Balloch,56.002,-4.58,United Kingdom,balloch,is_city
+1602,Strensall,54.0401,-1.0344,United Kingdom,strensall,is_city
+1603,Long Ashton,51.43,-2.65,United Kingdom,long ashton,is_city
+1604,Amble,55.3306,-1.5783,United Kingdom,amble,is_city
+1605,Freckleton,53.753,-2.867,United Kingdom,freckleton,is_city
+1606,Seaton Carew,54.6628,-1.1888,United Kingdom,seaton carew,is_city
+1607,Stansted Mountfitchet,51.898,0.198,United Kingdom,stansted mountfitchet,is_city
+1608,Adlington,53.6165,-2.5986,United Kingdom,adlington,is_city
+1609,Market Deeping,52.6776,-0.3173,United Kingdom,market deeping,is_city
+1610,Tadcaster,53.8852,-1.262,United Kingdom,tadcaster,is_city
+1611,Staplehurst,51.164,0.553,United Kingdom,staplehurst,is_city
+1612,Fordingbridge,50.9275,-1.7901,United Kingdom,fordingbridge,is_city
+1613,Highbridge,51.2189,-2.973,United Kingdom,highbridge,is_city
+1614,New Inn,51.691,-3.009,United Kingdom,new inn,is_city
+1615,Ventnor,50.5976,-1.2084,United Kingdom,ventnor,is_city
+1616,Broughton,53.169,-2.985,United Kingdom,broughton,is_city
+1617,Great Warley Street,51.607,0.3,United Kingdom,great warley street,is_city
+1618,Farnham Royal,51.5386,-0.6164,United Kingdom,farnham royal,is_city
+1619,Porth,51.6138,-3.4095,United Kingdom,porth,is_city
+1620,Great Burstead,51.604,0.445,United Kingdom,great burstead,is_city
+1621,Colney Heath,51.7353,-0.2564,United Kingdom,colney heath,is_city
+1622,Lea Town,53.774,-2.795,United Kingdom,lea town,is_city
+1623,Saltburn-by-the-Sea,54.5828,-0.9732,United Kingdom,saltburn-by-the-sea,is_city
+1624,Burghfield,51.411,-1.042,United Kingdom,burghfield,is_city
+1625,Godstone,51.248,-0.064,United Kingdom,godstone,is_city
+1626,Welshpool,52.6597,-3.1473,United Kingdom,welshpool,is_city
+1627,Crumlin,51.6798,-3.1368,United Kingdom,crumlin,is_city
+1628,Ormesby,54.5492,-1.1817,United Kingdom,ormesby,is_city
+1629,Pagham,50.7708,-0.7448,United Kingdom,pagham,is_city
+1630,East Preston,50.8104,-0.4819,United Kingdom,east preston,is_city
+1631,Blythebridge,52.9704,-2.0709,United Kingdom,blythebridge,is_city
+1632,Chalfont Saint Giles,51.632,-0.576,United Kingdom,chalfont saint giles,is_city
+1633,Chinnor,51.702,-0.911,United Kingdom,chinnor,is_city
+1634,Okehampton,50.7388,-4.0041,United Kingdom,okehampton,is_city
+1635,Briton Ferry,51.64,-3.83,United Kingdom,briton ferry,is_city
+1636,Tillicoultry,56.153,-3.742,United Kingdom,tillicoultry,is_city
+1637,Honley,53.6027,-1.7921,United Kingdom,honley,is_city
+1638,Studley,52.2696,-1.8915,United Kingdom,studley,is_city
+1640,Govan,55.8615,-4.3083,United Kingdom,govan,is_city
+1641,Barrow upon Soar,52.7517,-1.15,United Kingdom,barrow upon soar,is_city
+1642,Wellesbourne Hastings,52.1943,-1.5947,United Kingdom,wellesbourne hastings,is_city
+1643,Wigton,54.823,-3.159,United Kingdom,wigton,is_city
+1644,Locharbriggs,55.1,-3.5833,United Kingdom,locharbriggs,is_city
+1645,Stoke Mandeville,51.7861,-0.7914,United Kingdom,stoke mandeville,is_city
+1646,Steyning,50.8868,-0.3279,United Kingdom,steyning,is_city
+1647,Dyce,57.2031,-2.192,United Kingdom,dyce,is_city
+1648,Ilminster,50.9262,-2.9114,United Kingdom,ilminster,is_city
+1649,Helmshore,53.687,-2.329,United Kingdom,helmshore,is_city
+1650,Gildersome,53.759,-1.6322,United Kingdom,gildersome,is_city
+1651,Nailsworth,51.6954,-2.2234,United Kingdom,nailsworth,is_city
+1652,East Calder,55.896,-3.462,United Kingdom,east calder,is_city
+1653,Callington,50.503,-4.316,United Kingdom,callington,is_city
+1654,Selkirk,55.55,-2.84,United Kingdom,selkirk,is_city
+1655,Crofton,53.657,-1.427,United Kingdom,crofton,is_city
+1656,Gorebridge,55.8436,-3.05,United Kingdom,gorebridge,is_city
+1657,Hungerford,51.414,-1.515,United Kingdom,hungerford,is_city
+1658,Axminster,50.781,-3.0,United Kingdom,axminster,is_city
+1659,Ibstock,52.687,-1.401,United Kingdom,ibstock,is_city
+1660,Cheddar,51.279,-2.778,United Kingdom,cheddar,is_city
+1661,Cumnor,51.735,-1.332,United Kingdom,cumnor,is_city
+1662,Ballingry,56.15,-3.3333,United Kingdom,ballingry,is_city
+1663,Galleywood,51.697,0.474,United Kingdom,galleywood,is_city
+1664,Oundle,52.48,-0.472,United Kingdom,oundle,is_city
+1665,Treherbert,51.6722,-3.5306,United Kingdom,treherbert,is_city
+1667,Sidley,50.86,0.47,United Kingdom,sidley,is_city
+1668,Hoylake,53.39,-3.18,United Kingdom,hoylake,is_city
+1669,Pinxton,53.0905,-1.3237,United Kingdom,pinxton,is_city
+1671,Preesall,53.917,-2.967,United Kingdom,preesall,is_city
+1672,Hethersett,52.5983,1.1833,United Kingdom,hethersett,is_city
+1673,Ash Vale,51.27,-0.72,United Kingdom,ash vale,is_city
+1674,Markfield,52.6878,-1.2775,United Kingdom,markfield,is_city
+1675,Hordle,50.7603,-1.6212,United Kingdom,hordle,is_city
+1676,Tarleton,53.678,-2.841,United Kingdom,tarleton,is_city
+1677,Littlemore,51.72,-1.227,United Kingdom,littlemore,is_city
+1678,Kelso,55.5985,-2.4336,United Kingdom,kelso,is_city
+1679,Elderslie,55.8306,-4.4842,United Kingdom,elderslie,is_city
+1680,Humberston,53.5281,-0.0249,United Kingdom,humberston,is_city
+1681,Wadsley,53.41,-1.52,United Kingdom,wadsley,is_city
+1682,Wotton-under-Edge,51.638,-2.349,United Kingdom,wotton-under-edge,is_city
+1683,West Byfleet,51.338,-0.5033,United Kingdom,west byfleet,is_city
+1684,Brigg,53.5529,-0.485,United Kingdom,brigg,is_city
+1685,Radstock,51.293,-2.448,United Kingdom,radstock,is_city
+1686,Headley,51.1192,-0.8271,United Kingdom,headley,is_city
+1687,Leavesden Green,51.6967,-0.3991,United Kingdom,leavesden green,is_city
+1688,Holmes Chapel,53.204,-2.353,United Kingdom,holmes chapel,is_city
+1689,Great Bookham,51.278,-0.373,United Kingdom,great bookham,is_city
+1690,Bagshot,51.3607,-0.6982,United Kingdom,bagshot,is_city
+1691,Blean,51.307,1.043,United Kingdom,blean,is_city
+1692,Great Wakering,51.5516,0.8165,United Kingdom,great wakering,is_city
+1693,Marchwood,50.89,-1.454,United Kingdom,marchwood,is_city
+1694,Arlesey,52.007,-0.2654,United Kingdom,arlesey,is_city
+1695,Askern,53.6167,-1.15,United Kingdom,askern,is_city
+1696,Pannal,53.9609,-1.5362,United Kingdom,pannal,is_city
+1697,Carnforth,54.123,-2.766,United Kingdom,carnforth,is_city
+1698,Lexden,51.8833,0.8667,United Kingdom,lexden,is_city
+1699,Gorleston-on-Sea,52.5757,1.7235,United Kingdom,gorleston-on-sea,is_city
+1700,Hengoed,51.65,-3.23,United Kingdom,hengoed,is_city
+1701,Brynmawr,51.796,-3.183,United Kingdom,brynmawr,is_city
+1702,Drighlington,53.7568,-1.6616,United Kingdom,drighlington,is_city
+1703,Chickerell,50.624,-2.5047,United Kingdom,chickerell,is_city
+1704,Hartford,53.245,-2.549,United Kingdom,hartford,is_city
+1705,Leiston,52.206,1.579,United Kingdom,leiston,is_city
+1706,Aylsham,52.79,1.256,United Kingdom,aylsham,is_city
+1707,Utley,53.88,-1.91,United Kingdom,utley,is_city
+1709,Bowling,55.932,-4.494,United Kingdom,bowling,is_city
+1710,Dore,53.3268,-1.5345,United Kingdom,dore,is_city
+1711,Wareham,50.686,-2.1099,United Kingdom,wareham,is_city
+1712,Barnard Castle,54.55,-1.92,United Kingdom,barnard castle,is_city
+1713,Drayton,52.675,1.225,United Kingdom,drayton,is_city
+1714,Balerno,55.8852,-3.3375,United Kingdom,balerno,is_city
+1715,Tidenham,51.6605,-2.6435,United Kingdom,tidenham,is_city
+1716,Martlesham,52.0733,1.2818,United Kingdom,martlesham,is_city
+1717,Tetbury,51.636,-2.158,United Kingdom,tetbury,is_city
+1718,Cockenzie,55.969,-2.962,United Kingdom,cockenzie,is_city
+1719,Thorpe,51.4069,-0.5354,United Kingdom,thorpe,is_city
+1720,Rhuthun,53.115,-3.312,United Kingdom,rhuthun,is_city
+1721,Wyke Regis,50.592,-2.475,United Kingdom,wyke regis,is_city
+1722,Barton on Sea,50.7428,-1.6552,United Kingdom,barton on sea,is_city
+1723,Griffithstown,51.6853,-3.0284,United Kingdom,griffithstown,is_city
+1724,Shenfield,51.6297,0.3192,United Kingdom,shenfield,is_city
+1725,New Alresford,51.0907,-1.1612,United Kingdom,new alresford,is_city
+1726,Cardenden,56.133,-3.25,United Kingdom,cardenden,is_city
+1727,Ammanford,51.8,-3.993,United Kingdom,ammanford,is_city
+1729,Fishguard,51.9982,-4.9804,United Kingdom,fishguard,is_city
+1730,Perranzabuloe,50.326,-5.133,United Kingdom,perranzabuloe,is_city
+1731,Illogan,50.25,-5.268,United Kingdom,illogan,is_city
+1732,Dalry,55.711,-4.723,United Kingdom,dalry,is_city
+1733,Brotton,54.568,-0.937,United Kingdom,brotton,is_city
+1734,Lindfield,51.0135,-0.0833,United Kingdom,lindfield,is_city
+1735,Earls Barton,52.263,-0.746,United Kingdom,earls barton,is_city
+1736,Writtle,51.729,0.427,United Kingdom,writtle,is_city
+1737,Malmesbury,51.584,-2.098,United Kingdom,malmesbury,is_city
+1738,Kirton,52.9278,-0.0598,United Kingdom,kirton,is_city
+1739,Freshwater,50.6826,-1.5249,United Kingdom,freshwater,is_city
+1740,Hartley,51.3868,0.3037,United Kingdom,hartley,is_city
+1741,Abercarn,51.649,-3.135,United Kingdom,abercarn,is_city
+1742,Bidford-on-Avon,52.1644,-1.8567,United Kingdom,bidford-on-avon,is_city
+1743,Sollom,53.662,-2.825,United Kingdom,sollom,is_city
+1744,Redbourn,51.8002,-0.3965,United Kingdom,redbourn,is_city
+1745,Newton Grange,55.868,-3.067,United Kingdom,newton grange,is_city
+1746,Cuddington,53.24,-2.6,United Kingdom,cuddington,is_city
+1747,Newmains,55.7832,-3.8771,United Kingdom,newmains,is_city
+1748,Polmont,55.9908,-3.7064,United Kingdom,polmont,is_city
+1749,Bourne End,51.5817,-0.7134,United Kingdom,bourne end,is_city
+1750,Neilston,55.7847,-4.4234,United Kingdom,neilston,is_city
+1751,Wool,50.6789,-2.2189,United Kingdom,wool,is_city
+1752,Alness,57.695,-4.258,United Kingdom,alness,is_city
+1753,Paulton,51.3069,-2.5027,United Kingdom,paulton,is_city
+1754,Murston,51.341,0.7524,United Kingdom,murston,is_city
+1755,Brayton,53.7682,-1.0907,United Kingdom,brayton,is_city
+1756,Roundway,51.368,-1.981,United Kingdom,roundway,is_city
+1757,Glyncorrwg,51.6776,-3.6292,United Kingdom,glyncorrwg,is_city
+1758,Wincanton,51.0559,-2.4102,United Kingdom,wincanton,is_city
+1759,Keswick,54.5999,-3.1293,United Kingdom,keswick,is_city
+1760,Tickhill,53.4305,-1.1135,United Kingdom,tickhill,is_city
+1761,Tettenhall,52.5983,-2.168,United Kingdom,tettenhall,is_city
+1762,Sedgefield,54.65,-1.45,United Kingdom,sedgefield,is_city
+1763,Measham,52.7061,-1.508,United Kingdom,measham,is_city
+1764,Newent,51.9302,-2.4048,United Kingdom,newent,is_city
+1765,Hunters Quay,55.9707,-4.9116,United Kingdom,hunters quay,is_city
+1766,Ore,50.8721,0.6085,United Kingdom,ore,is_city
+1767,Edwinstowe,53.16,-1.07,United Kingdom,edwinstowe,is_city
+1768,Church,53.755,-2.386,United Kingdom,church,is_city
+1769,Holytown,55.8229,-3.9701,United Kingdom,holytown,is_city
+1770,Quorndon,52.7428,-1.17,United Kingdom,quorndon,is_city
+1771,Holmfirth,53.57,-1.787,United Kingdom,holmfirth,is_city
+1772,Ruskington,53.0444,-0.3875,United Kingdom,ruskington,is_city
+1773,Waterbeach,52.2664,0.1908,United Kingdom,waterbeach,is_city
+1774,Brixworth,52.329,-0.904,United Kingdom,brixworth,is_city
+1775,Woodville,52.769,-1.533,United Kingdom,woodville,is_city
+1776,Pinchbeck,52.8147,-0.1605,United Kingdom,pinchbeck,is_city
+1777,Nursling,50.9449,-1.4727,United Kingdom,nursling,is_city
+1778,Bungay,52.4496,1.4477,United Kingdom,bungay,is_city
+1779,Kinross,56.205,-3.423,United Kingdom,kinross,is_city
+1780,Cwmbach,51.7072,-3.4128,United Kingdom,cwmbach,is_city
+1781,Llangefni,53.256,-4.314,United Kingdom,llangefni,is_city
+1782,Looe,50.354,-4.454,United Kingdom,looe,is_city
+1783,Great Meols,53.4014,-3.1553,United Kingdom,great meols,is_city
+1784,Elstree,51.64,-0.3,United Kingdom,elstree,is_city
+1785,South Molton,51.02,-3.83,United Kingdom,south molton,is_city
+1786,Botley,50.9144,-1.27,United Kingdom,botley,is_city
+1787,Grangetown,54.58,-1.144,United Kingdom,grangetown,is_city
+1788,Oakley,51.251,-1.1764,United Kingdom,oakley,is_city
+1789,Swanwick,53.075,-1.398,United Kingdom,swanwick,is_city
+1790,Baystonhill,52.6727,-2.7654,United Kingdom,baystonhill,is_city
+1791,Middleton-on-Sea,50.7949,-0.6197,United Kingdom,middleton-on-sea,is_city
+1792,Kings Langley,51.7156,-0.4569,United Kingdom,kings langley,is_city
+1793,Harleston,52.4024,1.2996,United Kingdom,harleston,is_city
+1794,Dartmouth,50.351,-3.579,United Kingdom,dartmouth,is_city
+1795,Harlescott,52.7365,-2.7226,United Kingdom,harlescott,is_city
+1796,Turriff,57.539,-2.4611,United Kingdom,turriff,is_city
+1797,Sheriff Hill,54.939,-1.586,United Kingdom,sheriff hill,is_city
+1798,Treforest,51.5878,-3.3222,United Kingdom,treforest,is_city
+1799,Earlswood,51.228,-0.171,United Kingdom,earlswood,is_city
+1800,Duffield,52.989,-1.489,United Kingdom,duffield,is_city
+1801,Chipping Sodbury,51.538,-2.394,United Kingdom,chipping sodbury,is_city
+1802,Whiston,53.4,-1.32,United Kingdom,whiston,is_city
+1803,Wirksworth,53.082,-1.574,United Kingdom,wirksworth,is_city
+1804,Shipston on Stour,52.06,-1.623,United Kingdom,shipston on stour,is_city
+1805,Pyrford,51.3146,-0.5064,United Kingdom,pyrford,is_city
+1806,Heage,53.05,-1.447,United Kingdom,heage,is_city
+1807,Henfield,50.933,-0.277,United Kingdom,henfield,is_city
+1808,Gresford,53.087,-2.966,United Kingdom,gresford,is_city
+1809,Blackrod,53.5898,-2.5809,United Kingdom,blackrod,is_city
+1810,Marston Green,52.465,-1.74,United Kingdom,marston green,is_city
+1811,Barton-le-Clay,51.9669,-0.4241,United Kingdom,barton-le-clay,is_city
+1812,Galston,55.6004,-4.3798,United Kingdom,galston,is_city
+1813,Sacriston,54.817,-1.626,United Kingdom,sacriston,is_city
+1814,Thirsk,54.2327,-1.342,United Kingdom,thirsk,is_city
+1815,Loughor,51.6626,-4.0646,United Kingdom,loughor,is_city
+1816,Hirwaun,51.7386,-3.4989,United Kingdom,hirwaun,is_city
+1817,Sandwich,51.2747,1.3389,United Kingdom,sandwich,is_city
+1818,Speldhurst,51.1516,0.2219,United Kingdom,speldhurst,is_city
+1819,Helsby,53.273,-2.77,United Kingdom,helsby,is_city
+1820,Hurlford,55.5985,-4.452,United Kingdom,hurlford,is_city
+1821,Hilperton,51.33,-2.184,United Kingdom,hilperton,is_city
+1822,New Tredegar,51.7217,-3.2403,United Kingdom,new tredegar,is_city
+1823,Llangennech,51.693,-4.092,United Kingdom,llangennech,is_city
+1824,Alva,56.153,-3.7996,United Kingdom,alva,is_city
+1825,Silverdale,53.0159,-2.2675,United Kingdom,silverdale,is_city
+1826,Bromham,52.1454,-0.5298,United Kingdom,bromham,is_city
+1827,Hildenborough,51.214,0.242,United Kingdom,hildenborough,is_city
+1828,Forest Row,51.0982,0.0334,United Kingdom,forest row,is_city
+1829,Buntingford,51.9445,-0.016,United Kingdom,buntingford,is_city
+1830,Lyneham,51.507,-1.966,United Kingdom,lyneham,is_city
+1831,Sturminster Newton,50.9261,-2.3051,United Kingdom,sturminster newton,is_city
+1832,Broseley,52.612,-2.481,United Kingdom,broseley,is_city
+1833,Shefford,52.037,-0.332,United Kingdom,shefford,is_city
+1834,Oxshott,51.332,-0.356,United Kingdom,oxshott,is_city
+1835,Longfield,51.3962,0.3046,United Kingdom,longfield,is_city
+1836,Midhurst,50.985,-0.74,United Kingdom,midhurst,is_city
+1837,Datchet,51.4841,-0.5762,United Kingdom,datchet,is_city
+1838,Willaston,53.292,-3.005,United Kingdom,willaston,is_city
+1839,Hawkhurst,51.0471,0.5173,United Kingdom,hawkhurst,is_city
+1840,Cranfield,52.0699,-0.6081,United Kingdom,cranfield,is_city
+1841,Winterton,53.6549,-0.5979,United Kingdom,winterton,is_city
+1842,Ottery Saint Mary,50.752,-3.279,United Kingdom,ottery saint mary,is_city
+1843,Inverkeithing,55.9667,-3.2139,United Kingdom,inverkeithing,is_city
+1844,Malton,54.139,-0.792,United Kingdom,malton,is_city
+1845,Wadhurst,51.066,0.33,United Kingdom,wadhurst,is_city
+1846,Sunningdale,51.398,-0.626,United Kingdom,sunningdale,is_city
+1847,Ffestiniog,52.99,-3.93,United Kingdom,ffestiniog,is_city
+1848,Potton,52.1271,-0.2152,United Kingdom,potton,is_city
+1849,Nunthorpe,54.5287,-1.177,United Kingdom,nunthorpe,is_city
+1850,Brampton,52.3194,-0.2335,United Kingdom,brampton,is_city
+1851,Campbeltown,55.423,-5.608,United Kingdom,campbeltown,is_city
+1852,Darenth,51.4199,0.2567,United Kingdom,darenth,is_city
+1853,Rothesay,55.836,-5.0558,United Kingdom,rothesay,is_city
+1854,Garlinge,51.3781,1.3566,United Kingdom,garlinge,is_city
+1855,Earls Colne,51.928,0.702,United Kingdom,earls colne,is_city
+1856,Melbourne,52.823,-1.429,United Kingdom,melbourne,is_city
+1857,Brymbo,53.076,-3.05,United Kingdom,brymbo,is_city
+1858,West Hallam,52.97,-1.36,United Kingdom,west hallam,is_city
+1859,Easton-in-Gordano,51.476,-2.7,United Kingdom,easton-in-gordano,is_city
+1860,Crowle,53.6073,-0.8321,United Kingdom,crowle,is_city
+1861,South Cave,53.769,-0.598,United Kingdom,south cave,is_city
+1862,Long Sutton,52.7856,0.12,United Kingdom,long sutton,is_city
+1863,Old Kilpatrick,55.925,-4.4593,United Kingdom,old kilpatrick,is_city
+1864,Wickham,50.9,-1.19,United Kingdom,wickham,is_city
+1865,Blaina,51.7667,-3.1667,United Kingdom,blaina,is_city
+1866,Wilsden,53.8167,-1.8667,United Kingdom,wilsden,is_city
+1867,Shirland,53.121,-1.412,United Kingdom,shirland,is_city
+1868,Milton Regis,51.35,0.75,United Kingdom,milton regis,is_city
+1869,Stokenchurch,51.659,-0.896,United Kingdom,stokenchurch,is_city
+1870,Taibach,51.584,-3.769,United Kingdom,taibach,is_city
+1871,Four Marks,51.1116,-1.0443,United Kingdom,four marks,is_city
+1872,Heslington,53.9448,-1.0434,United Kingdom,heslington,is_city
+1873,Shiremoor,55.0366,-1.5048,United Kingdom,shiremoor,is_city
+1874,Laleham,51.407,-0.488,United Kingdom,laleham,is_city
+1875,Alderley Edge,53.303,-2.236,United Kingdom,alderley edge,is_city
+1876,Old Windsor,51.46,-0.586,United Kingdom,old windsor,is_city
+1877,Llanbradach,51.6032,-3.2296,United Kingdom,llanbradach,is_city
+1878,Cilybebyll,51.719,-3.83,United Kingdom,cilybebyll,is_city
+1879,Martock,50.9704,-2.7653,United Kingdom,martock,is_city
+1881,Maybole,55.3551,-4.68,United Kingdom,maybole,is_city
+1882,Stokesley,54.4712,-1.1905,United Kingdom,stokesley,is_city
+1883,Benson,51.621,-1.111,United Kingdom,benson,is_city
+1884,Stoke Poges,51.546,-0.584,United Kingdom,stoke poges,is_city
+1885,Heacham,52.9069,0.49,United Kingdom,heacham,is_city
+1886,Irchester,52.2783,-0.6555,United Kingdom,irchester,is_city
+1887,Uppingham,52.59,-0.7222,United Kingdom,uppingham,is_city
+1888,Gnosall,52.785,-2.2528,United Kingdom,gnosall,is_city
+1889,Bethesda,53.179,-4.06,United Kingdom,bethesda,is_city
+1890,Keith,57.543,-2.952,United Kingdom,keith,is_city
+1891,Fauldhouse,55.8272,-3.7091,United Kingdom,fauldhouse,is_city
+1892,Bovey Tracey,50.593,-3.672,United Kingdom,bovey tracey,is_city
+1893,Halesworth,52.342,1.506,United Kingdom,halesworth,is_city
+1894,Roose,54.096,-3.182,United Kingdom,roose,is_city
+1895,Kelvedon,51.833,0.699,United Kingdom,kelvedon,is_city
+1896,Almondsbury,51.5567,-2.5725,United Kingdom,almondsbury,is_city
+1897,Coedpoeth,53.054,-3.074,United Kingdom,coedpoeth,is_city
+1898,Greenhithe,51.4504,0.2823,United Kingdom,greenhithe,is_city
+1899,Somerton,51.0535,-2.7361,United Kingdom,somerton,is_city
+1900,Lakenheath,52.4136,0.5226,United Kingdom,lakenheath,is_city
+1901,Pulborough,50.96,-0.51,United Kingdom,pulborough,is_city
+1903,Fulbourn,52.184,0.2272,United Kingdom,fulbourn,is_city
+1904,Church Stretton,52.539,-2.808,United Kingdom,church stretton,is_city
+1905,Kirby Muxloe,52.6351,-1.2341,United Kingdom,kirby muxloe,is_city
+1906,Milford on Sea,50.726,-1.589,United Kingdom,milford on sea,is_city
+1907,East Wittering,50.7694,-0.8738,United Kingdom,east wittering,is_city
+1908,Eccleshall,52.859,-2.251,United Kingdom,eccleshall,is_city
+1909,Eynsham,51.781,-1.375,United Kingdom,eynsham,is_city
+1910,Ringmer,50.89,0.05,United Kingdom,ringmer,is_city
+1912,Bray,51.507,-0.7,United Kingdom,bray,is_city
+1913,Dersingham,52.8447,0.502,United Kingdom,dersingham,is_city
+1914,Bishopton,55.9086,-4.5045,United Kingdom,bishopton,is_city
+1915,Sandgate,51.074,1.1454,United Kingdom,sandgate,is_city
+1916,Clanfield,50.947,-1.0081,United Kingdom,clanfield,is_city
+1917,Nantyglo,51.7828,-3.1698,United Kingdom,nantyglo,is_city
+1918,Bridge of Weir,55.8565,-4.5777,United Kingdom,bridge of weir,is_city
+1919,Great Ayton,54.4957,-1.1292,United Kingdom,great ayton,is_city
+1921,Easingwold,54.1198,-1.1897,United Kingdom,easingwold,is_city
+1922,Norton,53.633,-1.175,United Kingdom,norton,is_city
+1923,Mytchett,51.2943,-0.7268,United Kingdom,mytchett,is_city
+1924,Kennoway,56.2,-3.05,United Kingdom,kennoway,is_city
+1925,Toddington,51.9496,-0.5323,United Kingdom,toddington,is_city
+1926,Saint Columb Major,50.432,-4.94,United Kingdom,saint columb major,is_city
+1927,Haxey,53.4868,-0.8462,United Kingdom,haxey,is_city
+1928,Portree,57.412,-6.192,United Kingdom,portree,is_city
+1929,Girton,52.233,0.083,United Kingdom,girton,is_city
+1930,Stoke Prior,52.3025,-2.0849,United Kingdom,stoke prior,is_city
+1931,Marston Moretaine,52.0627,-0.5478,United Kingdom,marston moretaine,is_city
+1932,Borough Green,51.2913,0.3062,United Kingdom,borough green,is_city
+1933,Siston,51.4746,-2.4501,United Kingdom,siston,is_city
+1934,Skelmanthorpe,53.591,-1.649,United Kingdom,skelmanthorpe,is_city
+1935,Sully,51.41,-3.21,United Kingdom,sully,is_city
+1936,Wetheral,54.88,-2.83,United Kingdom,wetheral,is_city
+1937,Winchcomb,51.955,-1.965,United Kingdom,winchcomb,is_city
+1938,Earby,53.914,-2.144,United Kingdom,earby,is_city
+1940,Burnopfield,54.907,-1.736,United Kingdom,burnopfield,is_city
+1941,Colwich,52.7875,-1.9806,United Kingdom,colwich,is_city
+1942,Linton,52.0991,0.277,United Kingdom,linton,is_city
+1943,Ingatestone,51.67,0.38,United Kingdom,ingatestone,is_city
+1944,Haddenham,51.771,-0.928,United Kingdom,haddenham,is_city
+1945,Lees,53.538,-2.069,United Kingdom,lees,is_city
+1946,Bromyard,52.1908,-2.5068,United Kingdom,bromyard,is_city
+1947,Menston,53.8912,-1.7344,United Kingdom,menston,is_city
+1948,Knebworth,51.866,-0.184,United Kingdom,knebworth,is_city
+1949,Saint Athan,51.402,-3.416,United Kingdom,saint athan,is_city
+1950,Coalville,52.724,-1.369,United Kingdom,coalville,is_city
+1951,Dunoon,55.9509,-4.9262,United Kingdom,dunoon,is_city
+1952,Ferring,50.8128,-0.4481,United Kingdom,ferring,is_city
+1953,Kingsthorpe,52.2625,-0.9,United Kingdom,kingsthorpe,is_city
+1954,Kintore,57.2332,-2.3461,United Kingdom,kintore,is_city
+1955,Westerham,51.2713,0.0701,United Kingdom,westerham,is_city
+1956,Shenley,51.692,-0.282,United Kingdom,shenley,is_city
+1957,Chirk,52.93,-3.05,United Kingdom,chirk,is_city
+1958,Lingfield,51.175,-0.0171,United Kingdom,lingfield,is_city
+1959,Cowpen,55.127,-1.539,United Kingdom,cowpen,is_city
+1960,Huntly,57.446,-2.788,United Kingdom,huntly,is_city
+1961,Blidworth,53.098,-1.1165,United Kingdom,blidworth,is_city
+1962,Sutton Bridge,52.771,0.1874,United Kingdom,sutton bridge,is_city
+1963,Swynnerton,52.917,-2.217,United Kingdom,swynnerton,is_city
+1964,Newlyn,50.101,-5.553,United Kingdom,newlyn,is_city
+1965,New Scone,56.418,-3.404,United Kingdom,new scone,is_city
+1966,Wilford,52.926,-1.16,United Kingdom,wilford,is_city
+1967,Ludgershall,51.256,-1.622,United Kingdom,ludgershall,is_city
+1968,Long Stratton,52.488,1.234,United Kingdom,long stratton,is_city
+1969,Huncoat,53.77,-2.34,United Kingdom,huncoat,is_city
+1970,Melbourn,52.082,0.0205,United Kingdom,melbourn,is_city
+1971,Odiham,51.2541,-0.9396,United Kingdom,odiham,is_city
+1972,West Kilbride,55.6966,-4.8576,United Kingdom,west kilbride,is_city
+1973,Blackwell,53.12,-1.354,United Kingdom,blackwell,is_city
+1974,Fazeley,52.6154,-1.706,United Kingdom,fazeley,is_city
+1975,Hatfield Peverel,51.7691,0.5928,United Kingdom,hatfield peverel,is_city
+1976,Steeton,53.896,-1.948,United Kingdom,steeton,is_city
+1977,Seaton Delaval,55.0826,-1.4778,United Kingdom,seaton delaval,is_city
+1978,Thringstone,52.7557,-1.3657,United Kingdom,thringstone,is_city
+1979,Winwick,53.4306,-2.5976,United Kingdom,winwick,is_city
+1980,Penmaenmawr,53.27,-3.928,United Kingdom,penmaenmawr,is_city
+1981,Llanasa,53.322,-3.344,United Kingdom,llanasa,is_city
+1982,Seamer,54.2383,-0.441,United Kingdom,seamer,is_city
+1983,Bransgore,50.78,-1.733,United Kingdom,bransgore,is_city
+1984,Burstow,51.1685,-0.1105,United Kingdom,burstow,is_city
+1985,Kessingland,52.419,1.723,United Kingdom,kessingland,is_city
+1986,Welton,53.3029,-0.4759,United Kingdom,welton,is_city
+1987,Albrighton,52.6344,-2.277,United Kingdom,albrighton,is_city
+1988,North Hinksey,51.749,-1.292,United Kingdom,north hinksey,is_city
+1989,Overton,51.2439,-1.2615,United Kingdom,overton,is_city
+1990,Carcroft,53.58,-1.17,United Kingdom,carcroft,is_city
+1991,Fremington,51.07,-4.12,United Kingdom,fremington,is_city
+1992,Finedon,52.34,-0.649,United Kingdom,finedon,is_city
+1993,Lawford,51.94,1.045,United Kingdom,lawford,is_city
+1994,Kirkburton,53.61,-1.703,United Kingdom,kirkburton,is_city
+1995,Cwm,51.7409,-3.1812,United Kingdom,cwm,is_city
+1996,Cuffley,51.7109,-0.1134,United Kingdom,cuffley,is_city
+1997,Disley,53.357,-2.043,United Kingdom,disley,is_city
+1998,Horsehay,52.656,-2.49,United Kingdom,horsehay,is_city
+1999,East Horsley,51.261,-0.433,United Kingdom,east horsley,is_city
+2000,Hagley,52.43,-2.12,United Kingdom,hagley,is_city
+2001,Glynneath,51.747,-3.617,United Kingdom,glynneath,is_city
+2002,Saint Osyth,51.799,1.08,United Kingdom,saint osyth,is_city
+2003,Ruabon,52.986,-3.039,United Kingdom,ruabon,is_city
+2004,Southminster,51.6598,0.831,United Kingdom,southminster,is_city
+2005,Garstang,53.903,-2.767,United Kingdom,garstang,is_city
+2006,Nazeing,51.7367,0.0587,United Kingdom,nazeing,is_city
+2008,Chartham,51.2645,1.041,United Kingdom,chartham,is_city
+2009,South Wootton,52.7794,0.4426,United Kingdom,south wootton,is_city
+2010,Send,51.2878,-0.5263,United Kingdom,send,is_city
+2011,Newhouse,55.8317,-3.928,United Kingdom,newhouse,is_city
+2012,Shelford,52.1503,0.1357,United Kingdom,shelford,is_city
+2013,Hunstanton,52.93,0.48,United Kingdom,hunstanton,is_city
+2014,Dalbeattie,54.932,-3.822,United Kingdom,dalbeattie,is_city
+2015,Cricklade,51.641,-1.856,United Kingdom,cricklade,is_city
+2016,Barton under Needwood,52.763,-1.727,United Kingdom,barton under needwood,is_city
+2017,Hope,53.1077,-3.0366,United Kingdom,hope,is_city
+2019,Crowland,52.6768,-0.1688,United Kingdom,crowland,is_city
+2020,Bulford,51.19,-1.761,United Kingdom,bulford,is_city
+2021,Hugglescote,52.711,-1.371,United Kingdom,hugglescote,is_city
+2022,Porthmadog,52.927,-4.132,United Kingdom,porthmadog,is_city
+2023,Cardigan,52.0842,-4.6579,United Kingdom,cardigan,is_city
+2024,Whittington,53.26,-1.43,United Kingdom,whittington,is_city
+2025,Ferndale,51.661,-3.448,United Kingdom,ferndale,is_city
+2026,Grenoside,53.441,-1.502,United Kingdom,grenoside,is_city
+2027,Castle Douglas,54.941,-3.929,United Kingdom,castle douglas,is_city
+2028,Copmanthorpe,53.916,-1.133,United Kingdom,copmanthorpe,is_city
+2029,Loudwater,51.606,-0.6923,United Kingdom,loudwater,is_city
+2030,Ashburton,50.517,-3.751,United Kingdom,ashburton,is_city
+2031,Wingate,54.7349,-1.3801,United Kingdom,wingate,is_city
+2032,Bagillt,53.268,-3.168,United Kingdom,bagillt,is_city
+2033,Bugle,50.396,-4.793,United Kingdom,bugle,is_city
+2034,Horsford,52.7007,1.2412,United Kingdom,horsford,is_city
+2035,Oystermouth,51.5758,-4.0072,United Kingdom,oystermouth,is_city
+2036,Beddau,51.556,-3.3577,United Kingdom,beddau,is_city
+2037,Milford,51.17,-0.65,United Kingdom,milford,is_city
+2039,Shalford,51.211,-0.568,United Kingdom,shalford,is_city
+2040,Howden,53.7441,-0.8634,United Kingdom,howden,is_city
+2041,Standon,51.8827,0.0292,United Kingdom,standon,is_city
+2042,Llanllyfni,53.045,-4.282,United Kingdom,llanllyfni,is_city
+2043,Keele,53.0044,-2.2871,United Kingdom,keele,is_city
+2044,Bolton le Sands,54.104,-2.791,United Kingdom,bolton le sands,is_city
+2045,Llantarnam,51.636,-3.0056,United Kingdom,llantarnam,is_city
+2046,Terrington Saint Clement,52.7546,0.2947,United Kingdom,terrington saint clement,is_city
+2047,Mauchline,55.516,-4.379,United Kingdom,mauchline,is_city
+2048,Skellow,53.58,-1.19,United Kingdom,skellow,is_city
+2049,Lambourn,51.509,-1.531,United Kingdom,lambourn,is_city
+2050,Lennoxtown,55.974,-4.206,United Kingdom,lennoxtown,is_city
+2051,Newton Stewart,54.958,-4.492,United Kingdom,newton stewart,is_city
+2052,Jedburgh,55.477,-2.546,United Kingdom,jedburgh,is_city
+2053,Boston Spa,53.904,-1.35,United Kingdom,boston spa,is_city
+2054,Pwllheli,52.887,-4.418,United Kingdom,pwllheli,is_city
+2055,Invergordon,57.6879,-4.157,United Kingdom,invergordon,is_city
+2056,Saltford,51.4015,-2.4592,United Kingdom,saltford,is_city
+2057,Bare,54.076,-2.837,United Kingdom,bare,is_city
+2058,Cowbridge,51.4605,-3.448,United Kingdom,cowbridge,is_city
+2059,Cold Ash,51.424,-1.264,United Kingdom,cold ash,is_city
+2060,Theydon Bois,51.6713,0.1034,United Kingdom,theydon bois,is_city
+2061,Thrybergh,53.45,-1.3,United Kingdom,thrybergh,is_city
+2062,Easington,54.806,-1.4323,United Kingdom,easington,is_city
+2063,Baxenden,53.734,-2.341,United Kingdom,baxenden,is_city
+2064,Hesketh Bank,53.708,-2.849,United Kingdom,hesketh bank,is_city
+2065,Altarnun,50.603,-4.511,United Kingdom,altarnun,is_city
+2066,Bar Hill,52.2539,0.0228,United Kingdom,bar hill,is_city
+2067,Brundall,52.6244,1.4337,United Kingdom,brundall,is_city
+2069,Willingham,52.32,0.07,United Kingdom,willingham,is_city
+2070,Kemsing,51.3071,0.2252,United Kingdom,kemsing,is_city
+2071,Wraysbury,51.458,-0.552,United Kingdom,wraysbury,is_city
+2072,Chudleigh,50.604,-3.605,United Kingdom,chudleigh,is_city
+2073,Lockerbie,55.12,-3.357,United Kingdom,lockerbie,is_city
+2074,Woodhall Spa,53.1515,-0.2183,United Kingdom,woodhall spa,is_city
+2075,Kings Worthy,51.0878,-1.2953,United Kingdom,kings worthy,is_city
+2076,Blaenau-Ffestiniog,52.994,-3.939,United Kingdom,blaenau-ffestiniog,is_city
+2077,Kilmacolm,55.8941,-4.6271,United Kingdom,kilmacolm,is_city
+2078,Sible Hedingham,51.9667,0.5833,United Kingdom,sible hedingham,is_city
+2079,Warboys,52.4,-0.07,United Kingdom,warboys,is_city
+2080,Saxilby,53.2714,-0.656,United Kingdom,saxilby,is_city
+2081,Banff,57.667,-2.524,United Kingdom,banff,is_city
+2082,Hadlow,51.2303,0.3404,United Kingdom,hadlow,is_city
+2083,Ormesby Saint Margaret,52.6746,1.6975,United Kingdom,ormesby saint margaret,is_city
+2084,Broomfield,51.765,0.471,United Kingdom,broomfield,is_city
+2085,Bisley,51.33,-0.64,United Kingdom,bisley,is_city
+2086,Higham,51.415,0.463,United Kingdom,higham,is_city
+2087,Elm,52.63,0.18,United Kingdom,elm,is_city
+2088,Penn,51.633,-0.681,United Kingdom,penn,is_city
+2089,Elmswell,52.2372,0.9113,United Kingdom,elmswell,is_city
+2090,Mytholmroyd,53.73,-1.981,United Kingdom,mytholmroyd,is_city
+2091,Bakewell,53.213,-1.6759,United Kingdom,bakewell,is_city
+2092,Ynysddu,51.6267,-3.1861,United Kingdom,ynysddu,is_city
+2093,Auchterarder,56.2932,-3.7061,United Kingdom,auchterarder,is_city
+2094,Ushaw Moor,54.778,-1.6457,United Kingdom,ushaw moor,is_city
+2095,Deganwy,53.298,-3.831,United Kingdom,deganwy,is_city
+2096,Tayport,56.4467,-2.8796,United Kingdom,tayport,is_city
+2097,Coggeshall,51.8717,0.6913,United Kingdom,coggeshall,is_city
+2098,Long Melford,52.077,0.718,United Kingdom,long melford,is_city
+2099,Shedfield,50.915,-1.2091,United Kingdom,shedfield,is_city
+2100,Long Buckby,52.303,-1.081,United Kingdom,long buckby,is_city
+2101,Edwalton,52.912,-1.112,United Kingdom,edwalton,is_city
+2102,Wheatley,51.747,-1.139,United Kingdom,wheatley,is_city
+2103,Market Rasen,53.3871,-0.3355,United Kingdom,market rasen,is_city
+2104,Hardwicke,51.8139,-2.2847,United Kingdom,hardwicke,is_city
+2105,Whyteleafe,51.3088,-0.0833,United Kingdom,whyteleafe,is_city
+2106,Whitwell,53.285,-1.209,United Kingdom,whitwell,is_city
+2107,Purton,51.588,-1.867,United Kingdom,purton,is_city
+2108,Rothley,52.709,-1.136,United Kingdom,rothley,is_city
+2109,North Ferriby,53.72,-0.5078,United Kingdom,north ferriby,is_city
+2110,Hartshorne,52.789,-1.526,United Kingdom,hartshorne,is_city
+2111,Warmsworth,53.5,-1.18,United Kingdom,warmsworth,is_city
+2112,Chasetown,52.67,-1.92,United Kingdom,chasetown,is_city
+2113,River,51.1447,1.2797,United Kingdom,river,is_city
+2114,Hindhead,51.1172,-0.7348,United Kingdom,hindhead,is_city
+2115,North Elmsall,53.609,-1.282,United Kingdom,north elmsall,is_city
+2116,Ticehurst,51.05,0.41,United Kingdom,ticehurst,is_city
+2117,Kemnay,57.2339,-2.4489,United Kingdom,kemnay,is_city
+2118,Beaufort,51.797,-3.206,United Kingdom,beaufort,is_city
+2119,Coningsby,53.1051,-0.1752,United Kingdom,coningsby,is_city
+2120,Mayland,51.687,0.754,United Kingdom,mayland,is_city
+2121,Pengam,51.6663,-3.2189,United Kingdom,pengam,is_city
+2122,Wrockwardine,52.703,-2.556,United Kingdom,wrockwardine,is_city
+2123,Linthwaite,53.6264,-1.8461,United Kingdom,linthwaite,is_city
+2124,Ellesmere,52.9082,-2.8944,United Kingdom,ellesmere,is_city
+2125,Capel,51.154,-0.321,United Kingdom,capel,is_city
+2126,Brynna,51.5388,-3.4632,United Kingdom,brynna,is_city
+2127,Deanshanger,52.0473,-0.8928,United Kingdom,deanshanger,is_city
+2128,Bowness-on-Windermere,54.3644,-2.9181,United Kingdom,bowness-on-windermere,is_city
+2129,Holt,52.9,1.09,United Kingdom,holt,is_city
+2130,Stratfield Mortimer,51.373,-1.037,United Kingdom,stratfield mortimer,is_city
+2131,Somersham,52.3823,0.0006,United Kingdom,somersham,is_city
+2132,Swanland,53.7399,-0.4905,United Kingdom,swanland,is_city
+2133,Poringland,52.5655,1.3503,United Kingdom,poringland,is_city
+2134,Belhelvie,57.249,-2.088,United Kingdom,belhelvie,is_city
+2135,Upper Beeding,50.8823,-0.3051,United Kingdom,upper beeding,is_city
+2136,Stoney Stanton,52.548,-1.2788,United Kingdom,stoney stanton,is_city
+2137,Walton le Dale,53.746,-2.665,United Kingdom,walton le dale,is_city
+2138,Banks,53.683,-2.917,United Kingdom,banks,is_city
+2139,Haltwhistle,54.97,-2.458,United Kingdom,haltwhistle,is_city
+2140,Amlwch,53.406,-4.341,United Kingdom,amlwch,is_city
+2141,Tibshelf,53.143,-1.345,United Kingdom,tibshelf,is_city
+2142,Watchet,51.1795,-3.3242,United Kingdom,watchet,is_city
+2143,Gullane,56.037,-2.827,United Kingdom,gullane,is_city
+2144,Tenbury,52.31,-2.59,United Kingdom,tenbury,is_city
+2145,Macduff,57.671,-2.497,United Kingdom,macduff,is_city
+2146,Dymchurch,51.027,1.0,United Kingdom,dymchurch,is_city
+2147,Tonypandy,51.6223,-3.4512,United Kingdom,tonypandy,is_city
+2148,Wyberton,52.954,-0.0412,United Kingdom,wyberton,is_city
+2149,Worlingham,52.452,1.595,United Kingdom,worlingham,is_city
+2150,Auckley,53.502,-1.018,United Kingdom,auckley,is_city
+2151,Lamesley,54.916,-1.608,United Kingdom,lamesley,is_city
+2152,Melton,52.1058,1.3317,United Kingdom,melton,is_city
+2153,Epworth,53.525,-0.82,United Kingdom,epworth,is_city
+2154,Harewood,53.9,-1.51,United Kingdom,harewood,is_city
+2155,Topsham,50.686,-3.4651,United Kingdom,topsham,is_city
+2156,Addingham,53.9333,-1.8833,United Kingdom,addingham,is_city
+2157,Marden,51.174,0.494,United Kingdom,marden,is_city
+2158,Messingham,53.5273,-0.6535,United Kingdom,messingham,is_city
+2159,Spixworth,52.6895,1.3268,United Kingdom,spixworth,is_city
+2160,Sutton-in-Craven,53.892,-1.993,United Kingdom,sutton-in-craven,is_city
+2161,Rhuddlan,53.294,-3.464,United Kingdom,rhuddlan,is_city
+2162,Feock,50.206,-5.05,United Kingdom,feock,is_city
+2163,Caddington,51.8631,-0.4568,United Kingdom,caddington,is_city
+2164,Garelochhead,56.081,-4.83,United Kingdom,garelochhead,is_city
+2165,Holton le Clay,53.5055,-0.0585,United Kingdom,holton le clay,is_city
+2166,Pirbright,51.286,-0.639,United Kingdom,pirbright,is_city
+2167,Bembridge,50.6897,-1.0889,United Kingdom,bembridge,is_city
+2168,Lesmahagow,55.638,-3.887,United Kingdom,lesmahagow,is_city
+2169,Aston Clinton,51.799,-0.721,United Kingdom,aston clinton,is_city
+2170,Desford,52.625,-1.295,United Kingdom,desford,is_city
+2171,Old Brampton,53.2432,-1.4994,United Kingdom,old brampton,is_city
+2172,Highcliffe,50.7414,-1.6959,United Kingdom,highcliffe,is_city
+2173,Taff's Well,51.5454,-3.2702,United Kingdom,taff's well,is_city
+2174,Corbridge,54.975,-2.017,United Kingdom,corbridge,is_city
+2175,Lyme Regis,50.725,-2.94,United Kingdom,lyme regis,is_city
+2176,Dobwalls,50.4577,-4.5158,United Kingdom,dobwalls,is_city
+2177,Llangollen,52.97,-3.17,United Kingdom,llangollen,is_city
+2178,Maresfield,51.0,0.09,United Kingdom,maresfield,is_city
+2179,Pilning,51.564,-2.6417,United Kingdom,pilning,is_city
+2180,Saxmundham,52.215,1.487,United Kingdom,saxmundham,is_city
+2181,Clapham,52.1649,-0.502,United Kingdom,clapham,is_city
+2182,Llanharry,51.513,-3.43,United Kingdom,llanharry,is_city
+2183,Llanfairfechan,53.253,-3.973,United Kingdom,llanfairfechan,is_city
+2184,Stoneleigh,52.3514,-1.5147,United Kingdom,stoneleigh,is_city
+2185,Penclawdd,51.641,-4.0977,United Kingdom,penclawdd,is_city
+2186,Pewsey,51.339,-1.765,United Kingdom,pewsey,is_city
+2187,Whalley,53.824,-2.404,United Kingdom,whalley,is_city
+2188,Kilbarchan,55.8362,-4.5537,United Kingdom,kilbarchan,is_city
+2189,Kilburn,53.0056,-1.4254,United Kingdom,kilburn,is_city
+2190,Aviemore,57.194,-3.823,United Kingdom,aviemore,is_city
+2191,Wembdon,51.132,-3.023,United Kingdom,wembdon,is_city
+2192,Haven Street,50.7092,-1.2089,United Kingdom,haven street,is_city
+2193,Wigginton,54.0187,-1.0936,United Kingdom,wigginton,is_city
+2194,Newton,51.484,-3.679,United Kingdom,newton,is_city
+2195,Frizington,54.556,-3.471,United Kingdom,frizington,is_city
+2196,Highley,52.448,-2.382,United Kingdom,highley,is_city
+2197,Metheringham,53.1391,-0.4034,United Kingdom,metheringham,is_city
+2198,Kegworth,52.8369,-1.2836,United Kingdom,kegworth,is_city
+2199,Anstruther,56.2234,-2.7027,United Kingdom,anstruther,is_city
+2200,Carfin,55.8009,-3.9648,United Kingdom,carfin,is_city
+2201,Boreham,51.7599,0.542,United Kingdom,boreham,is_city
+2202,Parkgate,53.296,-3.085,United Kingdom,parkgate,is_city
+2203,Tain,57.8118,-4.0567,United Kingdom,tain,is_city
+2205,Elton,53.2766,-2.8168,United Kingdom,elton,is_city
+2206,Shawforth,53.683,-2.166,United Kingdom,shawforth,is_city
+2207,West Parley,50.786,-1.886,United Kingdom,west parley,is_city
+2208,Oughtibridge,53.436,-1.539,United Kingdom,oughtibridge,is_city
+2209,Wilton,51.08,-1.864,United Kingdom,wilton,is_city
+2210,Harthill,55.8603,-3.7493,United Kingdom,harthill,is_city
+2211,Bawtry,53.4278,-1.0167,United Kingdom,bawtry,is_city
+2212,Yapton,50.82,-0.6112,United Kingdom,yapton,is_city
+2213,Martham,52.7084,1.6328,United Kingdom,martham,is_city
+2214,Limpsfield,51.2606,0.0119,United Kingdom,limpsfield,is_city
+2216,Wisbech Saint Mary,52.63,0.1,United Kingdom,wisbech saint mary,is_city
+2217,Scarisbrick,53.61,-2.934,United Kingdom,scarisbrick,is_city
+2218,Brockenhurst,50.82,-1.58,United Kingdom,brockenhurst,is_city
+2219,Carisbrooke,50.6917,-1.3172,United Kingdom,carisbrooke,is_city
+2221,Dreghorn,55.6072,-4.6169,United Kingdom,dreghorn,is_city
+2222,Marham,52.6608,0.5255,United Kingdom,marham,is_city
+2223,Stamford Bridge,53.989,-0.9125,United Kingdom,stamford bridge,is_city
+2224,Box,51.415,-2.252,United Kingdom,box,is_city
+2225,Kidwelly,51.736,-4.307,United Kingdom,kidwelly,is_city
+2226,Mulbarton,52.5872,1.2253,United Kingdom,mulbarton,is_city
+2227,Auchinleck,55.4733,-4.2985,United Kingdom,auchinleck,is_city
+2228,Barkham,51.402,-0.876,United Kingdom,barkham,is_city
+2229,Bitton,51.4248,-2.46,United Kingdom,bitton,is_city
+2230,Cosby,52.5517,-1.1933,United Kingdom,cosby,is_city
+2231,Whaplode,52.8002,-0.037,United Kingdom,whaplode,is_city
+2232,Moulton,52.798,-0.0629,United Kingdom,moulton,is_city
+2233,Moulton Chapel,52.7463,-0.0841,United Kingdom,moulton chapel,is_city
+2234,Cults,57.1187,-2.1739,United Kingdom,cults,is_city
+2235,Marsden,53.6011,-1.9267,United Kingdom,marsden,is_city
+2236,Withnell,53.69,-2.555,United Kingdom,withnell,is_city
+2237,Congresbury,51.3677,-2.8109,United Kingdom,congresbury,is_city
+2238,Melling,53.495,-2.927,United Kingdom,melling,is_city
+2239,Moreton in Marsh,51.988,-1.701,United Kingdom,moreton in marsh,is_city
+2240,Yelverton,50.492,-4.086,United Kingdom,yelverton,is_city
+2242,Inverkip,55.907,-4.8703,United Kingdom,inverkip,is_city
+2243,Denholme,53.802,-1.894,United Kingdom,denholme,is_city
+2244,Pilsley,53.155,-1.366,United Kingdom,pilsley,is_city
+2245,Pentyrch,51.5288,-3.2973,United Kingdom,pentyrch,is_city
+2246,Arundel,50.8544,-0.5539,United Kingdom,arundel,is_city
+2247,Prestbury,53.2928,-2.1452,United Kingdom,prestbury,is_city
+2248,Clipstone,53.17,-1.1073,United Kingdom,clipstone,is_city
+2249,Llanharan,51.53,-3.43,United Kingdom,llanharan,is_city
+2250,Skellingthorpe,53.2364,-0.6165,United Kingdom,skellingthorpe,is_city
+2251,Otford,51.3097,0.1866,United Kingdom,otford,is_city
+2252,Neyland,51.7113,-4.9452,United Kingdom,neyland,is_city
+2253,South Cerney,51.671,-1.932,United Kingdom,south cerney,is_city
+2254,Alford,53.26,0.18,United Kingdom,alford,is_city
+2255,Cholsey,51.574,-1.151,United Kingdom,cholsey,is_city
+2257,Redlynch,50.988,-1.712,United Kingdom,redlynch,is_city
+2258,Sway,50.783,-1.6,United Kingdom,sway,is_city
+2260,Water Orton,52.517,-1.736,United Kingdom,water orton,is_city
+2261,Burton Joyce,52.988,-1.036,United Kingdom,burton joyce,is_city
+2262,Nettleham,53.2662,-0.4877,United Kingdom,nettleham,is_city
+2263,Gilfach Goch,51.5921,-3.4728,United Kingdom,gilfach goch,is_city
+2264,Gilberdike,53.752,-0.7361,United Kingdom,gilberdike,is_city
+2265,Lytchett Matravers,50.7582,-2.0791,United Kingdom,lytchett matravers,is_city
+2266,Wonersh,51.1983,-0.5468,United Kingdom,wonersh,is_city
+2267,Queenborough,51.4183,0.745,United Kingdom,queenborough,is_city
+2268,Boroughbridge,54.095,-1.398,United Kingdom,boroughbridge,is_city
+2269,Avonmouth,51.501,-2.699,United Kingdom,avonmouth,is_city
+2270,Bramhope,53.8829,-1.6095,United Kingdom,bramhope,is_city
+2271,Westerleigh,51.51,-2.43,United Kingdom,westerleigh,is_city
+2272,Marston,51.777,-1.236,United Kingdom,marston,is_city
+2273,Thorngumbald,53.7208,-0.1715,United Kingdom,thorngumbald,is_city
+2274,Pen-y-cae,52.999,-3.073,United Kingdom,pen-y-cae,is_city
+2275,Kirkliston,55.956,-3.403,United Kingdom,kirkliston,is_city
+2276,Chapel Saint Leonards,53.223,0.3365,United Kingdom,chapel saint leonards,is_city
+2277,Glemsford,52.1,0.669,United Kingdom,glemsford,is_city
+2278,Benllech,53.3216,-4.2257,United Kingdom,benllech,is_city
+2279,Swillington,53.768,-1.4201,United Kingdom,swillington,is_city
+2280,New Buildings,54.958,-7.355,United Kingdom,new buildings,is_city
+2281,Llanbadarn-fawr,52.408,-4.06,United Kingdom,llanbadarn-fawr,is_city
+2282,Menai Bridge,53.23,-4.16,United Kingdom,menai bridge,is_city
+2283,Bilsthorpe,53.1333,-1.0333,United Kingdom,bilsthorpe,is_city
+2284,Bloxham,52.018,-1.375,United Kingdom,bloxham,is_city
+2285,Lenham,51.238,0.716,United Kingdom,lenham,is_city
+2286,South Petherton,50.949,-2.809,United Kingdom,south petherton,is_city
+2287,Takeley,51.868,0.266,United Kingdom,takeley,is_city
+2288,Saundersfoot,51.711,-4.7,United Kingdom,saundersfoot,is_city
+2289,Darvel,55.61,-4.2809,United Kingdom,darvel,is_city
+2290,Washingborough,53.2233,-0.4744,United Kingdom,washingborough,is_city
+2291,Saint Asaph,53.258,-3.442,United Kingdom,saint asaph,is_city
+2292,Heckington,52.982,-0.304,United Kingdom,heckington,is_city
+2293,Kirkcudbright,54.832,-4.048,United Kingdom,kirkcudbright,is_city
+2294,Clackmannan,56.107,-3.749,United Kingdom,clackmannan,is_city
+2295,Codicote,51.85,-0.236,United Kingdom,codicote,is_city
+2297,West Bergholt,51.91,0.85,United Kingdom,west bergholt,is_city
+2298,Buxted,50.99,0.13,United Kingdom,buxted,is_city
+2299,Framlingham,52.2221,1.3434,United Kingdom,framlingham,is_city
+2300,Leverington,52.6822,0.1359,United Kingdom,leverington,is_city
+2301,Lowdham,53.009,-1.001,United Kingdom,lowdham,is_city
+2302,Buckfastleigh,50.48,-3.78,United Kingdom,buckfastleigh,is_city
+2303,Llanrwst,53.137,-3.795,United Kingdom,llanrwst,is_city
+2304,Wedmore,51.226,-2.81,United Kingdom,wedmore,is_city
+2305,Blofield,52.635,1.448,United Kingdom,blofield,is_city
+2306,West Chiltington,50.9556,-0.449,United Kingdom,west chiltington,is_city
+2307,Boughton Monchelsea,51.2293,0.5312,United Kingdom,boughton monchelsea,is_city
+2308,Burghill,52.1,-2.7666,United Kingdom,burghill,is_city
+2309,West Wellow,50.975,-1.578,United Kingdom,west wellow,is_city
+2310,East Peckham,51.22,0.38,United Kingdom,east peckham,is_city
+2311,Bourton on the Water,51.886,-1.759,United Kingdom,bourton on the water,is_city
+2312,Nottage,51.491,-3.7116,United Kingdom,nottage,is_city
+2313,Ashfordby,52.76,-0.96,United Kingdom,ashfordby,is_city
+2314,Newtonhill,57.032,-2.15,United Kingdom,newtonhill,is_city
+2315,Pegswood,55.1798,-1.6442,United Kingdom,pegswood,is_city
+2316,Hemsby,52.6976,1.6911,United Kingdom,hemsby,is_city
+2317,Gobowen,52.896,-3.038,United Kingdom,gobowen,is_city
+2318,Wilstead,52.0666,-0.4333,United Kingdom,wilstead,is_city
+2319,Cuckfield,51.0096,-0.1407,United Kingdom,cuckfield,is_city
+2320,Crosskeys,51.6169,-3.1207,United Kingdom,crosskeys,is_city
+2321,Towyn,52.582,-4.089,United Kingdom,towyn,is_city
+2322,Barlborough,53.287,-1.287,United Kingdom,barlborough,is_city
+2323,Laceby,53.541,-0.168,United Kingdom,laceby,is_city
+2325,Bishopston,51.575,-4.051,United Kingdom,bishopston,is_city
+2326,Gamlingay,52.1579,-0.1946,United Kingdom,gamlingay,is_city
+2327,Little Paxton,52.25,-0.25,United Kingdom,little paxton,is_city
+2328,Headcorn,51.1695,0.6203,United Kingdom,headcorn,is_city
+2329,Bishopthorpe,53.9187,-1.1008,United Kingdom,bishopthorpe,is_city
+2330,Fairford,51.708,-1.785,United Kingdom,fairford,is_city
+2331,Thurston,52.2499,0.8259,United Kingdom,thurston,is_city
+2332,Rossett,53.109,-2.945,United Kingdom,rossett,is_city
+2333,Mid Calder,55.8918,-3.481,United Kingdom,mid calder,is_city
+2334,Pontesbury,52.649,-2.888,United Kingdom,pontesbury,is_city
+2335,Hendy,51.713,-4.057,United Kingdom,hendy,is_city
+2336,Cambusbarron,56.109,-3.968,United Kingdom,cambusbarron,is_city
+2337,Law,55.7501,-3.8826,United Kingdom,law,is_city
+2338,Endon,53.0788,-2.1112,United Kingdom,endon,is_city
+2339,Chestfield,51.355,1.064,United Kingdom,chestfield,is_city
+2340,Rotherfield,51.046,0.2192,United Kingdom,rotherfield,is_city
+2341,Goudhurst,51.1112,0.4636,United Kingdom,goudhurst,is_city
+2342,Swalwell,54.954,-1.684,United Kingdom,swalwell,is_city
+2343,Malvern Wells,52.0785,-2.3324,United Kingdom,malvern wells,is_city
+2344,Alyth,56.6231,-3.232,United Kingdom,alyth,is_city
+2345,Treeton,53.3845,-1.3513,United Kingdom,treeton,is_city
+2346,Long Lawford,52.3841,-1.302,United Kingdom,long lawford,is_city
+2347,Knighton,52.344,-3.049,United Kingdom,knighton,is_city
+2348,Holme upon Spalding Moor,53.8365,-0.7782,United Kingdom,holme upon spalding moor,is_city
+2349,Bream,51.7498,-2.574,United Kingdom,bream,is_city
+2350,Alderholt,50.9133,-1.8317,United Kingdom,alderholt,is_city
+2351,Harrington,54.612,-3.565,United Kingdom,harrington,is_city
+2352,Kingsclere,51.326,-1.2442,United Kingdom,kingsclere,is_city
+2353,Maerdy,51.6727,-3.4833,United Kingdom,maerdy,is_city
+2354,Bedale,54.288,-1.591,United Kingdom,bedale,is_city
+2355,Catterick,54.377,-1.63,United Kingdom,catterick,is_city
+2356,Silkstone,53.5489,-1.5634,United Kingdom,silkstone,is_city
+2357,Pevensey,50.8203,0.3383,United Kingdom,pevensey,is_city
+2358,Stalham,52.77,1.511,United Kingdom,stalham,is_city
+2359,Berkswell,52.409,-1.642,United Kingdom,berkswell,is_city
+2360,Chipstead,51.315,-0.163,United Kingdom,chipstead,is_city
+2361,Markyate,51.836,-0.455,United Kingdom,markyate,is_city
+2362,Little Plumstead,52.649,1.4128,United Kingdom,little plumstead,is_city
+2363,Maulden,52.03,-0.47,United Kingdom,maulden,is_city
+2364,Hunmanby,54.1818,-0.3175,United Kingdom,hunmanby,is_city
+2365,Weston Turville,51.7916,-0.7577,United Kingdom,weston turville,is_city
+2366,Ogmore Vale,51.603,-3.5467,United Kingdom,ogmore vale,is_city
+2367,Eaglesham,55.7394,-4.2733,United Kingdom,eaglesham,is_city
+2368,Eastergate,50.8417,-0.6579,United Kingdom,eastergate,is_city
+2370,Llangendeirne,51.7985,-4.2071,United Kingdom,llangendeirne,is_city
+2371,Eriswell,52.367,0.533,United Kingdom,eriswell,is_city
+2372,Woodstock,51.845,-1.354,United Kingdom,woodstock,is_city
+2373,Beaminster,50.809,-2.7391,United Kingdom,beaminster,is_city
+2374,Laurencekirk,56.83,-2.46,United Kingdom,laurencekirk,is_city
+2375,Leslie,56.202,-3.2115,United Kingdom,leslie,is_city
+2376,Langford,52.0529,-0.2741,United Kingdom,langford,is_city
+2377,Draycott,52.8944,-1.3415,United Kingdom,draycott,is_city
+2378,Chailey,50.96,-0.01,United Kingdom,chailey,is_city
+2379,Iwade,51.376,0.728,United Kingdom,iwade,is_city
+2381,Wrecclesham,51.199,-0.818,United Kingdom,wrecclesham,is_city
+2382,Tutbury,52.854,-1.686,United Kingdom,tutbury,is_city
+2383,Downton,50.993,-1.743,United Kingdom,downton,is_city
+2384,West Calder,55.852,-3.5685,United Kingdom,west calder,is_city
+2385,Scotter,53.499,-0.6663,United Kingdom,scotter,is_city
+2386,Perranporth,50.3437,-5.1546,United Kingdom,perranporth,is_city
+2387,Porthleven,50.084,-5.315,United Kingdom,porthleven,is_city
+2388,Drybrook,51.8542,-2.5496,United Kingdom,drybrook,is_city
+2389,Felsted,51.856,0.436,United Kingdom,felsted,is_city
+2390,Northop,53.204,-3.13,United Kingdom,northop,is_city
+2391,Norton Fitzwarren,51.0232,-3.1491,United Kingdom,norton fitzwarren,is_city
+2392,Spilsby,53.1727,0.0931,United Kingdom,spilsby,is_city
+2393,Tardebigge,52.322,-2.007,United Kingdom,tardebigge,is_city
+2394,Kirkby Moorside,54.269,-0.93,United Kingdom,kirkby moorside,is_city
+2395,Cleobury Mortimer,52.3785,-2.4821,United Kingdom,cleobury mortimer,is_city
+2396,Kincardine,56.069,-3.719,United Kingdom,kincardine,is_city
+2397,South Hetton,54.8,-1.41,United Kingdom,south hetton,is_city
+2398,Gwithian,50.2214,-5.3865,United Kingdom,gwithian,is_city
+2399,Llangynwyd,51.5869,-3.6379,United Kingdom,llangynwyd,is_city
+2400,Petworth,50.986,-0.609,United Kingdom,petworth,is_city
+2401,High Bentham,54.118,-2.51,United Kingdom,high bentham,is_city
+2402,Painswick,51.786,-2.194,United Kingdom,painswick,is_city
+2403,Barrow upon Humber,53.675,-0.3818,United Kingdom,barrow upon humber,is_city
+2404,Eastchurch,51.4,0.8667,United Kingdom,eastchurch,is_city
+2405,Ystalyfera,51.764,-3.786,United Kingdom,ystalyfera,is_city
+2406,Margam,51.5744,-3.7528,United Kingdom,margam,is_city
+2407,Rendlesham,52.1301,1.4127,United Kingdom,rendlesham,is_city
+2408,Newbold Verdon,52.6296,-1.3421,United Kingdom,newbold verdon,is_city
+2409,Saughall,53.2234,-2.9593,United Kingdom,saughall,is_city
+2410,West Melton,53.5035,-1.3618,United Kingdom,west melton,is_city
+2411,Cleland,55.8023,-3.9143,United Kingdom,cleland,is_city
+2412,Steynton,51.7295,-5.0174,United Kingdom,steynton,is_city
+2413,Longtown,55.0084,-2.9687,United Kingdom,longtown,is_city
+2414,Breage,50.108,-5.332,United Kingdom,breage,is_city
+2415,Llanfairpwllgwyngyll,53.2232,-4.2008,United Kingdom,llanfairpwllgwyngyll,is_city
+2416,Sealand,53.212,-2.97,United Kingdom,sealand,is_city
+2417,Saint Clears,51.8204,-4.5042,United Kingdom,saint clears,is_city
+2418,Padstow,50.538,-4.938,United Kingdom,padstow,is_city
+2419,Collingham,53.904,-1.4139,United Kingdom,collingham,is_city
+2420,Normandy,51.2576,-0.6556,United Kingdom,normandy,is_city
+2421,Pangbourne,51.4839,-1.0869,United Kingdom,pangbourne,is_city
+2422,Lyndhurst,50.87,-1.58,United Kingdom,lyndhurst,is_city
+2423,Bletchingley,51.241,-0.099,United Kingdom,bletchingley,is_city
+2424,Colerne,51.439,-2.262,United Kingdom,colerne,is_city
+2425,Hopton on Sea,52.534,1.738,United Kingdom,hopton on sea,is_city
+2426,Lampeter,52.1202,-4.0821,United Kingdom,lampeter,is_city
+2427,Belton,53.553,-0.8166,United Kingdom,belton,is_city
+2428,Cringleford,52.6056,1.2433,United Kingdom,cringleford,is_city
+2429,Mere,51.09,-2.266,United Kingdom,mere,is_city
+2430,Llanwern,51.572,-2.9133,United Kingdom,llanwern,is_city
+2431,Chiddingfold,51.1113,-0.6282,United Kingdom,chiddingfold,is_city
+2432,Trimdon,54.7017,-1.4284,United Kingdom,trimdon,is_city
+2433,Gosberton,52.85,-0.15,United Kingdom,gosberton,is_city
+2434,Alveston,51.589,-2.533,United Kingdom,alveston,is_city
+2435,Heath,53.1982,-1.3353,United Kingdom,heath,is_city
+2436,Pitstone,51.8256,-0.6302,United Kingdom,pitstone,is_city
+2437,Camelford,50.617,-4.683,United Kingdom,camelford,is_city
+2438,Fernhurst,51.049,-0.723,United Kingdom,fernhurst,is_city
+2439,Charminster,50.7327,-2.4546,United Kingdom,charminster,is_city
+2440,Healing,53.5739,-0.164,United Kingdom,healing,is_city
+2441,Dunchurch,52.3368,-1.2896,United Kingdom,dunchurch,is_city
+2442,Brodsworth,53.5596,-1.237,United Kingdom,brodsworth,is_city
+2443,West Grinstead,50.9741,-0.3331,United Kingdom,west grinstead,is_city
+2444,Cullingworth,53.8247,-1.9027,United Kingdom,cullingworth,is_city
+2445,Kinghorn,56.07,-3.17,United Kingdom,kinghorn,is_city
+2446,Great Totham,51.7792,0.7011,United Kingdom,great totham,is_city
+2447,Llanidloes,52.449,-3.5402,United Kingdom,llanidloes,is_city
+2448,Totland,50.6849,-1.5366,United Kingdom,totland,is_city
+2449,Croft,53.437,-2.552,United Kingdom,croft,is_city
+2450,Banwell,51.327,-2.864,United Kingdom,banwell,is_city
+2451,Heighington,53.212,-0.4574,United Kingdom,heighington,is_city
+2452,Croston,53.662,-2.777,United Kingdom,croston,is_city
+2453,East Woodhay,51.3511,-1.4183,United Kingdom,east woodhay,is_city
+2454,Llanrug,53.147,-4.193,United Kingdom,llanrug,is_city
+2455,Holmewood,53.1893,-1.3549,United Kingdom,holmewood,is_city
+2456,Bruton,51.1134,-2.4528,United Kingdom,bruton,is_city
+2457,Etwall,52.884,-1.602,United Kingdom,etwall,is_city
+2458,Silloth,54.869,-3.381,United Kingdom,silloth,is_city
+2459,Pucklechurch,51.487,-2.4353,United Kingdom,pucklechurch,is_city
+2460,Teynham,51.331,0.802,United Kingdom,teynham,is_city
+2461,Chryston,55.906,-4.11,United Kingdom,chryston,is_city
+2462,Bosham,50.8289,-0.8595,United Kingdom,bosham,is_city
+2463,Prees,52.897,-2.666,United Kingdom,prees,is_city
+2464,Ryhill,53.6168,-1.4021,United Kingdom,ryhill,is_city
+2465,Wiveliscombe,51.0431,-3.3137,United Kingdom,wiveliscombe,is_city
+2466,Stainton,54.5211,-1.2595,United Kingdom,stainton,is_city
+2467,Chieveley,51.461,-1.319,United Kingdom,chieveley,is_city
+2468,New Cumnock,55.3968,-4.1839,United Kingdom,new cumnock,is_city
+2469,Upton upon Severn,52.063,-2.215,United Kingdom,upton upon severn,is_city
+2470,Papworth Everard,52.2547,-0.1189,United Kingdom,papworth everard,is_city
+2471,Halkyn,53.233,-3.183,United Kingdom,halkyn,is_city
+2472,Harton,54.881,-1.534,United Kingdom,harton,is_city
+2474,Much Wenlock,52.5966,-2.558,United Kingdom,much wenlock,is_city
+2475,Capel Saint Mary,52.002,1.046,United Kingdom,capel saint mary,is_city
+2476,Dollar,56.162,-3.674,United Kingdom,dollar,is_city
+2477,Minchinhampton,51.7058,-2.186,United Kingdom,minchinhampton,is_city
+2478,Shawbury,52.786,-2.655,United Kingdom,shawbury,is_city
+2479,Swanmore,50.9423,-1.1794,United Kingdom,swanmore,is_city
+2480,Fen Stanton,52.3,-0.07,United Kingdom,fen stanton,is_city
+2481,Bookham,51.233,-0.286,United Kingdom,bookham,is_city
+2482,Over,52.314,0.016,United Kingdom,over,is_city
+2483,Much Hadham,51.854,0.072,United Kingdom,much hadham,is_city
+2484,Barlaston,52.9457,-2.1583,United Kingdom,barlaston,is_city
+2485,Ottershaw,51.368,-0.53,United Kingdom,ottershaw,is_city
+2486,Alrewas,52.732,-1.749,United Kingdom,alrewas,is_city
+2487,Lechlade,51.699,-1.692,United Kingdom,lechlade,is_city
+2488,White Waltham,51.49,-0.769,United Kingdom,white waltham,is_city
+2489,Thaxted,51.954,0.346,United Kingdom,thaxted,is_city
+2490,Bishops Lydeard,51.0615,-3.1872,United Kingdom,bishops lydeard,is_city
+2491,Sheering,51.8043,0.1845,United Kingdom,sheering,is_city
+2492,Theale,51.437,-1.077,United Kingdom,theale,is_city
+2493,Usk,51.704,-2.902,United Kingdom,usk,is_city
+2494,Tattershall,53.104,-0.1906,United Kingdom,tattershall,is_city
+2495,Aspatria,54.7633,-3.3281,United Kingdom,aspatria,is_city
+2496,Charlbury,51.872,-1.482,United Kingdom,charlbury,is_city
+2497,Chalgrove,51.665,-1.077,United Kingdom,chalgrove,is_city
+2498,West Horsley,51.261,-0.454,United Kingdom,west horsley,is_city
+2499,West Coker,50.9189,-2.6913,United Kingdom,west coker,is_city
+2500,Cranwell,53.0367,-0.4619,United Kingdom,cranwell,is_city
+2501,Feltwell,52.4864,0.5194,United Kingdom,feltwell,is_city
+2502,Cymmer,51.65,-3.65,United Kingdom,cymmer,is_city
+2503,Acle,52.638,1.555,United Kingdom,acle,is_city
+2504,South Brent,50.4281,-3.8358,United Kingdom,south brent,is_city
+2505,Halling,51.3514,0.4413,United Kingdom,halling,is_city
+2506,Crich,53.084,-1.479,United Kingdom,crich,is_city
+2507,Glenboig,55.8933,-4.0449,United Kingdom,glenboig,is_city
+2508,Adderbury,52.016,-1.313,United Kingdom,adderbury,is_city
+2509,Cantley,53.51,-1.06,United Kingdom,cantley,is_city
+2510,Lostwithiel,50.4074,-4.6696,United Kingdom,lostwithiel,is_city
+2511,Appledore,51.0525,-4.1945,United Kingdom,appledore,is_city
+2512,Northchurch,51.783,-0.613,United Kingdom,northchurch,is_city
+2513,Donington,52.904,-0.1982,United Kingdom,donington,is_city
+2514,Buckden,52.28,-0.25,United Kingdom,buckden,is_city
+2515,Milborne Port,50.9666,-2.461,United Kingdom,milborne port,is_city
+2516,Newmilns,55.608,-4.329,United Kingdom,newmilns,is_city
+2517,Clydach Vale,51.6268,-3.4719,United Kingdom,clydach vale,is_city
+2518,Chinley,53.339,-1.941,United Kingdom,chinley,is_city
+2519,Rudgwick,51.093,-0.446,United Kingdom,rudgwick,is_city
+2520,West Monkton,51.051,-3.045,United Kingdom,west monkton,is_city
+2521,Saint Dennis,50.383,-4.883,United Kingdom,saint dennis,is_city
+2522,Fulford,53.938,-1.073,United Kingdom,fulford,is_city
+2523,Smalley,52.998,-1.394,United Kingdom,smalley,is_city
+2524,Mitcheldean,51.8646,-2.4904,United Kingdom,mitcheldean,is_city
+2525,Milltimber,57.1052,-2.2311,United Kingdom,milltimber,is_city
+2526,Ellington,55.2209,-1.5621,United Kingdom,ellington,is_city
+2527,Pitlochry,56.705,-3.733,United Kingdom,pitlochry,is_city
+2528,Kilnhurst,53.4703,-1.3057,United Kingdom,kilnhurst,is_city
+2529,Radley,51.689,-1.24,United Kingdom,radley,is_city
+2530,Bugbrooke,52.2105,-1.0106,United Kingdom,bugbrooke,is_city
+2531,Rowlands Castle,50.8912,-0.9601,United Kingdom,rowlands castle,is_city
+2532,Pontyberem,51.779,-4.174,United Kingdom,pontyberem,is_city
+2533,Charing,51.2107,0.7949,United Kingdom,charing,is_city
+2534,Sedbergh,54.322,-2.526,United Kingdom,sedbergh,is_city
+2535,East Bergholt,51.978,1.017,United Kingdom,east bergholt,is_city
+2536,Lickey End,52.3522,-2.0448,United Kingdom,lickey end,is_city
+2537,Mundesley,52.876,1.438,United Kingdom,mundesley,is_city
+2538,Locking,51.3309,-2.9108,United Kingdom,locking,is_city
+2539,Callander,56.244,-4.2145,United Kingdom,callander,is_city
+2540,Burton upon Stather,53.6494,-0.6848,United Kingdom,burton upon stather,is_city
+2541,Icklesham,50.92,0.67,United Kingdom,icklesham,is_city
+2542,Upwell,52.5956,0.2134,United Kingdom,upwell,is_city
+2543,Davenham,53.2358,-2.5111,United Kingdom,davenham,is_city
+2544,Wing,51.898,-0.717,United Kingdom,wing,is_city
+2545,Hambleton,53.875,-2.952,United Kingdom,hambleton,is_city
+2546,Llysfaen,53.279,-3.668,United Kingdom,llysfaen,is_city
+2547,Wendron,50.134,-5.248,United Kingdom,wendron,is_city
+2548,Greenfield,53.289,-3.21,United Kingdom,greenfield,is_city
+2549,Wembury,50.3169,-4.083,United Kingdom,wembury,is_city
+2550,North Collingham,53.1478,-0.7592,United Kingdom,north collingham,is_city
+2551,New Earswick,53.992,-1.0724,United Kingdom,new earswick,is_city
+2552,Batheaston,51.4065,-2.3112,United Kingdom,batheaston,is_city
+2553,Farnsfield,53.1028,-1.0361,United Kingdom,farnsfield,is_city
+2554,Tarvin,53.1949,-2.7668,United Kingdom,tarvin,is_city
+2555,Watlington,51.645,-1.008,United Kingdom,watlington,is_city
+2556,Mintlaw,57.525,-2.001,United Kingdom,mintlaw,is_city
+2557,Crosshouse,55.6122,-4.5528,United Kingdom,crosshouse,is_city
+2558,Wolsingham,54.731,-1.882,United Kingdom,wolsingham,is_city
+2559,Lingwood,52.6222,1.4901,United Kingdom,lingwood,is_city
+2560,Meriden,52.4379,-1.6496,United Kingdom,meriden,is_city
+2561,Lyminge,51.127,1.0876,United Kingdom,lyminge,is_city
+2562,Brenchley,51.1486,0.3941,United Kingdom,brenchley,is_city
+2563,Burwash,51.0,0.39,United Kingdom,burwash,is_city
+2564,Cowie,56.0805,-3.867,United Kingdom,cowie,is_city
+2565,Fordham,52.32,0.38,United Kingdom,fordham,is_city
+2566,Effingham,51.2718,-0.4002,United Kingdom,effingham,is_city
+2567,Presteign,52.2744,-3.0054,United Kingdom,presteign,is_city
+2568,Hayfield,53.38,-1.94,United Kingdom,hayfield,is_city
+2570,Reepham,52.762,1.112,United Kingdom,reepham,is_city
+2571,Repton,52.838,-1.549,United Kingdom,repton,is_city
+2572,Weedon Beck,52.231,-1.0804,United Kingdom,weedon beck,is_city
+2573,Gretna,54.994,-3.062,United Kingdom,gretna,is_city
+2574,Elstow,52.1069,-0.4648,United Kingdom,elstow,is_city
+2575,West Wittering,50.7806,-0.8956,United Kingdom,west wittering,is_city
+2576,Stalbridge,50.9594,-2.3784,United Kingdom,stalbridge,is_city
+2577,Kirton in Lindsey,53.4759,-0.5887,United Kingdom,kirton in lindsey,is_city
+2578,Muir of Ord,57.52,-4.46,United Kingdom,muir of ord,is_city
+2579,Dolgellau,52.743,-3.885,United Kingdom,dolgellau,is_city
+2580,Combe Martin,51.2,-4.025,United Kingdom,combe martin,is_city
+2581,Mistley,51.944,1.081,United Kingdom,mistley,is_city
+2582,Nutfield,51.238,-0.133,United Kingdom,nutfield,is_city
+2583,Hardwick,52.2133,0.0119,United Kingdom,hardwick,is_city
+2584,Dundonald,55.578,-4.594,United Kingdom,dundonald,is_city
+2585,Chisledon,51.516,-1.731,United Kingdom,chisledon,is_city
+2586,Teversham,52.2,0.19,United Kingdom,teversham,is_city
+2587,Long Stanton,52.279,0.0478,United Kingdom,long stanton,is_city
+2588,Badsey,52.08,-1.89,United Kingdom,badsey,is_city
+2589,Harbledown,51.283,1.054,United Kingdom,harbledown,is_city
+2590,Withyham,51.1,0.132,United Kingdom,withyham,is_city
+2591,Grimsargh,53.805,-2.631,United Kingdom,grimsargh,is_city
+2592,Tuxford,53.231,-0.898,United Kingdom,tuxford,is_city
+2593,Loddon,52.533,1.483,United Kingdom,loddon,is_city
+2594,Llandow,51.449,-3.523,United Kingdom,llandow,is_city
+2595,Horam,50.93,0.24,United Kingdom,horam,is_city
+2596,Holsworthy,50.8167,-4.35,United Kingdom,holsworthy,is_city
+2597,Robertsbridge,50.99,0.47,United Kingdom,robertsbridge,is_city
+2598,Speen,51.4098,-1.3417,United Kingdom,speen,is_city
+2599,Wrington,51.361,-2.763,United Kingdom,wrington,is_city
+2600,Mattishall,52.6585,1.0347,United Kingdom,mattishall,is_city
+2601,South Hanningfield,51.6504,0.5183,United Kingdom,south hanningfield,is_city
+2602,Lochwinnoch,55.7925,-4.6286,United Kingdom,lochwinnoch,is_city
+2603,Cuxton,51.375,0.45,United Kingdom,cuxton,is_city
+2604,Kington,52.2035,-3.03,United Kingdom,kington,is_city
+2605,Oxenhope,53.812,-1.952,United Kingdom,oxenhope,is_city
+2606,Tangmere,50.851,-0.716,United Kingdom,tangmere,is_city
+2607,Timsbury,51.3268,-2.4757,United Kingdom,timsbury,is_city
+2608,Tollesbury,51.76,0.84,United Kingdom,tollesbury,is_city
+2609,Biddenham,52.1406,-0.5051,United Kingdom,biddenham,is_city
+2610,Emneth,52.6426,0.2091,United Kingdom,emneth,is_city
+2611,Stocksfield,54.948,-1.914,United Kingdom,stocksfield,is_city
+2612,Tarporley,53.1602,-2.6694,United Kingdom,tarporley,is_city
+2613,Herstmonceux,50.89,0.32,United Kingdom,herstmonceux,is_city
+2614,Kelsall,53.207,-2.712,United Kingdom,kelsall,is_city
+2615,Kempsey,52.1391,-2.2177,United Kingdom,kempsey,is_city
+2616,Brynamman,51.8151,-3.8714,United Kingdom,brynamman,is_city
+2617,Williton,51.1648,-3.3087,United Kingdom,williton,is_city
+2618,Willington,52.854,-1.565,United Kingdom,willington,is_city
+2620,Nefyn,52.935,-4.524,United Kingdom,nefyn,is_city
+2621,Kilmaurs,55.6394,-4.5303,United Kingdom,kilmaurs,is_city
+2622,Caistor,53.494,-0.322,United Kingdom,caistor,is_city
+2623,Bushbury,52.62,-2.113,United Kingdom,bushbury,is_city
+2624,Ambleside,54.4251,-2.9626,United Kingdom,ambleside,is_city
+2625,Clent,52.4152,-2.114,United Kingdom,clent,is_city
+2626,Duns,55.7784,-2.3426,United Kingdom,duns,is_city
+2627,Eythorne,51.1971,1.2662,United Kingdom,eythorne,is_city
+2629,West Malling,51.2917,0.4152,United Kingdom,west malling,is_city
+2630,Dalston,54.8432,-2.9835,United Kingdom,dalston,is_city
+2631,Fishburn,54.6831,-1.4364,United Kingdom,fishburn,is_city
+2632,Eyemouth,55.871,-2.093,United Kingdom,eyemouth,is_city
+2634,Innerleithen,55.6184,-3.059,United Kingdom,innerleithen,is_city
+2635,Sherborne Saint John,51.2944,-1.1098,United Kingdom,sherborne saint john,is_city
+2636,Westfield,50.91,0.58,United Kingdom,westfield,is_city
+2637,Wilpshire,53.778,-2.479,United Kingdom,wilpshire,is_city
+2638,Ironbridge,52.6277,-2.485,United Kingdom,ironbridge,is_city
+2639,Hutton,51.3219,-2.927,United Kingdom,hutton,is_city
+2640,Reydon,52.3376,1.6695,United Kingdom,reydon,is_city
+2641,Parbold,53.593,-2.764,United Kingdom,parbold,is_city
+2642,Crowan,50.163,-5.294,United Kingdom,crowan,is_city
+2643,Biddenden,51.1139,0.6441,United Kingdom,biddenden,is_city
+2644,Snettisham,52.8771,0.5024,United Kingdom,snettisham,is_city
+2645,Dornoch,57.88,-4.03,United Kingdom,dornoch,is_city
+2646,Builth Wells,52.149,-3.405,United Kingdom,builth wells,is_city
+2647,Carron,56.0238,-3.7896,United Kingdom,carron,is_city
+2648,Brookwood,51.3038,-0.6367,United Kingdom,brookwood,is_city
+2649,Settle,54.0721,-2.2819,United Kingdom,settle,is_city
+2650,Bampton,51.727,-1.544,United Kingdom,bampton,is_city
+2651,Wolston,52.37,-1.39,United Kingdom,wolston,is_city
+2652,Kelvedon Hatch,51.6633,0.2783,United Kingdom,kelvedon hatch,is_city
+2653,Elstead,51.184,-0.698,United Kingdom,elstead,is_city
+2654,Newington,51.352,0.6679,United Kingdom,newington,is_city
+2655,Marks Tey,51.876,0.772,United Kingdom,marks tey,is_city
+2656,Hartlebury,52.33,-2.23,United Kingdom,hartlebury,is_city
+2657,Luddenden Foot,53.7178,-1.9381,United Kingdom,luddenden foot,is_city
+2658,Mobberley,53.3134,-2.3263,United Kingdom,mobberley,is_city
+2659,Yarnton,51.811,-1.31,United Kingdom,yarnton,is_city
+2660,Bredon,52.03,-2.117,United Kingdom,bredon,is_city
+2661,Trimsaran,51.7178,-4.2379,United Kingdom,trimsaran,is_city
+2662,Broadway,52.04,-1.86,United Kingdom,broadway,is_city
+2663,Llandwrog,53.079,-4.314,United Kingdom,llandwrog,is_city
+2664,Charfield,51.6261,-2.4058,United Kingdom,charfield,is_city
+2665,Kintbury,51.399,-1.449,United Kingdom,kintbury,is_city
+2666,Hemingford Grey,52.318,-0.104,United Kingdom,hemingford grey,is_city
+2667,Barmouth,52.722,-4.055,United Kingdom,barmouth,is_city
+2669,Lower Kingswood,51.294,-0.2115,United Kingdom,lower kingswood,is_city
+2670,Moffat,55.332,-3.442,United Kingdom,moffat,is_city
+2671,Stanton,52.324,0.885,United Kingdom,stanton,is_city
+2672,Rainow,53.2802,-2.0727,United Kingdom,rainow,is_city
+2673,Baschurch,52.791,-2.854,United Kingdom,baschurch,is_city
+2674,Delabole,50.622,-4.733,United Kingdom,delabole,is_city
+2675,Elsecar,53.496,-1.412,United Kingdom,elsecar,is_city
+2676,Newmacher,57.267,-2.192,United Kingdom,newmacher,is_city
+2677,Pontycymer,51.6116,-3.5842,United Kingdom,pontycymer,is_city
+2678,Saint Margaret's at Cliffe,51.1536,1.3714,United Kingdom,saint margaret's at cliffe,is_city

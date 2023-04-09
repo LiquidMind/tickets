@@ -1,0 +1,9 @@
+conf.py
+*.log
+docker/db/data/
+.venv
+venv
+.idea/*
+__pycache__/
+tmp.*
+*.yml

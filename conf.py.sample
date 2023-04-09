@@ -1,0 +1,99 @@
+TOKEN = 'YOUR_HOSTING_TOKEN'  # uses for adding email accounts (ukraine.com.ua)
+
+DOMAIN_ID = 12345678  # domain id for hosting (ukraine.com.ua)
+DOMAIN_ACCOUNT_ID = 489768  # domain account for hosting (ukraine.com.ua)
+MAIN_DOMAIN_IP = '185.68.16.46'  # domain ip for hosting (ukraine.com.ua)
+MAIN_DOMAIN_MX = 'mx.ukraine.com.ua.'  # domain mx server name for hosting (ukraine.com.ua)
+MAIN_DOMAIN = 'chronisto.com'
+
+API_URL_ADD_SUBDOMAIN = 'https://adm.tools/action/dns/record_add/'
+API_URL_ADD_MAILBOX = 'https://adm.tools/action/hosting/mail/create/save/'
+API_URL_MAILBOXES_LIST = 'https://adm.tools/action/hosting/mail/list/'
+
+# MySQL server for storage generated data
+MYSQL_CONNECTION_STRING = 'mysql+pymysql://MYSQL_USER:MYSQL_PASSWORD@localhost:3306/tickets'
+
+GOOGLE_API_KEY = 'GOOGLE_API_KEY'
+
+COUNTRIES_PERSONAL_ID_TEMPLATES = {
+    'andorra': {
+        'reg_ex': r'[N]\d{6}',
+    },  # Andorra - 7 digits, starting with the letter N followed by six digits. Example: N123456.
+    'austria': {
+        'reg_ex': r'\d{3}/\d{3}/\d{3}'
+    },  # 9 digits, divided into three groups of three digits. Example: 123/456/789.
+    'bosnia-and-herzegovina': '',  # 13 digits, with the first two digits indicating the entity or Brcko District,
+    # the next two digits indicating the municipality, followed by the date of birth in the format DDMMYY,
+    # and a final eight-digit number. Example: 03 0112022396001.
+    'bulgaria': {
+        'reg_ex': r'{birth_date}\d{4}',
+        'rules': {
+            'field': 'birth_date',
+            'type': 'date',
+            'format': '%d%m%y'
+        }
+    },  # TODO: need str.format()
+    # 10 digits, with the first six digits indicating the date of birth in the format DDMMYY,
+    # followed by a four-digit number. Example: 0101011234.
+    'cyprus': {
+        'reg_ex': r'{birth_date}\d{2}',
+        'rules': {
+            'field': 'birth_date',
+            'type': 'date',
+            'format': '%d%m%y'
+        }
+    },  # TODO: need str.format(),
+    # 8 digits, with the first six digits indicating the date of birth in the format DDMMYY,
+    # followed by a two-digit number. Example: 01010101.
+    'hungary': {
+        'reg_ex': r'{birth_date}\d{4}',
+        'rules': {
+            'field': 'birth_date',
+            'type': 'date',
+            'format': '%y%m%d'
+        }
+    },  # TODO: need str.format(),
+    # 10 digits, with the first six digits indicating the date of birth in the format YYMMDD,
+    # followed by a four-digit number. Example: 0101011234.
+    # 'ireland': {
+    #     'reg_ex': r'{gender}\d{6}',
+    #     'rules': {
+    #         'field': 'gender',
+    #         'type': 'value',
+    #     }
+    # },  # TODO: need str.format(),
+    # 7 digits, with the first letter indicating the person's gender,
+    # followed by six digits. Example: F123456.
+    'liechtenstein': {
+        'reg_ex': r'{YY}\d{4}\d{3}',
+        'rules': {
+            'field': 'birth_date',
+            'type': 'date',
+            'format': '%y'
+        }
+    },  # TODO: need str.format(),
+    # 9 digits, with the first two digits indicating the year of birth,
+    # followed by four random digits, and a final three-digit number. Example: 880022695.
+    'lithuania': {
+        'reg_ex': r'{YY}{MM}{DD}\d{3}\d{4}',
+        'rules': {
+            'field': 'birth_date',
+            'type': 'date',
+            'format': '%y%m%d'
+        }
+    },  # TODO: need str.format()
+    # 11 digits, with the first six digits indicating the date of birth in the format YYMMDD,
+    # followed by a three-digit number, and a final four-digit number. Example: 88010112345.
+    'malta': {
+        'reg_ex': r'{YY}\d{4}',
+        'rules': {
+            'field': 'birth_date',
+            'type': 'date',
+            'format': '%y0'
+        }
+    },  # 7 digits, with the first three digits indicating the year of birth,
+    # followed by four random digits. Example: 8801234.
+    'moldova': '',  # 13 digits, with the first two digits indicating the person's gender and the year of birth,
+    # followed by two random digits, a four-digit number indicating the place of birth, and a final four-digit number.
+    # Example: 9012011234 1234
+}

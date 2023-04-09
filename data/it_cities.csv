@@ -1,0 +1,3366 @@
+,name,lat,lng,capital,tag,prime
+0,Rome,41.8931,12.4828,Italy,rome,is_city
+1,Milan,45.4669,9.19,Italy,milan,is_city
+2,Naples,40.8333,14.25,Italy,naples,is_city
+3,Turin,45.0667,7.7,Italy,turin,is_city
+4,Palermo,38.1157,13.3613,Italy,palermo,is_city
+5,Genoa,44.4072,8.934,Italy,genoa,is_city
+6,Bologna,44.4939,11.3428,Italy,bologna,is_city
+7,Florence,43.7714,11.2542,Italy,florence,is_city
+8,Bari,41.1253,16.8667,Italy,bari,is_city
+9,Catania,37.5027,15.0873,Italy,catania,is_city
+10,Venice,45.4397,12.3319,Italy,venice,is_city
+11,Verona,45.4386,10.9928,Italy,verona,is_city
+12,Messina,38.1936,15.5542,Italy,messina,is_city
+13,Padova,45.4064,11.8778,Italy,padova,is_city
+14,Trieste,45.6503,13.7703,Italy,trieste,is_city
+15,Taranto,40.4181,17.2408,Italy,taranto,is_city
+16,Brescia,45.5389,10.2203,Italy,brescia,is_city
+17,Parma,44.8015,10.328,Italy,parma,is_city
+18,Prato,43.8808,11.0966,Italy,prato,is_city
+19,Modena,44.6458,10.9257,Italy,modena,is_city
+20,Reggio di Calabria,38.1144,15.65,Italy,reggio di calabria,is_city
+21,Reggio Emilia,44.7,10.6333,Italy,reggio emilia,is_city
+22,Perugia,43.1121,12.3888,Italy,perugia,is_city
+23,Ravenna,44.4178,12.1994,Italy,ravenna,is_city
+24,Livorno,43.55,10.3167,Italy,livorno,is_city
+25,Cagliari,39.2167,9.1167,Italy,cagliari,is_city
+26,Foggia,41.4584,15.5519,Italy,foggia,is_city
+27,Rimini,44.0594,12.5683,Italy,rimini,is_city
+28,Salerno,40.6806,14.7597,Italy,salerno,is_city
+29,Ferrara,44.8353,11.6199,Italy,ferrara,is_city
+30,Latina,41.4676,12.9037,Italy,latina,is_city
+31,Giugliano in Campania,40.9319,14.1956,Italy,giugliano in campania,is_city
+32,Monza,45.5836,9.2736,Italy,monza,is_city
+33,Siracusa,37.0692,15.2875,Italy,siracusa,is_city
+34,Bergamo,45.695,9.67,Italy,bergamo,is_city
+35,Pescara,42.4643,14.2142,Italy,pescara,is_city
+36,Trento,46.0667,11.1167,Italy,trento,is_city
+37,Forli,44.2225,12.0408,Italy,forli,is_city
+38,Sassari,40.7267,8.5592,Italy,sassari,is_city
+39,Vicenza,45.55,11.55,Italy,vicenza,is_city
+40,Terni,42.5667,12.65,Italy,terni,is_city
+41,Bolzano,46.5,11.35,Italy,bolzano,is_city
+42,Novara,45.45,8.6167,Italy,novara,is_city
+43,Piacenza,45.05,9.7,Italy,piacenza,is_city
+44,Ancona,43.6167,13.5167,Italy,ancona,is_city
+45,Andria,41.2317,16.3083,Italy,andria,is_city
+46,Udine,46.0667,13.2333,Italy,udine,is_city
+47,Arezzo,43.4631,11.8781,Italy,arezzo,is_city
+48,Cesena,44.1333,12.2333,Italy,cesena,is_city
+49,Lecce,40.352,18.1691,Italy,lecce,is_city
+50,Pesaro,43.9102,12.9133,Italy,pesaro,is_city
+51,Barletta,41.3167,16.2833,Italy,barletta,is_city
+52,Alessandria,44.9133,8.62,Italy,alessandria,is_city
+53,La Spezia,44.108,9.8289,Italy,la spezia,is_city
+54,Pistoia,43.9333,10.9167,Italy,pistoia,is_city
+55,Pisa,43.7167,10.4,Italy,pisa,is_city
+56,Catanzaro,38.91,16.5875,Italy,catanzaro,is_city
+57,Mestre,45.4906,12.2381,Italy,mestre,is_city
+58,Lucca,43.85,10.5167,Italy,lucca,is_city
+59,Brindisi,40.6383,17.9458,Italy,brindisi,is_city
+60,Torre del Greco,40.7853,14.3953,Italy,torre del greco,is_city
+61,Treviso,45.6722,12.2422,Italy,treviso,is_city
+62,Busto Arsizio,45.612,8.8518,Italy,busto arsizio,is_city
+63,Como,45.8103,9.0861,Italy,como,is_city
+64,Marsala,37.7981,12.4342,Italy,marsala,is_city
+65,Grosseto,42.7722,11.1089,Italy,grosseto,is_city
+66,Sesto San Giovanni,45.5333,9.2333,Italy,sesto san giovanni,is_city
+67,Pozzuoli,40.8231,14.1222,Italy,pozzuoli,is_city
+68,Varese,45.8167,8.8333,Italy,varese,is_city
+69,Fiumicino,41.7667,12.2333,Italy,fiumicino,is_city
+70,Casoria,40.9,14.3,Italy,casoria,is_city
+71,Asti,44.9,8.2069,Italy,asti,is_city
+72,Cinisello Balsamo,45.55,9.2167,Italy,cinisello balsamo,is_city
+73,Caserta,41.0667,14.3333,Italy,caserta,is_city
+74,Gela,37.0667,14.25,Italy,gela,is_city
+75,Ragusa,36.925,14.7306,Italy,ragusa,is_city
+76,Pavia,45.1853,9.155,Italy,pavia,is_city
+77,Cremona,45.1333,10.0333,Italy,cremona,is_city
+78,Carpi,44.7833,10.885,Italy,carpi,is_city
+79,Quartu Sant'Elena,39.2291,9.2649,Italy,quartu sant'elena,is_city
+80,Altamura,40.8167,16.55,Italy,altamura,is_city
+81,Imola,44.3531,11.7147,Italy,imola,is_city
+82,L'Aquila,42.354,13.392,Italy,l'aquila,is_city
+83,Massa,44.0333,10.1333,Italy,massa,is_city
+84,Trapani,38.0175,12.515,Italy,trapani,is_city
+85,Viterbo,42.4186,12.1042,Italy,viterbo,is_city
+86,Cosenza,39.3,16.25,Italy,cosenza,is_city
+87,Potenza,40.6333,15.8,Italy,potenza,is_city
+88,Castellammare di Stabia,40.7,14.4833,Italy,castellammare di stabia,is_city
+89,Afragola,40.9167,14.3167,Italy,afragola,is_city
+90,Vittoria,36.95,14.5333,Italy,vittoria,is_city
+91,Crotone,39.0833,17.1167,Italy,crotone,is_city
+92,Pomezia,41.6693,12.5021,Italy,pomezia,is_city
+93,Vigevano,45.3167,8.8667,Italy,vigevano,is_city
+94,Carrara,44.0833,10.1,Italy,carrara,is_city
+95,Caltanissetta,37.4915,14.0624,Italy,caltanissetta,is_city
+96,Viareggio,43.8672,10.2506,Italy,viareggio,is_city
+97,Benevento,41.1256,14.7811,Italy,benevento,is_city
+98,Fano,43.8435,13.0198,Italy,fano,is_city
+99,Savona,44.308,8.481,Italy,savona,is_city
+100,Matera,40.6667,16.6,Italy,matera,is_city
+101,Olbia,40.9167,9.5,Italy,olbia,is_city
+102,Legnano,45.5781,8.9183,Italy,legnano,is_city
+103,Acerra,40.95,14.3667,Italy,acerra,is_city
+104,Marano di Napoli,40.9,14.1833,Italy,marano di napoli,is_city
+105,Molfetta,41.2,16.6,Italy,molfetta,is_city
+106,Agrigento,37.3111,13.5765,Italy,agrigento,is_city
+107,Faenza,44.2856,11.8833,Italy,faenza,is_city
+108,Cerignola,41.2667,15.9,Italy,cerignola,is_city
+109,Moncalieri,45.0,7.6833,Italy,moncalieri,is_city
+110,Foligno,42.9561,12.7033,Italy,foligno,is_city
+111,Manfredonia,41.6333,15.9167,Italy,manfredonia,is_city
+112,Tivoli,41.9667,12.8,Italy,tivoli,is_city
+113,Cuneo,44.3833,7.55,Italy,cuneo,is_city
+114,Trani,41.2667,16.4167,Italy,trani,is_city
+115,Bisceglie,41.2409,16.5021,Italy,bisceglie,is_city
+116,Bitonto,41.1083,16.6917,Italy,bitonto,is_city
+117,Bagheria,38.0833,13.5,Italy,bagheria,is_city
+118,Portici,40.8197,14.3411,Italy,portici,is_city
+119,Modica,36.8672,14.7614,Italy,modica,is_city
+120,San Remo,43.8175,7.775,Italy,san remo,is_city
+121,Teramo,42.6589,13.7039,Italy,teramo,is_city
+122,Montesilvano,42.5119,14.1373,Italy,montesilvano,is_city
+123,Avellino,40.9153,14.7897,Italy,avellino,is_city
+124,Siena,43.3183,11.3314,Italy,siena,is_city
+125,Gallarate,45.6649,8.7914,Italy,gallarate,is_city
+126,Velletri,41.6667,12.7833,Italy,velletri,is_city
+127,Cava de' Tirreni,40.7008,14.7056,Italy,cava de' tirreni,is_city
+128,San Severo,41.6951,15.3793,Italy,san severo,is_city
+129,Aversa,40.973,14.2065,Italy,aversa,is_city
+130,Ercolano,40.8068,14.3526,Italy,ercolano,is_city
+131,Anzio,41.4472,12.6283,Italy,anzio,is_city
+132,Acireale,37.6125,15.1656,Italy,acireale,is_city
+133,Civitavecchia,42.1,11.8,Italy,civitavecchia,is_city
+134,Mazara del Vallo,37.6517,12.5875,Italy,mazara del vallo,is_city
+135,Rovigo,45.0809,11.794,Italy,rovigo,is_city
+136,Pordenone,45.9626,12.6563,Italy,pordenone,is_city
+137,Battipaglia,40.6167,14.9833,Italy,battipaglia,is_city
+138,Rho,45.5333,9.0333,Italy,rho,is_city
+139,Chieti,42.3511,14.1674,Italy,chieti,is_city
+140,Scafati,40.7536,14.5253,Italy,scafati,is_city
+141,Scandicci,43.7544,11.1894,Italy,scandicci,is_city
+142,Misterbianco,37.5183,15.0069,Italy,misterbianco,is_city
+143,Nettuno,41.4667,12.6667,Italy,nettuno,is_city
+144,Ardea,41.6167,12.55,Italy,ardea,is_city
+145,Collegno,45.0833,7.5833,Italy,collegno,is_city
+146,Chioggia,45.2189,12.2785,Italy,chioggia,is_city
+147,Mantova,45.1564,10.7911,Italy,mantova,is_city
+148,Campobasso,41.561,14.6684,Italy,campobasso,is_city
+149,Casalnuovo di Napoli,40.9167,14.35,Italy,casalnuovo di napoli,is_city
+150,Sesto Fiorentino,43.8333,11.2,Italy,sesto fiorentino,is_city
+151,Monopoli,40.95,17.3,Italy,monopoli,is_city
+152,Martina Franca,40.7,17.3333,Italy,martina franca,is_city
+153,Ascoli Piceno,42.8547,13.5753,Italy,ascoli piceno,is_city
+154,Rivoli,45.0725,7.5272,Italy,rivoli,is_city
+155,Empoli,43.7167,10.95,Italy,empoli,is_city
+156,Corato,41.15,16.4,Italy,corato,is_city
+157,Lecco,45.85,9.4,Italy,lecco,is_city
+158,Paterno,37.5667,14.9,Italy,paterno,is_city
+159,Nichelino,45.0,7.65,Italy,nichelino,is_city
+160,Cologno Monzese,45.5286,9.2783,Italy,cologno monzese,is_city
+161,Rieti,42.4044,12.8567,Italy,rieti,is_city
+162,San Benedetto del Tronto,42.9438,13.8833,Italy,san benedetto del tronto,is_city
+163,Settimo Torinese,45.1333,7.7667,Italy,settimo torinese,is_city
+164,Paderno Dugnano,45.5667,9.1667,Italy,paderno dugnano,is_city
+165,Campi Bisenzio,43.8256,11.1333,Italy,campi bisenzio,is_city
+166,Terracina,41.2833,13.25,Italy,terracina,is_city
+167,Vercelli,45.3167,8.4167,Italy,vercelli,is_city
+168,Capannori,43.8756,10.5736,Italy,capannori,is_city
+169,Frosinone,41.6333,13.35,Italy,frosinone,is_city
+170,Nocera Inferiore,40.75,14.6333,Italy,nocera inferiore,is_city
+171,Lissone,45.6167,9.25,Italy,lissone,is_city
+172,Alcamo,37.9667,12.9667,Italy,alcamo,is_city
+173,Lodi,45.3167,9.5,Italy,lodi,is_city
+174,Cascina,43.68,10.5003,Italy,cascina,is_city
+175,Seregno,45.65,9.2,Italy,seregno,is_city
+176,San Giorgio a Cremano,40.8333,14.3333,Italy,san giorgio a cremano,is_city
+177,Senigallia,43.7131,13.2183,Italy,senigallia,is_city
+178,Marino,41.7667,12.6667,Italy,marino,is_city
+179,Biella,45.5664,8.0533,Italy,biella,is_city
+180,Alghero,40.56,8.315,Italy,alghero,is_city
+181,Gravina in Puglia,40.8206,16.4233,Italy,gravina in puglia,is_city
+182,Bassano del Grappa,45.7686,11.7367,Italy,bassano del grappa,is_city
+183,Rozzano,45.3833,9.15,Italy,rozzano,is_city
+184,Torre Annunziata,40.7569,14.4444,Italy,torre annunziata,is_city
+185,Civitanova Marche,43.3068,13.7286,Italy,civitanova marche,is_city
+186,Imperia,43.8865,8.0297,Italy,imperia,is_city
+187,Avezzano,42.031,13.4264,Italy,avezzano,is_city
+188,Desio,45.6167,9.2167,Italy,desio,is_city
+189,San Dona di Piave,45.6298,12.5641,Italy,san dona di piave,is_city
+190,Macerata,43.3003,13.4533,Italy,macerata,is_city
+191,Ladispoli,41.9544,12.0742,Italy,ladispoli,is_city
+192,Barcellona-Pozzo di Gotto,38.15,15.2167,Italy,barcellona-pozzo di gotto,is_city
+193,Albano Laziale,41.7333,12.6667,Italy,albano laziale,is_city
+194,Monterotondo,42.05,12.6167,Italy,monterotondo,is_city
+195,Sassuolo,44.5517,10.7856,Italy,sassuolo,is_city
+196,Sciacca,37.5092,13.0889,Italy,sciacca,is_city
+197,Merano,46.6689,11.1639,Italy,merano,is_city
+198,Corigliano Calabro,39.6,16.5167,Italy,corigliano calabro,is_city
+199,Iesi,43.5228,13.2439,Italy,iesi,is_city
+200,Eboli,40.6169,15.0564,Italy,eboli,is_city
+201,Cantu,45.7333,9.1333,Italy,cantu,is_city
+202,Rovereto,45.8833,11.0342,Italy,rovereto,is_city
+203,Pomigliano d'Arco,40.9167,14.4,Italy,pomigliano d'arco,is_city
+204,Marcianise,41.0333,14.3,Italy,marcianise,is_city
+205,Fondi,41.35,13.4167,Italy,fondi,is_city
+206,Fasano,40.8333,17.3667,Italy,fasano,is_city
+207,Citta di Castello,43.4574,12.2403,Italy,citta di castello,is_city
+208,Saronno,45.6255,9.037,Italy,saronno,is_city
+209,Voghera,44.9925,9.0092,Italy,voghera,is_city
+210,Schio,45.7111,11.3556,Italy,schio,is_city
+211,Monreale,38.0817,13.2889,Italy,monreale,is_city
+212,Maddaloni,41.0333,14.3833,Italy,maddaloni,is_city
+213,Carini,38.1333,13.1833,Italy,carini,is_city
+214,Ciampino,41.8,12.6,Italy,ciampino,is_city
+215,Cesano Maderno,45.6272,9.1472,Italy,cesano maderno,is_city
+216,Mira,45.4375,12.1329,Italy,mira,is_city
+217,Modugno,41.0833,16.7833,Italy,modugno,is_city
+218,San Giuliano Milanese,45.4,9.2833,Italy,san giuliano milanese,is_city
+219,Caltagirone,37.2333,14.5167,Italy,caltagirone,is_city
+220,Formia,41.2564,13.6069,Italy,formia,is_city
+221,Cerveteri,42.0,12.1,Italy,cerveteri,is_city
+222,Spoleto,42.7333,12.7333,Italy,spoleto,is_city
+223,Melito di Napoli,40.9167,14.2333,Italy,melito di napoli,is_city
+224,Caivano,40.95,14.3,Italy,caivano,is_city
+225,Grugliasco,45.0689,7.5786,Italy,grugliasco,is_city
+226,Fermo,43.1604,13.7181,Italy,fermo,is_city
+227,Licata,37.1083,13.9469,Italy,licata,is_city
+228,Cisterna di Latina,41.6,12.8333,Italy,cisterna di latina,is_city
+229,Chieri,45.0131,7.8228,Italy,chieri,is_city
+230,Pioltello,45.5,9.3333,Italy,pioltello,is_city
+231,Rossano,39.5667,16.6333,Italy,rossano,is_city
+232,Nuoro,40.3201,9.3281,Italy,nuoro,is_city
+233,Cassino,41.4917,13.8333,Italy,cassino,is_city
+234,Bollate,45.55,9.1167,Italy,bollate,is_city
+235,Casalecchio di Reno,44.4833,11.2833,Italy,casalecchio di reno,is_city
+236,Francavilla Fontana,40.5314,17.5858,Italy,francavilla fontana,is_city
+237,Pinerolo,44.8833,7.3333,Italy,pinerolo,is_city
+238,Augusta,37.2303,15.2194,Italy,augusta,is_city
+239,Rende,39.3333,16.1833,Italy,rende,is_city
+240,Canicatti,37.36,13.8511,Italy,canicatti,is_city
+241,Belluno,46.1408,12.2156,Italy,belluno,is_city
+242,Adrano,37.6625,14.8356,Italy,adrano,is_city
+243,Cento,44.7333,11.2833,Italy,cento,is_city
+244,Segrate,45.49,9.2953,Italy,segrate,is_city
+245,Limbiate,45.5972,9.13,Italy,limbiate,is_city
+246,Conegliano,45.8872,12.2969,Italy,conegliano,is_city
+247,Osimo,43.4861,13.4821,Italy,osimo,is_city
+248,Riccione Marina,44.0,12.65,Italy,riccione marina,is_city
+249,Lanciano,42.2312,14.3905,Italy,lanciano,is_city
+250,Mugnano di Napoli,40.9094,14.2098,Italy,mugnano di napoli,is_city
+251,Somma Vesuviana,40.8725,14.4369,Italy,somma vesuviana,is_city
+252,Brugherio,45.5508,9.3011,Italy,brugherio,is_city
+253,Corsico,45.4333,9.1167,Italy,corsico,is_city
+254,Gorizia,45.9352,13.6193,Italy,gorizia,is_city
+255,Formigine,44.5739,10.8478,Italy,formigine,is_city
+256,Cernusco sul Naviglio,45.5167,9.3333,Italy,cernusco sul naviglio,is_city
+257,Crema,45.3667,9.6833,Italy,crema,is_city
+258,Arzano,40.9153,14.2681,Italy,arzano,is_city
+259,Angri,40.7431,14.5694,Italy,angri,is_city
+260,Aosta,45.7372,7.3206,Italy,aosta,is_city
+261,Casale Monferrato,45.1342,8.4583,Italy,casale monferrato,is_city
+262,Sant'Antimo,40.9422,14.2348,Italy,sant'antimo,is_city
+263,Piombino,42.9348,10.5221,Italy,piombino,is_city
+264,Vibo Valentia,38.6753,16.0959,Italy,vibo valentia,is_city
+265,Termoli,42.0028,14.9947,Italy,termoli,is_city
+266,Venaria Reale,45.1167,7.6333,Italy,venaria reale,is_city
+267,Castelfranco Veneto,45.6667,11.9333,Italy,castelfranco veneto,is_city
+268,Villafranca di Verona,45.35,10.85,Italy,villafranca di verona,is_city
+269,Lucera,41.5,15.3333,Italy,lucera,is_city
+270,Castelfranco Emilia,44.5967,11.0528,Italy,castelfranco emilia,is_city
+271,Santa Maria Capua Vetere,41.0833,14.25,Italy,santa maria capua vetere,is_city
+272,Massafra,40.5833,17.1167,Italy,massafra,is_city
+273,Abbiategrasso,45.4009,8.9185,Italy,abbiategrasso,is_city
+274,San Donato Milanese,45.4167,9.2667,Italy,san donato milanese,is_city
+275,San Lazzaro di Savena,44.4716,11.4049,Italy,san lazzaro di savena,is_city
+276,Camaiore,43.9333,10.3,Italy,camaiore,is_city
+277,Favara,37.3186,13.6631,Italy,favara,is_city
+278,Mascalucia,37.5667,15.05,Italy,mascalucia,is_city
+279,Grottaglie,40.5333,17.4333,Italy,grottaglie,is_city
+280,Frattamaggiore,40.9417,14.2722,Italy,frattamaggiore,is_city
+281,Partinico,38.05,13.1167,Italy,partinico,is_city
+282,Gubbio,43.3518,12.5773,Italy,gubbio,is_city
+283,Oristano,39.9058,8.5916,Italy,oristano,is_city
+284,Sarno,40.8167,14.6167,Italy,sarno,is_city
+285,San Giuseppe Vesuviano,40.8333,14.5,Italy,san giuseppe vesuviano,is_city
+286,Castelvetrano,37.6786,12.7917,Italy,castelvetrano,is_city
+287,Alba,44.6915,8.0256,Italy,alba,is_city
+288,San Giuliano Terme,43.7625,10.4414,Italy,san giuliano terme,is_city
+289,Nardo,40.1797,18.0333,Italy,nardo,is_city
+290,Avola,36.9167,15.1333,Italy,avola,is_city
+291,Montebelluna,45.7753,12.0389,Italy,montebelluna,is_city
+292,Milazzo,38.217,15.237,Italy,milazzo,is_city
+293,Villaricca,40.9167,14.2,Italy,villaricca,is_city
+294,Ostuni,40.7322,17.5778,Italy,ostuni,is_city
+295,Manduria,40.4028,17.6342,Italy,manduria,is_city
+296,Rosignano Marittimo,43.4,10.4667,Italy,rosignano marittimo,is_city
+297,Fabriano,43.3386,12.9085,Italy,fabriano,is_city
+298,Verbania,45.9228,8.5519,Italy,verbania,is_city
+299,Marigliano,40.9333,14.45,Italy,marigliano,is_city
+300,Canosa di Puglia,41.2167,16.0667,Italy,canosa di puglia,is_city
+301,Comiso,36.95,14.6,Italy,comiso,is_city
+302,Treviglio,45.5214,9.5928,Italy,treviglio,is_city
+303,Rapallo,44.35,9.2333,Italy,rapallo,is_city
+304,Bra,44.7,7.85,Italy,bra,is_city
+305,Aci Catena,37.6,15.15,Italy,aci catena,is_city
+306,Misilmeri,38.0333,13.45,Italy,misilmeri,is_city
+307,Pontedera,43.6625,10.6328,Italy,pontedera,is_city
+308,Poggibonsi,43.4667,11.15,Italy,poggibonsi,is_city
+309,Selargius,39.2537,9.1606,Italy,selargius,is_city
+310,Desenzano del Garda,45.4689,10.535,Italy,desenzano del garda,is_city
+311,Carmagnola,44.85,7.7167,Italy,carmagnola,is_city
+312,Gragnano,40.6957,14.5154,Italy,gragnano,is_city
+313,Mondragone,41.1,13.8833,Italy,mondragone,is_city
+314,Alatri,41.7264,13.3422,Italy,alatri,is_city
+315,Cervia,44.25,12.3667,Italy,cervia,is_city
+316,Vittorio Veneto,45.9833,12.3,Italy,vittorio veneto,is_city
+317,Assisi,43.07,12.6175,Italy,assisi,is_city
+318,Carbonia,39.1668,8.522,Italy,carbonia,is_city
+319,Novi Ligure,44.7592,8.7856,Italy,novi ligure,is_city
+320,San Giovanni in Persiceto,44.6408,11.185,Italy,san giovanni in persiceto,is_city
+321,Belpasso,37.5833,14.9833,Italy,belpasso,is_city
+322,Cecina,43.3139,10.525,Italy,cecina,is_city
+323,San Miniato,43.6833,10.85,Italy,san miniato,is_city
+324,Boscoreale,40.775,14.475,Italy,boscoreale,is_city
+325,Spinea,45.4931,12.1606,Italy,spinea,is_city
+326,Mogliano Veneto,45.5619,12.2364,Italy,mogliano veneto,is_city
+327,Parabiago,45.5583,8.9477,Italy,parabiago,is_city
+328,Sant'Anastasia,40.8667,14.4,Italy,sant'anastasia,is_city
+329,Erice,38.0375,12.5875,Italy,erice,is_city
+330,Gioia del Colle,40.8,16.9333,Italy,gioia del colle,is_city
+331,Giarre,37.7297,15.1844,Italy,giarre,is_city
+332,Chiavari,44.3164,9.3237,Italy,chiavari,is_city
+333,Tortona,44.8942,8.8656,Italy,tortona,is_city
+334,Enna,37.5667,14.2667,Italy,enna,is_city
+335,Triggiano,41.0667,16.9167,Italy,triggiano,is_city
+336,San Giovanni Rotondo,41.7,15.7333,Italy,san giovanni rotondo,is_city
+337,Mirano,45.5,12.1,Italy,mirano,is_city
+338,Garbagnate Milanese,45.5771,9.0814,Italy,garbagnate milanese,is_city
+339,Terlizzi,41.1333,16.55,Italy,terlizzi,is_city
+340,Scicli,36.7914,14.7025,Italy,scicli,is_city
+341,Niscemi,37.15,14.3833,Italy,niscemi,is_city
+342,Assemini,39.2897,9.0048,Italy,assemini,is_city
+343,Fidenza,44.8667,10.0667,Italy,fidenza,is_city
+344,Galatina,40.1667,18.1667,Italy,galatina,is_city
+345,Mesagne,40.5667,17.8,Italy,mesagne,is_city
+346,Iglesias,39.3103,8.5372,Italy,iglesias,is_city
+347,Chivasso,45.1833,7.8833,Italy,chivasso,is_city
+348,Putignano,40.8492,17.1225,Italy,putignano,is_city
+349,Santeramo in Colle,40.8,16.7667,Italy,santeramo in colle,is_city
+350,Quarrata,43.8475,10.9833,Italy,quarrata,is_city
+351,Bacoli,40.8,14.0833,Italy,bacoli,is_city
+352,Porto Sant'Elpidio,43.2586,13.7585,Italy,porto sant'elpidio,is_city
+353,Noicattaro,41.0333,16.9833,Italy,noicattaro,is_city
+354,Bresso,45.5333,9.1833,Italy,bresso,is_city
+355,Pontecagnano,40.65,14.8833,Italy,pontecagnano,is_city
+356,Iesolo,45.5331,12.6448,Italy,iesolo,is_city
+357,Conversano,40.9667,17.1167,Italy,conversano,is_city
+358,Vimercate,45.6167,9.3667,Italy,vimercate,is_city
+359,Albignasego,45.35,11.8667,Italy,albignasego,is_city
+360,Falconara Marittima,43.6296,13.3968,Italy,falconara marittima,is_city
+361,Termini Imerese,37.9833,13.7,Italy,termini imerese,is_city
+362,Valdagno,45.65,11.3,Italy,valdagno,is_city
+363,Sora,41.7167,13.6167,Italy,sora,is_city
+364,Cesenatico,44.2012,12.4007,Italy,cesenatico,is_city
+365,Giussano,45.7,9.2167,Italy,giussano,is_city
+366,Castel Volturno,41.05,13.9167,Italy,castel volturno,is_city
+367,Lainate,45.5667,9.0333,Italy,lainate,is_city
+368,Scandiano,44.5925,10.6878,Italy,scandiano,is_city
+369,Qualiano,40.9167,14.15,Italy,qualiano,is_city
+370,Montichiari,45.4161,10.3917,Italy,montichiari,is_city
+371,Correggio,44.7717,10.7806,Italy,correggio,is_city
+372,Francavilla al Mare,42.4181,14.2919,Italy,francavilla al mare,is_city
+373,Arzignano,45.5203,11.3397,Italy,arzignano,is_city
+374,Roseto degli Abruzzi,42.6833,14.0167,Italy,roseto degli abruzzi,is_city
+375,Bagno a Ripoli,43.75,11.3167,Italy,bagno a ripoli,is_city
+376,Mola di Bari,41.0667,17.0833,Italy,mola di bari,is_city
+377,Seriate,45.6847,9.7178,Italy,seriate,is_city
+378,San Giovanni Lupatoto,45.3833,11.0333,Italy,san giovanni lupatoto,is_city
+379,Ruvo di Puglia,41.1173,16.4837,Italy,ruvo di puglia,is_city
+380,Vignola,44.4808,11.0022,Italy,vignola,is_city
+381,Legnago,45.1929,11.3115,Italy,legnago,is_city
+382,Pompei,40.75,14.5,Italy,pompei,is_city
+383,Portogruaro,45.7833,12.8333,Italy,portogruaro,is_city
+384,Mariano Comense,45.7,9.1833,Italy,mariano comense,is_city
+385,Sezze,41.5,13.0667,Italy,sezze,is_city
+386,Montevarchi,43.5234,11.5679,Italy,montevarchi,is_city
+387,Fossano,44.55,7.7333,Italy,fossano,is_city
+388,Nocera Superiore,40.7417,14.6722,Italy,nocera superiore,is_city
+389,Thiene,45.7072,11.4786,Italy,thiene,is_city
+390,Sulmona,42.048,13.9262,Italy,sulmona,is_city
+391,Copertino,40.2667,18.05,Italy,copertino,is_city
+392,Ventimiglia,43.7903,7.6083,Italy,ventimiglia,is_city
+393,Albenga,44.0491,8.213,Italy,albenga,is_city
+394,Noto,36.8833,15.0833,Italy,noto,is_city
+395,Biancavilla,37.6453,14.8636,Italy,biancavilla,is_city
+396,Magenta,45.4603,8.8766,Italy,magenta,is_city
+397,Genzano di Roma,41.7022,12.6925,Italy,genzano di roma,is_city
+398,Giulianova,42.7525,13.9567,Italy,giulianova,is_city
+399,Ottaviano,40.85,14.4775,Italy,ottaviano,is_city
+400,Pietrasanta,43.9452,10.2183,Italy,pietrasanta,is_city
+401,Mirandola,44.8873,11.066,Italy,mirandola,is_city
+402,Capoterra,39.1752,8.9709,Italy,capoterra,is_city
+403,Muggio,45.6,9.2333,Italy,muggio,is_city
+404,Castiglione delle Stiviere,45.4,10.5,Italy,castiglione delle stiviere,is_city
+405,Lentini,37.2833,15.0,Italy,lentini,is_city
+406,Dalmine,45.65,9.6,Italy,dalmine,is_city
+407,Meda,45.6667,9.1667,Italy,meda,is_city
+408,Seveso,45.6474,9.1387,Italy,seveso,is_city
+409,Ivrea,45.4622,7.8747,Italy,ivrea,is_city
+410,San Giovanni la Punta,37.5833,15.1,Italy,san giovanni la punta,is_city
+411,Ceccano,41.5667,13.3333,Italy,ceccano,is_city
+412,Orbassano,45.0,7.5333,Italy,orbassano,is_city
+413,Nova Milanese,45.5833,9.2,Italy,nova milanese,is_city
+414,Montecchio Maggiore,45.5037,11.412,Italy,montecchio maggiore,is_city
+415,Fucecchio,43.7333,10.8,Italy,fucecchio,is_city
+416,Mentana,42.0337,12.6444,Italy,mentana,is_city
+417,Ortona,42.3557,14.4036,Italy,ortona,is_city
+418,Vigonza,45.45,11.9833,Italy,vigonza,is_city
+419,Selvazzano Dentro,45.3833,11.7833,Italy,selvazzano dentro,is_city
+420,Floridia,37.0833,15.15,Italy,floridia,is_city
+421,Palma di Montechiaro,37.1936,13.7658,Italy,palma di montechiaro,is_city
+422,Cardito,40.9362,14.2993,Italy,cardito,is_city
+423,San Cataldo,37.4833,13.9833,Italy,san cataldo,is_city
+424,Frascati,41.8167,12.6833,Italy,frascati,is_city
+425,Ariano Irpino,41.1528,15.0889,Italy,ariano irpino,is_city
+426,Mondovi,44.3833,7.8167,Italy,mondovi,is_city
+427,Massarosa,43.8667,10.3333,Italy,massarosa,is_city
+428,Ginosa,40.5,16.75,Italy,ginosa,is_city
+429,Porto Torres,40.8369,8.4014,Italy,porto torres,is_city
+430,Mercato San Severino,40.7833,14.7667,Italy,mercato san severino,is_city
+431,Pachino,36.7167,15.1,Italy,pachino,is_city
+432,Comacchio,44.7,12.1833,Italy,comacchio,is_city
+433,Sant'Arcangelo di Romagna,44.0633,12.4466,Italy,sant'arcangelo di romagna,is_city
+434,Sarzana,44.1136,9.96,Italy,sarzana,is_city
+435,Cortona,43.2756,11.9881,Italy,cortona,is_city
+436,Castrovillari,39.8167,16.2,Italy,castrovillari,is_city
+437,Bressanone,46.7167,11.65,Italy,bressanone,is_city
+438,Poggiomarino,40.8,14.55,Italy,poggiomarino,is_city
+439,Paese,45.6667,12.15,Italy,paese,is_city
+440,Agropoli,40.3583,14.9833,Italy,agropoli,is_city
+441,Palestrina,41.8333,12.9,Italy,palestrina,is_city
+442,Piazza Armerina,37.3833,14.3667,Italy,piazza armerina,is_city
+443,Borgomanero,45.7,8.4667,Italy,borgomanero,is_city
+444,Isernia,41.6028,14.2397,Italy,isernia,is_city
+445,Colle di Val d'Elsa,43.4225,11.1267,Italy,colle di val d'elsa,is_city
+446,Sondrio,46.1697,9.87,Italy,sondrio,is_city
+447,Savigliano,44.65,7.6333,Italy,savigliano,is_city
+448,Argenta,44.6131,11.8364,Italy,argenta,is_city
+449,Martellago,45.5467,12.1575,Italy,martellago,is_city
+450,Senago,45.5833,9.1333,Italy,senago,is_city
+451,Palo del Colle,41.05,16.7,Italy,palo del colle,is_city
+452,Casal di Principe,41.0108,14.1319,Italy,casal di principe,is_city
+453,Corciano,43.129,12.2877,Italy,corciano,is_city
+454,Anagni,41.75,13.15,Italy,anagni,is_city
+455,San Bonifacio,45.4,11.2833,Italy,san bonifacio,is_city
+456,Colleferro,41.7287,13.0031,Italy,colleferro,is_city
+457,Pergine Valsugana,46.0667,11.2333,Italy,pergine valsugana,is_city
+458,Follonica,42.9189,10.7614,Italy,follonica,is_city
+459,Sessa Aurunca,41.2333,13.9333,Italy,sessa aurunca,is_city
+460,Rosolini,36.8167,14.95,Italy,rosolini,is_city
+461,Recanati,43.3986,13.5525,Italy,recanati,is_city
+462,Suzzara,44.9927,10.7494,Italy,suzzara,is_city
+463,Monsummano,43.8667,10.8167,Italy,monsummano,is_city
+464,Ferentino,41.6833,13.25,Italy,ferentino,is_city
+465,Sestu,39.2994,9.0918,Italy,sestu,is_city
+466,Trezzano sul Naviglio,45.4333,9.0667,Italy,trezzano sul naviglio,is_city
+467,Vico Equense,40.6667,14.4333,Italy,vico equense,is_city
+468,Castel San Pietro Terme,44.3978,11.5894,Italy,castel san pietro terme,is_city
+469,Feltre,46.0167,11.9,Italy,feltre,is_city
+470,Pontassieve,43.775,11.4375,Italy,pontassieve,is_city
+471,Acquaviva delle Fonti,40.9,16.85,Italy,acquaviva delle fonti,is_city
+472,Trecate,45.4333,8.7333,Italy,trecate,is_city
+473,Gallipoli,40.0556,17.9917,Italy,gallipoli,is_city
+474,Gaeta,41.2167,13.5667,Italy,gaeta,is_city
+475,Montecatini Terme,43.8828,10.7711,Italy,montecatini terme,is_city
+476,Sabaudia,41.2998,13.0248,Italy,sabaudia,is_city
+477,Cornaredo,45.5,9.0333,Italy,cornaredo,is_city
+478,Gorgonzola,45.5333,9.4,Italy,gorgonzola,is_city
+479,Romano di Lombardia,45.5167,9.75,Italy,romano di lombardia,is_city
+480,Oderzo,45.7808,12.4928,Italy,oderzo,is_city
+481,Grottaferrata,41.8,12.6667,Italy,grottaferrata,is_city
+482,Acri,39.5,16.3833,Italy,acri,is_city
+483,Veroli,41.6833,13.4167,Italy,veroli,is_city
+484,Giovinazzo,41.1833,16.6667,Italy,giovinazzo,is_city
+485,Lastra a Signa,43.7667,11.1,Italy,lastra a signa,is_city
+486,Orvieto,42.7167,12.1,Italy,orvieto,is_city
+487,Montalto Uffugo,39.4,16.15,Italy,montalto uffugo,is_city
+488,Rivalta di Torino,45.0333,7.5333,Italy,rivalta di torino,is_city
+489,San Salvo,42.0455,14.7315,Italy,san salvo,is_city
+490,Cittadella,45.6486,11.7836,Italy,cittadella,is_city
+491,Bussolengo,45.4667,10.85,Italy,bussolengo,is_city
+492,Ischia,40.75,13.95,Italy,ischia,is_city
+493,Abano Terme,45.3619,11.7924,Italy,abano terme,is_city
+494,Gioia Tauro,38.4333,15.9,Italy,gioia tauro,is_city
+495,Casarano,40.0167,18.1667,Italy,casarano,is_city
+496,Villabate,38.0833,13.45,Italy,villabate,is_city
+497,Viadana,44.9267,10.52,Italy,viadana,is_city
+498,Pallazzolo sull'Oglio,45.6,9.8833,Italy,pallazzolo sull'oglio,is_city
+499,Cormano,45.55,9.1667,Italy,cormano,is_city
+500,Novate Milanese,45.5333,9.1333,Italy,novate milanese,is_city
+501,Sacile,45.9541,12.5027,Italy,sacile,is_city
+502,Piove di Sacco,45.2977,12.0368,Italy,piove di sacco,is_city
+503,Trentola,40.9762,14.1773,Italy,trentola,is_city
+504,Ceglie Messapico,40.65,17.5167,Italy,ceglie messapico,is_city
+505,Minturno,41.2667,13.75,Italy,minturno,is_city
+506,Casamassima,40.95,16.9167,Italy,casamassima,is_city
+507,Monserrato,39.2568,9.1387,Italy,monserrato,is_city
+508,Salsomaggiore Terme,44.8167,9.9833,Italy,salsomaggiore terme,is_city
+509,Sant'Antonio Abate,40.7333,14.55,Italy,sant'antonio abate,is_city
+510,Acqui Terme,44.6761,8.4686,Italy,acqui terme,is_city
+511,Pescia,43.9017,10.6898,Italy,pescia,is_city
+512,Castellana Grotte,40.8838,17.1679,Italy,castellana grotte,is_city
+513,Pozzallo,36.7303,14.8467,Italy,pozzallo,is_city
+514,Adria,45.05,12.05,Italy,adria,is_city
+515,Anguillara Sabazia,42.0883,12.2775,Italy,anguillara sabazia,is_city
+516,Tolentino,43.2086,13.2841,Italy,tolentino,is_city
+517,Spoltore,42.455,14.1399,Italy,spoltore,is_city
+518,Arese,45.5531,9.0775,Italy,arese,is_city
+519,Narni,42.5167,12.5167,Italy,narni,is_city
+520,Casalgrande,44.5898,10.7394,Italy,casalgrande,is_city
+521,Rovato,45.5642,9.9997,Italy,rovato,is_city
+522,Bracciano,42.1,12.1833,Italy,bracciano,is_city
+523,Noci,40.8,17.1333,Italy,noci,is_city
+524,San Vito dei Normanni,40.6556,17.7036,Italy,san vito dei normanni,is_city
+525,Cassano d'Adda,45.5333,9.5167,Italy,cassano d'adda,is_city
+526,San Mauro Torinese,45.1039,7.7536,Italy,san mauro torinese,is_city
+527,Bronte,37.8,14.8333,Italy,bronte,is_city
+528,Chiari,45.5197,9.8833,Italy,chiari,is_city
+529,Zola Predosa,44.4883,11.2181,Italy,zola predosa,is_city
+530,Santa Marinella,42.0333,11.85,Italy,santa marinella,is_city
+531,Signa,43.7833,11.1,Italy,signa,is_city
+532,Tradate,45.7,8.9167,Italy,tradate,is_city
+533,Ariccia,41.7167,12.6667,Italy,ariccia,is_city
+534,Scorze,45.5719,12.1089,Italy,scorze,is_city
+535,Ribera,37.4994,13.265,Italy,ribera,is_city
+536,Valenza,45.014,8.6458,Italy,valenza,is_city
+537,Cusano Milanino,45.55,9.1833,Italy,cusano milanino,is_city
+538,Montemurlo,43.9278,11.04,Italy,montemurlo,is_city
+539,Ghedi,45.402,10.2803,Italy,ghedi,is_city
+540,Marsciano,42.9167,12.3333,Italy,marsciano,is_city
+541,Cirie,45.2333,7.6,Italy,cirie,is_city
+542,Palmi,38.3667,15.85,Italy,palmi,is_city
+543,Castelfidardo,43.4642,13.5461,Italy,castelfidardo,is_city
+544,Rutigliano,40.9333,16.9,Italy,rutigliano,is_city
+545,Terzigno,40.8,14.5,Italy,terzigno,is_city
+546,Aci Castello,37.55,15.15,Italy,aci castello,is_city
+547,Melzo,45.5,9.4167,Italy,melzo,is_city
+548,Budrio,44.5374,11.5344,Italy,budrio,is_city
+549,Borgo San Lorenzo,43.9555,11.3856,Italy,borgo san lorenzo,is_city
+550,Castel Maggiore,44.5778,11.3617,Italy,castel maggiore,is_city
+551,Sestri Levante,44.2733,9.3932,Italy,sestri levante,is_city
+552,Piossasco,44.9833,7.4667,Italy,piossasco,is_city
+553,Corbetta,45.4667,8.9167,Italy,corbetta,is_city
+554,Capua,41.1056,14.2139,Italy,capua,is_city
+555,Cassano al Ionio,39.7839,16.3189,Italy,cassano al ionio,is_city
+556,Domodossola,46.1161,8.2911,Italy,domodossola,is_city
+557,Siderno Marina,38.2667,16.3,Italy,siderno marina,is_city
+558,Palma Campania,40.8667,14.55,Italy,palma campania,is_city
+559,Cordenons,45.9833,12.7,Italy,cordenons,is_city
+560,Melegnano,45.3667,9.3167,Italy,melegnano,is_city
+561,Aci Sant'Antonio,37.6059,15.126,Italy,aci sant'antonio,is_city
+562,Valguarnera Caropepe,37.5,14.3833,Italy,valguarnera caropepe,is_city
+563,Polignano a Mare,40.9961,17.2203,Italy,polignano a mare,is_city
+564,Cercola,40.8667,14.35,Italy,cercola,is_city
+565,Laives,46.4276,11.3405,Italy,laives,is_city
+566,Carate Brianza,45.6833,9.2333,Italy,carate brianza,is_city
+567,Valenzano,41.05,16.8833,Italy,valenzano,is_city
+568,Grumo Nevano,40.9333,14.2667,Italy,grumo nevano,is_city
+569,Zagarolo,41.8333,12.8333,Italy,zagarolo,is_city
+570,Somma Lombardo,45.6833,8.7,Italy,somma lombardo,is_city
+571,Arcore,45.6333,9.3167,Italy,arcore,is_city
+572,Calenzano,43.8567,11.1636,Italy,calenzano,is_city
+573,Albino,45.7606,9.7969,Italy,albino,is_city
+574,Villorba,45.7333,12.2333,Italy,villorba,is_city
+575,Melfi,40.9964,15.6558,Italy,melfi,is_city
+576,Beinasco,45.0228,7.5878,Italy,beinasco,is_city
+577,Forio,40.7333,13.85,Italy,forio,is_city
+578,Isola Capo Rizzuto,38.9667,17.1,Italy,isola capo rizzuto,is_city
+579,Agliana,43.9,11.0,Italy,agliana,is_city
+580,Santa Maria di Sala,45.5089,12.0363,Italy,santa maria di sala,is_city
+581,Savignano sul Rubicone,44.0881,12.3933,Italy,savignano sul rubicone,is_city
+582,Carlentini,37.2833,15.0167,Italy,carlentini,is_city
+583,Arco,45.9167,10.8833,Italy,arco,is_city
+584,Sona,45.4333,10.8333,Italy,sona,is_city
+585,Policoro,40.2,16.6667,Italy,policoro,is_city
+586,Orta Nova,41.3308,15.7114,Italy,orta nova,is_city
+587,Pisticci,40.3833,16.55,Italy,pisticci,is_city
+588,Maranello,44.5256,10.8664,Italy,maranello,is_city
+589,Monselice,45.2333,11.75,Italy,monselice,is_city
+590,Sinnai,39.3026,9.2031,Italy,sinnai,is_city
+591,Tricase,39.9333,18.3667,Italy,tricase,is_city
+592,Pianoro,44.3833,11.3333,Italy,pianoro,is_city
+593,Marcon,45.5543,12.2994,Italy,marcon,is_city
+594,Pavullo nel Frignano,44.3327,10.8331,Italy,pavullo nel frignano,is_city
+595,Bareggio,45.4667,8.9833,Italy,bareggio,is_city
+596,Castelfiorentino,43.6108,10.97,Italy,castelfiorentino,is_city
+597,Pescantina,45.4833,10.8667,Italy,pescantina,is_city
+598,Rocca di Papa,41.7667,12.7167,Italy,rocca di papa,is_city
+599,Cattolica,43.9584,12.7386,Italy,cattolica,is_city
+600,Nerviano,45.55,8.9833,Italy,nerviano,is_city
+601,San Casciano in Val di Pesa,43.6569,11.1858,Italy,san casciano in val di pesa,is_city
+602,Campagna,40.6666,15.1064,Italy,campagna,is_city
+603,Sant'Elpidio a Mare,43.2295,13.6861,Italy,sant'elpidio a mare,is_city
+604,Carovigno,40.7072,17.6594,Italy,carovigno,is_city
+605,Fiorano Modenese,44.5392,10.8117,Italy,fiorano modenese,is_city
+606,Negrar,45.5333,10.9333,Italy,negrar,is_city
+607,Torre Maggiore,41.6833,15.2833,Italy,torre maggiore,is_city
+608,Castellaneta,40.6333,16.9333,Italy,castellaneta,is_city
+609,San Giovanni in Fiore,39.2642,16.7003,Italy,san giovanni in fiore,is_city
+610,Baronissi,40.75,14.78,Italy,baronissi,is_city
+611,Vimodrone,45.5139,9.2844,Italy,vimodrone,is_city
+612,Adelfia,41.0,16.8667,Italy,adelfia,is_city
+613,Saluzzo,44.6453,7.4906,Italy,saluzzo,is_city
+614,Preganziol,45.6,12.2333,Italy,preganziol,is_city
+615,Bovisio Masciago,45.6167,9.15,Italy,bovisio masciago,is_city
+616,Scordia,37.3,14.85,Italy,scordia,is_city
+617,San Giovanni Valdarno,43.5644,11.5328,Italy,san giovanni valdarno,is_city
+618,Alpignano,45.1,7.5167,Italy,alpignano,is_city
+619,Malnate,45.8,8.8833,Italy,malnate,is_city
+620,Vedelago,45.6833,12.0167,Italy,vedelago,is_city
+621,Bagnacavallo,44.4169,11.9761,Italy,bagnacavallo,is_city
+622,Medicina,44.4833,11.6333,Italy,medicina,is_city
+623,Giaveno,45.0333,7.35,Italy,giaveno,is_city
+624,Porto Empedocle,37.2944,13.5272,Italy,porto empedocle,is_city
+625,Colle Salvetti,43.6,10.4833,Italy,colle salvetti,is_city
+626,Gussago,45.6,10.15,Italy,gussago,is_city
+627,Palagonia,37.3333,14.75,Italy,palagonia,is_city
+628,Monesiglio,44.4667,8.1167,Italy,monesiglio,is_city
+629,Todi,42.7833,12.4167,Italy,todi,is_city
+630,Brunico,46.7994,11.9343,Italy,brunico,is_city
+631,Reggello,43.6833,11.5333,Italy,reggello,is_city
+632,Umbertide,43.3056,12.3366,Italy,umbertide,is_city
+633,Cerea,45.1894,11.2166,Italy,cerea,is_city
+634,Lonigo,45.3833,11.3833,Italy,lonigo,is_city
+635,Rubano,45.4333,11.7833,Italy,rubano,is_city
+636,Sorrento,40.6278,14.3736,Italy,sorrento,is_city
+637,Leini,45.1836,7.7153,Italy,leini,is_city
+638,Brusciano,40.9224,14.4239,Italy,brusciano,is_city
+639,Este,45.2333,11.6667,Italy,este,is_city
+640,Ispica,36.7853,14.9069,Italy,ispica,is_city
+641,Copparo,44.9,11.8333,Italy,copparo,is_city
+642,Tarquinia,42.2492,11.7561,Italy,tarquinia,is_city
+643,Civita Castellana,42.2961,12.41,Italy,civita castellana,is_city
+644,Caravaggio,45.4978,9.6431,Italy,caravaggio,is_city
+645,Saviano,40.9167,14.5167,Italy,saviano,is_city
+646,Cadoneghe,45.45,11.9333,Italy,cadoneghe,is_city
+647,Grottammare,42.9891,13.8681,Italy,grottammare,is_city
+648,Codroipo,45.9614,12.9774,Italy,codroipo,is_city
+649,Frattaminore,40.9556,14.2708,Italy,frattaminore,is_city
+650,Palagiano,40.5833,17.05,Italy,palagiano,is_city
+651,Bovolone,45.25,11.1333,Italy,bovolone,is_city
+652,Sava,40.4003,17.5667,Italy,sava,is_city
+653,Valmontone,41.7833,12.9167,Italy,valmontone,is_city
+654,Porto San Giorgio,43.1848,13.7955,Italy,porto san giorgio,is_city
+655,Certaldo,43.5478,11.0411,Italy,certaldo,is_city
+656,Samarate,45.6167,8.7833,Italy,samarate,is_city
+657,Noale,45.5501,12.0709,Italy,noale,is_city
+658,Martinsicuro,42.8851,13.916,Italy,martinsicuro,is_city
+659,Nonantola,44.6777,11.043,Italy,nonantola,is_city
+660,Codogno,45.16,9.705,Italy,codogno,is_city
+661,Lentate sul Seveso,45.6833,9.1167,Italy,lentate sul seveso,is_city
+662,Sansepolcro,43.5756,12.1439,Italy,sansepolcro,is_city
+663,Mottola,40.6333,17.0333,Italy,mottola,is_city
+664,Potenza Picena,43.3663,13.6203,Italy,potenza picena,is_city
+665,Azzano Decimo,45.8833,12.7167,Italy,azzano decimo,is_city
+666,Paola,39.3667,16.0333,Italy,paola,is_city
+667,Silvi Paese,42.55,14.1167,Italy,silvi paese,is_city
+668,Fiano Romano,42.1667,12.6,Italy,fiano romano,is_city
+669,Galliate,45.4833,8.7,Italy,galliate,is_city
+670,Capurso,41.05,16.9167,Italy,capurso,is_city
+671,Concorezzo,45.5897,9.3359,Italy,concorezzo,is_city
+672,Molinella,44.6167,11.6667,Italy,molinella,is_city
+673,Finale Emilia,44.8319,11.2957,Italy,finale emilia,is_city
+674,Besana in Brianza,45.7,9.2833,Italy,besana in brianza,is_city
+675,Altopascio,43.8167,10.6747,Italy,altopascio,is_city
+676,San Cesareo,41.8167,12.8,Italy,san cesareo,is_city
+677,Galatone,40.15,18.0667,Italy,galatone,is_city
+678,Agrate Brianza,45.5783,9.3522,Italy,agrate brianza,is_city
+679,Ponsacco,43.6167,10.6333,Italy,ponsacco,is_city
+680,Taurianova,38.35,16.0167,Italy,taurianova,is_city
+681,Carugate,45.55,9.3333,Italy,carugate,is_city
+682,San Martino Buon Albergo,45.4167,11.1,Italy,san martino buon albergo,is_city
+683,Castiglione del Lago,43.1271,12.0452,Italy,castiglione del lago,is_city
+684,Volpiano,45.2,7.7833,Italy,volpiano,is_city
+685,Casalmaggiore,44.9858,10.4147,Italy,casalmaggiore,is_city
+686,Valeggio sul Mincio,45.35,10.7333,Italy,valeggio sul mincio,is_city
+687,Castenaso,44.5097,11.4706,Italy,castenaso,is_city
+688,Mortara,45.25,8.75,Italy,mortara,is_city
+689,Corridonia,43.2482,13.5075,Italy,corridonia,is_city
+690,Castellarano,44.5139,10.7339,Italy,castellarano,is_city
+691,Pianezza,45.1042,7.55,Italy,pianezza,is_city
+692,Soliera,44.7381,10.9245,Italy,soliera,is_city
+693,Omegna,45.8781,8.4069,Italy,omegna,is_city
+694,Casalpusterlengo,45.1778,9.65,Italy,casalpusterlengo,is_city
+695,Fiorenzuola d'Arda,44.9333,9.9,Italy,fiorenzuola d'arda,is_city
+696,Sannicandro Garganico,41.8333,15.5667,Italy,sannicandro garganico,is_city
+697,Cerro Maggiore,45.6,8.95,Italy,cerro maggiore,is_city
+698,Castellammare del Golfo,38.0192,12.8858,Italy,castellammare del golfo,is_city
+699,Laterza,40.6333,16.8,Italy,laterza,is_city
+700,Surbo,40.4,18.1333,Italy,surbo,is_city
+701,San Giorgio Ionico,40.45,17.3667,Italy,san giorgio ionico,is_city
+702,San Vito al Tagliamento,45.9153,12.8556,Italy,san vito al tagliamento,is_city
+703,Zevio,45.3728,11.1303,Italy,zevio,is_city
+704,Castelnuovo Rangone,44.5519,10.9358,Italy,castelnuovo rangone,is_city
+705,Citta Sant'Angelo,42.5167,14.05,Italy,citta sant'angelo,is_city
+706,Guastalla,44.9214,10.6542,Italy,guastalla,is_city
+707,Dolo,45.4249,12.0758,Italy,dolo,is_city
+708,Gualdo Tadino,43.2333,12.7833,Italy,gualdo tadino,is_city
+709,Pineto,42.6167,14.0667,Italy,pineto,is_city
+710,Pontinia,41.4083,13.0443,Italy,pontinia,is_city
+711,Sasso Marconi,44.4,11.25,Italy,sasso marconi,is_city
+712,Merate,45.7,9.4333,Italy,merate,is_city
+713,Malo,45.6582,11.4047,Italy,malo,is_city
+714,Rubiera,44.65,10.7833,Italy,rubiera,is_city
+715,Sorso,40.7983,8.5772,Italy,sorso,is_city
+716,Magione,43.15,12.2,Italy,magione,is_city
+717,Sommacampagna,45.4,10.85,Italy,sommacampagna,is_city
+718,Ciro Marina,39.3667,17.1167,Italy,ciro marina,is_city
+719,Rosarno,38.485,15.9797,Italy,rosarno,is_city
+720,Cassano delle Murge,40.8833,16.7667,Italy,cassano delle murge,is_city
+721,Orbetello,42.4394,11.2125,Italy,orbetello,is_city
+722,Chiaravalle,43.5997,13.3257,Italy,chiaravalle,is_city
+723,Ospitaletto,45.5553,10.0733,Italy,ospitaletto,is_city
+724,Campodarsego,45.5,11.9167,Italy,campodarsego,is_city
+725,Carmignano,43.8103,11.0149,Italy,carmignano,is_city
+726,Vinci,43.7833,10.9167,Italy,vinci,is_city
+727,Trinitapoli,41.35,16.1,Italy,trinitapoli,is_city
+728,Collecchio,44.7527,10.2157,Italy,collecchio,is_city
+729,Cossato,45.5667,8.1667,Italy,cossato,is_city
+730,Santa Croce sull' Arno,43.7202,10.7727,Italy,santa croce sull' arno,is_city
+731,Riposto,37.7333,15.2,Italy,riposto,is_city
+732,Impruneta,43.6854,11.2544,Italy,impruneta,is_city
+733,Pedara,37.6167,15.0667,Italy,pedara,is_city
+734,Sant'Arpino,40.9575,14.2492,Italy,sant'arpino,is_city
+735,Roncade,45.6246,12.3766,Italy,roncade,is_city
+736,Urbino,43.7252,12.6372,Italy,urbino,is_city
+737,Trepuzzi,40.4,18.0667,Italy,trepuzzi,is_city
+738,Rosa,45.7167,11.7667,Italy,rosa,is_city
+739,Luino,46.0,8.75,Italy,luino,is_city
+740,Latiano,40.5333,17.7167,Italy,latiano,is_city
+741,Priverno,41.4667,13.1833,Italy,priverno,is_city
+742,Castellanza,45.6167,8.9,Italy,castellanza,is_city
+743,Leno,45.3703,10.2167,Italy,leno,is_city
+744,Mascali,37.7578,15.1958,Italy,mascali,is_city
+745,Cefalu,38.0395,14.0221,Italy,cefalu,is_city
+746,Taglio,45.0167,12.2167,Italy,taglio,is_city
+747,Massalubrense,40.6167,14.35,Italy,massalubrense,is_city
+748,Mondolfo,43.7517,13.0956,Italy,mondolfo,is_city
+749,Montelupo Fiorentino,43.7333,11.0167,Italy,montelupo fiorentino,is_city
+750,Bondeno,44.8894,11.4154,Italy,bondeno,is_city
+751,Maglie,40.1167,18.3,Italy,maglie,is_city
+752,Locorotondo,40.75,17.3167,Italy,locorotondo,is_city
+753,Rescaldina,45.6167,8.95,Italy,rescaldina,is_city
+754,Solaro,45.615,9.0839,Italy,solaro,is_city
+755,Fiesole,43.8,11.3,Italy,fiesole,is_city
+756,Leverano,40.2833,18.0833,Italy,leverano,is_city
+757,Oleggio,45.6,8.6333,Italy,oleggio,is_city
+758,Casandrino,40.9333,14.25,Italy,casandrino,is_city
+759,Artena,41.7333,12.9167,Italy,artena,is_city
+760,Tempio Pausania,40.9015,9.1044,Italy,tempio pausania,is_city
+761,Marostica,45.7456,11.6553,Italy,marostica,is_city
+762,Squinzano,40.4333,18.05,Italy,squinzano,is_city
+763,Vetralla,42.3106,12.0792,Italy,vetralla,is_city
+764,Villacidro,39.4578,8.7424,Italy,villacidro,is_city
+765,Santa Maria a Vico,41.0333,14.4833,Italy,santa maria a vico,is_city
+766,Taggia,43.8439,7.8509,Italy,taggia,is_city
+767,Montepulciano,43.1,11.7833,Italy,montepulciano,is_city
+768,Amantea,39.1333,16.0667,Italy,amantea,is_city
+769,Villasanta,45.6053,9.3033,Italy,villasanta,is_city
+770,Fisciano,40.7667,14.8,Italy,fisciano,is_city
+772,Caselle Torinese,45.1833,7.65,Italy,caselle torinese,is_city
+773,Veglie,40.3333,17.9667,Italy,veglie,is_city
+774,Vieste,41.8833,16.1667,Italy,vieste,is_city
+775,Travagliato,45.524,10.0797,Italy,travagliato,is_city
+776,Monteroni di Lecce,40.3333,18.1,Italy,monteroni di lecce,is_city
+777,Fara in Sabina,42.2167,12.7333,Italy,fara in sabina,is_city
+778,Cervignano del Friuli,45.8231,13.335,Italy,cervignano del friuli,is_city
+779,Calolziocorte,45.8,9.4333,Italy,calolziocorte,is_city
+780,Opera,45.3833,9.2167,Italy,opera,is_city
+781,Busto Garolfo,45.5478,8.8867,Italy,busto garolfo,is_city
+782,Cassina de' Pecchi,45.5167,9.3667,Italy,cassina de' pecchi,is_city
+783,San Ferdinando di Puglia,41.3,16.0667,Italy,san ferdinando di puglia,is_city
+784,Statte,40.5667,17.2,Italy,statte,is_city
+785,Dueville,45.6333,11.55,Italy,dueville,is_city
+786,Cavarzere,45.137,12.0817,Italy,cavarzere,is_city
+787,Castel San Giorgio,40.7833,14.7,Italy,castel san giorgio,is_city
+788,Castel San Giovanni,45.0591,9.4342,Italy,castel san giovanni,is_city
+789,Arzachena,41.0801,9.388,Italy,arzachena,is_city
+790,Novellara,44.85,10.7333,Italy,novellara,is_city
+791,Crispiano,40.6,17.2333,Italy,crispiano,is_city
+792,Villa San Giovanni,38.2167,15.6333,Italy,villa san giovanni,is_city
+793,Alzano Lombardo,45.7317,9.7283,Italy,alzano lombardo,is_city
+794,Nicosia,37.75,14.4,Italy,nicosia,is_city
+795,San Marco in Lamis,41.7117,15.635,Italy,san marco in lamis,is_city
+796,Lanuvio,41.6833,12.7,Italy,lanuvio,is_city
+797,Rezzato,45.515,10.3175,Italy,rezzato,is_city
+798,San Pietro Vernotico,40.4833,18.05,Italy,san pietro vernotico,is_city
+799,Melilli,37.1833,15.1167,Italy,melilli,is_city
+800,Montesarchio,41.0667,14.6333,Italy,montesarchio,is_city
+801,Crevalcore,44.7167,11.15,Italy,crevalcore,is_city
+802,Montefiascone,42.5333,12.0333,Italy,montefiascone,is_city
+803,Montespertoli,43.65,11.0833,Italy,montespertoli,is_city
+804,Latisana,45.7833,13.0,Italy,latisana,is_city
+805,Lariano,41.7333,12.8333,Italy,lariano,is_city
+806,Varedo,45.6,9.1667,Italy,varedo,is_city
+807,Lavello,41.05,15.8,Italy,lavello,is_city
+808,Misano Adriatico,43.9667,12.7,Italy,misano adriatico,is_city
+809,Castelfranco di Sotto,43.7,10.75,Italy,castelfranco di sotto,is_city
+810,Sarezzo,45.65,10.2,Italy,sarezzo,is_city
+811,Capo d'Orlando,38.15,14.7333,Italy,capo d'orlando,is_city
+812,Forlimpopoli,44.1833,12.1333,Italy,forlimpopoli,is_city
+813,Grammichele,37.2167,14.6333,Italy,grammichele,is_city
+814,Patti,38.1333,14.9667,Italy,patti,is_city
+815,Rionero in Vulture,40.9167,15.6667,Italy,rionero in vulture,is_city
+816,Quartucciu,39.2529,9.1762,Italy,quartucciu,is_city
+817,Castiglion Fiorentino,43.3439,11.9189,Italy,castiglion fiorentino,is_city
+818,Calderara di Reno,44.5639,11.2719,Italy,calderara di reno,is_city
+819,Quattro Castella,44.6333,10.4667,Italy,quattro castella,is_city
+820,Sant'Angelo Lodigiano,45.2389,9.4097,Italy,sant'angelo lodigiano,is_city
+821,Palombara Sabina,42.0667,12.7667,Italy,palombara sabina,is_city
+822,Apricena,41.7846,15.4436,Italy,apricena,is_city
+823,Cairo Montenotte,44.3979,8.2778,Italy,cairo montenotte,is_city
+824,Castelnuovo di Verona,45.4333,10.7667,Italy,castelnuovo di verona,is_city
+825,Pontecorvo,41.4626,13.6676,Italy,pontecorvo,is_city
+826,Camponogara,45.3833,12.0667,Italy,camponogara,is_city
+827,Varazze,44.36,8.5766,Italy,varazze,is_city
+828,Stezzano,45.6508,9.6528,Italy,stezzano,is_city
+829,Muggia,45.6,13.7667,Italy,muggia,is_city
+830,Manerbio,45.3667,10.1333,Italy,manerbio,is_city
+831,Leonforte,37.65,14.4,Italy,leonforte,is_city
+832,San Martino di Lupari,45.6557,11.8594,Italy,san martino di lupari,is_city
+833,Ficarazzi,38.0923,13.4639,Italy,ficarazzi,is_city
+834,Formello,42.0833,12.4,Italy,formello,is_city
+835,Santa Maria a Monte,43.7,10.6833,Italy,santa maria a monte,is_city
+836,Casatenovo,45.6983,9.3117,Italy,casatenovo,is_city
+837,Casale sul Sile,45.5988,12.3243,Italy,casale sul sile,is_city
+838,Campiglia Marittima,43.0667,10.6167,Italy,campiglia marittima,is_city
+839,Vigodarzere,45.45,11.8833,Italy,vigodarzere,is_city
+840,Piano di Sorrento,40.6333,14.4111,Italy,piano di sorrento,is_city
+841,San Biagio di Callalta,45.6867,12.3815,Italy,san biagio di callalta,is_city
+842,Seravezza,44.0,10.2333,Italy,seravezza,is_city
+843,Barrafranca,37.3667,14.2,Italy,barrafranca,is_city
+844,Carpenedolo,45.3654,10.4323,Italy,carpenedolo,is_city
+845,Noceto,44.8167,10.1833,Italy,noceto,is_city
+846,Trebaseleghe,45.5833,12.05,Italy,trebaseleghe,is_city
+847,Salzano,45.5333,12.1167,Italy,salzano,is_city
+848,Cicciano,40.9667,14.5333,Italy,cicciano,is_city
+849,Calcinato,45.4581,10.4146,Italy,calcinato,is_city
+850,Chiampo,45.55,11.2833,Italy,chiampo,is_city
+851,Montegranaro,43.2332,13.6322,Italy,montegranaro,is_city
+852,Santo Stino di Livenza,45.7333,12.6833,Italy,santo stino di livenza,is_city
+853,Lipari,38.4673,14.9554,Italy,lipari,is_city
+854,Tezze sul Brenta,45.6862,11.7042,Italy,tezze sul brenta,is_city
+855,Cavallino,40.3102,18.2022,Italy,cavallino,is_city
+856,Loreto,43.4403,13.6074,Italy,loreto,is_city
+857,Spilamberto,44.5333,11.0167,Italy,spilamberto,is_city
+858,Monte di Procida,40.8,14.05,Italy,monte di procida,is_city
+859,Grumo Appula,41.0167,16.7,Italy,grumo appula,is_city
+860,Monte San Giovanni Campano,41.6333,13.5167,Italy,monte san giovanni campano,is_city
+861,Lauria Inferiore,40.0472,15.8358,Italy,lauria inferiore,is_city
+862,Montecorvino Rovella,40.7,14.9833,Italy,montecorvino rovella,is_city
+863,Monteprandone,42.9203,13.8355,Italy,monteprandone,is_city
+864,Bagnolo Mella,45.43,10.1854,Italy,bagnolo mella,is_city
+865,Borgosesia,45.7169,8.2764,Italy,borgosesia,is_city
+866,Francofonte,37.2333,14.8833,Italy,francofonte,is_city
+867,Raffadali,37.4047,13.5339,Italy,raffadali,is_city
+868,Figline Valdarno,43.6167,11.4667,Italy,figline valdarno,is_city
+869,Sala Consilina,40.4,15.6,Italy,sala consilina,is_city
+870,Castel Goffredo,45.2981,10.475,Italy,castel goffredo,is_city
+871,Lavagna,44.3122,9.3417,Italy,lavagna,is_city
+872,Porto Recanati,43.4299,13.6649,Italy,porto recanati,is_city
+873,Avigliana,45.0794,7.3961,Italy,avigliana,is_city
+874,Calcinaia,43.6835,10.6165,Italy,calcinaia,is_city
+875,Canegrate,45.5667,8.9333,Italy,canegrate,is_city
+876,Sinalunga,43.2167,11.7333,Italy,sinalunga,is_city
+877,Rivarolo Canavese,45.3333,7.7167,Italy,rivarolo canavese,is_city
+878,Terrasini Favarotta,38.15,13.0833,Italy,terrasini favarotta,is_city
+879,Fontanafredda,45.9667,12.5667,Italy,fontanafredda,is_city
+880,Fagnano Olona,45.6667,8.8667,Italy,fagnano olona,is_city
+881,Borgo San Dalmazzo,44.3333,7.4833,Italy,borgo san dalmazzo,is_city
+882,Menfi,37.6078,12.9686,Italy,menfi,is_city
+883,Solofra,40.8333,14.85,Italy,solofra,is_city
+884,San Severino Marche,43.2289,13.1771,Italy,san severino marche,is_city
+885,Bernalda,40.4167,16.6833,Italy,bernalda,is_city
+886,Olgiate Olona,45.6333,8.8833,Italy,olgiate olona,is_city
+887,Orzinuovi,45.4,9.9333,Italy,orzinuovi,is_city
+888,San Pietro in Casale,44.7,11.4,Italy,san pietro in casale,is_city
+889,Ugento,39.9333,18.1667,Italy,ugento,is_city
+890,Morbegno,46.1333,9.5667,Italy,morbegno,is_city
+891,Sant'Agata di Militello,38.0667,14.6333,Italy,sant'agata di militello,is_city
+892,Mercogliano,40.9231,14.7428,Italy,mercogliano,is_city
+893,Locri,38.2333,16.2667,Italy,locri,is_city
+894,Pianiga,45.4583,12.008,Italy,pianiga,is_city
+895,Monte Sant'Angelo,41.7,15.9667,Italy,monte sant'angelo,is_city
+896,San Prisco,41.0833,14.2833,Italy,san prisco,is_city
+897,Anzola dell'Emilia,44.5472,11.1956,Italy,anzola dell'emilia,is_city
+898,Russi,44.3764,12.0334,Italy,russi,is_city
+899,Teano,41.25,14.0667,Italy,teano,is_city
+900,Gricignano d'Aversa,40.9833,14.2333,Italy,gricignano d'aversa,is_city
+901,Terranuova Bracciolini,43.5531,11.5894,Italy,terranuova bracciolini,is_city
+902,Lana,46.6167,11.1667,Italy,lana,is_city
+903,Eraclea,45.5833,12.6833,Italy,eraclea,is_city
+904,Cinisi,38.1667,13.1,Italy,cinisi,is_city
+905,Sedriano,45.4833,8.9667,Italy,sedriano,is_city
+906,Rottofreno,45.0579,9.5489,Italy,rottofreno,is_city
+907,Gavardo,45.5875,10.4389,Italy,gavardo,is_city
+908,Motta Sant'Anastasia,37.5,14.9667,Italy,motta sant'anastasia,is_city
+909,Villa Literno,41.0096,14.0741,Italy,villa literno,is_city
+910,Calvizzano,40.9,14.1833,Italy,calvizzano,is_city
+911,Bibbiena,43.6975,11.8144,Italy,bibbiena,is_city
+912,Biassono,45.6306,9.2744,Italy,biassono,is_city
+913,Spilimbergo,46.1114,12.9017,Italy,spilimbergo,is_city
+914,Spresiano,45.7833,12.25,Italy,spresiano,is_city
+915,Monte Compatri,41.8081,12.7372,Italy,monte compatri,is_city
+916,Trezzo sull'Adda,45.6,9.5167,Italy,trezzo sull'adda,is_city
+917,Vecchiano,43.7833,10.3833,Italy,vecchiano,is_city
+918,Carmiano,40.3461,18.0461,Italy,carmiano,is_city
+919,Rocca Priora,41.7833,12.7667,Italy,rocca priora,is_city
+920,Pieve di Soligo,45.8833,12.1667,Italy,pieve di soligo,is_city
+921,Camposampiero,45.5667,11.9333,Italy,camposampiero,is_city
+922,Granarolo del l'Emilia,44.5542,11.4439,Italy,granarolo del l'emilia,is_city
+923,Altavilla Vicentina,45.5164,11.4597,Italy,altavilla vicentina,is_city
+924,Bitetto,41.0333,16.75,Italy,bitetto,is_city
+925,Baranzate,45.5167,9.1,Italy,baranzate,is_city
+926,Arluno,45.5,8.9333,Italy,arluno,is_city
+927,Occhiobello,44.9216,11.5812,Italy,occhiobello,is_city
+928,Cornedo Vicentino,45.6167,11.35,Italy,cornedo vicentino,is_city
+929,Taviano,39.9833,18.0833,Italy,taviano,is_city
+930,Ronchi dei Legionari,45.8333,13.5,Italy,ronchi dei legionari,is_city
+931,Portoferraio,42.8167,10.3167,Italy,portoferraio,is_city
+932,Alfonsine,44.5061,12.0411,Italy,alfonsine,is_city
+933,Lizzanello,40.3047,18.2228,Italy,lizzanello,is_city
+934,Monteforte Irpino,40.8928,14.7194,Italy,monteforte irpino,is_city
+935,Borgaro Torinese,45.15,7.65,Italy,borgaro torinese,is_city
+936,San Mauro Pascoli,44.1,12.4167,Italy,san mauro pascoli,is_city
+937,San Gennaro Vesuviano,40.8667,14.5333,Italy,san gennaro vesuviano,is_city
+938,Giffoni Valle Piana,40.7167,14.9333,Italy,giffoni valle piana,is_city
+939,Priolo Gargallo,37.1667,15.1833,Italy,priolo gargallo,is_city
+940,San Gregorio di Catania,37.5667,15.1167,Italy,san gregorio di catania,is_city
+941,Mazzarino,37.3,14.2,Italy,mazzarino,is_city
+942,Susegana,45.85,12.25,Italy,susegana,is_city
+943,Amelia,42.5535,12.4168,Italy,amelia,is_city
+944,San Michele al Tagliamento,45.7636,12.9953,Italy,san michele al tagliamento,is_city
+945,Sant'Ambrogio di Valpolicella,45.5209,10.8362,Italy,sant'ambrogio di valpolicella,is_city
+946,Lonate Pozzolo,45.6,8.75,Italy,lonate pozzolo,is_city
+947,Margherita di Savoia,41.3667,16.15,Italy,margherita di savoia,is_city
+948,Taurisano,39.95,18.1667,Italy,taurisano,is_city
+949,Campobello di Mazara,37.6333,12.75,Italy,campobello di mazara,is_city
+950,Tortoreto,42.8,13.9167,Italy,tortoreto,is_city
+951,Maniago,46.1667,12.7167,Italy,maniago,is_city
+952,Codigoro,44.8333,12.1167,Italy,codigoro,is_city
+953,Venosa,40.9667,15.8167,Italy,venosa,is_city
+954,Fiume Veneto,45.9333,12.7333,Italy,fiume veneto,is_city
+955,Guspini,39.54,8.6267,Italy,guspini,is_city
+956,Lendinara,45.085,11.6006,Italy,lendinara,is_city
+957,Serravalle Pistoiese,43.9,10.8333,Italy,serravalle pistoiese,is_city
+958,Torri di Quartesolo,45.5167,11.6167,Italy,torri di quartesolo,is_city
+959,Casteldaccia,38.05,13.5333,Italy,casteldaccia,is_city
+960,Stradella,45.0833,9.3,Italy,stradella,is_city
+961,Olgiate Comasco,45.7833,8.9667,Italy,olgiate comasco,is_city
+962,Portomaggiore,44.7,11.8,Italy,portomaggiore,is_city
+963,Finale Ligure,44.1691,8.3435,Italy,finale ligure,is_city
+964,Caorle,45.6003,12.8876,Italy,caorle,is_city
+965,Valmadrera,45.8463,9.3582,Italy,valmadrera,is_city
+966,Campagnano di Roma,42.1333,12.3833,Italy,campagnano di roma,is_city
+967,Cisternino,40.75,17.4167,Italy,cisternino,is_city
+968,Capaci,38.1667,13.2333,Italy,capaci,is_city
+969,Isola della Scala,45.2667,11.1333,Italy,isola della scala,is_city
+970,Gardone Val Trompia,45.6833,10.1833,Italy,gardone val trompia,is_city
+971,Siniscola,40.5743,9.6963,Italy,siniscola,is_city
+972,Nembro,45.7439,9.7594,Italy,nembro,is_city
+973,Pulsano,40.3842,17.3547,Italy,pulsano,is_city
+974,Ponte San Pietro,45.6978,9.5881,Italy,ponte san pietro,is_city
+975,Mestrino,45.45,11.7667,Italy,mestrino,is_city
+976,Isola del Liri,41.6833,13.5667,Italy,isola del liri,is_city
+977,Castenedolo,45.4704,10.2967,Italy,castenedolo,is_city
+978,Arenzano,44.4035,8.6827,Italy,arenzano,is_city
+979,Ravanusa,37.2678,13.9697,Italy,ravanusa,is_city
+980,Musile di Piave,45.6178,12.565,Italy,musile di piave,is_city
+981,Montegrotto Terme,45.3333,11.7833,Italy,montegrotto terme,is_city
+982,Matino,40.0333,18.1333,Italy,matino,is_city
+983,Paullo,45.4167,9.4,Italy,paullo,is_city
+984,Casier,45.6436,12.2953,Italy,casier,is_city
+985,Riesi,37.2833,14.0833,Italy,riesi,is_city
+986,Cave,41.8167,12.9333,Italy,cave,is_city
+987,Creazzo,45.5333,11.4833,Italy,creazzo,is_city
+988,Ovada,44.6392,8.6464,Italy,ovada,is_city
+989,Avigliano,40.7333,15.7167,Italy,avigliano,is_city
+990,Zero Branco,45.6,12.1667,Italy,zero branco,is_city
+991,Acate,37.0253,14.4925,Italy,acate,is_city
+992,Paceco,37.9833,12.55,Italy,paceco,is_city
+993,Castelvetro di Modena,44.5067,10.9472,Italy,castelvetro di modena,is_city
+994,Bitritto,41.05,16.8333,Italy,bitritto,is_city
+995,Caldogno,45.6118,11.5076,Italy,caldogno,is_city
+996,Sant'Ilario d'Enza,44.7667,10.45,Italy,sant'ilario d'enza,is_city
+997,Camisano Vicentino,45.5167,11.7167,Italy,camisano vicentino,is_city
+998,Melito di Porto Salvo,37.9167,15.7833,Italy,melito di porto salvo,is_city
+999,Belmonte Mezzagno,38.05,13.3833,Italy,belmonte mezzagno,is_city
+1000,La Maddalena,41.2142,9.4083,Italy,la maddalena,is_city
+1001,Castano Primo,45.55,8.7667,Italy,castano primo,is_city
+1002,Loano,44.129,8.2598,Italy,loano,is_city
+1003,San Giustino,43.55,12.1833,Italy,san giustino,is_city
+1004,Santa Flavia,38.0833,13.5333,Italy,santa flavia,is_city
+1005,Venafro,41.4833,14.05,Italy,venafro,is_city
+1006,Piazzola sul Brenta,45.5333,11.7667,Italy,piazzola sul brenta,is_city
+1007,Carbonera,45.6833,12.2833,Italy,carbonera,is_city
+1008,Cologno al Serio,45.5833,9.7,Italy,cologno al serio,is_city
+1009,Cividale del Friuli,46.0905,13.435,Italy,cividale del friuli,is_city
+1010,Sant'Antioco,39.0654,8.454,Italy,sant'antioco,is_city
+1011,Sant'Agata de' Goti,41.0893,14.4974,Italy,sant'agata de' goti,is_city
+1012,Montopoli in Val d'Arno,43.6744,10.7503,Italy,montopoli in val d'arno,is_city
+1013,Sesto Calende,45.7333,8.6333,Italy,sesto calende,is_city
+1014,Cerese,45.1167,10.7833,Italy,cerese,is_city
+1015,Corleone,37.8167,13.3,Italy,corleone,is_city
+1016,Pellezzano,40.7333,14.7667,Italy,pellezzano,is_city
+1017,Aulla,44.2167,9.9667,Italy,aulla,is_city
+1018,Tortoli,39.9333,9.65,Italy,tortoli,is_city
+1019,Trecastagni,37.6167,15.0833,Italy,trecastagni,is_city
+1020,Scalea,39.8167,15.8,Italy,scalea,is_city
+1021,Cepagatti,42.3658,14.0767,Italy,cepagatti,is_city
+1022,Racale,39.9667,18.1,Italy,racale,is_city
+1023,Castel Mella,45.5,10.15,Italy,castel mella,is_city
+1024,Cerreto Guidi,43.7617,10.8771,Italy,cerreto guidi,is_city
+1025,Montechiarugolo,44.6934,10.4224,Italy,montechiarugolo,is_city
+1026,Atripalda,40.9167,14.8256,Italy,atripalda,is_city
+1027,Monte San Pietro,44.4578,11.199,Italy,monte san pietro,is_city
+1028,Santa Croce Camerina,36.8272,14.5239,Italy,santa croce camerina,is_city
+1029,Inzago,45.5333,9.4833,Italy,inzago,is_city
+1030,Bertinoro,44.15,12.1333,Italy,bertinoro,is_city
+1031,San Valentino Torio,40.7911,14.6033,Italy,san valentino torio,is_city
+1032,Cazzago San Martino,45.5817,10.0258,Italy,cazzago san martino,is_city
+1033,Barberino di Mugello,44.0,11.2333,Italy,barberino di mugello,is_city
+1034,Cameri,45.5,8.65,Italy,cameri,is_city
+1035,Trofarello,44.9833,7.7333,Italy,trofarello,is_city
+1036,Cori,41.65,12.9167,Italy,cori,is_city
+1037,Celano,42.0843,13.5478,Italy,celano,is_city
+1038,Taormina,37.85,15.3,Italy,taormina,is_city
+1039,Gemona del Friuli,46.2833,13.1333,Italy,gemona del friuli,is_city
+1040,Ramacca,37.3833,14.7,Italy,ramacca,is_city
+1041,Botticino Sera,45.5339,10.3078,Italy,botticino sera,is_city
+1042,Medesano,44.7568,10.1403,Italy,medesano,is_city
+1043,Grezzana,45.5167,11.0167,Italy,grezzana,is_city
+1044,San Felice sul Panaro,44.8393,11.1413,Italy,san felice sul panaro,is_city
+1045,Motta di Livenza,45.7797,12.6086,Italy,motta di livenza,is_city
+1046,Capena,42.1403,12.5403,Italy,capena,is_city
+1047,Alassio,44.0079,8.173,Italy,alassio,is_city
+1048,Montale,43.9333,11.0167,Italy,montale,is_city
+1049,Randazzo,37.8833,14.95,Italy,randazzo,is_city
+1050,Itri,41.2833,13.5333,Italy,itri,is_city
+1051,Trevignano,45.7335,12.094,Italy,trevignano,is_city
+1052,Alberobello,40.7841,17.2375,Italy,alberobello,is_city
+1053,Cornate d'Adda,45.65,9.4667,Italy,cornate d'adda,is_city
+1054,Gambettola,44.1167,12.3333,Italy,gambettola,is_city
+1055,Cadelbosco di Sopra,44.7667,10.6,Italy,cadelbosco di sopra,is_city
+1056,Campolongo Maggiore,45.3305,12.0483,Italy,campolongo maggiore,is_city
+1057,Salemi,37.8167,12.8,Italy,salemi,is_city
+1058,Massa Lombarda,44.45,11.8167,Italy,massa lombarda,is_city
+1059,Salo,45.6,10.5333,Italy,salo,is_city
+1060,Peschiera del Garda,45.4386,10.6886,Italy,peschiera del garda,is_city
+1061,Atessa,42.0667,14.45,Italy,atessa,is_city
+1062,Montecchio Emilia,44.6986,10.4486,Italy,montecchio emilia,is_city
+1063,Poirino,44.9167,7.85,Italy,poirino,is_city
+1064,Ozieri,40.5849,9.0033,Italy,ozieri,is_city
+1065,Martinengo,45.5704,9.7674,Italy,martinengo,is_city
+1066,Mussomeli,37.5833,13.75,Italy,mussomeli,is_city
+1067,Coriano,43.9691,12.6006,Italy,coriano,is_city
+1068,Fiuggi,41.8,13.2167,Italy,fiuggi,is_city
+1069,Torre Santa Susanna,40.4667,17.7333,Italy,torre santa susanna,is_city
+1070,Macerata Campania,41.0667,14.2667,Italy,macerata campania,is_city
+1071,San Marzano sul Sarno,40.7697,14.5947,Italy,san marzano sul sarno,is_city
+1072,Castelnovo ne' Monti,44.4333,10.4,Italy,castelnovo ne' monti,is_city
+1073,Procida,40.7667,14.0333,Italy,procida,is_city
+1074,Cutro,39.0342,16.9819,Italy,cutro,is_city
+1075,Castelli Calepio,45.6333,9.9,Italy,castelli calepio,is_city
+1076,Canelli,44.7208,8.2928,Italy,canelli,is_city
+1077,Trabia,38.0,13.65,Italy,trabia,is_city
+1078,Partanna,37.7289,12.8894,Italy,partanna,is_city
+1079,Bordighera,43.7789,7.6721,Italy,bordighera,is_city
+1080,Cislago,45.65,8.9667,Italy,cislago,is_city
+1081,Polistena,38.4,16.0667,Italy,polistena,is_city
+1082,Concordia Sagittaria,45.7667,12.85,Italy,concordia sagittaria,is_city
+1083,Valdobbiadene,45.9,11.9167,Italy,valdobbiadene,is_city
+1084,Badia Polesine,45.094,11.4934,Italy,badia polesine,is_city
+1085,Langhirano,44.6167,10.2667,Italy,langhirano,is_city
+1086,Rignano Flaminio,42.2,12.4833,Italy,rignano flaminio,is_city
+1087,Campi Salentina,40.4,18.0167,Italy,campi salentina,is_city
+1088,Nizza Monferrato,44.7747,8.355,Italy,nizza monferrato,is_city
+1089,Mandello del Lario,45.9167,9.3167,Italy,mandello del lario,is_city
+1090,San Maurizio Canavese,45.2171,7.6305,Italy,san maurizio canavese,is_city
+1091,Montignoso,44.0167,10.1667,Italy,montignoso,is_city
+1092,Usmate Velate,45.65,9.35,Italy,usmate velate,is_city
+1093,Volterra,43.4,10.8667,Italy,volterra,is_city
+1094,Cittanova,38.35,16.0833,Italy,cittanova,is_city
+1095,Induno Olona,45.85,8.8333,Italy,induno olona,is_city
+1096,Boscotrecase,40.7833,14.4667,Italy,boscotrecase,is_city
+1097,Isola Vicentina,45.6333,11.45,Italy,isola vicentina,is_city
+1098,Bibbiano,44.6629,10.4739,Italy,bibbiano,is_city
+1099,Conselve,45.2333,11.8667,Italy,conselve,is_city
+1100,Goito,45.25,10.6667,Italy,goito,is_city
+1101,Altofonte,38.05,13.3,Italy,altofonte,is_city
+1102,Locate di Triulzi,45.35,9.2167,Italy,locate di triulzi,is_city
+1103,Volpago del Montello,45.7833,12.1167,Italy,volpago del montello,is_city
+1104,Terralba,39.7197,8.6363,Italy,terralba,is_city
+1105,Bomporto,44.7333,11.0333,Italy,bomporto,is_city
+1106,Silea,45.6547,12.2967,Italy,silea,is_city
+1107,Vigasio,45.3167,10.9333,Italy,vigasio,is_city
+1108,Capodrise,41.05,14.3,Italy,capodrise,is_city
+1109,Lerici,44.0763,9.9111,Italy,lerici,is_city
+1110,Bisignano,39.5073,16.2811,Italy,bisignano,is_city
+1111,Bagnara Calabra,38.2833,15.8167,Italy,bagnara calabra,is_city
+1112,Sedico,46.1167,12.1,Italy,sedico,is_city
+1113,Cingoli,43.3742,13.2164,Italy,cingoli,is_city
+1114,Busca,44.5167,7.4667,Italy,busca,is_city
+1115,Novi di Modena,44.8934,10.901,Italy,novi di modena,is_city
+1116,Bucine,43.4775,11.6158,Italy,bucine,is_city
+1117,Sermoneta,41.55,12.9833,Italy,sermoneta,is_city
+1118,Asola,45.2167,10.4167,Italy,asola,is_city
+1119,Vaiano,43.9667,11.1167,Italy,vaiano,is_city
+1120,San Giorgio del Sannio,41.0667,14.85,Italy,san giorgio del sannio,is_city
+1121,Sovicille,43.2833,11.2333,Italy,sovicille,is_city
+1122,Morrovalle,43.3146,13.5806,Italy,morrovalle,is_city
+1123,San Felice Circeo,41.2353,13.0956,Italy,san felice circeo,is_city
+1124,Tolmezzo,46.4,13.0167,Italy,tolmezzo,is_city
+1125,Poggio a Caiano,43.8167,11.0667,Italy,poggio a caiano,is_city
+1126,Cetraro,39.5,15.95,Italy,cetraro,is_city
+1127,Bonate di Sopra,45.6819,9.5586,Italy,bonate di sopra,is_city
+1128,Macomer,40.2644,8.7751,Italy,macomer,is_city
+1129,Oppeano,45.3,11.1833,Italy,oppeano,is_city
+1130,Verucchio,43.9833,12.4215,Italy,verucchio,is_city
+1131,Barano d'Ischia,40.7167,13.9167,Italy,barano d'ischia,is_city
+1132,Melendugno,40.2667,18.3333,Italy,melendugno,is_city
+1133,Vigonovo,45.3852,12.0074,Italy,vigonovo,is_city
+1134,Lizzano,40.3919,17.4483,Italy,lizzano,is_city
+1135,Meldola,44.1333,12.0667,Italy,meldola,is_city
+1136,Castelletto sopra Ticino,45.7167,8.6333,Italy,castelletto sopra ticino,is_city
+1137,San Vendemiano,45.8914,12.3389,Italy,san vendemiano,is_city
+1138,Racconigi,44.7667,7.6833,Italy,racconigi,is_city
+1139,Castellamonte,45.3819,7.7106,Italy,castellamonte,is_city
+1140,Monteriggioni,43.4,11.2167,Italy,monteriggioni,is_city
+1141,Lomazzo,45.7,9.0333,Italy,lomazzo,is_city
+1142,Cavriago,44.6956,10.5274,Italy,cavriago,is_city
+1143,Gambolo,45.2586,8.8647,Italy,gambolo,is_city
+1144,Quinto di Treviso,45.65,12.1667,Italy,quinto di treviso,is_city
+1145,Urgnano,45.5972,9.695,Italy,urgnano,is_city
+1146,Sannicandro di Bari,41.0,16.8,Italy,sannicandro di bari,is_city
+1147,Barga,44.075,10.4817,Italy,barga,is_city
+1148,Casaluce,41.002,14.1983,Italy,casaluce,is_city
+1149,Siano,40.8025,14.6944,Italy,siano,is_city
+1150,San Pancrazio Salentino,40.4167,17.8333,Italy,san pancrazio salentino,is_city
+1151,Montescaglioso,40.55,16.6667,Italy,montescaglioso,is_city
+1152,Montemarciano,43.6399,13.3104,Italy,montemarciano,is_city
+1153,Fino Mornasco,45.75,9.0333,Italy,fino mornasco,is_city
+1154,Argelato,44.6425,11.3486,Italy,argelato,is_city
+1155,Crosia,39.5667,16.7667,Italy,crosia,is_city
+1156,Campobello di Licata,37.2594,13.9192,Italy,campobello di licata,is_city
+1157,Lurate Caccivio,45.7667,9.0,Italy,lurate caccivio,is_city
+1158,Mori,45.8513,10.9817,Italy,mori,is_city
+1159,Trescore Balneario,45.7,9.85,Italy,trescore balneario,is_city
+1160,Castrolibero,39.3167,16.2,Italy,castrolibero,is_city
+1161,Garlasco,45.2,8.9167,Italy,garlasco,is_city
+1162,Poggio Renatico,44.765,11.4833,Italy,poggio renatico,is_city
+1163,Boves,44.3333,7.55,Italy,boves,is_city
+1164,Conselice,44.5167,11.8333,Italy,conselice,is_city
+1165,Sant'Egidio alla Vibrata,42.8333,13.7167,Italy,sant'egidio alla vibrata,is_city
+1166,Ruffano,39.9833,18.25,Italy,ruffano,is_city
+1167,Cuorgne,45.3833,7.65,Italy,cuorgne,is_city
+1168,Deruta,42.9833,12.4167,Italy,deruta,is_city
+1169,Dolianova,39.3785,9.1784,Italy,dolianova,is_city
+1170,Recco,44.3621,9.1435,Italy,recco,is_city
+1171,Matelica,43.2566,13.0096,Italy,matelica,is_city
+1172,Porto Tolle,44.95,12.3167,Italy,porto tolle,is_city
+1173,Bellinzago Novarese,45.5833,8.6333,Italy,bellinzago novarese,is_city
+1174,Castel Bolognese,44.3167,11.8,Italy,castel bolognese,is_city
+1175,Santo Stefano di Magra,44.1625,9.9151,Italy,santo stefano di magra,is_city
+1176,Mareno di Piave,45.8409,12.352,Italy,mareno di piave,is_city
+1177,Zafferana Etnea,37.6833,15.1,Italy,zafferana etnea,is_city
+1178,Sorbolo,44.8463,10.4486,Italy,sorbolo,is_city
+1179,Gassino Torinese,45.1333,7.8167,Italy,gassino torinese,is_city
+1180,Nepi,42.2436,12.3464,Italy,nepi,is_city
+1181,Elmas,39.2679,9.05,Italy,elmas,is_city
+1182,Cavriglia,43.5216,11.4864,Italy,cavriglia,is_city
+1183,Piombino Dese,45.6,11.9333,Italy,piombino dese,is_city
+1184,Marano Vicentino,45.7,11.4333,Italy,marano vicentino,is_city
+1185,Resana,45.6333,11.95,Italy,resana,is_city
+1186,Fiumefreddo di Sicilia,37.7915,15.2092,Italy,fiumefreddo di sicilia,is_city
+1187,Mendicino,39.2628,16.1945,Italy,mendicino,is_city
+1188,Traversetolo,44.6399,10.3818,Italy,traversetolo,is_city
+1189,Castelleone,45.2958,9.7609,Italy,castelleone,is_city
+1190,Foiano della Chiana,43.2567,11.8164,Italy,foiano della chiana,is_city
+1191,Capriolo,45.6373,9.9336,Italy,capriolo,is_city
+1192,San Giovanni in Marignano,43.9393,12.7137,Italy,san giovanni in marignano,is_city
+1193,Fossombrone,43.689,12.8061,Italy,fossombrone,is_city
+1194,Broni,45.0619,9.2611,Italy,broni,is_city
+1195,Aragona,37.4074,13.6189,Italy,aragona,is_city
+1196,Santa Teresa di Riva,37.94,15.3625,Italy,santa teresa di riva,is_city
+1197,Aradeo,40.1333,18.1333,Italy,aradeo,is_city
+1198,Gavirate,45.85,8.7167,Italy,gavirate,is_city
+1199,Maserada sul Piave,45.75,12.3167,Italy,maserada sul piave,is_city
+1200,Pasian di Prato,46.05,13.2,Italy,pasian di prato,is_city
+1201,Loria,45.7333,11.8667,Italy,loria,is_city
+1202,Giardini,37.8333,15.2667,Italy,giardini,is_city
+1203,Filottrano,43.4344,13.3503,Italy,filottrano,is_city
+1204,Pizzo,38.7333,16.1667,Italy,pizzo,is_city
+1205,Mosciano Sant'Angelo,42.75,13.8833,Italy,mosciano sant'angelo,is_city
+1206,Treia,43.3114,13.3131,Italy,treia,is_city
+1207,Brugnera,45.9,12.5333,Italy,brugnera,is_city
+1208,Carignano,44.9058,7.6725,Italy,carignano,is_city
+1209,Borgosatollo,45.4761,10.24,Italy,borgosatollo,is_city
+1210,Vignate,45.5,9.3667,Italy,vignate,is_city
+1211,Villa Castelli,40.5833,17.4833,Italy,villa castelli,is_city
+1212,Belvedere Marittimo,39.6167,15.8667,Italy,belvedere marittimo,is_city
+1213,Castellabate,40.2792,14.9517,Italy,castellabate,is_city
+1214,San Marzano di San Giuseppe,40.45,17.5,Italy,san marzano di san giuseppe,is_city
+1215,Vanzago,45.5333,9.0,Italy,vanzago,is_city
+1216,Cherasco,44.65,7.8667,Italy,cherasco,is_city
+1217,Luzzi,39.45,16.2833,Italy,luzzi,is_city
+1218,Troina,37.7833,14.6,Italy,troina,is_city
+1219,Istrana,45.6833,12.1,Italy,istrana,is_city
+1220,Segni,41.6833,13.0167,Italy,segni,is_city
+1221,Cermenate,45.7,9.0833,Italy,cermenate,is_city
+1222,Folignano,42.821,13.6329,Italy,folignano,is_city
+1223,Iseo,45.6586,10.0536,Italy,iseo,is_city
+1224,Magnago,45.5792,8.8025,Italy,magnago,is_city
+1225,Santa Lucia di Piave,45.85,12.2833,Italy,santa lucia di piave,is_city
+1226,Vittuone,45.4833,8.95,Italy,vittuone,is_city
+1227,Costa Volpino,45.8306,10.0992,Italy,costa volpino,is_city
+1228,Inverigo,45.7333,9.2167,Italy,inverigo,is_city
+1229,Gaggiano,45.4048,9.0349,Italy,gaggiano,is_city
+1230,Podenzano,44.95,9.6833,Italy,podenzano,is_city
+1231,Savignano sul Panaro,44.4833,11.0333,Italy,savignano sul panaro,is_city
+1232,Masera di Padova,45.3167,11.8667,Italy,masera di padova,is_city
+1233,Sant'Agnello,40.6294,14.3996,Italy,sant'agnello,is_city
+1234,Santa Margherita Ligure,44.3349,9.2101,Italy,santa margherita ligure,is_city
+1235,Cogoleto,44.3896,8.6462,Italy,cogoleto,is_city
+1236,Vaprio d'Adda,45.5667,9.5333,Italy,vaprio d'adda,is_city
+1237,Reggiolo,44.9167,10.8167,Italy,reggiolo,is_city
+1238,Serramanna,39.4228,8.9217,Italy,serramanna,is_city
+1239,Gonzaga,44.95,10.8167,Italy,gonzaga,is_city
+1240,Soverato Marina,38.6833,16.55,Italy,soverato marina,is_city
+1241,Trebisacce,39.8667,16.5333,Italy,trebisacce,is_city
+1242,Asolo,45.8,11.9167,Italy,asolo,is_city
+1243,Castagneto Carducci,43.1667,10.6,Italy,castagneto carducci,is_city
+1244,Martano,40.2,18.3,Italy,martano,is_city
+1245,Malalbergo,44.7194,11.5331,Italy,malalbergo,is_city
+1246,Castelnuovo Berardenga,43.3472,11.5042,Italy,castelnuovo berardenga,is_city
+1247,Aviano,46.0667,12.5833,Italy,aviano,is_city
+1248,Oggiono,45.7833,9.35,Italy,oggiono,is_city
+1249,Roccastrada,43.0097,11.1683,Italy,roccastrada,is_city
+1250,Petilia Policastro,39.1167,16.7833,Italy,petilia policastro,is_city
+1251,Monteroni d'Arbia,43.2333,11.4167,Italy,monteroni d'arbia,is_city
+1252,San Sebastiano al Vesuvio,40.8333,14.3667,Italy,san sebastiano al vesuvio,is_city
+1253,Colorno,44.93,10.3758,Italy,colorno,is_city
+1254,Tirano,46.2164,10.1689,Italy,tirano,is_city
+1255,Parabita,40.05,18.1333,Italy,parabita,is_city
+1256,Sorisole,45.7375,9.6564,Italy,sorisole,is_city
+1257,Cesa,40.9667,14.2333,Italy,cesa,is_city
+1258,Pandino,45.4,9.55,Italy,pandino,is_city
+1259,Civitella in Val di Chiana,43.4053,11.7706,Italy,civitella in val di chiana,is_city
+1260,Monticello Conte Otto,45.6,11.5833,Italy,monticello conte otto,is_city
+1261,Montagnana,45.2333,11.4658,Italy,montagnana,is_city
+1262,Noventa Vicentina,45.2833,11.5333,Italy,noventa vicentina,is_city
+1263,Teolo,45.35,11.6667,Italy,teolo,is_city
+1264,Besozzo,45.85,8.6667,Italy,besozzo,is_city
+1265,Gatteo,44.1,12.3833,Italy,gatteo,is_city
+1266,Montalto di Castro,42.3514,11.6078,Italy,montalto di castro,is_city
+1267,Roccapiemonte,40.7617,14.6933,Italy,roccapiemonte,is_city
+1268,Mozzate,45.6833,8.95,Italy,mozzate,is_city
+1269,Lavis,46.139,11.1123,Italy,lavis,is_city
+1270,Guardiagrele,42.1892,14.2216,Italy,guardiagrele,is_city
+1271,Tarcento,46.2167,13.2167,Italy,tarcento,is_city
+1272,Luzzara,44.9667,10.6833,Italy,luzzara,is_city
+1273,Lacchiarella,45.325,9.14,Italy,lacchiarella,is_city
+1274,Cutrofiano,40.1333,18.2,Italy,cutrofiano,is_city
+1275,Legnaro,45.35,11.9667,Italy,legnaro,is_city
+1276,Zogno,45.7939,9.6656,Italy,zogno,is_city
+1277,Castel Gandolfo,41.7469,12.6519,Italy,castel gandolfo,is_city
+1278,Ponte Buggianese,43.8408,10.7475,Italy,ponte buggianese,is_city
+1279,Monteforte d'Alpone,45.4167,11.2833,Italy,monteforte d'alpone,is_city
+1280,Subiaco,41.9333,13.1,Italy,subiaco,is_city
+1281,Soresina,45.2865,9.857,Italy,soresina,is_city
+1282,Porcari,43.8415,10.6163,Italy,porcari,is_city
+1283,Bovalino Marina,38.15,16.1667,Italy,bovalino marina,is_city
+1284,Ala,45.75,11.0,Italy,ala,is_city
+1285,Flero,45.4835,10.1745,Italy,flero,is_city
+1286,Felino,44.6953,10.2416,Italy,felino,is_city
+1287,Minervino Murge,41.1,16.0833,Italy,minervino murge,is_city
+1288,La Loggia,44.9667,7.6667,Italy,la loggia,is_city
+1289,Albinea,44.6167,10.6,Italy,albinea,is_city
+1290,Ceprano,41.55,13.5167,Italy,ceprano,is_city
+1291,Brandizzo,45.1833,7.8333,Italy,brandizzo,is_city
+1292,Gessate,45.55,9.4333,Italy,gessate,is_city
+1293,Campogalliano,44.6904,10.8389,Italy,campogalliano,is_city
+1294,Farra di Soligo,45.8833,12.1167,Italy,farra di soligo,is_city
+1295,Vestigne,45.3833,7.95,Italy,vestigne,is_city
+1296,Orte,42.4603,12.3861,Italy,orte,is_city
+1297,Borgoricco,45.5336,11.9659,Italy,borgoricco,is_city
+1298,Triuggio,45.6667,9.2667,Italy,triuggio,is_city
+1299,Minerbio,44.6175,11.4717,Italy,minerbio,is_city
+1300,Torre Boldone,45.7167,9.7,Italy,torre boldone,is_city
+1301,San Giorgio di Piano,44.65,11.3833,Italy,san giorgio di piano,is_city
+1302,Zanica,45.6394,9.6842,Italy,zanica,is_city
+1303,Monte Porzio Catone,41.8167,12.7167,Italy,monte porzio catone,is_city
+1304,Rignano sull'Arno,43.7237,11.4507,Italy,rignano sull'arno,is_city
+1305,Vergiate,45.7167,8.7,Italy,vergiate,is_city
+1306,Trissino,45.5667,11.3667,Italy,trissino,is_city
+1307,Missaglia,45.7,9.3333,Italy,missaglia,is_city
+1308,Morlupo,42.1435,12.5047,Italy,morlupo,is_city
+1309,Lequile,40.3,18.1333,Italy,lequile,is_city
+1310,Castelbuono,37.9306,14.0883,Italy,castelbuono,is_city
+1311,Laveno-Mombello,45.9089,8.6204,Italy,laveno-mombello,is_city
+1312,Casorate Primo,45.3167,9.0167,Italy,casorate primo,is_city
+1313,Viagrande,37.6167,15.1,Italy,viagrande,is_city
+1314,Monte San Savino,43.3303,11.7308,Italy,monte san savino,is_city
+1315,Erchie,40.4333,17.7333,Italy,erchie,is_city
+1316,Palazzolo Acreide,37.0617,14.9028,Italy,palazzolo acreide,is_city
+1317,Coccaglio,45.5633,9.9783,Italy,coccaglio,is_city
+1318,Pianella,42.4,14.05,Italy,pianella,is_city
+1319,Vicopisano,43.6991,10.5831,Italy,vicopisano,is_city
+1320,Volvera,44.95,7.5,Italy,volvera,is_city
+1321,San Giuseppe Iato,37.9667,13.1833,Italy,san giuseppe iato,is_city
+1322,Roverbella,45.2667,10.7667,Italy,roverbella,is_city
+1323,Clusone,45.8833,9.95,Italy,clusone,is_city
+1324,Inveruno,45.5167,8.85,Italy,inveruno,is_city
+1325,Bruino,45.0167,7.4667,Italy,bruino,is_city
+1326,Casapulla,41.0667,14.2833,Italy,casapulla,is_city
+1327,Dorgali,40.2916,9.5876,Italy,dorgali,is_city
+1328,San Gavino Monreale,39.5499,8.7916,Italy,san gavino monreale,is_city
+1329,Ferrandina,40.5,16.45,Italy,ferrandina,is_city
+1330,Breganze,45.7,11.5667,Italy,breganze,is_city
+1331,Gavorrano,42.925,10.9083,Italy,gavorrano,is_city
+1332,Spello,42.9833,12.6667,Italy,spello,is_city
+1333,Castelnuovo di Porto,42.1278,12.5,Italy,castelnuovo di porto,is_city
+1334,Sortino,37.1667,15.0333,Italy,sortino,is_city
+1335,Chiusi,43.0167,11.95,Italy,chiusi,is_city
+1336,Santa Venerina,37.6833,15.1333,Italy,santa venerina,is_city
+1337,Brembate,45.6,9.55,Italy,brembate,is_city
+1338,Cagli,43.547,12.6473,Italy,cagli,is_city
+1339,Galbiate,45.8,9.3833,Italy,galbiate,is_city
+1340,Calvisano,45.3489,10.3458,Italy,calvisano,is_city
+1341,Ittiri,40.5908,8.5695,Italy,ittiri,is_city
+1342,Ronciglione,42.2894,12.2147,Italy,ronciglione,is_city
+1343,Boville Ernica,41.6425,13.474,Italy,boville ernica,is_city
+1344,Striano,40.8167,14.5667,Italy,striano,is_city
+1345,Santhia,45.3667,8.1667,Italy,santhia,is_city
+1346,Zoppola,45.9667,12.7667,Italy,zoppola,is_city
+1347,Fermignano,43.6766,12.645,Italy,fermignano,is_city
+1348,Pietra Ligure,44.1487,8.2828,Italy,pietra ligure,is_city
+1349,Villafranca Tirrena,38.2333,15.4333,Italy,villafranca tirrena,is_city
+1350,Cologna Veneta,45.3167,11.3833,Italy,cologna veneta,is_city
+1351,Sanluri,39.5611,8.9,Italy,sanluri,is_city
+1352,Castelnovo di Sotto,44.8167,10.5667,Italy,castelnovo di sotto,is_city
+1353,Sandrigo,45.6667,11.6,Italy,sandrigo,is_city
+1354,Nogara,45.1833,11.0667,Italy,nogara,is_city
+1355,Castegnato,45.5631,10.115,Italy,castegnato,is_city
+1356,Concordia sulla Secchia,44.9124,10.9826,Italy,concordia sulla secchia,is_city
+1357,Prata di Pordenone,45.8944,12.5886,Italy,prata di pordenone,is_city
+1358,Pogliano Milanese,45.5333,9.0,Italy,pogliano milanese,is_city
+1359,Casarsa della Delizia,45.95,12.85,Italy,casarsa della delizia,is_city
+1360,Caprino Veronese,45.6,10.8,Italy,caprino veronese,is_city
+1361,Tombolo,45.6469,11.8281,Italy,tombolo,is_city
+1362,Airola,41.0587,14.5592,Italy,airola,is_city
+1363,Calusco d'Adda,45.6833,9.4833,Italy,calusco d'adda,is_city
+1364,Bientina,43.7072,10.6206,Italy,bientina,is_city
+1365,Sala Bolognese,44.6303,11.2761,Italy,sala bolognese,is_city
+1366,Vado Ligure,44.2692,8.4361,Italy,vado ligure,is_city
+1367,Tuscania,42.4214,11.8719,Italy,tuscania,is_city
+1368,Pino Troinese,45.0435,7.7726,Italy,pino troinese,is_city
+1369,Trevi,42.8933,12.7617,Italy,trevi,is_city
+1370,Vallo della Lucania,40.2333,15.2667,Italy,vallo della lucania,is_city
+1371,Ponte di Piave,45.7167,12.4667,Italy,ponte di piave,is_city
+1372,Toritto,41.0,16.6833,Italy,toritto,is_city
+1373,San Damiano d'Asti,44.8344,8.0647,Italy,san damiano d'asti,is_city
+1374,Castelnuovo di Magra,44.0994,10.0178,Italy,castelnuovo di magra,is_city
+1375,Piovene Rocchette,45.7667,11.4333,Italy,piovene rocchette,is_city
+1376,Fiesso d'Artico,45.4167,12.0333,Italy,fiesso d'artico,is_city
+1377,Altavilla Milicia,38.0422,13.5503,Italy,altavilla milicia,is_city
+1378,San Sperate,39.3575,9.0083,Italy,san sperate,is_city
+1379,Serramazzoni,44.4167,10.8,Italy,serramazzoni,is_city
+1380,Cuggiono,45.5,8.8167,Italy,cuggiono,is_city
+1381,Soriano nel Cimino,42.4194,12.2342,Italy,soriano nel cimino,is_city
+1382,Massa Marittima,43.05,10.8936,Italy,massa marittima,is_city
+1383,Taglio di Po,45.0,12.2167,Italy,taglio di po,is_city
+1384,Fabrica di Roma,42.3347,12.3003,Italy,fabrica di roma,is_city
+1385,Salice Salentino,40.3833,17.9667,Italy,salice salentino,is_city
+1386,Ponte nell'Alpi,46.183,12.2791,Italy,ponte nell'alpi,is_city
+1387,Albano Sant'Alessandro,45.6858,9.7678,Italy,albano sant'alessandro,is_city
+1388,Sirmione,45.4694,10.6061,Italy,sirmione,is_city
+1389,Decimomannu,39.3112,8.9703,Italy,decimomannu,is_city
+1390,Agira,37.65,14.5167,Italy,agira,is_city
+1391,Monte Urano,43.206,13.6721,Italy,monte urano,is_city
+1392,Vicchio,43.9333,11.4667,Italy,vicchio,is_city
+1393,Petrosino,37.7127,12.4996,Italy,petrosino,is_city
+1394,Boiano,41.4833,14.4667,Italy,boiano,is_city
+1395,Verolanuova,45.3258,10.0758,Italy,verolanuova,is_city
+1396,Capriate San Gervasio,45.6089,9.5281,Italy,capriate san gervasio,is_city
+1397,San Cesario di Lecce,40.3,18.1667,Italy,san cesario di lecce,is_city
+1398,Fusignano,44.4667,11.95,Italy,fusignano,is_city
+1399,Paliano,41.8,13.05,Italy,paliano,is_city
+1400,Cariati,39.4963,16.955,Italy,cariati,is_city
+1401,Racalmuto,37.4083,13.7347,Italy,racalmuto,is_city
+1402,Rivolta d'Adda,45.4667,9.5167,Italy,rivolta d'adda,is_city
+1403,Caccamo,37.9333,13.6667,Italy,caccamo,is_city
+1404,Rossano Veneto,45.7067,11.8069,Italy,rossano veneto,is_city
+1405,Solarino,37.1,15.1167,Italy,solarino,is_city
+1406,Chiaramonte Gulfi,37.0333,14.7,Italy,chiaramonte gulfi,is_city
+1407,Vobarno,45.641,10.5045,Italy,vobarno,is_city
+1408,Fuscaldo,39.4167,16.0333,Italy,fuscaldo,is_city
+1409,Quarto d'Altino,45.5786,12.3727,Italy,quarto d'altino,is_city
+1410,Cervaro,41.4828,13.9022,Italy,cervaro,is_city
+1411,Leporano,40.3822,17.3343,Italy,leporano,is_city
+1412,Verdello,45.605,9.6297,Italy,verdello,is_city
+1413,Campomarino,41.9567,15.0344,Italy,campomarino,is_city
+1414,Fontaniva,45.6376,11.7522,Italy,fontaniva,is_city
+1415,Villa Guardia,45.7833,9.0167,Italy,villa guardia,is_city
+1416,Novoli,40.3833,18.05,Italy,novoli,is_city
+1417,Fara Gera d'Adda,45.55,9.5333,Italy,fara gera d'adda,is_city
+1418,None,44.9333,7.5333,Italy,none,is_city
+1419,Montorio al Vomano,42.5833,13.6333,Italy,montorio al vomano,is_city
+1420,Grottaminarda,41.0708,15.0597,Italy,grottaminarda,is_city
+1421,Caerano di San Marco,45.7853,12.0042,Italy,caerano di san marco,is_city
+1422,Levico Terme,46.0167,11.3,Italy,levico terme,is_city
+1423,Gattinara,45.6167,8.3667,Italy,gattinara,is_city
+1424,San Daniele del Friuli,46.15,13.0167,Italy,san daniele del friuli,is_city
+1425,Monte San Giusto,43.2379,13.5946,Italy,monte san giusto,is_city
+1426,Pisogne,45.8108,10.1081,Italy,pisogne,is_city
+1427,Motta Visconti,45.2833,9.0,Italy,motta visconti,is_city
+1428,Maracalagonis,39.2862,9.2289,Italy,maracalagonis,is_city
+1429,Casteltermini,37.5417,13.6453,Italy,casteltermini,is_city
+1430,Tavullia,43.898,12.7532,Italy,tavullia,is_city
+1431,Borgonovo Val Tidone,45.0167,9.45,Italy,borgonovo val tidone,is_city
+1432,San Giovanni Gemini,37.6292,13.6417,Italy,san giovanni gemini,is_city
+1433,Meta,40.6417,14.4167,Italy,meta,is_city
+1434,Cellole,41.2,13.85,Italy,cellole,is_city
+1435,Cartoceto,43.7643,12.8832,Italy,cartoceto,is_city
+1436,Bosa,40.299,8.4978,Italy,bosa,is_city
+1437,Limena,45.4667,11.85,Italy,limena,is_city
+1438,Mariglianella,40.9167,14.4333,Italy,mariglianella,is_city
+1439,Portico di Caserta,41.05,14.2833,Italy,portico di caserta,is_city
+1440,Marnate,45.6333,8.9,Italy,marnate,is_city
+1441,Campoformido,46.0167,13.1667,Italy,campoformido,is_city
+1442,Gravellona Toce,45.9333,8.4333,Italy,gravellona toce,is_city
+1443,Cumiana,44.9833,7.3667,Italy,cumiana,is_city
+1444,Colico,46.1333,9.3667,Italy,colico,is_city
+1445,Arcugnano,45.5004,11.5353,Italy,arcugnano,is_city
+1446,Bolano,44.1891,9.8954,Italy,bolano,is_city
+1447,Toscolano,45.6398,10.6076,Italy,toscolano,is_city
+1448,Breda di Piave,45.7245,12.331,Italy,breda di piave,is_city
+1449,Palagianello,40.6167,16.9667,Italy,palagianello,is_city
+1450,Origgio,45.5969,9.0183,Italy,origgio,is_city
+1451,Serra Ricco,44.5078,8.936,Italy,serra ricco,is_city
+1452,Crescentino,45.1833,8.1,Italy,crescentino,is_city
+1453,Avella,40.96,14.6014,Italy,avella,is_city
+1454,Sacrofano,42.1,12.45,Italy,sacrofano,is_city
+1455,Rovellasca,45.6667,9.05,Italy,rovellasca,is_city
+1456,Teggiano,40.3833,15.5333,Italy,teggiano,is_city
+1457,Marmirolo,45.2193,10.7561,Italy,marmirolo,is_city
+1458,Rizziconi,38.4122,15.9589,Italy,rizziconi,is_city
+1459,Torrile,44.9209,10.3264,Italy,torrile,is_city
+1460,San Gimignano,43.4677,11.0432,Italy,san gimignano,is_city
+1461,Pantelleria,36.7875,11.9925,Italy,pantelleria,is_city
+1462,Tavernelle in Val di Pesa,43.5614,11.1729,Italy,tavernelle in val di pesa,is_city
+1463,Pelago,43.7739,11.5047,Italy,pelago,is_city
+1464,Appiano Gentile,45.7383,8.9797,Italy,appiano gentile,is_city
+1465,Vigliano Biellese,45.5617,8.1117,Italy,vigliano biellese,is_city
+1466,Manziana,42.1333,12.1333,Italy,manziana,is_city
+1467,Pasiano,45.8686,12.6444,Italy,pasiano,is_city
+1468,Carpaneto Piacentino,44.9167,9.7833,Italy,carpaneto piacentino,is_city
+1469,Fivizzano,44.2333,10.1167,Italy,fivizzano,is_city
+1470,Vietri sul Mare,40.6722,14.7278,Italy,vietri sul mare,is_city
+1471,Cairate,45.6833,8.8667,Italy,cairate,is_city
+1472,Recale,41.05,14.3,Italy,recale,is_city
+1473,Loreggia,45.6,11.95,Italy,loreggia,is_city
+1474,Barge,44.7333,7.3167,Italy,barge,is_city
+1475,Agerola,40.6333,14.55,Italy,agerola,is_city
+1476,Santa Maria di Licodia,37.6167,14.9,Italy,santa maria di licodia,is_city
+1477,Tricesimo,46.15,13.2167,Italy,tricesimo,is_city
+1478,Citta della Pieve,42.9539,12.0078,Italy,citta della pieve,is_city
+1479,Vico del Gargano,41.85,15.9564,Italy,vico del gargano,is_city
+1480,Castiglione Olona,45.7531,8.8744,Italy,castiglione olona,is_city
+1481,Vergato,44.2833,11.1167,Italy,vergato,is_city
+1482,Costabissara,45.5833,11.4833,Italy,costabissara,is_city
+1483,Mozzecane,45.3,10.8167,Italy,mozzecane,is_city
+1484,Soncino,45.4,9.8667,Italy,soncino,is_city
+1485,Stra,45.4167,12.25,Italy,stra,is_city
+1486,Vigarano Mainarda,44.85,11.5,Italy,vigarano mainarda,is_city
+1487,Naro,37.2925,13.7934,Italy,naro,is_city
+1488,Brisighella,44.2167,11.7667,Italy,brisighella,is_city
+1489,Castellalto,42.6771,13.8178,Italy,castellalto,is_city
+1490,Carmignano di Brenta,45.6333,11.7,Italy,carmignano di brenta,is_city
+1491,Curno,45.6911,9.6125,Italy,curno,is_city
+1492,Mirabella Eclano,41.0458,14.9997,Italy,mirabella eclano,is_city
+1493,Lodi Vecchio,45.3033,9.4186,Italy,lodi vecchio,is_city
+1494,Sonnino,41.4145,13.2414,Italy,sonnino,is_city
+1495,Candelo,45.5478,8.1069,Italy,candelo,is_city
+1497,Pratola Peligna,42.0992,13.8747,Italy,pratola peligna,is_city
+1498,Nicolosi,37.6167,15.0167,Italy,nicolosi,is_city
+1499,Campofelice di Roccella,37.9833,13.8833,Italy,campofelice di roccella,is_city
+1500,Caluso,45.3,7.8833,Italy,caluso,is_city
+1501,Lamporecchio,43.8167,10.9,Italy,lamporecchio,is_city
+1502,Roccasecca,41.55,13.6667,Italy,roccasecca,is_city
+1503,Cotignola,44.3833,11.9333,Italy,cotignola,is_city
+1504,San Giorgio di Nogaro,45.8333,13.2,Italy,san giorgio di nogaro,is_city
+1505,Vitulazio,41.1667,14.2167,Italy,vitulazio,is_city
+1506,San Zenone,45.7833,11.8333,Italy,san zenone,is_city
+1507,Bovezzo,45.5833,10.25,Italy,bovezzo,is_city
+1508,Grumello del Monte,45.6333,9.8667,Italy,grumello del monte,is_city
+1509,Vedano Olona,45.7769,8.8869,Italy,vedano olona,is_city
+1510,Torregrotta,38.2,15.35,Italy,torregrotta,is_city
+1511,San Colombano al Lambro,45.1833,9.4833,Italy,san colombano al lambro,is_city
+1512,San Marco Argentano,39.55,16.1167,Italy,san marco argentano,is_city
+1513,Sparanise,41.1833,14.1,Italy,sparanise,is_city
+1514,Borgetto,38.05,13.15,Italy,borgetto,is_city
+1515,Zelo Buon Persico,45.4133,9.4336,Italy,zelo buon persico,is_city
+1516,Loreto Aprutino,42.4347,13.9836,Italy,loreto aprutino,is_city
+1517,Tito,40.5833,15.6833,Italy,tito,is_city
+1518,Pederobba,45.8739,11.9475,Italy,pederobba,is_city
+1519,Cavenago di Brianza,45.5847,9.4158,Italy,cavenago di brianza,is_city
+1520,Cormons,45.95,13.4667,Italy,cormons,is_city
+1521,Sant'Agata Bolognese,44.6667,11.1333,Italy,sant'agata bolognese,is_city
+1522,Volta Mantovana,45.3194,10.6594,Italy,volta mantovana,is_city
+1523,Forte dei Marmi,43.95,10.1833,Italy,forte dei marmi,is_city
+1524,Castel Madama,41.9747,12.8672,Italy,castel madama,is_city
+1525,Carnate,45.6506,9.3785,Italy,carnate,is_city
+1526,Marcellina,42.0236,12.8069,Italy,marcellina,is_city
+1527,Vezzano Ligure,44.1412,9.8849,Italy,vezzano ligure,is_city
+1528,Curtarolo,45.5167,11.8333,Italy,curtarolo,is_city
+1529,Chiavenna,46.3167,9.4,Italy,chiavenna,is_city
+1530,Manciano,42.5875,11.515,Italy,manciano,is_city
+1531,Staranzano,45.8,13.5,Italy,staranzano,is_city
+1532,Luserna San Giovanni,44.8167,7.25,Italy,luserna san giovanni,is_city
+1533,Venegono Superiore,45.75,8.9,Italy,venegono superiore,is_city
+1534,Castiglione della Pescaia,42.7656,10.8808,Italy,castiglione della pescaia,is_city
+1535,Poviglio,44.8333,10.55,Italy,poviglio,is_city
+1536,Torrita di Siena,43.1667,11.7667,Italy,torrita di siena,is_city
+1537,Santa Giustina in Colle,45.5667,11.9,Italy,santa giustina in colle,is_city
+1538,Rufina,43.8167,11.4833,Italy,rufina,is_city
+1539,Militello in Val di Catania,37.2742,14.7933,Italy,militello in val di catania,is_city
+1540,Binasco,45.3333,9.1,Italy,binasco,is_city
+1541,Isola delle Femmine,38.2,13.25,Italy,isola delle femmine,is_city
+1542,Carinola,41.1833,13.9833,Italy,carinola,is_city
+1543,Turbigo,45.5333,8.7333,Italy,turbigo,is_city
+1544,Povegliano Veronese,45.3473,10.8806,Italy,povegliano veronese,is_city
+1545,Campagna Lupia,45.35,12.1,Italy,campagna lupia,is_city
+1546,Camerano,43.5277,13.5526,Italy,camerano,is_city
+1547,Montalbano Ionico,40.2833,16.5667,Italy,montalbano ionico,is_city
+1548,Montecosaro,43.3169,13.6354,Italy,montecosaro,is_city
+1549,Roggiano Gravina,39.6167,16.15,Italy,roggiano gravina,is_city
+1550,Corte Franca,45.6333,9.9833,Italy,corte franca,is_city
+1551,Cagnano Varano,41.8333,15.7667,Italy,cagnano varano,is_city
+1552,Pontremoli,44.3761,9.8799,Italy,pontremoli,is_city
+1553,Castello di Godego,45.7,11.8833,Italy,castello di godego,is_city
+1554,Longiano,44.0833,12.3333,Italy,longiano,is_city
+1555,Sennori,40.7899,8.5952,Italy,sennori,is_city
+1556,Regalbuto,37.65,14.6333,Italy,regalbuto,is_city
+1557,Sant'Angelo di Piove di Sacco,45.3456,12.0072,Italy,sant'angelo di piove di sacco,is_city
+1558,Adro,45.6179,9.9625,Italy,adro,is_city
+1559,Cimitile,40.9333,14.5333,Italy,cimitile,is_city
+1560,Capri,40.5556,14.2403,Italy,capri,is_city
+1561,Mezzolombardo,46.2097,11.0978,Italy,mezzolombardo,is_city
+1562,Arpino,41.6471,13.6115,Italy,arpino,is_city
+1563,Bardolino,45.5517,10.7214,Italy,bardolino,is_city
+1564,Varallo,45.8138,8.2581,Italy,varallo,is_city
+1565,Quiliano,44.2931,8.4103,Italy,quiliano,is_city
+1566,Galliera Veneta,45.6667,11.8333,Italy,galliera veneta,is_city
+1567,Spinetoli,42.8887,13.7731,Italy,spinetoli,is_city
+1568,Melissano,39.9667,18.1333,Italy,melissano,is_city
+1569,Novafeltria,43.8954,12.2904,Italy,novafeltria,is_city
+1570,Pontevico,45.2722,10.0917,Italy,pontevico,is_city
+1571,Brugine,45.3,11.9925,Italy,brugine,is_city
+1572,Roccadaspide,40.4333,15.2,Italy,roccadaspide,is_city
+1573,Campli,42.7261,13.6861,Italy,campli,is_city
+1574,Caulonia,38.3833,16.4167,Italy,caulonia,is_city
+1575,Soave,45.4196,11.2459,Italy,soave,is_city
+1576,Camerota,40.033,15.3699,Italy,camerota,is_city
+1577,Sassoferrato,43.4275,12.8565,Italy,sassoferrato,is_city
+1578,Trino,45.1953,8.2961,Italy,trino,is_city
+1579,Altavilla Silentina,40.5333,15.1333,Italy,altavilla silentina,is_city
+1580,Montecassiano,43.3637,13.4359,Italy,montecassiano,is_city
+1581,Urbania,43.6678,12.5221,Italy,urbania,is_city
+1582,Asciano,43.2342,11.5608,Italy,asciano,is_city
+1583,Pieve di Cento,44.7131,11.3083,Italy,pieve di cento,is_city
+1584,Rivergaro,44.9,9.6,Italy,rivergaro,is_city
+1585,Buttapietra,45.35,10.9333,Italy,buttapietra,is_city
+1586,Vernole,40.2833,18.3,Italy,vernole,is_city
+1587,Gioiosa Ionica,38.3333,16.3,Italy,gioiosa ionica,is_city
+1588,Dronero,44.4667,7.3667,Italy,dronero,is_city
+1589,Passirano,45.6,10.0667,Italy,passirano,is_city
+1590,Chianciano Terme,43.0667,11.8333,Italy,chianciano terme,is_city
+1591,Orosei,40.3797,9.6942,Italy,orosei,is_city
+1592,Pegognaga,45.0,10.85,Italy,pegognaga,is_city
+1593,Fosso,45.3833,12.05,Italy,fosso,is_city
+1594,Grazzanise,41.0833,14.1,Italy,grazzanise,is_city
+1595,San Benedetto Po,45.0333,10.9167,Italy,san benedetto po,is_city
+1596,Fontanellato,44.8825,10.1558,Italy,fontanellato,is_city
+1597,Canicattini Bagni,37.0333,15.0667,Italy,canicattini bagni,is_city
+1598,Cavezzo,44.837,11.0307,Italy,cavezzo,is_city
+1599,Baricella,44.6475,11.5353,Italy,baricella,is_city
+1600,Carosino,40.4667,17.4,Italy,carosino,is_city
+1601,Solesino,45.1667,11.75,Italy,solesino,is_city
+1602,Olginate,45.8,9.4167,Italy,olginate,is_city
+1603,Cordignano,45.95,12.4167,Italy,cordignano,is_city
+1604,Morciano di Romagna,43.9167,12.65,Italy,morciano di romagna,is_city
+1605,Oliena,40.271,9.4028,Italy,oliena,is_city
+1606,Barlassina,45.65,9.1333,Italy,barlassina,is_city
+1607,Calimera,40.25,18.2833,Italy,calimera,is_city
+1608,Cles,46.3667,11.0333,Italy,cles,is_city
+1609,San Filippo della Mela,38.1667,15.2667,Italy,san filippo della mela,is_city
+1610,Centallo,44.5,7.5833,Italy,centallo,is_city
+1611,Bellante,42.75,13.8,Italy,bellante,is_city
+1612,Senise,40.1333,16.2833,Italy,senise,is_city
+1613,Borgo a Mozzano,43.9797,10.5467,Italy,borgo a mozzano,is_city
+1614,Roncoferraro,45.1342,10.9524,Italy,roncoferraro,is_city
+1615,Spezzano Albanese,39.6667,16.3167,Italy,spezzano albanese,is_city
+1616,Cassolnovo,45.3667,8.8,Italy,cassolnovo,is_city
+1617,Scorrano,40.0902,18.2999,Italy,scorrano,is_city
+1618,Vallecrosia,43.7931,7.6439,Italy,vallecrosia,is_city
+1619,Vazzola,45.8333,12.3833,Italy,vazzola,is_city
+1620,Santi Cosma e Damiano,41.3,13.8167,Italy,santi cosma e damiano,is_city
+1621,Serino,40.85,14.875,Italy,serino,is_city
+1622,Saltara,43.7534,12.8976,Italy,saltara,is_city
+1623,Noventa di Piave,45.6667,12.5333,Italy,noventa di piave,is_city
+1624,Anacapri,40.5514,14.2167,Italy,anacapri,is_city
+1625,San Fior di Sopra,45.9222,12.3614,Italy,san fior di sopra,is_city
+1626,Lazise,45.5053,10.7325,Italy,lazise,is_city
+1627,Vipiteno,46.8931,11.4296,Italy,vipiteno,is_city
+1628,Camerino,43.1333,13.0667,Italy,camerino,is_city
+1629,Cambiago,45.5667,9.4167,Italy,cambiago,is_city
+1630,Borgo,46.0512,11.4576,Italy,borgo,is_city
+1631,Lignano Sabbiadoro,45.655,13.0931,Italy,lignano sabbiadoro,is_city
+1632,Gioiosa Marea,38.1667,14.9,Italy,gioiosa marea,is_city
+1633,Roccarainola,40.9667,14.5667,Italy,roccarainola,is_city
+1634,Busseto,44.9794,10.0433,Italy,busseto,is_city
+1635,Villasor,39.3809,8.9413,Italy,villasor,is_city
+1636,Pozzuolo del Friuli,45.9681,13.1969,Italy,pozzuolo del friuli,is_city
+1637,Manoppello,42.2578,14.0597,Italy,manoppello,is_city
+1638,Montelabbate,43.8489,12.7909,Italy,montelabbate,is_city
+1639,Pignola,40.5667,15.7833,Italy,pignola,is_city
+1640,Borgo Val di Taro,44.4833,9.7667,Italy,borgo val di taro,is_city
+1641,Nole,45.25,7.5833,Italy,nole,is_city
+1642,Sommatino,37.3369,13.9975,Italy,sommatino,is_city
+1643,Spino d'Adda,45.4,9.5,Italy,spino d'adda,is_city
+1644,Zibido San Giacomo,45.3667,9.1167,Italy,zibido san giacomo,is_city
+1645,Marzabotto,44.3333,11.2,Italy,marzabotto,is_city
+1646,Ferno,45.6203,8.7636,Italy,ferno,is_city
+1647,Campomorone,44.5069,8.8918,Italy,campomorone,is_city
+1648,Sant'Agostino,44.792,11.3869,Italy,sant'agostino,is_city
+1649,Mapello,45.7089,9.5478,Italy,mapello,is_city
+1650,Mercato Saraceno,43.95,12.2,Italy,mercato saraceno,is_city
+1651,San Vincenzo,43.1007,10.5388,Italy,san vincenzo,is_city
+1652,Pietraperzia,37.4,14.1333,Italy,pietraperzia,is_city
+1653,Cerano,45.4,8.7833,Italy,cerano,is_city
+1654,Martignacco,46.1,13.1333,Italy,martignacco,is_city
+1655,Nova Siri,40.15,16.5333,Italy,nova siri,is_city
+1656,Monte San Vito,43.6005,13.2711,Italy,monte san vito,is_city
+1657,Caraglio,44.4167,7.4333,Italy,caraglio,is_city
+1658,Santa Giustina,46.0839,12.0432,Italy,santa giustina,is_city
+1659,Mesola,44.9206,12.23,Italy,mesola,is_city
+1660,Villa di Serio,45.7217,9.735,Italy,villa di serio,is_city
+1661,Cava Manara,45.1333,9.1,Italy,cava manara,is_city
+1662,Lercara Friddi,37.75,13.6,Italy,lercara friddi,is_city
+1663,Settimo San Pietro,39.291,9.1853,Italy,settimo san pietro,is_city
+1664,Tagliacozzo,42.0694,13.2547,Italy,tagliacozzo,is_city
+1665,Olevano sul Tusciano,40.65,15.0167,Italy,olevano sul tusciano,is_city
+1666,Mileto,38.6078,16.0675,Italy,mileto,is_city
+1667,Ostiglia,45.0704,11.1364,Italy,ostiglia,is_city
+1668,Robecco sul Naviglio,45.4333,8.8833,Italy,robecco sul naviglio,is_city
+1669,Montegiorgio,43.1307,13.5371,Italy,montegiorgio,is_city
+1670,Carnago,45.7167,8.8333,Italy,carnago,is_city
+1671,Curinga,38.8267,16.3139,Italy,curinga,is_city
+1672,Cittaducale,42.3833,12.95,Italy,cittaducale,is_city
+1673,Cernobbio,45.8381,9.0758,Italy,cernobbio,is_city
+1674,Praia a Mare,39.9167,15.7667,Italy,praia a mare,is_city
+1675,Sapri,40.0667,15.6333,Italy,sapri,is_city
+1676,Casteggio,45.0167,9.1333,Italy,casteggio,is_city
+1677,Castel di Sangro,41.7842,14.1085,Italy,castel di sangro,is_city
+1678,Alliste,39.95,18.0833,Italy,alliste,is_city
+1679,Notaresco,42.65,13.9,Italy,notaresco,is_city
+1680,Carapelle,41.3667,15.7,Italy,carapelle,is_city
+1681,Sarnico,45.6667,9.95,Italy,sarnico,is_city
+1682,Salgareda,45.7061,12.4913,Italy,salgareda,is_city
+1683,Larino,41.8,14.9167,Italy,larino,is_city
+1684,Nervesa della Battaglia,45.8333,12.2167,Italy,nervesa della battaglia,is_city
+1685,Villa d'Alme,45.75,9.6167,Italy,villa d'alme,is_city
+1686,Olevano Romano,41.8606,13.0319,Italy,olevano romano,is_city
+1687,Torgiano,43.0256,12.4342,Italy,torgiano,is_city
+1688,Zane,45.7167,11.4667,Italy,zane,is_city
+1689,Arconate,45.5333,8.85,Italy,arconate,is_city
+1690,Sutri,42.2478,12.2158,Italy,sutri,is_city
+1691,Brendola,45.4667,11.45,Italy,brendola,is_city
+1692,Poggio Rusco,44.9775,11.1192,Italy,poggio rusco,is_city
+1693,Villadossola,46.0736,8.2669,Italy,villadossola,is_city
+1694,Montenero di Bisaccia,41.95,14.7833,Italy,montenero di bisaccia,is_city
+1695,Fabbrico,44.8667,10.8,Italy,fabbrico,is_city
+1696,Serra San Bruno,38.5833,16.3333,Italy,serra san bruno,is_city
+1697,Avetrana,40.3539,17.7358,Italy,avetrana,is_city
+1698,Marina di Gioiosa Ionica,38.3,16.3333,Italy,marina di gioiosa ionica,is_city
+1699,Marcaria,45.1167,10.5333,Italy,marcaria,is_city
+1700,Dozza,44.359,11.6277,Italy,dozza,is_city
+1701,Castello d'Argile,44.6811,11.2967,Italy,castello d'argile,is_city
+1702,San Marco Evangelista,41.0333,14.3333,Italy,san marco evangelista,is_city
+1703,Mede,45.1,8.7333,Italy,mede,is_city
+1704,San Cipriano Picentino,40.7167,14.8667,Italy,san cipriano picentino,is_city
+1705,San Donaci,40.45,17.9167,Italy,san donaci,is_city
+1706,Gorle,45.7039,9.7192,Italy,gorle,is_city
+1707,Livigno,46.5333,10.1333,Italy,livigno,is_city
+1708,Pollenza,43.2678,13.3481,Italy,pollenza,is_city
+1709,Montesano sulla Marcellana,40.2833,15.7,Italy,montesano sulla marcellana,is_city
+1710,Montebello Vicentino,45.45,11.3833,Italy,montebello vicentino,is_city
+1711,Marineo,37.95,13.4167,Italy,marineo,is_city
+1712,Calatafimi,37.9,12.85,Italy,calatafimi,is_city
+1713,Cellino San Marco,40.4667,17.9667,Italy,cellino san marco,is_city
+1714,Gonnosfanadiga,39.4933,8.6629,Italy,gonnosfanadiga,is_city
+1715,Ceriano Laghetto,45.6333,9.0833,Italy,ceriano laghetto,is_city
+1716,Strongoli,39.2667,17.0667,Italy,strongoli,is_city
+1717,Vairano Patenora,41.3333,14.1333,Italy,vairano patenora,is_city
+1718,Spinazzola,40.9667,16.0833,Italy,spinazzola,is_city
+1719,Pontenure,45.0,9.7833,Italy,pontenure,is_city
+1720,Buia,46.2122,13.1169,Italy,buia,is_city
+1721,Bolzano Vicentino,45.6,11.6167,Italy,bolzano vicentino,is_city
+1722,Verzuolo,44.6,7.4833,Italy,verzuolo,is_city
+1723,Cinquefrondi,38.4167,16.1,Italy,cinquefrondi,is_city
+1724,Gualtieri,44.9,10.6333,Italy,gualtieri,is_city
+1725,Labico,41.7833,12.8833,Italy,labico,is_city
+1726,Piedimonte San Germano,41.5,13.7333,Italy,piedimonte san germano,is_city
+1727,Pizzighettone,45.1833,9.7833,Italy,pizzighettone,is_city
+1728,Codevigo,45.2672,12.1014,Italy,codevigo,is_city
+1729,Canova,45.7333,9.4,Italy,canova,is_city
+1730,San Cesario sul Panaro,44.5667,11.0333,Italy,san cesario sul panaro,is_city
+1731,Rosolina,45.0667,12.2333,Italy,rosolina,is_city
+1732,Sammichele di Bari,40.8833,16.95,Italy,sammichele di bari,is_city
+1733,Gradisca d'Isonzo,45.8833,13.5,Italy,gradisca d'isonzo,is_city
+1734,Roccella Ionica,38.3167,16.4,Italy,roccella ionica,is_city
+1735,Sant'Arcangelo,40.2485,16.2705,Italy,sant'arcangelo,is_city
+1736,Balestrate,38.0513,13.0072,Italy,balestrate,is_city
+1737,Asiago,45.8667,11.5167,Italy,asiago,is_city
+1738,Capranica,42.2585,12.1728,Italy,capranica,is_city
+1739,Almese,45.1167,7.4,Italy,almese,is_city
+1740,Vidigulfo,45.3,9.2333,Italy,vidigulfo,is_city
+1741,Dairago,45.57,8.8664,Italy,dairago,is_city
+1742,Calci,43.7244,10.5192,Italy,calci,is_city
+1743,Arquata Scrivia,44.6925,8.8817,Italy,arquata scrivia,is_city
+1744,Albanella,40.4833,15.1167,Italy,albanella,is_city
+1745,Poggio Mirteto,42.2672,12.6886,Italy,poggio mirteto,is_city
+1746,Cisano Bergamasco,45.7431,9.4708,Italy,cisano bergamasco,is_city
+1747,Landriano,45.3167,9.2667,Italy,landriano,is_city
+1748,Monzuno,44.2833,11.2667,Italy,monzuno,is_city
+1749,Subbiano,43.58,11.8722,Italy,subbiano,is_city
+1750,Alessano,39.8833,18.3333,Italy,alessano,is_city
+1751,San Marcello Pistoiese,44.0556,10.7908,Italy,san marcello pistoiese,is_city
+1752,Sesto al Reghena,45.85,12.8167,Italy,sesto al reghena,is_city
+1753,Capannoli,43.59,10.6697,Italy,capannoli,is_city
+1754,Fossacesia,42.25,14.4833,Italy,fossacesia,is_city
+1755,Mesoraca,39.0833,16.7833,Italy,mesoraca,is_city
+1756,Albiate,45.6667,9.25,Italy,albiate,is_city
+1757,Buttigliera Alta,45.0667,7.4167,Italy,buttigliera alta,is_city
+1758,Lesina,41.8667,15.35,Italy,lesina,is_city
+1759,San Giorgio in Bosco,45.5833,11.8,Italy,san giorgio in bosco,is_city
+1760,Meolo,45.6203,12.4559,Italy,meolo,is_city
+1761,Gallicano nel Lazio,41.8667,12.8167,Italy,gallicano nel lazio,is_city
+1762,Susa,45.1333,7.05,Italy,susa,is_city
+1763,Caneva,45.9667,12.45,Italy,caneva,is_city
+1764,Santa Margherita di Belice,37.6928,13.0211,Italy,santa margherita di belice,is_city
+1765,Robbiate,45.6833,9.4333,Italy,robbiate,is_city
+1766,Abbadia San Salvatore,42.8831,11.6706,Italy,abbadia san salvatore,is_city
+1767,Sommariva del Bosco,44.7667,7.7833,Italy,sommariva del bosco,is_city
+1768,Monte San Biagio,41.35,13.35,Italy,monte san biagio,is_city
+1769,Tropea,38.6781,15.8969,Italy,tropea,is_city
+1770,Recoaro Terme,45.7,11.2333,Italy,recoaro terme,is_city
+1771,Fagagna,46.1167,13.0833,Italy,fagagna,is_city
+1772,San Martino Siccomario,45.15,9.1333,Italy,san martino siccomario,is_city
+1773,Porto Cesareo,40.2667,17.9,Italy,porto cesareo,is_city
+1774,Quinzano d'Oglio,45.3167,9.9833,Italy,quinzano d'oglio,is_city
+1775,Cornuda,45.8322,12.0081,Italy,cornuda,is_city
+1776,Mattinata,41.7167,16.05,Italy,mattinata,is_city
+1777,Tortorici,38.0308,14.8242,Italy,tortorici,is_city
+1778,San Michele Salentino,40.6333,17.6333,Italy,san michele salentino,is_city
+1779,Medolla,44.8488,11.0714,Italy,medolla,is_city
+1780,Marcallo con Casone,45.4982,8.8764,Italy,marcallo con casone,is_city
+1781,Almenno San Bartolomeo,45.7489,9.5797,Italy,almenno san bartolomeo,is_city
+1782,Arcole,45.35,11.2833,Italy,arcole,is_city
+1783,San Canzian d'lsonzo,45.8,13.4667,Italy,san canzian d'lsonzo,is_city
+1784,Belgioioso,45.1667,9.3167,Italy,belgioioso,is_city
+1785,Trasacco,41.9578,13.5353,Italy,trasacco,is_city
+1786,Cammarata,37.6311,13.6322,Italy,cammarata,is_city
+1787,Fossalta di Portogruaro,45.7833,12.9167,Italy,fossalta di portogruaro,is_city
+1788,Castelgomberto,45.5833,11.4,Italy,castelgomberto,is_city
+1789,Maiolati Spontini,43.4772,13.1192,Italy,maiolati spontini,is_city
+1790,Silandro,46.6283,10.7681,Italy,silandro,is_city
+1791,Montebello Ionico,37.9833,15.7667,Italy,montebello ionico,is_city
+1792,Sernaglia della Battaglia,45.8833,12.1333,Italy,sernaglia della battaglia,is_city
+1793,Carloforte,39.145,8.3054,Italy,carloforte,is_city
+1794,Villa Cortese,45.5667,8.8833,Italy,villa cortese,is_city
+1795,Ghisalba,45.6,9.75,Italy,ghisalba,is_city
+1796,Strambino,45.3833,7.8833,Italy,strambino,is_city
+1797,Ascoli Satriano,41.2156,15.5578,Italy,ascoli satriano,is_city
+1798,Tortora,39.9413,15.8052,Italy,tortora,is_city
+1799,Piana degli Albanesi,38.0,13.2833,Italy,piana degli albanesi,is_city
+1800,San Polo d'Enza in Caviano,44.6333,10.4333,Italy,san polo d'enza in caviano,is_city
+1801,Nicotera,38.55,15.9333,Italy,nicotera,is_city
+1802,Lioni,40.8775,15.1886,Italy,lioni,is_city
+1803,Poppi,43.7358,11.7617,Italy,poppi,is_city
+1804,Sumirago,45.7393,8.7808,Italy,sumirago,is_city
+1805,Domusnovas,39.3211,8.6531,Italy,domusnovas,is_city
+1806,Montelepre,38.1,13.1667,Italy,montelepre,is_city
+1807,Villaverla,45.65,11.5,Italy,villaverla,is_city
+1808,San Giovanni al Natisone,45.9833,13.4,Italy,san giovanni al natisone,is_city
+1809,Rio Saliceto,44.8167,10.8,Italy,rio saliceto,is_city
+1810,Ravarino,44.7167,11.1,Italy,ravarino,is_city
+1811,Venegono Inferiore,45.7333,8.9,Italy,venegono inferiore,is_city
+1812,Ceggia,45.6833,12.6333,Italy,ceggia,is_city
+1813,Rovello Porro,45.65,9.0333,Italy,rovello porro,is_city
+1814,Torreglia,45.3333,11.7333,Italy,torreglia,is_city
+1815,Monterenzio,44.3333,11.4,Italy,monterenzio,is_city
+1816,Bellona,41.1667,14.2333,Italy,bellona,is_city
+1817,Crocetta del Montello,45.8333,12.0333,Italy,crocetta del montello,is_city
+1818,Remanzacco,46.0833,13.3167,Italy,remanzacco,is_city
+1819,Casalbordino,42.15,14.5833,Italy,casalbordino,is_city
+1820,Sermide,45.0035,11.2929,Italy,sermide,is_city
+1821,Motta San Giovanni,38.0,15.7,Italy,motta san giovanni,is_city
+1822,Cadeo,44.9667,9.8333,Italy,cadeo,is_city
+1823,Siziano,45.3167,9.2,Italy,siziano,is_city
+1824,Vizzini,37.1667,14.75,Italy,vizzini,is_city
+1825,Gaiarine,45.8833,12.4833,Italy,gaiarine,is_city
+1826,Luco dei Marsi,41.9613,13.4685,Italy,luco dei marsi,is_city
+1827,San Lucido,39.3167,16.05,Italy,san lucido,is_city
+1828,Collecorvino,42.4667,14.0167,Italy,collecorvino,is_city
+1829,Pantigliate,45.4353,9.3522,Italy,pantigliate,is_city
+1830,Sant'Elia Fiumerapido,41.55,13.8667,Italy,sant'elia fiumerapido,is_city
+1831,Vernio,44.05,11.15,Italy,vernio,is_city
+1832,San Benigno Canavese,45.25,7.7833,Italy,san benigno canavese,is_city
+1833,Godega di Sant'Urbano,45.9286,12.3969,Italy,godega di sant'urbano,is_city
+1834,Offanengo,45.3833,9.7333,Italy,offanengo,is_city
+1835,Ostellato,44.75,11.9333,Italy,ostellato,is_city
+1836,San Giovanni Suergiu,39.1109,8.5225,Italy,san giovanni suergiu,is_city
+1837,Guidizzolo,45.3167,10.5833,Italy,guidizzolo,is_city
+1838,Brignano Gera d'Adda,45.5333,9.6333,Italy,brignano gera d'adda,is_city
+1839,Cambiano,44.9711,7.7744,Italy,cambiano,is_city
+1840,Fornovo di Taro,44.6833,10.1,Italy,fornovo di taro,is_city
+1841,Pimonte,40.6736,14.5125,Italy,pimonte,is_city
+1842,Ronco all'Adige,45.3365,11.2466,Italy,ronco all'adige,is_city
+1843,Bagni di Lucca,44.0094,10.5794,Italy,bagni di lucca,is_city
+1844,Serravalle Scrivia,44.7225,8.8603,Italy,serravalle scrivia,is_city
+1845,Poggiardo,40.05,18.3833,Italy,poggiardo,is_city
+1846,Castelsardo,40.9144,8.7128,Italy,castelsardo,is_city
+1847,Calcinate,45.6212,9.8003,Italy,calcinate,is_city
+1848,Collepasso,40.0667,18.1667,Italy,collepasso,is_city
+1849,Bagnolo Piemonte,44.7667,7.3167,Italy,bagnolo piemonte,is_city
+1850,Mel,46.0622,12.0798,Italy,mel,is_city
+1851,Gualdo Cattaneo,42.9167,12.55,Italy,gualdo cattaneo,is_city
+1852,Pignataro Maggiore,41.2,14.1667,Italy,pignataro maggiore,is_city
+1853,Serradifalco,37.4538,13.8805,Italy,serradifalco,is_city
+1854,Borso del Grappa,45.8167,11.8,Italy,borso del grappa,is_city
+1855,Genazzano,41.8333,12.9667,Italy,genazzano,is_city
+1856,Roveredo in Piano,46.0167,12.6167,Italy,roveredo in piano,is_city
+1857,Bagnolo San Vito,45.0833,10.8833,Italy,bagnolo san vito,is_city
+1858,Castelnuovo di Garfagnana,44.1219,10.4056,Italy,castelnuovo di garfagnana,is_city
+1859,Maiano,46.1833,13.0667,Italy,maiano,is_city
+1860,Cavaion Veronese,45.5401,10.7705,Italy,cavaion veronese,is_city
+1861,Montalcino,43.0592,11.4892,Italy,montalcino,is_city
+1862,Truccazzano,45.4833,9.4667,Italy,truccazzano,is_city
+1863,Villa Bartolomea,45.1583,11.3531,Italy,villa bartolomea,is_city
+1864,Bagno di Romagna,43.8333,11.9667,Italy,bagno di romagna,is_city
+1865,Picerno,40.6333,15.6333,Italy,picerno,is_city
+1866,Diano Marina,43.9099,8.082,Italy,diano marina,is_city
+1867,Sannicola,40.1,18.0667,Italy,sannicola,is_city
+1868,Loro Ciuffenna,43.5867,11.6286,Italy,loro ciuffenna,is_city
+1869,Ascea,40.15,15.1833,Italy,ascea,is_city
+1870,Torrebelvicino,45.7167,11.3167,Italy,torrebelvicino,is_city
+1871,Cortina d'Ampezzo,46.5381,12.1372,Italy,cortina d'ampezzo,is_city
+1872,Cavaria,45.7,8.8,Italy,cavaria,is_city
+1873,Sambuca di Sicilia,37.6478,13.1111,Italy,sambuca di sicilia,is_city
+1874,Robbio,45.2914,8.5922,Italy,robbio,is_city
+1875,Villanuova sul clisi,45.6,10.45,Italy,villanuova sul clisi,is_city
+1876,Girifalco,38.8167,16.4333,Italy,girifalco,is_city
+1877,Bussoleno,45.1411,7.1475,Italy,bussoleno,is_city
+1878,Costigliole d'Asti,44.785,8.1819,Italy,costigliole d'asti,is_city
+1879,Quinto Vicentino,45.5667,11.6167,Italy,quinto vicentino,is_city
+1880,Palosco,45.5833,9.8333,Italy,palosco,is_city
+1881,Naturno,46.6502,11.0084,Italy,naturno,is_city
+1882,Stornara,41.2833,15.7667,Italy,stornara,is_city
+1883,Otranto,40.15,18.4833,Italy,otranto,is_city
+1884,Villanova Mondovi,44.35,7.7667,Italy,villanova mondovi,is_city
+1885,Cellamare,41.0203,16.9292,Italy,cellamare,is_city
+1886,Rosate,45.3333,9.0167,Italy,rosate,is_city
+1887,Rudiano,45.4833,9.8833,Italy,rudiano,is_city
+1888,Ceva,44.3833,8.0333,Italy,ceva,is_city
+1889,Corigliano d'Otranto,40.1667,18.25,Italy,corigliano d'otranto,is_city
+1890,Brolo,38.1562,14.828,Italy,brolo,is_city
+1891,Rogliano,39.1833,16.3167,Italy,rogliano,is_city
+1892,San Dorligo della Valle,45.6225,13.8578,Italy,san dorligo della valle,is_city
+1893,Campo San Martino,45.55,11.8167,Italy,campo san martino,is_city
+1894,Fontanelle,45.8333,12.4667,Italy,fontanelle,is_city
+1895,Gattatico,44.8,10.4667,Italy,gattatico,is_city
+1896,San Paolo di Civitate,41.7333,15.2667,Italy,san paolo di civitate,is_city
+1897,Alezio,40.0667,18.05,Italy,alezio,is_city
+1898,Cogorno,44.3331,9.3725,Italy,cogorno,is_city
+1899,Spirano,45.5828,9.6692,Italy,spirano,is_city
+1900,Uzzano,43.8833,10.7167,Italy,uzzano,is_city
+1901,Cancello,41.0734,14.0254,Italy,cancello,is_city
+1902,Gabicce,43.9668,12.7563,Italy,gabicce,is_city
+1903,Passignano sul Trasimeno,43.1833,12.1333,Italy,passignano sul trasimeno,is_city
+1904,Santorso,45.7333,11.3833,Italy,santorso,is_city
+1905,Nocera Umbra,43.1167,12.7833,Italy,nocera umbra,is_city
+1906,Trevignano Romano,42.15,12.25,Italy,trevignano romano,is_city
+1907,Pomarance,43.2997,10.8736,Italy,pomarance,is_city
+1908,Ciserano,45.5833,9.6,Italy,ciserano,is_city
+1909,Genzano di Lucania,40.85,16.0333,Italy,genzano di lucania,is_city
+1910,Casorate Sempione,45.6667,8.7333,Italy,casorate sempione,is_city
+1911,Villanova d'Asti,44.9428,7.9383,Italy,villanova d'asti,is_city
+1912,Castelverde,45.1875,9.9969,Italy,castelverde,is_city
+1913,San Secondo Parmense,44.9167,10.2333,Italy,san secondo parmense,is_city
+1914,Longare,45.4833,11.6167,Italy,longare,is_city
+1915,Guagnano,40.4,17.95,Italy,guagnano,is_city
+1916,Riolo Terme,44.2833,11.7333,Italy,riolo terme,is_city
+1917,Rocca di Neto,39.1883,17.0042,Italy,rocca di neto,is_city
+1918,Almenno San Salvatore,45.75,9.5875,Italy,almenno san salvatore,is_city
+1919,San Giorgio Piacentino,44.95,9.7333,Italy,san giorgio piacentino,is_city
+1920,Arce,41.5833,13.5833,Italy,arce,is_city
+1921,Acque Dolci,38.05,14.5833,Italy,acque dolci,is_city
+1922,Romentino,45.4667,8.7167,Italy,romentino,is_city
+1923,San Donato di Lecce,40.2667,18.1833,Italy,san donato di lecce,is_city
+1924,Gossolengo,45.0,9.6167,Italy,gossolengo,is_city
+1925,Ospedaletto Euganeo,45.2231,11.6111,Italy,ospedaletto euganeo,is_city
+1926,Casaleone,45.1667,11.2,Italy,casaleone,is_city
+1927,Candiolo,44.9667,7.6,Italy,candiolo,is_city
+1928,Buti,43.7297,10.5867,Italy,buti,is_city
+1929,Campagnola Emilia,44.8361,10.7547,Italy,campagnola emilia,is_city
+1930,Canale,44.8,8.0,Italy,canale,is_city
+1931,Gozzano,45.75,8.4333,Italy,gozzano,is_city
+1932,Sala Baganza,44.7167,10.2333,Italy,sala baganza,is_city
+1933,Fontevivo,44.8565,10.1762,Italy,fontevivo,is_city
+1934,Panicale,43.0333,12.1,Italy,panicale,is_city
+1935,Alme,45.7369,9.6153,Italy,alme,is_city
+1936,Dello,45.4194,10.075,Italy,dello,is_city
+1937,Brescello,44.9,10.5167,Italy,brescello,is_city
+1938,Grotte,37.4058,13.7011,Italy,grotte,is_city
+1939,Casoli,42.1151,14.2906,Italy,casoli,is_city
+1940,Trivero,45.6667,8.1667,Italy,trivero,is_city
+1941,Monteiasi,40.5,17.3833,Italy,monteiasi,is_city
+1942,Apice,41.1167,14.9333,Italy,apice,is_city
+1943,Montefalco,42.8908,12.6483,Italy,montefalco,is_city
+1944,Misinto,45.6667,9.0833,Italy,misinto,is_city
+1945,Pavia di Udine,46.0,13.3,Italy,pavia di udine,is_city
+1946,Ceriale,44.0966,8.2321,Italy,ceriale,is_city
+1947,Custonaci,38.0788,12.6751,Italy,custonaci,is_city
+1948,Maiori,40.6486,14.6389,Italy,maiori,is_city
+1949,Peveragno,44.3333,7.6167,Italy,peveragno,is_city
+1950,Camporosso,43.8151,7.6284,Italy,camporosso,is_city
+1951,Besnate,45.7,8.7667,Italy,besnate,is_city
+1952,Quistello,45.0066,10.9805,Italy,quistello,is_city
+1953,Cilavegna,45.3167,8.75,Italy,cilavegna,is_city
+1954,Angera,45.7667,8.5833,Italy,angera,is_city
+1955,Busalla,44.571,8.9453,Italy,busalla,is_city
+1956,Chiaravalle Centrale,38.6833,16.4,Italy,chiaravalle centrale,is_city
+1957,Anghiari,43.5417,12.055,Italy,anghiari,is_city
+1958,Carcare,44.3579,8.2906,Italy,carcare,is_city
+1959,Davoli,38.65,16.4833,Italy,davoli,is_city
+1960,Marsico Vetere,40.3744,15.8261,Italy,marsico vetere,is_city
+1961,San Tammaro,41.0759,14.231,Italy,san tammaro,is_city
+1962,Bracigliano,40.8167,14.7,Italy,bracigliano,is_city
+1963,Villa del Conte,45.5833,11.8667,Italy,villa del conte,is_city
+1964,Dicomano,43.9,11.5333,Italy,dicomano,is_city
+1965,Castiglione dei Pepoli,44.15,11.15,Italy,castiglione dei pepoli,is_city
+1966,Bentivoglio,44.6353,11.4189,Italy,bentivoglio,is_city
+1967,Cavour,44.7833,7.3833,Italy,cavour,is_city
+1968,Caiazzo,41.1833,14.3667,Italy,caiazzo,is_city
+1969,Moglia,44.9333,10.9167,Italy,moglia,is_city
+1970,Mezzocorona,46.2167,11.1167,Italy,mezzocorona,is_city
+1971,Solbiate Olona,45.65,8.8833,Italy,solbiate olona,is_city
+1972,Cotronei,39.1667,16.7833,Italy,cotronei,is_city
+1973,Borgo San Giacomo,45.348,9.9682,Italy,borgo san giacomo,is_city
+1974,Cavallermaggiore,44.7167,7.6833,Italy,cavallermaggiore,is_city
+1975,Casorezzo,45.5167,8.9,Italy,casorezzo,is_city
+1976,Galliera,44.75,11.4,Italy,galliera,is_city
+1977,Lagonegro,40.1333,15.7667,Italy,lagonegro,is_city
+1978,Acquapendente,42.7447,11.865,Italy,acquapendente,is_city
+1979,Certosa di Pavia,45.2544,9.1279,Italy,certosa di pavia,is_city
+1980,Corsano,39.8891,18.3675,Italy,corsano,is_city
+1981,Povoletto,46.1167,13.2833,Italy,povoletto,is_city
+1982,Sannazzaro de' Burgondi,45.1,8.9,Italy,sannazzaro de' burgondi,is_city
+1983,Soleto,40.1877,18.2074,Italy,soleto,is_city
+1984,Palmanova,45.9,13.3167,Italy,palmanova,is_city
+1985,Torchiarolo,40.4833,18.05,Italy,torchiarolo,is_city
+1986,Caprarola,42.3275,12.2367,Italy,caprarola,is_city
+1987,Montepaone,38.7167,16.5,Italy,montepaone,is_city
+1988,Gandino,45.8117,9.9031,Italy,gandino,is_city
+1989,Santa Teresa Gallura,41.2392,9.1888,Italy,santa teresa gallura,is_city
+1990,Vanzaghello,45.5833,8.7833,Italy,vanzaghello,is_city
+1991,Albisola Marina,44.3273,8.5031,Italy,albisola marina,is_city
+1992,Lanusei,39.8787,9.5415,Italy,lanusei,is_city
+1993,Lurago d'Erba,45.75,9.2167,Italy,lurago d'erba,is_city
+1994,Padula,40.339,15.6563,Italy,padula,is_city
+1995,Arienzo,41.0273,14.4977,Italy,arienzo,is_city
+1996,Centuripe,37.6233,14.7395,Italy,centuripe,is_city
+1997,Villapiana,39.85,16.45,Italy,villapiana,is_city
+1998,Casalserugo,45.3167,11.9167,Italy,casalserugo,is_city
+1999,Cupra Marittima,43.0249,13.8589,Italy,cupra marittima,is_city
+2000,Forino,40.8636,14.7369,Italy,forino,is_city
+2001,San Cipirello,37.9667,13.1833,Italy,san cipirello,is_city
+2002,Gazzo Veronese,45.15,11.0833,Italy,gazzo veronese,is_city
+2003,Boretto,44.9,10.55,Italy,boretto,is_city
+2004,Basiliano,46.0167,13.1,Italy,basiliano,is_city
+2005,Stornarella,41.25,15.7333,Italy,stornarella,is_city
+2006,Muro Lucano,40.75,15.4833,Italy,muro lucano,is_city
+2007,Nereto,42.82,13.8169,Italy,nereto,is_city
+2008,Codogne,45.8667,12.4333,Italy,codogne,is_city
+2009,Linguaglossa,37.8428,15.1419,Italy,linguaglossa,is_city
+2010,Limana,46.1,12.1833,Italy,limana,is_city
+2011,Castelvetro Piacentino,45.1,9.9833,Italy,castelvetro piacentino,is_city
+2012,Rivanazzano,44.9308,9.0142,Italy,rivanazzano,is_city
+2013,Monte Libretti,42.1333,12.7333,Italy,monte libretti,is_city
+2014,Casal Velino,40.1833,15.1167,Italy,casal velino,is_city
+2015,Camposano,40.95,14.5333,Italy,camposano,is_city
+2016,Sovere,45.8167,10.0333,Italy,sovere,is_city
+2017,Aquino,41.5,13.7,Italy,aquino,is_city
+2018,Viggiu,45.8667,8.9,Italy,viggiu,is_city
+2019,Sant'Omero,42.7833,13.8,Italy,sant'omero,is_city
+2020,Carsoli,42.0988,13.0886,Italy,carsoli,is_city
+2021,Rapolano Terme,43.2833,11.6,Italy,rapolano terme,is_city
+2022,Camogli,44.3484,9.1558,Italy,camogli,is_city
+2023,Albizzate,45.7167,8.8,Italy,albizzate,is_city
+2024,Gizzeria,38.9833,16.2,Italy,gizzeria,is_city
+2025,Diamante,39.6833,15.8167,Italy,diamante,is_city
+2026,Oppido Mamertina,38.3,15.9833,Italy,oppido mamertina,is_city
+2027,Montemiletto,41.0167,14.9,Italy,montemiletto,is_city
+2028,Monticelli d'Ongina,45.0833,9.9333,Italy,monticelli d'ongina,is_city
+2029,Presicce,39.9,18.2667,Italy,presicce,is_city
+2030,Canino,42.465,11.7519,Italy,canino,is_city
+2031,Sarroch,39.0658,9.0102,Italy,sarroch,is_city
+2032,Ispra,45.8167,8.6167,Italy,ispra,is_city
+2033,Sarcedo,45.7,11.5333,Italy,sarcedo,is_city
+2034,Botricello,38.9333,16.85,Italy,botricello,is_city
+2035,Calatabiano,37.8228,15.2278,Italy,calatabiano,is_city
+2036,Polla,40.5167,15.5,Italy,polla,is_city
+2037,Muravera,39.4196,9.5763,Italy,muravera,is_city
+2038,Rodigo,45.2,10.6333,Italy,rodigo,is_city
+2039,Mugnano del Cardinale,40.9333,14.6333,Italy,mugnano del cardinale,is_city
+2040,San Vito Chietino,42.3,14.45,Italy,san vito chietino,is_city
+2041,Malles Venosta,46.6879,10.5465,Italy,malles venosta,is_city
+2042,Montanaro,45.2327,7.8549,Italy,montanaro,is_city
+2043,Longarone,46.2667,12.3,Italy,longarone,is_city
+2044,Castronno,45.7333,8.8,Italy,castronno,is_city
+2045,Santa Caterina Villarmosa,37.6,14.0333,Italy,santa caterina villarmosa,is_city
+2046,Esine,45.9264,10.2517,Italy,esine,is_city
+2047,Ripi,41.6167,13.4333,Italy,ripi,is_city
+2048,Guglionesi,41.9167,14.9167,Italy,guglionesi,is_city
+2049,Povegliano,45.7667,12.2,Italy,povegliano,is_city
+2050,Illasi,45.4667,11.1833,Italy,illasi,is_city
+2051,Maruggio,40.3228,17.5736,Italy,maruggio,is_city
+2052,Vitorchiano,42.4664,12.1733,Italy,vitorchiano,is_city
+2053,Castellucchio,45.15,10.65,Italy,castellucchio,is_city
+2054,Chiusa,46.64,11.5657,Italy,chiusa,is_city
+2055,San Pietro di Feletto,45.9333,12.25,Italy,san pietro di feletto,is_city
+2056,Fragagnano,40.4333,17.4667,Italy,fragagnano,is_city
+2057,Poncarale,45.4619,10.1778,Italy,poncarale,is_city
+2058,Neviano,40.1,18.1167,Italy,neviano,is_city
+2059,Lovere,45.8125,10.07,Italy,lovere,is_city
+2060,Coreglia Antelminelli,44.0644,10.5264,Italy,coreglia antelminelli,is_city
+2061,Laces,46.6167,10.8667,Italy,laces,is_city
+2062,Tuglie,40.0735,18.0987,Italy,tuglie,is_city
+2063,Tricarico,40.6167,16.15,Italy,tricarico,is_city
+2064,Giavera del Montello,45.8,12.1667,Italy,giavera del montello,is_city
+2065,Correzzola,45.2333,12.0667,Italy,correzzola,is_city
+2066,Castrignano del Capo,39.8333,18.35,Italy,castrignano del capo,is_city
+2067,Castelnuovo Scrivia,44.9814,8.8822,Italy,castelnuovo scrivia,is_city
+2068,Albaredo d'Adige,45.3167,11.2667,Italy,albaredo d'adige,is_city
+2069,Cannobio,46.0667,8.7,Italy,cannobio,is_city
+2070,Favria,45.3333,7.6833,Italy,favria,is_city
+2071,Giussago,45.2848,9.1407,Italy,giussago,is_city
+2072,Cividate al Piano,45.55,9.8167,Italy,cividate al piano,is_city
+2073,Gottolengo,45.2928,10.2734,Italy,gottolengo,is_city
+2074,Celle Ligure,44.3421,8.5456,Italy,celle ligure,is_city
+2075,Trezzano Rosa,45.5833,9.4833,Italy,trezzano rosa,is_city
+2076,Chions,45.85,12.7167,Italy,chions,is_city
+2077,Cerda,37.9,13.8167,Italy,cerda,is_city
+2078,Marano sul Panaro,44.4572,10.9719,Italy,marano sul panaro,is_city
+2079,Vigone,44.85,7.5,Italy,vigone,is_city
+2080,Capistrello,41.9736,13.4,Italy,capistrello,is_city
+2081,Centola,40.0667,15.3167,Italy,centola,is_city
+2082,Bottanuco,45.6397,9.5064,Italy,bottanuco,is_city
+2083,Vaglia,43.9107,11.28,Italy,vaglia,is_city
+2084,Bucchianico,42.3044,14.1806,Italy,bucchianico,is_city
+2085,Campegine,44.7844,10.5328,Italy,campegine,is_city
+2086,Veronella,45.3231,11.3244,Italy,veronella,is_city
+2087,Ardore,38.1833,16.1667,Italy,ardore,is_city
+2088,Samassi,39.4815,8.9053,Italy,samassi,is_city
+2089,Portoscuso,39.2049,8.3805,Italy,portoscuso,is_city
+2090,Amalfi,40.6333,14.6028,Italy,amalfi,is_city
+2091,Barzano,45.7333,9.3167,Italy,barzano,is_city
+2092,Gagliano del Capo,39.85,18.3667,Italy,gagliano del capo,is_city
+2093,Maser,45.8167,11.9833,Italy,maser,is_city
+2094,Colle Umberto,45.95,12.35,Italy,colle umberto,is_city
+2095,Assoro,37.6333,14.4167,Italy,assoro,is_city
+2096,Borgo Ticino,45.6833,8.6,Italy,borgo ticino,is_city
+2097,Maratea,39.9928,15.7167,Italy,maratea,is_city
+2098,Mineo,37.2664,14.6911,Italy,mineo,is_city
+2099,San Giovanni Ilarione,45.5167,11.2333,Italy,san giovanni ilarione,is_city
+2100,Canzo,45.85,9.2667,Italy,canzo,is_city
+2101,Laureana di Borrello,38.4919,16.0811,Italy,laureana di borrello,is_city
+2102,Grassano,40.6333,16.2833,Italy,grassano,is_city
+2103,Ornago,45.6,9.4167,Italy,ornago,is_city
+2104,Baselga di Pine,46.1298,11.2446,Italy,baselga di pine,is_city
+2105,Mansue,45.8232,12.5356,Italy,mansue,is_city
+2106,Pagnacco,46.1167,13.1833,Italy,pagnacco,is_city
+2107,Gazzaniga,45.8,9.8333,Italy,gazzaniga,is_city
+2108,Melicucco,38.4333,16.05,Italy,melicucco,is_city
+2109,Corropoli,42.8333,13.8333,Italy,corropoli,is_city
+2110,Condofuri,38.0,15.8667,Italy,condofuri,is_city
+2111,Lagundo,46.6833,11.1333,Italy,lagundo,is_city
+2112,Telgate,45.6333,9.85,Italy,telgate,is_city
+2113,Montecastrilli,42.65,12.4833,Italy,montecastrilli,is_city
+2114,Arosio,45.7167,9.2167,Italy,arosio,is_city
+2115,Villadose,45.0667,11.9,Italy,villadose,is_city
+2116,Bella,40.7667,15.5333,Italy,bella,is_city
+2117,Bevagna,42.9333,12.6167,Italy,bevagna,is_city
+2118,Lonate Ceppino,45.7,8.8667,Italy,lonate ceppino,is_city
+2119,Lanzo Torinese,45.2667,7.4833,Italy,lanzo torinese,is_city
+2120,Castelbellino,43.4878,13.1458,Italy,castelbellino,is_city
+2121,Agnone,41.8104,14.3785,Italy,agnone,is_city
+2122,Tolfa,42.15,11.9333,Italy,tolfa,is_city
+2123,Lesignano de' Bagni,44.643,10.2994,Italy,lesignano de' bagni,is_city
+2124,Lomagna,45.6667,9.3667,Italy,lomagna,is_city
+2125,Terranova di Sibari,39.65,16.3333,Italy,terranova di sibari,is_city
+2126,Sant'Angelo Romano,42.0333,12.7167,Italy,sant'angelo romano,is_city
+2127,San Gemini,42.6131,12.547,Italy,san gemini,is_city
+2128,Gorla Maggiore,45.6662,8.9044,Italy,gorla maggiore,is_city
+2129,Spadafora,38.2333,15.3833,Italy,spadafora,is_city
+2130,Santo Stefano Ticino,45.4833,8.9167,Italy,santo stefano ticino,is_city
+2131,Tursi,40.25,16.4667,Italy,tursi,is_city
+2132,San Ferdinando,38.4867,15.9197,Italy,san ferdinando,is_city
+2133,Mornago,45.75,8.75,Italy,mornago,is_city
+2134,Porlezza,46.0333,9.1333,Italy,porlezza,is_city
+2135,Mortegliano,45.95,13.1667,Italy,mortegliano,is_city
+2136,Nove,45.7333,11.6833,Italy,nove,is_city
+2137,Gonnesa,39.2665,8.4717,Italy,gonnesa,is_city
+2138,Offida,42.9353,13.692,Italy,offida,is_city
+2139,Santa Ninfa,37.7667,12.8833,Italy,santa ninfa,is_city
+2140,Rovolon,45.35,11.6667,Italy,rovolon,is_city
+2141,Serravalle Sesia,45.6833,8.3167,Italy,serravalle sesia,is_city
+2142,Saccolongo,45.4,11.75,Italy,saccolongo,is_city
+2143,San Polo di Piave,45.7906,12.3947,Italy,san polo di piave,is_city
+2144,Ricadi,38.6261,15.8656,Italy,ricadi,is_city
+2145,Sassano,40.3403,15.5655,Italy,sassano,is_city
+2146,Muro Leccese,40.1,18.3333,Italy,muro leccese,is_city
+2147,San Francesco al Campo,45.2253,7.6556,Italy,san francesco al campo,is_city
+2148,Varallo Pombia,45.6667,8.6333,Italy,varallo pombia,is_city
+2149,Guardia Sanframondi,41.25,14.6,Italy,guardia sanframondi,is_city
+2150,Tregnago,45.5167,11.1667,Italy,tregnago,is_city
+2151,Licciana Nardi,44.2667,10.0333,Italy,licciana nardi,is_city
+2152,Civitella del Tronto,42.7719,13.6667,Italy,civitella del tronto,is_city
+2153,Stresa,45.8836,8.5394,Italy,stresa,is_city
+2154,Irsina,40.75,16.2333,Italy,irsina,is_city
+2155,Reana del Roiale,46.15,13.2333,Italy,reana del roiale,is_city
+2156,Arsago Seprio,45.6833,8.7333,Italy,arsago seprio,is_city
+2157,Morcone,41.3427,14.6689,Italy,morcone,is_city
+2158,Zimella,45.3436,11.3523,Italy,zimella,is_city
+2159,San Martino Valle Caudina,41.0266,14.6654,Italy,san martino valle caudina,is_city
+2160,Corinaldo,43.6489,13.0479,Italy,corinaldo,is_city
+2161,Buccino,40.6333,15.3833,Italy,buccino,is_city
+2162,Gradara,43.9389,12.7713,Italy,gradara,is_city
+2163,Norcia,42.7933,13.0939,Italy,norcia,is_city
+2164,Scilla,38.25,15.7167,Italy,scilla,is_city
+2165,Baveno,45.9,8.5,Italy,baveno,is_city
+2166,Bagnolo Cremasco,45.35,9.6167,Italy,bagnolo cremasco,is_city
+2167,Monzambano,45.3833,10.7,Italy,monzambano,is_city
+2168,Arcene,45.5761,9.6142,Italy,arcene,is_city
+2169,Cisliano,45.45,8.9833,Italy,cisliano,is_city
+2170,Robecchetto con Induno,45.5333,8.7667,Italy,robecchetto con induno,is_city
+2171,Popoli,42.1708,13.8317,Italy,popoli,is_city
+2172,Francolise,41.1833,14.05,Italy,francolise,is_city
+2173,Gambassi,43.5333,10.95,Italy,gambassi,is_city
+2174,Senorbi,39.534,9.131,Italy,senorbi,is_city
+2175,Bassano Romano,42.2253,12.19,Italy,bassano romano,is_city
+2176,Casale di Scodosia,45.1833,11.4667,Italy,casale di scodosia,is_city
+2177,Gaggio Montano,44.2,10.9333,Italy,gaggio montano,is_city
+2178,Lagosanto,44.7667,12.1333,Italy,lagosanto,is_city
+2179,Torrice,41.6333,13.4,Italy,torrice,is_city
+2180,Verolengo,45.1833,7.9667,Italy,verolengo,is_city
+2181,Soragna,44.927,10.1222,Italy,soragna,is_city
+2182,Arzergrande,45.2731,12.0467,Italy,arzergrande,is_city
+2183,Cupello,42.0667,14.6667,Italy,cupello,is_city
+2184,San Pellegrino Terme,45.8333,9.6667,Italy,san pellegrino terme,is_city
+2185,Villarosa,37.5833,14.1667,Italy,villarosa,is_city
+2186,Supino,41.6167,13.2333,Italy,supino,is_city
+2187,Palazzo San Gervasio,40.9322,15.9814,Italy,palazzo san gervasio,is_city
+2188,Cropani,38.9667,16.7833,Italy,cropani,is_city
+2189,Breno,45.9586,10.3056,Italy,breno,is_city
+2190,Trichiana,46.0744,12.1344,Italy,trichiana,is_city
+2191,Marrubiu,39.751,8.6383,Italy,marrubiu,is_city
+2192,Stroncone,42.5,12.6667,Italy,stroncone,is_city
+2193,Castel del Piano,42.8908,11.5394,Italy,castel del piano,is_city
+2194,Serrenti,39.4925,8.9765,Italy,serrenti,is_city
+2195,Santa Giusta,39.8807,8.6092,Italy,santa giusta,is_city
+2196,Lacco Ameno,40.75,13.8833,Italy,lacco ameno,is_city
+2197,Aidone,37.4167,14.45,Italy,aidone,is_city
+2198,Borghetto Santo Spirito,44.1091,8.2414,Italy,borghetto santo spirito,is_city
+2199,Agugliano,43.5434,13.386,Italy,agugliano,is_city
+2200,San Giovanni Bianco,45.8667,9.65,Italy,san giovanni bianco,is_city
+2201,Fosdinovo,44.1333,10.0167,Italy,fosdinovo,is_city
+2202,Nocera Terinese,39.0333,16.15,Italy,nocera terinese,is_city
+2203,Osnago,45.6833,9.3833,Italy,osnago,is_city
+2204,Paratico,45.6611,9.9533,Italy,paratico,is_city
+2205,Roccafranca,45.4667,9.9167,Italy,roccafranca,is_city
+2206,San Costanzo,43.7672,13.0731,Italy,san costanzo,is_city
+2207,Torre di Mosto,45.6833,12.7167,Italy,torre di mosto,is_city
+2208,Veggiano,45.45,11.7167,Italy,veggiano,is_city
+2209,Mirabella Imbaccari,37.3333,14.45,Italy,mirabella imbaccari,is_city
+2210,Catenanuova,37.5667,14.6833,Italy,catenanuova,is_city
+2211,Cocquio Trevisago,45.85,8.6833,Italy,cocquio trevisago,is_city
+2212,Miglianico,42.3594,14.2925,Italy,miglianico,is_city
+2213,San Martino in Pensilis,41.8667,15.0167,Italy,san martino in pensilis,is_city
+2214,Buscate,45.55,8.8167,Italy,buscate,is_city
+2215,Andrano,39.9833,18.3833,Italy,andrano,is_city
+2216,Specchia,39.9381,18.2984,Italy,specchia,is_city
+2217,Gambara,45.2562,10.2945,Italy,gambara,is_city
+2218,San Bartolomeo in Galdo,41.4167,15.0167,Italy,san bartolomeo in galdo,is_city
+2219,Baiano,40.9536,14.6175,Italy,baiano,is_city
+2220,Alvignano,41.25,14.3333,Italy,alvignano,is_city
+2221,Castro dei Volsci,41.5167,13.4,Italy,castro dei volsci,is_city
+2222,Caorso,45.05,9.8667,Italy,caorso,is_city
+2223,Dogliani,44.5333,7.95,Italy,dogliani,is_city
+2224,Villafranca in Lunigiana,44.2956,9.95,Italy,villafranca in lunigiana,is_city
+2225,Peccioli,43.55,10.7167,Italy,peccioli,is_city
+2226,Sant'Ambrogio di Torino,45.1,7.3667,Italy,sant'ambrogio di torino,is_city
+2227,Gonars,45.9,13.2333,Italy,gonars,is_city
+2228,Villaputzu,39.4392,9.5761,Italy,villaputzu,is_city
+2229,Prizzi,37.7215,13.4312,Italy,prizzi,is_city
+2230,Azzate,45.7803,8.7938,Italy,azzate,is_city
+2231,Monta,44.8147,7.9548,Italy,monta,is_city
+2232,Berra,44.9833,11.9667,Italy,berra,is_city
+2233,San Vito lo Capo,38.1667,12.75,Italy,san vito lo capo,is_city
+2234,Riva presso Chieri,44.9833,7.8667,Italy,riva presso chieri,is_city
+2235,Sarteano,42.9833,11.8667,Italy,sarteano,is_city
+2236,Alseno,44.9,9.9667,Italy,alseno,is_city
+2237,Cappella Maggiore,45.9667,12.3667,Italy,cappella maggiore,is_city
+2238,Mordano,44.4,11.8167,Italy,mordano,is_city
+2239,Pietramelara,41.2667,14.1833,Italy,pietramelara,is_city
+2240,Ponte dell'Olio,44.8667,9.6333,Italy,ponte dell'olio,is_city
+2241,Pozzolo Formigaro,44.7961,8.7858,Italy,pozzolo formigaro,is_city
+2242,Isola del Gran Sasso d'Italia,42.5075,13.6578,Italy,isola del gran sasso d'italia,is_city
+2243,Pian Camuno,45.8447,10.1519,Italy,pian camuno,is_city
+2244,Cortemaggiore,45.0,9.9333,Italy,cortemaggiore,is_city
+2245,Acquasparta,42.6907,12.5463,Italy,acquasparta,is_city
+2246,Piancogno,45.9197,10.2253,Italy,piancogno,is_city
+2247,Dorno,45.15,8.95,Italy,dorno,is_city
+2248,Santo Stefano di Camastra,38.0167,14.35,Italy,santo stefano di camastra,is_city
+2249,Trivento,41.7667,14.55,Italy,trivento,is_city
+2250,Carvico,45.7,9.4833,Italy,carvico,is_city
+2251,Castel d'Ario,45.1889,10.9756,Italy,castel d'ario,is_city
+2252,Chatillon,45.75,7.6167,Italy,chatillon,is_city
+2253,Acquarica del Capo,39.9167,18.25,Italy,acquarica del capo,is_city
+2254,Castiglione d'Adda,45.2197,9.6953,Italy,castiglione d'adda,is_city
+2255,Pramaggiore,45.8167,12.7333,Italy,pramaggiore,is_city
+2256,Vertova,45.8167,9.85,Italy,vertova,is_city
+2257,Mistretta,37.9333,14.3667,Italy,mistretta,is_city
+2258,San Giorgio della Richinvelda,46.05,12.8667,Italy,san giorgio della richinvelda,is_city
+2259,Rodano,45.4833,9.35,Italy,rodano,is_city
+2260,Padenghe sul Garda,45.5083,10.5164,Italy,padenghe sul garda,is_city
+2261,Castell'Arquato,44.85,9.8667,Italy,castell'arquato,is_city
+2262,Brivio,45.75,9.45,Italy,brivio,is_city
+2263,Butera,37.1833,14.1833,Italy,butera,is_city
+2264,Cupramontana,43.446,13.1174,Italy,cupramontana,is_city
+2265,Villafranca Piemonte,44.7833,7.5,Italy,villafranca piemonte,is_city
+2266,Condove,45.1174,7.3095,Italy,condove,is_city
+2267,Barbarano Vicentino,45.4099,11.5397,Italy,barbarano vicentino,is_city
+2268,Pizzoli,42.436,13.2989,Italy,pizzoli,is_city
+2269,Zocca,44.3473,10.9904,Italy,zocca,is_city
+2270,Torano Castello,39.5,16.15,Italy,torano castello,is_city
+2271,Piglio,41.8281,13.1417,Italy,piglio,is_city
+2272,Bricherasio,44.8244,7.3064,Italy,bricherasio,is_city
+2273,Gragnano Trebbiense,45.0167,9.5667,Italy,gragnano trebbiense,is_city
+2274,Crevola d'Ossola,46.1475,8.2961,Italy,crevola d'ossola,is_city
+2275,Firenzuola,44.1197,11.3819,Italy,firenzuola,is_city
+2276,Storo,45.8489,10.5803,Italy,storo,is_city
+2277,Grantorto,45.6,11.7333,Italy,grantorto,is_city
+2278,Saint-Vincent,45.75,7.65,Italy,saint-vincent,is_city
+2279,Santa Lucia del Mela,38.15,15.2833,Italy,santa lucia del mela,is_city
+2280,Calitri,40.9031,15.4314,Italy,calitri,is_city
+2281,Mogliano,43.1859,13.4808,Italy,mogliano,is_city
+2282,Minerbe,45.25,11.35,Italy,minerbe,is_city
+2283,Villastellone,44.9167,7.75,Italy,villastellone,is_city
+2284,Spezzano Grande,39.3,16.35,Italy,spezzano grande,is_city
+2285,Polverigi,43.5253,13.3941,Italy,polverigi,is_city
+2286,Edolo,46.1789,10.33,Italy,edolo,is_city
+2287,Chiesina Uzzanese,43.8333,10.7167,Italy,chiesina uzzanese,is_city
+2288,Monterosi,42.197,12.3084,Italy,monterosi,is_city
+2289,Sersale,39.0167,16.7333,Italy,sersale,is_city
+2290,Mozzanica,45.4761,9.6893,Italy,mozzanica,is_city
+2291,Arcade,45.7667,12.2167,Italy,arcade,is_city
+2292,Torre Pellice,44.8203,7.2233,Italy,torre pellice,is_city
+2293,Monsampolo del Tronto,42.8979,13.794,Italy,monsampolo del tronto,is_city
+2294,Varna,46.7404,11.6346,Italy,varna,is_city
+2295,Vailate,45.4667,9.6,Italy,vailate,is_city
+2296,Palaia,43.6058,10.7728,Italy,palaia,is_city
+2297,Realmonte,37.3103,13.4628,Italy,realmonte,is_city
+2298,Predazzo,46.3167,11.6,Italy,predazzo,is_city
+2299,Teglio,46.1667,10.0667,Italy,teglio,is_city
+2300,Carimate,45.7,9.1167,Italy,carimate,is_city
+2301,Guardavalle,38.5,16.5,Italy,guardavalle,is_city
+2302,Rombiolo,38.5919,16.0017,Italy,rombiolo,is_city
+2303,Vignanello,42.3847,12.2775,Italy,vignanello,is_city
+2304,Druento,45.1333,7.5833,Italy,druento,is_city
+2305,Terricciola,43.5256,10.6808,Italy,terricciola,is_city
+2306,Castellazzo Bormida,44.8461,8.5783,Italy,castellazzo bormida,is_city
+2307,Ploaghe,40.6644,8.7453,Italy,ploaghe,is_city
+2308,San Paolo,45.3717,10.0236,Italy,san paolo,is_city
+2309,Castel di Iudica,37.5,14.65,Italy,castel di iudica,is_city
+2310,Santo Stefano Quisquina,37.6242,13.4914,Italy,santo stefano quisquina,is_city
+2311,Crespano del Grappa,45.8289,11.8373,Italy,crespano del grappa,is_city
+2312,Castelraimondo,43.2091,13.0546,Italy,castelraimondo,is_city
+2313,Grignasco,45.6833,8.3333,Italy,grignasco,is_city
+2314,Castel Guelfo di Bologna,44.4333,11.6833,Italy,castel guelfo di bologna,is_city
+2315,Sotto il Monte,45.7072,9.4992,Italy,sotto il monte,is_city
+2316,Gropello Cairoli,45.1833,9.0,Italy,gropello cairoli,is_city
+2317,Peschici,41.95,16.0167,Italy,peschici,is_city
+2318,Cigliano,45.3084,8.021,Italy,cigliano,is_city
+2319,Casina,44.5111,10.5025,Italy,casina,is_city
+2320,Ormelle,45.7803,12.4197,Italy,ormelle,is_city
+2321,Borgorose,42.2,13.2333,Italy,borgorose,is_city
+2322,Morgano,45.6332,12.0867,Italy,morgano,is_city
+2323,Modigliana,44.1667,11.8,Italy,modigliana,is_city
+2324,Bisacquino,37.705,13.26,Italy,bisacquino,is_city
+2325,San Zenone al Lambro,45.3257,9.355,Italy,san zenone al lambro,is_city
+2326,Siculiana,37.3356,13.4225,Italy,siculiana,is_city
+2327,Bogliasco,44.3782,9.0698,Italy,bogliasco,is_city
+2328,Solarolo,44.3667,11.85,Italy,solarolo,is_city
+2329,Ghilarza,40.12,8.835,Italy,ghilarza,is_city
+2330,Torrenova,38.0925,14.6792,Italy,torrenova,is_city
+2331,Pedavena,46.0333,11.8833,Italy,pedavena,is_city
+2332,Capri Leone,38.0833,14.7333,Italy,capri leone,is_city
+2333,San Pietro in Gu,45.6102,11.6779,Italy,san pietro in gu,is_city
+2334,Toano,44.3833,10.5667,Italy,toano,is_city
+2335,Grosio,46.3,10.2833,Italy,grosio,is_city
+2336,Carru,44.4833,7.8833,Italy,carru,is_city
+2337,Briatico,38.7333,16.0333,Italy,briatico,is_city
+2338,Carpineto Romano,41.6,13.0833,Italy,carpineto romano,is_city
+2339,Latronico,40.0833,16.0167,Italy,latronico,is_city
+2340,Morano Calabro,39.85,16.1333,Italy,morano calabro,is_city
+2341,Acqualagna,43.6167,12.6712,Italy,acqualagna,is_city
+2342,Ischitella,41.9,15.9,Italy,ischitella,is_city
+2343,Calascibetta,37.5833,14.2667,Italy,calascibetta,is_city
+2344,Supersano,40.0167,18.25,Italy,supersano,is_city
+2345,Visciano,40.9238,14.5824,Italy,visciano,is_city
+2346,Terlano,46.5293,11.2487,Italy,terlano,is_city
+2347,Comun Nuovo,45.6228,9.6636,Italy,comun nuovo,is_city
+2348,Canneto sull'Oglio,45.15,10.3833,Italy,canneto sull'oglio,is_city
+2349,Tresigallo,44.816,11.8947,Italy,tresigallo,is_city
+2350,Uggiano la Chiesa,40.1,18.45,Italy,uggiano la chiesa,is_city
+2351,Castelfrentano,42.2,14.35,Italy,castelfrentano,is_city
+2352,Altomonte,39.7,16.1333,Italy,altomonte,is_city
+2353,Scansano,42.6897,11.3347,Italy,scansano,is_city
+2354,Tribano,45.2167,11.8333,Italy,tribano,is_city
+2355,Ameglia,44.0673,9.9575,Italy,ameglia,is_city
+2356,Ronco Scrivia,44.6082,8.9552,Italy,ronco scrivia,is_city
+2357,Montereale Valcellina,46.1667,12.6667,Italy,montereale valcellina,is_city
+2358,Usini,40.6633,8.5408,Italy,usini,is_city
+2359,Barberino di Val d'Elsa,43.5423,11.1715,Italy,barberino di val d'elsa,is_city
+2360,Bettona,43.0167,12.4833,Italy,bettona,is_city
+2361,Decimoputzu,39.3354,8.9149,Italy,decimoputzu,is_city
+2362,Rapolla,40.9833,15.6667,Italy,rapolla,is_city
+2363,Monastier di Treviso,45.65,12.4333,Italy,monastier di treviso,is_city
+2364,Capocasale,39.2333,16.25,Italy,capocasale,is_city
+2365,Favignana,37.9333,12.3333,Italy,favignana,is_city
+2366,Poiana Maggiore,45.2904,11.5025,Italy,poiana maggiore,is_city
+2367,Tarzo,45.9725,12.2339,Italy,tarzo,is_city
+2368,Livorno Ferraris,45.2833,8.0833,Italy,livorno ferraris,is_city
+2369,Santa Croce di Magliano,41.7167,14.9833,Italy,santa croce di magliano,is_city
+2370,Cannara,43.0,12.5833,Italy,cannara,is_city
+2371,San Quirino,46.0341,12.6785,Italy,san quirino,is_city
+2372,Montecchia di Crosara,45.4833,11.25,Italy,montecchia di crosara,is_city
+2373,Anguillara Veneta,45.15,11.8833,Italy,anguillara veneta,is_city
+2374,Arcevia,43.4833,12.9396,Italy,arcevia,is_city
+2375,Galzignano,45.308,11.7313,Italy,galzignano,is_city
+2376,Arcidosso,42.8722,11.5375,Italy,arcidosso,is_city
+2377,Amaseno,41.4667,13.3333,Italy,amaseno,is_city
+2378,Locate Varesino,45.6906,8.9308,Italy,locate varesino,is_city
+2379,Paglieta,42.1667,14.5,Italy,paglieta,is_city
+2380,Ponte Lambro,45.8333,9.2333,Italy,ponte lambro,is_city
+2381,Borghetto Lodigiano,45.2158,9.5003,Italy,borghetto lodigiano,is_city
+2382,Sossano,45.3667,11.5167,Italy,sossano,is_city
+2383,Vestone,45.7,10.4,Italy,vestone,is_city
+2384,Gazzo,45.5822,11.7064,Italy,gazzo,is_city
+2385,Vigolzone,44.9167,9.6667,Italy,vigolzone,is_city
+2386,Grisignano di Zocco,45.4833,11.7,Italy,grisignano di zocco,is_city
+2387,Loiano,44.2667,11.3167,Italy,loiano,is_city
+2388,Roana,45.8764,11.4628,Italy,roana,is_city
+2389,Ossona,45.5,8.9,Italy,ossona,is_city
+2390,Bianco,38.0917,16.1516,Italy,bianco,is_city
+2391,Malgrate,45.8489,9.3763,Italy,malgrate,is_city
+2392,Cene,45.7794,9.8258,Italy,cene,is_city
+2393,Torretta,38.1304,13.2355,Italy,torretta,is_city
+2394,Vezzano sul Crostolo,44.6,10.55,Italy,vezzano sul crostolo,is_city
+2395,Revello,44.65,7.3833,Italy,revello,is_city
+2396,Sant'Antonio di Susa,45.1071,7.2723,Italy,sant'antonio di susa,is_city
+2397,San Salvatore Monferrato,44.995,8.5669,Italy,san salvatore monferrato,is_city
+2398,Marcheno,45.7,10.2167,Italy,marcheno,is_city
+2399,Ariano nel Polesine,44.9461,12.1249,Italy,ariano nel polesine,is_city
+2400,Calvenzano,45.495,9.5994,Italy,calvenzano,is_city
+2401,Bastiglia,44.727,10.9986,Italy,bastiglia,is_city
+2402,Ripatransone,43.0002,13.7625,Italy,ripatransone,is_city
+2403,Palau,41.1833,9.3833,Italy,palau,is_city
+2404,Tarvisio,46.5,13.5667,Italy,tarvisio,is_city
+2405,Castelforte,41.3,13.8333,Italy,castelforte,is_city
+2406,San Gregorio Magno,40.65,15.4,Italy,san gregorio magno,is_city
+2407,Bova Marina,37.9333,15.9167,Italy,bova marina,is_city
+2408,Sant'Angelo de' Lombardi,40.9333,15.1833,Italy,sant'angelo de' lombardi,is_city
+2409,Torrevecchia Teatina,42.3833,14.2,Italy,torrevecchia teatina,is_city
+2410,Sissa,44.9618,10.2582,Italy,sissa,is_city
+2411,San Benedetto Val di Sambro,44.2167,11.2333,Italy,san benedetto val di sambro,is_city
+2412,Appignano,43.3641,13.3464,Italy,appignano,is_city
+2413,Bormio,46.4667,10.3667,Italy,bormio,is_city
+2414,Torricella,40.35,17.5,Italy,torricella,is_city
+2415,Piancastagnaio,42.85,11.6833,Italy,piancastagnaio,is_city
+2416,San Calogero,38.5667,16.0167,Italy,san calogero,is_city
+2417,Carpiano,45.3333,9.2667,Italy,carpiano,is_city
+2418,Orgosolo,40.2047,9.3526,Italy,orgosolo,is_city
+2419,Ussana,39.3938,9.0747,Italy,ussana,is_city
+2421,Rovetta,45.8833,9.9833,Italy,rovetta,is_city
+2422,Canale Monterano,42.1333,12.1,Italy,canale monterano,is_city
+2423,Fossalta di Piave,45.6475,12.5123,Italy,fossalta di piave,is_city
+2424,Vertemate,45.7333,9.0667,Italy,vertemate,is_city
+2425,Bolognetta,37.9646,13.456,Italy,bolognetta,is_city
+2426,Sabbioneta,44.9992,10.4897,Italy,sabbioneta,is_city
+2427,Altavilla Irpina,41.0081,14.7822,Italy,altavilla irpina,is_city
+2428,Francavilla in Sinni,40.0833,16.2,Italy,francavilla in sinni,is_city
+2429,Stanghella,45.1333,11.75,Italy,stanghella,is_city
+2430,Solbiate Arno,45.7167,8.8167,Italy,solbiate arno,is_city
+2431,Nusco,40.8869,15.0839,Italy,nusco,is_city
+2432,Berbenno di Valtellina,46.1667,9.75,Italy,berbenno di valtellina,is_city
+2433,Santa Maria Nuova,43.496,13.3107,Italy,santa maria nuova,is_city
+2434,Gorgo al Monticano,45.7333,12.5833,Italy,gorgo al monticano,is_city
+2435,Pofi,41.5667,13.4167,Italy,pofi,is_city
+2436,Boffalora sopra Ticino,45.4667,8.8333,Italy,boffalora sopra ticino,is_city
+2437,Fumane,45.5432,10.8818,Italy,fumane,is_city
+2438,Mazze,45.3,7.9333,Italy,mazze,is_city
+2439,Montopoli in Sabina,42.25,12.6833,Italy,montopoli in sabina,is_city
+2440,Cursi,40.15,18.3167,Italy,cursi,is_city
+2441,Travedona,45.8039,8.6725,Italy,travedona,is_city
+2442,Casirate d'Adda,45.5,9.5667,Italy,casirate d'adda,is_city
+2443,Santa Sofia,43.95,11.9,Italy,santa sofia,is_city
+2444,Mogoro,39.685,8.777,Italy,mogoro,is_city
+2445,Garda,45.5725,10.6717,Italy,garda,is_city
+2446,Sondalo,46.3333,10.3333,Italy,sondalo,is_city
+2447,Lallio,45.6661,9.6314,Italy,lallio,is_city
+2448,Sori,44.3727,9.1042,Italy,sori,is_city
+2449,Stigliano,40.4,16.2333,Italy,stigliano,is_city
+2450,Brembilla,45.8167,9.6,Italy,brembilla,is_city
+2451,Roccalumera,37.9706,15.39,Italy,roccalumera,is_city
+2452,San Pietro a Maida,38.85,16.35,Italy,san pietro a maida,is_city
+2453,Offlaga,45.3833,10.1167,Italy,offlaga,is_city
+2454,Moretta,44.7614,7.5363,Italy,moretta,is_city
+2455,Castelmassa,45.0167,11.3167,Italy,castelmassa,is_city
+2456,Carpino,41.75,15.8417,Italy,carpino,is_city
+2457,Moiano,41.0833,14.55,Italy,moiano,is_city
+2458,Limatola,41.15,14.4,Italy,limatola,is_city
+2459,Tollo,42.3454,14.3236,Italy,tollo,is_city
+2460,Avio,45.7333,10.95,Italy,avio,is_city
+2461,Liscate,45.4833,9.4167,Italy,liscate,is_city
+2462,Agordo,46.2822,12.0344,Italy,agordo,is_city
+2463,Covo,45.5,9.7667,Italy,covo,is_city
+2464,Pomarico,40.5167,16.55,Italy,pomarico,is_city
+2465,Casirile,45.3167,9.1,Italy,casirile,is_city
+2468,Sant'Eufemia d'Aspromonte,38.2667,15.8667,Italy,sant'eufemia d'aspromonte,is_city
+2469,Sirolo,43.526,13.616,Italy,sirolo,is_city
+2470,Capalbio,42.4542,11.4225,Italy,capalbio,is_city
+2471,Isorella,45.3092,10.3233,Italy,isorella,is_city
+2472,San Salvatore Telesino,41.2333,14.5,Italy,san salvatore telesino,is_city
+2473,Cavalese,46.2906,11.4593,Italy,cavalese,is_city
+2474,Sant'Angelo in Vado,43.6647,12.413,Italy,sant'angelo in vado,is_city
+2475,Premariacco,46.0667,13.4,Italy,premariacco,is_city
+2476,Pietragalla,40.75,15.8833,Italy,pietragalla,is_city
+2477,Quarona,45.7579,8.2657,Italy,quarona,is_city
+2478,Rolo,44.8833,10.85,Italy,rolo,is_city
+2479,Allumiere,42.1569,11.9047,Italy,allumiere,is_city
+2480,Sogliano Cavour,40.15,18.2,Italy,sogliano cavour,is_city
+2481,Medole,45.3333,10.5167,Italy,medole,is_city
+2482,Pescina,42.0264,13.6589,Italy,pescina,is_city
+2483,Arnesano,40.3333,18.1,Italy,arnesano,is_city
+2484,Ballabio,45.9,9.4167,Italy,ballabio,is_city
+2485,Ripa Teatina,42.35,14.2333,Italy,ripa teatina,is_city
+2486,Norma,41.5833,12.9667,Italy,norma,is_city
+2487,Talmassons,45.9333,13.1167,Italy,talmassons,is_city
+2488,Villar Perosa,44.9167,7.25,Italy,villar perosa,is_city
+2489,Vasanello,42.4144,12.3475,Italy,vasanello,is_city
+2490,Capoliveri,42.75,10.3833,Italy,capoliveri,is_city
+2491,Sardara,39.6139,8.8215,Italy,sardara,is_city
+2492,Saluggia,45.2333,8.0167,Italy,saluggia,is_city
+2493,Cusano Mutri,41.3389,14.5086,Italy,cusano mutri,is_city
+2494,Lasa,46.6167,10.7,Italy,lasa,is_city
+2495,Civezzano,46.0833,11.1667,Italy,civezzano,is_city
+2496,Collesano,37.9167,13.9333,Italy,collesano,is_city
+2497,Cappelle sul Tavo,42.4667,14.1,Italy,cappelle sul tavo,is_city
+2498,Gibellina,37.8167,12.8667,Italy,gibellina,is_city
+2499,Marsico Nuovo,40.4167,15.7333,Italy,marsico nuovo,is_city
+2500,Sanguinetto,45.1829,11.1515,Italy,sanguinetto,is_city
+2501,Buttrio,46.0167,13.3333,Italy,buttrio,is_city
+2502,Carpineti,44.4567,10.5206,Italy,carpineti,is_city
+2503,Aiello del Sabato,40.89,14.8217,Italy,aiello del sabato,is_city
+2504,Casazza,45.7486,9.9063,Italy,casazza,is_city
+2505,Bari Sardo,39.8414,9.6472,Italy,bari sardo,is_city
+2506,Cesiomaggiore,46.0833,11.9833,Italy,cesiomaggiore,is_city
+2507,Venetico,38.2199,15.3667,Italy,venetico,is_city
+2508,Fiesso Umbertiano,44.9667,11.6,Italy,fiesso umbertiano,is_city
+2509,Castrocielo,41.5333,13.7,Italy,castrocielo,is_city
+2510,Lugagnano Val d'Arda,44.8167,9.8167,Italy,lugagnano val d'arda,is_city
+2511,Vicovaro,42.0178,12.8969,Italy,vicovaro,is_city
+2512,Piedimonte Etneo,37.8067,15.1792,Italy,piedimonte etneo,is_city
+2513,Occhieppo Inferiore,45.5167,8.0,Italy,occhieppo inferiore,is_city
+2514,Brentonico,45.8167,10.95,Italy,brentonico,is_city
+2515,Lattarico,39.4667,16.1333,Italy,lattarico,is_city
+2516,Nuvolento,45.5444,10.385,Italy,nuvolento,is_city
+2517,Rosciano,42.3223,14.0456,Italy,rosciano,is_city
+2518,Bolsena,42.6447,11.9858,Italy,bolsena,is_city
+2519,Sant'Omobono Imagna,45.8093,9.5373,Italy,sant'omobono imagna,is_city
+2520,Vescovato,45.1667,10.1667,Italy,vescovato,is_city
+2521,Annone Veneto,45.8,12.6833,Italy,annone veneto,is_city
+2522,Vermezzo,45.4,8.9667,Italy,vermezzo,is_city
+2523,Palomonte,40.6667,15.3,Italy,palomonte,is_city
+2524,Falerna,39.0,16.1667,Italy,falerna,is_city
+2525,Tertenia,39.6964,9.5789,Italy,tertenia,is_city
+2526,Caltavuturo,37.8167,13.8833,Italy,caltavuturo,is_city
+2527,Saponara Villafranca,38.2,15.4333,Italy,saponara villafranca,is_city
+2528,Castrignano de' Greci,40.2,18.3,Italy,castrignano de' greci,is_city
+2529,Piraino,38.1617,14.8611,Italy,piraino,is_city
+2530,Moliterno,40.24,15.86,Italy,moliterno,is_city
+2531,Positano,40.6278,14.4819,Italy,positano,is_city
+2532,Santo Stefano Belbo,44.7,8.2333,Italy,santo stefano belbo,is_city
+2533,Guiglia,44.425,10.9631,Italy,guiglia,is_city
+2534,San Genesio ed Uniti,45.2667,9.2167,Italy,san genesio ed uniti,is_city
+2535,San Benedetto de' Marsi,42.0076,13.6238,Italy,san benedetto de' marsi,is_city
+2536,Polesella,44.9667,11.75,Italy,polesella,is_city
+2537,Arborea,39.7728,8.5813,Italy,arborea,is_city
+2538,Sabbio Chiese,45.65,10.4333,Italy,sabbio chiese,is_city
+2539,Mathi,45.2667,7.5333,Italy,mathi,is_city
+2540,Giano dell'Umbria,42.8333,12.5833,Italy,giano dell'umbria,is_city
+2541,Casalbuttano,45.25,9.9667,Italy,casalbuttano,is_city
+2542,Fonni,40.1188,9.2536,Italy,fonni,is_city
+2543,Romagnano Sesia,45.6333,8.3833,Italy,romagnano sesia,is_city
+2544,San Lorenzo di Sebato,46.7835,11.9031,Italy,san lorenzo di sebato,is_city
+2545,Contigliano,42.4167,12.7667,Italy,contigliano,is_city
+2546,Scarlino,42.9081,10.8508,Italy,scarlino,is_city
+2547,Paduli,41.1667,14.8833,Italy,paduli,is_city
+2548,San Martino di Venezze,45.1333,11.8667,Italy,san martino di venezze,is_city
+2549,Orsago,45.9333,12.4167,Italy,orsago,is_city
+2550,Serracapriola,41.8,15.1667,Italy,serracapriola,is_city
+2551,Cittiglio,45.8964,8.6649,Italy,cittiglio,is_city
+2552,Tiriolo,38.95,16.5,Italy,tiriolo,is_city
+2553,Pratola Serra,40.9833,14.85,Italy,pratola serra,is_city
+2554,Agnadello,45.45,9.5667,Italy,agnadello,is_city
+2555,Pavone Canavese,45.45,7.85,Italy,pavone canavese,is_city
+2556,Trana,45.0333,7.4167,Italy,trana,is_city
+2557,Paderno d'Adda,45.6833,9.45,Italy,paderno d'adda,is_city
+2558,Cessalto,45.7167,12.6167,Italy,cessalto,is_city
+2559,Francavilla di Sicilia,37.9015,15.1359,Italy,francavilla di sicilia,is_city
+2560,Pernumia,45.2667,11.7833,Italy,pernumia,is_city
+2561,Cerreto Sannita,41.2853,14.5597,Italy,cerreto sannita,is_city
+2562,Casole d'Elsa,43.3411,11.0485,Italy,casole d'elsa,is_city
+2563,Bagolino,45.8231,10.464,Italy,bagolino,is_city
+2564,Budduso,40.5782,9.2582,Italy,budduso,is_city
+2565,Casola di Napoli,40.6944,14.5278,Italy,casola di napoli,is_city
+2566,Dovera,45.3667,9.5333,Italy,dovera,is_city
+2567,Plati,38.2167,16.05,Italy,plati,is_city
+2568,Montemesola,40.5667,17.3333,Italy,montemesola,is_city
+2569,Fagnano Castello,39.5667,16.05,Italy,fagnano castello,is_city
+2570,Battaglia Terme,45.2894,11.7796,Italy,battaglia terme,is_city
+2571,Ronca,45.4833,11.2833,Italy,ronca,is_city
+2572,Cavriana,45.35,10.6,Italy,cavriana,is_city
+2573,Villa Lagarina,45.9167,11.0333,Italy,villa lagarina,is_city
+2574,Orsogna,42.2167,14.2833,Italy,orsogna,is_city
+2575,Oriolo Romano,42.1578,12.1378,Italy,oriolo romano,is_city
+2576,Maletto,37.8333,14.8667,Italy,maletto,is_city
+2577,Lograto,45.4833,10.05,Italy,lograto,is_city
+2578,Bisaccia,41.0131,15.3756,Italy,bisaccia,is_city
+2579,Follina,45.95,12.1167,Italy,follina,is_city
+2580,Petacciato,42.0167,14.8667,Italy,petacciato,is_city
+2581,Manta,44.6167,7.4833,Italy,manta,is_city
+2582,Scoppito,42.3739,13.2558,Italy,scoppito,is_city
+2583,Salizzole,45.25,11.0833,Italy,salizzole,is_city
+2584,Esperia,41.3833,13.6833,Italy,esperia,is_city
+2585,Mongrando,45.5167,8.0,Italy,mongrando,is_city
+2586,Aquaviva Picena,42.9447,13.8135,Italy,aquaviva picena,is_city
+2587,Tromello,45.2167,8.8667,Italy,tromello,is_city
+2588,Corchiano,42.3458,12.3564,Italy,corchiano,is_city
+2589,Bienno,45.9367,10.2942,Italy,bienno,is_city
+2590,Pieve di Cadore,46.4333,12.3667,Italy,pieve di cadore,is_city
+2591,Piobesi Torinese,44.9329,7.6101,Italy,piobesi torinese,is_city
+2592,Sangano,45.0333,7.45,Italy,sangano,is_city
+2593,Fara Vicentino,45.7333,11.55,Italy,fara vicentino,is_city
+2594,Solopaca,41.1833,14.55,Italy,solopaca,is_city
+2595,Pompiano,45.4333,9.9833,Italy,pompiano,is_city
+2596,Gaglianico,45.55,8.1167,Italy,gaglianico,is_city
+2597,Lestizza,45.95,13.1333,Italy,lestizza,is_city
+2598,Castagnole Lanze,44.7522,8.1514,Italy,castagnole lanze,is_city
+2599,Serra de' Conti,43.5422,13.0377,Italy,serra de' conti,is_city
+2600,Tuoro sul Trasimeno,43.2068,12.0746,Italy,tuoro sul trasimeno,is_city
+2601,Castions di Strada,45.9,13.1833,Italy,castions di strada,is_city
+2602,Sedegliano,46.0139,12.9747,Italy,sedegliano,is_city
+2603,Prignano sulla Secchia,44.4369,10.6908,Italy,prignano sulla secchia,is_city
+2604,Numana,43.5136,13.6216,Italy,numana,is_city
+2605,San Giovanni a Piro,40.05,15.4333,Italy,san giovanni a piro,is_city
+2606,Oppido Lucano,40.7667,15.9833,Italy,oppido lucano,is_city
+2607,Canossa,44.5736,10.4553,Italy,canossa,is_city
+2608,Verolavecchia,45.3333,10.05,Italy,verolavecchia,is_city
+2609,Civitella di Romagna,44.0,11.9333,Italy,civitella di romagna,is_city
+2610,Pitigliano,42.6344,11.6683,Italy,pitigliano,is_city
+2611,Carpignano Salentino,40.197,18.3384,Italy,carpignano salentino,is_city
+2612,Castagnaro,45.1208,11.4108,Italy,castagnaro,is_city
+2613,Grumolo delle Abbadesse,45.5167,11.6667,Italy,grumolo delle abbadesse,is_city
+2614,Bellagio,45.9875,9.2619,Italy,bellagio,is_city
+2615,Colonnella,42.8723,13.8699,Italy,colonnella,is_city
+2616,Saracena,39.7667,16.15,Italy,saracena,is_city
+2617,Goro,44.8518,12.2959,Italy,goro,is_city
+2618,Massa Martana,42.7833,12.5167,Italy,massa martana,is_city
+2619,Pontelongo,45.25,12.0167,Italy,pontelongo,is_city
+2620,Porto Azzurro,42.7667,10.4,Italy,porto azzurro,is_city
+2621,Oliveto Citra,40.6894,15.2311,Italy,oliveto citra,is_city
+2622,Carasco,44.3517,9.3441,Italy,carasco,is_city
+2623,Caldonazzo,46.0,11.2667,Italy,caldonazzo,is_city
+2624,Gallicano,44.0667,10.4333,Italy,gallicano,is_city
+2625,Taino,45.7667,8.6167,Italy,taino,is_city
+2626,Mondavio,43.6741,12.9683,Italy,mondavio,is_city
+2627,Parcines,46.6842,11.0733,Italy,parcines,is_city
+2628,Deliceto,41.2167,15.3833,Italy,deliceto,is_city
+2629,Chiarano,45.73,12.5813,Italy,chiarano,is_city
+2630,Cercemaggiore,41.4667,14.7167,Italy,cercemaggiore,is_city
+2631,Villasimius,39.1422,9.5206,Italy,villasimius,is_city
+2632,Romans d'Isonzo,45.8833,13.4333,Italy,romans d'isonzo,is_city
+2633,Dubino,46.15,9.45,Italy,dubino,is_city
+2634,San Luca,38.15,16.0667,Italy,san luca,is_city
+2635,Vaiano Cremasco,45.3731,9.5883,Italy,vaiano cremasco,is_city
+2636,Miradolo Terme,45.1724,9.4487,Italy,miradolo terme,is_city
+2637,Spotorno,44.2271,8.4192,Italy,spotorno,is_city
+2638,Cerreto d'Esi,43.3197,12.9848,Italy,cerreto d'esi,is_city
+2639,Ciminna,37.9,13.5667,Italy,ciminna,is_city
+2640,Colli del Tronto,42.8781,13.7482,Italy,colli del tronto,is_city
+2641,Masone,44.5036,8.712,Italy,masone,is_city
+2642,Voghenza,44.7667,11.75,Italy,voghenza,is_city
+2643,Magliano Sabina,42.3667,12.4833,Italy,magliano sabina,is_city
+2644,Monghidoro,44.2167,11.3167,Italy,monghidoro,is_city
+2645,Vidor,45.8667,12.0333,Italy,vidor,is_city
+2646,Malcesine,45.7667,10.8167,Italy,malcesine,is_city
+2647,Tufino,40.95,14.5667,Italy,tufino,is_city
+2648,Spongano,40.0167,18.3667,Italy,spongano,is_city
+2649,Ricco del Golfo di Spezia,44.1531,9.7639,Italy,ricco del golfo di spezia,is_city
+2650,Fauglia,43.5667,10.5167,Italy,fauglia,is_city
+2651,Nizza di Sicilia,37.9947,15.4128,Italy,nizza di sicilia,is_city
+2652,Cattolica Eraclea,37.4419,13.3928,Italy,cattolica eraclea,is_city
+2653,Frigento,41.0122,15.1006,Italy,frigento,is_city
+2654,Paderno Franciacorta,45.5889,10.0775,Italy,paderno franciacorta,is_city
+2655,Baldissero Torinese,45.0667,7.8167,Italy,baldissero torinese,is_city
+2656,Villa Minozzo,44.3667,10.45,Italy,villa minozzo,is_city
+2657,Scafa,42.2657,13.9967,Italy,scafa,is_city
+2658,Rodi Garganico,41.8961,15.8653,Italy,rodi garganico,is_city
+2659,Rotondi,41.0325,14.5958,Italy,rotondi,is_city
+2660,Cavaglia,45.4,8.0833,Italy,cavaglia,is_city
+2661,Chiusa di Pesio,44.3167,7.6833,Italy,chiusa di pesio,is_city
+2662,Squillace,38.7833,16.5167,Italy,squillace,is_city
+2663,Sant'Oreste,42.2333,12.5167,Italy,sant'oreste,is_city
+2664,San Pietro in Guarano,39.3333,16.3167,Italy,san pietro in guarano,is_city
+2665,Bene Vagienna,44.5453,7.8331,Italy,bene vagienna,is_city
+2666,Nogarole Rocca,45.2833,10.8833,Italy,nogarole rocca,is_city
+2667,Montaione,43.5533,10.9117,Italy,montaione,is_city
+2668,Faicchio,41.2833,14.4833,Italy,faicchio,is_city
+2669,Tione di Trento,46.0333,10.7333,Italy,tione di trento,is_city
+2670,Artogne,45.8506,10.1619,Italy,artogne,is_city
+2671,San Vito,39.4419,9.5404,Italy,san vito,is_city
+2672,Magliano de' Marsi,42.0925,13.3647,Italy,magliano de' marsi,is_city
+2673,Migliarino,44.7667,11.9333,Italy,migliarino,is_city
+2674,Falciano Selice,41.1667,13.95,Italy,falciano selice,is_city
+2675,Lascari,38.0,13.9333,Italy,lascari,is_city
+2676,Pradamano,46.0333,13.3,Italy,pradamano,is_city
+2677,Bagnoli di Sopra,45.1833,11.8833,Italy,bagnoli di sopra,is_city
+2678,Molteno,45.7833,9.3,Italy,molteno,is_city
+2679,Bagnoregio,42.63,12.0892,Italy,bagnoregio,is_city
+2680,Mignanego,44.5278,8.9152,Italy,mignanego,is_city
+2681,Neviano degli Arduini,44.5833,10.3167,Italy,neviano degli arduini,is_city
+2682,Limbadi,38.5667,15.9667,Italy,limbadi,is_city
+2683,Pontecurone,44.9611,8.935,Italy,pontecurone,is_city
+2684,Minervino di Lecce,40.1,18.4333,Italy,minervino di lecce,is_city
+2685,Baunei,40.0309,9.6643,Italy,baunei,is_city
+2686,Airasca,44.9167,7.4833,Italy,airasca,is_city
+2687,Borgofranco d'Ivrea,45.5167,7.8667,Italy,borgofranco d'ivrea,is_city
+2688,Bivona,37.6183,13.4405,Italy,bivona,is_city
+2689,Morro d'Oro,42.6667,13.9167,Italy,morro d'oro,is_city
+2690,Pont-Saint-Martin,45.6,7.8,Italy,pont-saint-martin,is_city
+2691,Diano d'Alba,44.65,8.0333,Italy,diano d'alba,is_city
+2692,San Fratello,38.0128,14.5974,Italy,san fratello,is_city
+2693,Montecalvo Irpino,41.1967,15.0342,Italy,montecalvo irpino,is_city
+2694,Colliano,40.7333,15.2833,Italy,colliano,is_city
+2695,Bobbio,44.7715,9.3864,Italy,bobbio,is_city
+2696,Asso,45.8667,9.2667,Italy,asso,is_city
+2697,Montelupone,43.3443,13.5676,Italy,montelupone,is_city
+2698,Piegaro,42.9667,12.0833,Italy,piegaro,is_city
+2699,Ghemme,45.6,8.4167,Italy,ghemme,is_city
+2700,Pozzonovo,45.2,11.7833,Italy,pozzonovo,is_city
+2701,Amandola,42.9801,13.3575,Italy,amandola,is_city
+2702,Bosco Chiesanuova,45.6167,11.0333,Italy,bosco chiesanuova,is_city
+2703,Albuzzano,45.1833,9.2667,Italy,albuzzano,is_city
+2704,Caltabellotta,37.5757,13.2186,Italy,caltabellotta,is_city
+2705,Massa Fiscaglia,44.8094,12.0145,Italy,massa fiscaglia,is_city
+2706,Pozzolengo,45.4069,10.6339,Italy,pozzolengo,is_city
+2707,Sergnano,45.4333,9.7,Italy,sergnano,is_city
+2708,Lucignano,43.2745,11.746,Italy,lucignano,is_city
+2709,Gioia Sannitica,41.3,14.45,Italy,gioia sannitica,is_city
+2710,Ceregnano,45.0333,11.8667,Italy,ceregnano,is_city
+2711,San Leonardo in Passiria,46.8128,11.2458,Italy,san leonardo in passiria,is_city
+2712,Brancaleone Superiore,37.9639,16.1011,Italy,brancaleone superiore,is_city
+2713,Villamassargia,39.2757,8.6406,Italy,villamassargia,is_city
+2714,Portovenere,44.05,9.8333,Italy,portovenere,is_city
+2715,Ruoti,40.7167,15.6833,Italy,ruoti,is_city
+2716,San Vito di Leguzzano,45.6833,11.3833,Italy,san vito di leguzzano,is_city
+2717,Magliano in Toscana,42.5989,11.2931,Italy,magliano in toscana,is_city
+2718,San Pietro in Lama,40.3,18.1167,Italy,san pietro in lama,is_city
+2719,Gagliano Castelferrato,37.7167,14.5333,Italy,gagliano castelferrato,is_city
+2720,Aci Bonaccorsi,37.5955,15.1095,Italy,aci bonaccorsi,is_city
+2721,Miggiano,39.9667,18.3167,Italy,miggiano,is_city
+2722,Alia,37.7833,13.7167,Italy,alia,is_city
+2723,Castelplanio,43.4945,13.0809,Italy,castelplanio,is_city
+2724,Monasterace,38.4536,16.5531,Italy,monasterace,is_city
+2725,Pravisdomini,45.8167,12.6833,Italy,pravisdomini,is_city
+2726,Valledolmo,37.75,13.8333,Italy,valledolmo,is_city
+2727,Faggiano,40.4162,17.3886,Italy,faggiano,is_city
+2728,Marano Marchesato,39.3167,16.1667,Italy,marano marchesato,is_city
+2729,Badia,46.6111,11.8944,Italy,badia,is_city
+2730,Narzole,44.6,7.8667,Italy,narzole,is_city
+2731,Tribiano,45.4167,9.3833,Italy,tribiano,is_city
+2732,Laterina,43.5092,11.7192,Italy,laterina,is_city
+2733,Ardesio,45.9381,9.93,Italy,ardesio,is_city
+2734,Bagnario Arsa,45.8833,13.2833,Italy,bagnario arsa,is_city
+2735,Tronzano Vercellese,45.35,8.1667,Italy,tronzano vercellese,is_city
+2736,Bressana Bottarone,45.0781,9.1312,Italy,bressana bottarone,is_city
+2737,Satriano,38.6667,16.4667,Italy,satriano,is_city
+2738,Bovolenta,45.2667,11.9333,Italy,bovolenta,is_city
+2739,Mairano,45.45,10.0833,Italy,mairano,is_city
+2740,San Paolo Bel Sito,40.9167,14.55,Italy,san paolo bel sito,is_city
+2741,Alanno,42.3,13.9667,Italy,alanno,is_city
+2742,Zapponeta,41.45,15.9667,Italy,zapponeta,is_city
+2743,Citerna,43.5,12.1167,Italy,citerna,is_city
+2744,Neive,44.7167,8.1167,Italy,neive,is_city
+2745,Beinette,44.3667,7.65,Italy,beinette,is_city
+2746,Endine Gaiano,45.7833,9.9667,Italy,endine gaiano,is_city
+2747,Casal Fiumanese,44.3,11.6333,Italy,casal fiumanese,is_city
+2748,Casale Corte Cerro,45.9167,8.4167,Italy,casale corte cerro,is_city
+2749,Loreo,45.0667,12.2,Italy,loreo,is_city
+2750,Montefano,43.4116,13.4387,Italy,montefano,is_city
+2751,Pescaglia,43.9667,10.4167,Italy,pescaglia,is_city
+2752,Piadena,45.1333,10.3667,Italy,piadena,is_city
+2753,Balsorano Nuovo,41.8098,13.5598,Italy,balsorano nuovo,is_city
+2754,Cengio,44.3877,8.2085,Italy,cengio,is_city
+2755,Altidona,43.1068,13.794,Italy,altidona,is_city
+2756,Collazzone,42.9,12.4333,Italy,collazzone,is_city
+2757,Gesualdo,41.0078,15.0733,Italy,gesualdo,is_city
+2758,Lauro,40.8792,14.6331,Italy,lauro,is_city
+2759,San Demetrio Corone,39.5667,16.3667,Italy,san demetrio corone,is_city
+2760,Sassocorvaro,43.7799,12.4972,Italy,sassocorvaro,is_city
+2761,Fornovo San Giovanni,45.4968,9.6773,Italy,fornovo san giovanni,is_city
+2762,Ornavasso,45.9667,8.4,Italy,ornavasso,is_city
+2763,Montalto Dora,45.4833,7.8667,Italy,montalto dora,is_city
+2764,Caposele,40.8153,15.2242,Italy,caposele,is_city
+2765,Lusia,45.1,11.6667,Italy,lusia,is_city
+2766,Bosisio Parini,45.8,9.2833,Italy,bosisio parini,is_city
+2767,Cimadolmo,45.7833,12.3667,Italy,cimadolmo,is_city
+2768,Castione della Presolana,45.9,10.0333,Italy,castione della presolana,is_city
+2769,Castel di Casio,44.1667,11.0333,Italy,castel di casio,is_city
+2770,Dosolo,44.95,10.6333,Italy,dosolo,is_city
+2771,Sarsina,43.9167,12.15,Italy,sarsina,is_city
+2772,Castelliri,41.6833,13.55,Italy,castelliri,is_city
+2773,Sicignano degli Alburni,40.5597,15.307,Italy,sicignano degli alburni,is_city
+2774,Torrecuso,41.1833,14.6833,Italy,torrecuso,is_city
+2775,Valfabbrica,43.1667,12.6,Italy,valfabbrica,is_city
+2776,Cianciana,37.5214,13.4344,Italy,cianciana,is_city
+2777,Roccamonfina,41.3,13.9833,Italy,roccamonfina,is_city
+2778,San Felice del Benaco,45.5833,10.55,Italy,san felice del benaco,is_city
+2779,Ripalta Cremasca,45.3333,9.7,Italy,ripalta cremasca,is_city
+2780,Roncofreddo,44.0423,12.3187,Italy,roncofreddo,is_city
+2781,Bonorva,40.4167,8.7667,Italy,bonorva,is_city
+2782,Santadi,39.0937,8.7149,Italy,santadi,is_city
+2783,Remedello Sopra,45.2792,10.3728,Italy,remedello sopra,is_city
+2784,Vallelunga Pratameno,37.6833,13.8167,Italy,vallelunga pratameno,is_city
+2785,Forno Canavese,45.35,7.5833,Italy,forno canavese,is_city
+2786,Dongo,46.13,9.2817,Italy,dongo,is_city
+2787,Gressan,45.7167,7.2833,Italy,gressan,is_city
+2788,San Ginesio,43.1078,13.3167,Italy,san ginesio,is_city
+2789,Monsano,43.5636,13.2502,Italy,monsano,is_city
+2790,Carolei,39.25,16.2167,Italy,carolei,is_city
+2791,Costa di Mezzate,45.6667,9.8,Italy,costa di mezzate,is_city
+2792,Roccabernarda,39.1333,16.8667,Italy,roccabernarda,is_city
+2793,San Lorenzo del Vallo,39.6667,16.3,Italy,san lorenzo del vallo,is_city
+2794,Sale Marasino,45.7167,10.1167,Italy,sale marasino,is_city
+2795,Ceppaloni,41.05,14.7667,Italy,ceppaloni,is_city
+2796,Oulx,45.0333,6.8333,Italy,oulx,is_city
+2797,Pontida,45.734,9.5064,Italy,pontida,is_city
+2798,Bedonia,44.5,9.6333,Italy,bedonia,is_city
+2799,San Candido,46.7324,12.2785,Italy,san candido,is_city
+2800,San Giusto Canavese,45.3167,7.8167,Italy,san giusto canavese,is_city
+2801,Viggiano,40.3333,15.9,Italy,viggiano,is_city
+2802,Dobbiaco,46.7344,12.2229,Italy,dobbiaco,is_city
+2803,Costigliole Saluzzo,44.5667,7.4833,Italy,costigliole saluzzo,is_city
+2804,Vernate,45.3167,9.0667,Italy,vernate,is_city
+2805,Viano,44.5437,10.6216,Italy,viano,is_city
+2806,Polverara,45.3094,11.956,Italy,polverara,is_city
+2807,Grottazzolina,43.111,13.6009,Italy,grottazzolina,is_city
+2808,Contursi,40.6333,15.2333,Italy,contursi,is_city
+2809,Falerone,43.1077,13.4733,Italy,falerone,is_city
+2810,Marene,44.6667,7.7333,Italy,marene,is_city
+2811,Vellezzo Bellini,45.2667,9.1,Italy,vellezzo bellini,is_city
+2812,Maslianico,45.8428,9.0472,Italy,maslianico,is_city
+2814,Millesimo,44.3644,8.2059,Italy,millesimo,is_city
+2815,Biandronno,45.8167,8.7167,Italy,biandronno,is_city
+2816,Rocca Imperiale,40.1064,16.5949,Italy,rocca imperiale,is_city
+2817,Montese,44.2694,10.9458,Italy,montese,is_city
+2818,Delianuova,38.2333,15.9167,Italy,delianuova,is_city
+2819,Furci Siculo,37.9614,15.3819,Italy,furci siculo,is_city
+2820,Sorano,42.6819,11.7142,Italy,sorano,is_city
+2821,Vibonati,40.1,15.5833,Italy,vibonati,is_city
+2822,Vinchiaturo,41.5,14.5833,Italy,vinchiaturo,is_city
+2823,Sperlonga,41.2667,13.4333,Italy,sperlonga,is_city
+2824,Ferrazzano,41.5333,14.6667,Italy,ferrazzano,is_city
+2825,San Vito Romano,41.8833,12.9833,Italy,san vito romano,is_city
+2826,Villafrati,37.9,13.4833,Italy,villafrati,is_city
+2827,Pont Canavese,45.4167,7.6,Italy,pont canavese,is_city
+2828,Aquileia,45.7667,13.3667,Italy,aquileia,is_city
+2829,Auronzo di Cadore,46.55,12.4333,Italy,auronzo di cadore,is_city
+2830,San Marco dei Cavoti,41.3108,14.8806,Italy,san marco dei cavoti,is_city
+2831,Ospedaletti,43.8006,7.7177,Italy,ospedaletti,is_city
+2832,Gimigliano,38.9667,16.5333,Italy,gimigliano,is_city
+2833,San Giovanni Incarico,41.5,13.55,Italy,san giovanni incarico,is_city
+2834,Narcao,39.1667,8.6833,Italy,narcao,is_city
+2835,Foglianise,41.1601,14.6718,Italy,foglianise,is_city
+2836,Blera,42.2733,12.0325,Italy,blera,is_city
+2837,Castellana Sicula,37.7833,14.05,Italy,castellana sicula,is_city
+2838,Montefalcione,40.9625,14.8847,Italy,montefalcione,is_city
+2839,Miane,45.95,12.1,Italy,miane,is_city
+2840,Scalenghe,44.8927,7.4936,Italy,scalenghe,is_city
+2841,Gais,46.8333,11.95,Italy,gais,is_city
+2842,Caronia,38.0167,14.4333,Italy,caronia,is_city
+2843,Casamarciano,40.9319,14.5532,Italy,casamarciano,is_city
+2844,Agna,45.1667,11.9667,Italy,agna,is_city
+2845,Ardenno,46.1667,9.65,Italy,ardenno,is_city
+2846,Baiso,44.5019,10.6047,Italy,baiso,is_city
+2847,Oschiri,40.719,9.1015,Italy,oschiri,is_city
+2848,Godiasco,44.9,9.05,Italy,godiasco,is_city
+2849,Bovino,41.25,15.35,Italy,bovino,is_city
+2850,Delebio,46.1333,9.4667,Italy,delebio,is_city
+2851,Cogollo del Cengio,45.7856,11.4269,Italy,cogollo del cengio,is_city
+2852,San Lorenzo in Campo,43.6049,12.9462,Italy,san lorenzo in campo,is_city
+2853,Morolo,41.6333,13.2,Italy,morolo,is_city
+2854,Corio,45.3167,7.5333,Italy,corio,is_city
+2855,Morciano di Leuca,39.85,18.3167,Italy,morciano di leuca,is_city
+2856,Montemaggiore Belsito,37.85,13.7667,Italy,montemaggiore belsito,is_city
+2857,Castel Ritaldi,42.8233,12.6722,Italy,castel ritaldi,is_city
+2858,Petralia Soprana,37.8,14.1,Italy,petralia soprana,is_city
+2859,Polizzi Generosa,37.8119,13.9992,Italy,polizzi generosa,is_city
+2860,Borgo Tossignano,44.2833,11.5833,Italy,borgo tossignano,is_city
+2861,Brebbia,45.8333,8.65,Italy,brebbia,is_city
+2862,Cinto Caomaggiore,45.8333,12.7833,Italy,cinto caomaggiore,is_city
+2863,Camporeale,37.9,13.1,Italy,camporeale,is_city
+2864,Santa Marina,40.1,15.55,Italy,santa marina,is_city
+2865,Cessaniti,38.6667,16.0333,Italy,cessaniti,is_city
+2866,Valle Mosso,45.6167,8.15,Italy,valle mosso,is_city
+2867,Sogliano al Rubicone,44.0,12.3,Italy,sogliano al rubicone,is_city
+2868,Scerni,42.1167,14.5667,Italy,scerni,is_city
+2869,Bibbona,43.2694,10.5944,Italy,bibbona,is_city
+2870,Casnigo,45.8164,9.8667,Italy,casnigo,is_city
+2871,Stienta,44.9333,11.55,Italy,stienta,is_city
+2872,Sarnano,43.0356,13.3007,Italy,sarnano,is_city
+2873,Andorno Micca,45.6,8.05,Italy,andorno micca,is_city
+2874,Mezzani,44.9167,10.4333,Italy,mezzani,is_city
+2875,Abbadia Lariana,45.9,9.3333,Italy,abbadia lariana,is_city
+2876,Gaggi,37.8601,15.2215,Italy,gaggi,is_city
+2877,Saint-Pierre,45.71,7.226,Italy,saint-pierre,is_city
+2878,San Biagio Platani,37.51,13.5264,Italy,san biagio platani,is_city
+2879,Ro,44.9472,11.7611,Italy,ro,is_city
+2880,Perosa Argentina,44.95,7.2,Italy,perosa argentina,is_city
+2881,Volturara Irpina,40.8833,14.9167,Italy,volturara irpina,is_city
+2882,Antegnate,45.4853,9.7889,Italy,antegnate,is_city
+2883,Bellano,46.0432,9.3061,Italy,bellano,is_city
+2884,Coazze,45.0518,7.3006,Italy,coazze,is_city
+2885,San Michele di Ganzaria,37.2833,14.4333,Italy,san michele di ganzaria,is_city
+2886,Manocalzati,40.9425,14.8506,Italy,manocalzati,is_city
+2887,Castelnuovo Don Bosco,45.0417,7.9642,Italy,castelnuovo don bosco,is_city
+2888,Sesto ed Uniti,45.1833,9.9167,Italy,sesto ed uniti,is_city
+2889,Varzi,44.8167,9.2,Italy,varzi,is_city
+2890,Camposanto,44.7833,11.1333,Italy,camposanto,is_city
+2891,Casalmaiocco,45.3547,9.3753,Italy,casalmaiocco,is_city
+2892,Tolve,40.7,16.0167,Italy,tolve,is_city
+2893,Fonzaso,46.0167,11.8,Italy,fonzaso,is_city
+2894,Villagrande Strisaili,39.9585,9.508,Italy,villagrande strisaili,is_city
+2895,Malonno,46.1167,10.3167,Italy,malonno,is_city
+2896,Civitella Marittima,42.995,11.2817,Italy,civitella marittima,is_city
+2897,Ostra Vetere,43.6037,13.0573,Italy,ostra vetere,is_city
+2898,Rocca d'Evandro,41.3833,13.8833,Italy,rocca d'evandro,is_city
+2899,Marone,45.7333,10.1,Italy,marone,is_city
+2900,Marano Principato,39.3,16.1833,Italy,marano principato,is_city
+2901,Jerzu,39.7924,9.5177,Italy,jerzu,is_city
+2902,Marliana,43.9333,10.7667,Italy,marliana,is_city
+2903,Frosolone,41.6,14.45,Italy,frosolone,is_city
+2904,Montecalvoli,43.6875,10.6628,Italy,montecalvoli,is_city
+2905,Corno di Rosazzo,45.9833,13.45,Italy,corno di rosazzo,is_city
+2906,Valli del Pasubio,45.75,11.2667,Italy,valli del pasubio,is_city
+2907,Moscufo,42.4333,14.05,Italy,moscufo,is_city
+2908,Forano,42.3,12.6,Italy,forano,is_city
+2909,San Gillio,45.15,7.5333,Italy,san gillio,is_city
+2910,Rovito,39.3167,16.3167,Italy,rovito,is_city
+2911,Zinasco,45.1333,9.05,Italy,zinasco,is_city
+2912,Civitella Roveto,41.9169,13.4278,Italy,civitella roveto,is_city
+2913,Bressanvido,45.65,11.6333,Italy,bressanvido,is_city
+2914,Decollatura,39.05,16.35,Italy,decollatura,is_city
+2915,Carlazzo,46.05,9.15,Italy,carlazzo,is_city
+2916,Patrica,41.5833,13.25,Italy,patrica,is_city
+2917,Folgaria,45.9167,11.1833,Italy,folgaria,is_city
+2918,Mignano Monte Lungo,41.4,13.9833,Italy,mignano monte lungo,is_city
+2919,Bardonecchia,45.0783,6.7039,Italy,bardonecchia,is_city
+2920,Belfiore,45.3796,11.209,Italy,belfiore,is_city
+2921,San Michele all'Adige,46.1938,11.1346,Italy,san michele all'adige,is_city
+2922,Polcenigo,46.0333,12.5,Italy,polcenigo,is_city
+2923,Arsiero,45.8,11.35,Italy,arsiero,is_city
+2924,Marano di Valpolicella,45.55,10.9167,Italy,marano di valpolicella,is_city
+2925,Viguzzolo,44.9053,8.9236,Italy,viguzzolo,is_city
+2926,Cantagallo,44.0167,11.0833,Italy,cantagallo,is_city
+2927,Serrara Fontana,40.7167,13.9,Italy,serrara fontana,is_city
+2928,Scandriglia,42.1667,12.85,Italy,scandriglia,is_city
+2929,Bagnoli Irpino,40.8342,15.0733,Italy,bagnoli irpino,is_city
+2930,Buonconvento,43.1333,11.4833,Italy,buonconvento,is_city
+2931,Casella,44.5348,8.9989,Italy,casella,is_city
+2932,Balangero,45.2667,7.5167,Italy,balangero,is_city
+2933,Aldeno,45.9833,11.0833,Italy,aldeno,is_city
+2934,Maleo,45.1683,9.7625,Italy,maleo,is_city
+2935,Garessio,44.2,8.0167,Italy,garessio,is_city
+2936,Castiglione di Sicilia,37.8828,15.1225,Italy,castiglione di sicilia,is_city
+2937,Cerisano,39.2833,16.1833,Italy,cerisano,is_city
+2938,Pergine Valdarno,43.4714,11.6867,Italy,pergine valdarno,is_city
+2939,San Giorgio a Liri,41.4,13.7667,Italy,san giorgio a liri,is_city
+2940,Mazzano Romano,42.2056,12.3975,Italy,mazzano romano,is_city
+2941,Maenza,41.5167,13.1833,Italy,maenza,is_city
+2942,Pieve Santo Stefano,43.6725,12.0422,Italy,pieve santo stefano,is_city
+2943,Sospirolo,46.1333,12.0833,Italy,sospirolo,is_city
+2944,Romanengo,45.3833,9.7833,Italy,romanengo,is_city
+2945,Fontanarosa,41.0192,15.0214,Italy,fontanarosa,is_city
+2946,Cascia,42.7167,13.0167,Italy,cascia,is_city
+2947,Montorso Vicentino,45.4833,11.3667,Italy,montorso vicentino,is_city
+2948,Bosconero,45.2667,7.7667,Italy,bosconero,is_city
+2949,Menaggio,46.0167,9.2333,Italy,menaggio,is_city
+2950,Serrastretta,39.0167,16.4,Italy,serrastretta,is_city
+2951,Grotteria,38.3539,16.2725,Italy,grotteria,is_city
+2952,Ripalimosani,41.6167,14.6667,Italy,ripalimosani,is_city
+2953,Suvereto,43.0833,10.6833,Italy,suvereto,is_city
+2954,Raddusa,37.4667,14.5333,Italy,raddusa,is_city
+2955,Scandale,39.1167,16.9667,Italy,scandale,is_city
+2956,Capizzi,37.85,14.4833,Italy,capizzi,is_city
+2957,Rio di Pusteria,46.7966,11.6675,Italy,rio di pusteria,is_city
+2958,San Leucio del Sannio,41.0833,14.7667,Italy,san leucio del sannio,is_city
+2959,Lozzo Atestino,45.2833,11.6333,Italy,lozzo atestino,is_city
+2960,Pietrelcina,41.2,14.85,Italy,pietrelcina,is_city
+2961,Castel Focognano,43.6534,11.788,Italy,castel focognano,is_city
+2962,Pastrengo,45.5,10.8,Italy,pastrengo,is_city
+2963,Nanto,45.4333,11.5833,Italy,nanto,is_city
+2964,Robassomero,45.2,7.5667,Italy,robassomero,is_city
+2965,Monte Roberto,43.4813,13.138,Italy,monte roberto,is_city
+2966,Sant'Onofrio,38.7,16.15,Italy,sant'onofrio,is_city
+2967,Licodia Eubea,37.15,14.7,Italy,licodia eubea,is_city
+2968,Comunanza,42.9572,13.4146,Italy,comunanza,is_city
+2969,Baone,45.25,11.6833,Italy,baone,is_city
+2970,Caprino Bergamasco,45.7453,9.4817,Italy,caprino bergamasco,is_city
+2971,San Maurizio d'Opaglio,45.7667,8.3833,Italy,san maurizio d'opaglio,is_city
+2972,Villanterio,45.2167,9.3667,Italy,villanterio,is_city
+2973,Contrada,40.8669,14.7797,Italy,contrada,is_city
+2974,Saludecio,43.8728,12.6686,Italy,saludecio,is_city
+2975,Marradi,44.0833,11.6167,Italy,marradi,is_city
+2976,Sarmede,45.9775,12.3853,Italy,sarmede,is_city
+2977,Sospiro,45.1,10.15,Italy,sospiro,is_city
+2978,Bernate Ticino,45.4833,8.8167,Italy,bernate ticino,is_city
+2979,Castell'Umberto,38.0833,14.8,Italy,castell'umberto,is_city
+2980,Torino di Sangro,42.1833,14.5333,Italy,torino di sangro,is_city
+2981,Fogliano Redipuglia,45.8667,13.4833,Italy,fogliano redipuglia,is_city
+2982,Volano,45.9172,11.0635,Italy,volano,is_city
+2983,Serrone,41.8421,13.0952,Italy,serrone,is_city
+2984,Pattada,40.5822,9.11,Italy,pattada,is_city
+2985,Villafranca d'Asti,44.9128,8.0328,Italy,villafranca d'asti,is_city
+2986,Casalincontrada,42.3,14.1333,Italy,casalincontrada,is_city
+2987,San Giorgio Morgeto,38.3833,16.1,Italy,san giorgio morgeto,is_city
+2988,Torre de' Passeri,42.2333,13.9333,Italy,torre de' passeri,is_city
+2989,San Genesio Atesino,46.5346,11.3297,Italy,san genesio atesino,is_city
+2990,Pinzolo,46.1599,10.766,Italy,pinzolo,is_city
+2991,Orgiano,45.35,11.4667,Italy,orgiano,is_city
+2992,Prata di Principato Ultra,40.9833,14.8333,Italy,prata di principato ultra,is_city
+2993,Torri del Benaco,45.6167,10.6833,Italy,torri del benaco,is_city
+2994,Sturno,41.0167,15.1,Italy,sturno,is_city
+2995,Soveria Mannelli,39.0833,16.3667,Italy,soveria mannelli,is_city
+2996,Crucoli,39.4236,17.0033,Italy,crucoli,is_city
+2997,Tramutola,40.3167,15.7833,Italy,tramutola,is_city
+2998,San Pietro Viminario,45.25,11.8167,Italy,san pietro viminario,is_city
+2999,Caselette,45.106,7.4833,Italy,caselette,is_city
+3000,Fluminimaggiore,39.4386,8.4986,Italy,fluminimaggiore,is_city
+3001,Canepina,42.3831,12.2328,Italy,canepina,is_city
+3002,Sanfre,44.75,7.8,Italy,sanfre,is_city
+3003,Castronuovo di Sicilia,37.6667,13.6,Italy,castronuovo di sicilia,is_city
+3004,Samugheo,39.9476,8.9408,Italy,samugheo,is_city
+3005,Santa Cesarea Terme,40.0361,18.4554,Italy,santa cesarea terme,is_city
+3006,Serle,45.5722,10.3667,Italy,serle,is_city
+3007,Africo,38.0507,16.1332,Italy,africo,is_city
+3008,Longobucco,39.45,16.6167,Italy,longobucco,is_city
+3009,Osilo,40.7436,8.6711,Italy,osilo,is_city
+3010,Campofranco,37.5167,13.7,Italy,campofranco,is_city
+3011,Caselle Lurani,45.2814,9.3606,Italy,caselle lurani,is_city
+3012,Stia,43.8039,11.7094,Italy,stia,is_city
+3013,Nissoria,37.65,14.45,Italy,nissoria,is_city
+3014,Sant'Angelo di Brolo,38.1167,14.8833,Italy,sant'angelo di brolo,is_city
+3015,Villa di Tirano,46.2,10.1333,Italy,villa di tirano,is_city
+3016,Posada,40.6313,9.7198,Italy,posada,is_city
+3017,Badolato,38.5667,16.5333,Italy,badolato,is_city
+3018,Gazoldo degli Ippoliti,45.2,10.5833,Italy,gazoldo degli ippoliti,is_city
+3019,Roccabianca,45.0086,10.2198,Italy,roccabianca,is_city
+3020,Fregona,46.0002,12.339,Italy,fregona,is_city
+3021,Moncalvo,45.0511,8.2664,Italy,moncalvo,is_city
+3022,Pietravairano,41.3333,14.1667,Italy,pietravairano,is_city
+3023,Diso,40.0167,18.4,Italy,diso,is_city
+3024,Giarratana,37.05,14.8,Italy,giarratana,is_city
+3025,Castiglione Cosentino,39.35,16.2833,Italy,castiglione cosentino,is_city
+3026,Lentiai,46.0448,12.0216,Italy,lentiai,is_city
+3027,Misano di Gera d'Adda,45.4694,9.6208,Italy,misano di gera d'adda,is_city
+3028,Mormanno,39.8833,15.9833,Italy,mormanno,is_city
+3029,Cassine,44.7508,8.5289,Italy,cassine,is_city
+3030,Monterosso Almo,37.1,14.7667,Italy,monterosso almo,is_city
+3031,San Giorgio la Molara,41.2667,14.9167,Italy,san giorgio la molara,is_city
+3032,Prata Camportaccio,46.3167,9.4,Italy,prata camportaccio,is_city
+3033,Montevago,37.7033,12.9867,Italy,montevago,is_city
+3034,Pollina,38.0,14.15,Italy,pollina,is_city
+3035,Verbicaro,39.75,15.9167,Italy,verbicaro,is_city
+3036,Fanano,44.2124,10.7966,Italy,fanano,is_city
+3037,Fiumefreddo Bruzio,39.2333,16.0667,Italy,fiumefreddo bruzio,is_city
+3038,Flumeri,41.0789,15.1486,Italy,flumeri,is_city
+3039,Porto Ceresio,45.9,8.9,Italy,porto ceresio,is_city
+3040,Tesero,46.2893,11.5113,Italy,tesero,is_city
+3041,Viggianello,39.9667,16.0833,Italy,viggianello,is_city
+3042,Pralboino,45.2683,10.2183,Italy,pralboino,is_city
+3043,Spigno Saturnia,41.3,13.7333,Italy,spigno saturnia,is_city
+3044,Thiesi,40.525,8.7164,Italy,thiesi,is_city
+3045,Rovagnate,45.7333,9.3667,Italy,rovagnate,is_city
+3046,Dugenta,41.1333,14.45,Italy,dugenta,is_city
+3047,Ostiano,45.2167,10.25,Italy,ostiano,is_city
+3048,San Fele,40.8165,15.5404,Italy,san fele,is_city
+3049,Vitulano,41.1833,14.65,Italy,vitulano,is_city
+3050,San Polo dei Cavalieri,42.0167,12.8333,Italy,san polo dei cavalieri,is_city
+3051,Sant'Agata sul Santerno,44.4333,11.8667,Italy,sant'agata sul santerno,is_city
+3052,Meduna di Livenza,45.8,12.6167,Italy,meduna di livenza,is_city
+3053,Castrofilippo,37.35,13.7511,Italy,castrofilippo,is_city
+3054,Villafalletto,44.55,7.5333,Italy,villafalletto,is_city
+3055,Cassacco,46.1667,13.1833,Italy,cassacco,is_city
+3056,Velturno,46.6671,11.5971,Italy,velturno,is_city
+3057,Fontana Liri,41.6167,13.55,Italy,fontana liri,is_city
+3058,Roncegno,46.0508,11.41,Italy,roncegno,is_city
+3059,Comerio,45.8399,8.7468,Italy,comerio,is_city
+3060,Castri di Lecce,40.2667,18.2667,Italy,castri di lecce,is_city
+3061,Amendolara,39.95,16.5833,Italy,amendolara,is_city
+3062,Ruda,45.8333,13.4,Italy,ruda,is_city
+3063,Acquanegra sul Chiese,45.1667,10.4333,Italy,acquanegra sul chiese,is_city
+3064,Cerrione,45.4667,8.0667,Italy,cerrione,is_city
+3065,Palazzolo dello Stella,45.8,13.0833,Italy,palazzolo dello stella,is_city
+3066,Filiano,40.8167,15.7,Italy,filiano,is_city
+3067,Lettomanoppello,42.2333,14.0333,Italy,lettomanoppello,is_city
+3068,Campo Ligure,44.5381,8.6978,Italy,campo ligure,is_city
+3069,San Leo,43.8964,12.3433,Italy,san leo,is_city
+3070,Valentano,42.5653,11.8269,Italy,valentano,is_city
+3071,Gemonio,45.8833,8.6833,Italy,gemonio,is_city
+3072,Riva Ligure,43.8375,7.8819,Italy,riva ligure,is_city
+3073,Mezzojuso,37.8667,13.4667,Italy,mezzojuso,is_city
+3074,Castel Viscardo,42.7553,12.0017,Italy,castel viscardo,is_city
+3075,Montemaggiore al Metauro,43.7374,12.9458,Italy,montemaggiore al metauro,is_city
+3076,Artegna,46.2333,13.15,Italy,artegna,is_city
+3077,Faedis,46.15,13.35,Italy,faedis,is_city
+3078,Trescore Cremasco,45.4,9.6333,Italy,trescore cremasco,is_city
+3079,Francavilla Marittima,39.8169,16.3956,Italy,francavilla marittima,is_city
+3080,Alessandria della Rocca,37.5696,13.4535,Italy,alessandria della rocca,is_city
+3081,Briga Novarese,45.7333,8.45,Italy,briga novarese,is_city
+3082,Osoppo,46.25,13.0833,Italy,osoppo,is_city
+3083,Gargnano,45.6833,10.6667,Italy,gargnano,is_city
+3084,Sirignano,40.95,14.6333,Italy,sirignano,is_city
+3085,Ragogna,46.1735,12.9824,Italy,ragogna,is_city
+3086,Borghi,44.0322,12.3562,Italy,borghi,is_city
+3087,Grandate,45.7833,9.0667,Italy,grandate,is_city
+3088,Castellina in Chianti,43.4692,11.2886,Italy,castellina in chianti,is_city
+3089,Airuno,45.75,9.4167,Italy,airuno,is_city
+3090,Madignano,45.35,9.7167,Italy,madignano,is_city
+3091,Sarmato,45.0667,9.4833,Italy,sarmato,is_city
+3092,Torpe,40.6277,9.6782,Italy,torpe,is_city
+3093,Terzo d'Aquileia,45.8,13.3333,Italy,terzo d'aquileia,is_city
+3094,Ordona,41.3167,15.6333,Italy,ordona,is_city
+3095,Crecchio,42.2967,14.3261,Italy,crecchio,is_city
+3096,Bellegra,41.8833,13.0333,Italy,bellegra,is_city
+3097,Tiggiano,39.9,18.3667,Italy,tiggiano,is_city
+3098,Monte di Malo,45.6667,11.3667,Italy,monte di malo,is_city
+3099,Chienes,46.8081,11.8387,Italy,chienes,is_city
+3100,Iolanda di Savoia,44.8833,11.9833,Italy,iolanda di savoia,is_city
+3101,Turriaco,45.8167,13.45,Italy,turriaco,is_city
+3102,Santa Vittoria d'Alba,44.7,7.9333,Italy,santa vittoria d'alba,is_city
+3103,Letoianni,37.8833,15.3,Italy,letoianni,is_city
+3104,Torviscosa,45.8167,13.2833,Italy,torviscosa,is_city
+3105,Fabro,42.8667,12.0167,Italy,fabro,is_city
+3106,Uras,39.6982,8.7015,Italy,uras,is_city
+3107,Celico,39.3167,16.3333,Italy,celico,is_city
+3108,Tusa,37.9833,14.2333,Italy,tusa,is_city
+3109,San Piero Patti,38.05,14.9667,Italy,san piero patti,is_city
+3110,Gallese,42.3744,12.3997,Italy,gallese,is_city
+3111,Guarno,39.2333,16.35,Italy,guarno,is_city
+3112,Castelnuovo Cilento,40.2179,15.1771,Italy,castelnuovo cilento,is_city
+3113,Vercurago,45.8167,9.4167,Italy,vercurago,is_city
+3114,Pedaso,43.0974,13.8409,Italy,pedaso,is_city
+3115,Moriago della Battaglia,45.8667,12.1,Italy,moriago della battaglia,is_city
+3116,Sant'Arsenio,40.4667,15.4833,Italy,sant'arsenio,is_city
+3117,Sciara,37.9167,13.7667,Italy,sciara,is_city
+3118,Lamon,46.05,11.75,Italy,lamon,is_city
+3119,Monteviale,45.5667,11.4667,Italy,monteviale,is_city
+3120,Saletto,45.2267,11.5339,Italy,saletto,is_city
+3121,Montemarano,40.9161,14.9983,Italy,montemarano,is_city
+3122,Bitti,40.475,9.3817,Italy,bitti,is_city
+3123,Bronzolo,46.4045,11.3195,Italy,bronzolo,is_city
+3124,Moneglia,44.2386,9.4903,Italy,moneglia,is_city
+3125,Sommariva Perno,44.75,7.9,Italy,sommariva perno,is_city
+3126,Scurcola Marsicana,42.0642,13.34,Italy,scurcola marsicana,is_city
+3127,Gruaro,45.8333,12.8333,Italy,gruaro,is_city
+3128,Suno,45.6333,8.5333,Italy,suno,is_city
+3129,Morsano al Tagliamento,45.8583,12.9278,Italy,morsano al tagliamento,is_city
+3130,Bonifati,39.5833,15.9,Italy,bonifati,is_city
+3131,Vietri di Potenza,40.6,15.5,Italy,vietri di potenza,is_city
+3132,Burcei,39.3445,9.3599,Italy,burcei,is_city
+3133,Acquasanta Terme,42.7692,13.4094,Italy,acquasanta terme,is_city
+3134,Carlino,45.8,13.1833,Italy,carlino,is_city
+3135,Candela,41.1333,15.5167,Italy,candela,is_city
+3136,Traona,46.15,9.5167,Italy,traona,is_city
+3137,Petriano,43.7806,12.7335,Italy,petriano,is_city
+3138,La Morra,44.6333,7.9333,Italy,la morra,is_city
+3139,Pozzoleone,45.6494,11.6744,Italy,pozzoleone,is_city
+3140,Courmayeur,45.7833,6.9667,Italy,courmayeur,is_city
+3141,Cividate Camuno,45.9433,10.2783,Italy,cividate camuno,is_city
+3142,Falcone,38.1167,15.0833,Italy,falcone,is_city
+3143,Pennabilli,43.819,12.2666,Italy,pennabilli,is_city
+3144,San Pier Niceto,38.1667,15.35,Italy,san pier niceto,is_city
+3145,Orsenigo,45.7833,9.1833,Italy,orsenigo,is_city
+3146,Raiano,42.1033,13.8156,Italy,raiano,is_city
+3147,Mandatoriccio,39.4667,16.8333,Italy,mandatoriccio,is_city
+3148,Piasco,44.5639,7.4547,Italy,piasco,is_city
+3149,Chiusa Sclafani,37.6833,13.2667,Italy,chiusa sclafani,is_city
+3150,Pavone del Mella,45.3008,10.2086,Italy,pavone del mella,is_city
+3151,Biccari,41.4,15.2,Italy,biccari,is_city
+3152,Bettola,44.7783,9.6086,Italy,bettola,is_city
+3153,Gaiole in Chianti,43.4667,11.4333,Italy,gaiole in chianti,is_city
+3154,Trevenzuolo,45.2667,10.9167,Italy,trevenzuolo,is_city
+3155,Montecalvo in Foglia,43.8116,12.6316,Italy,montecalvo in foglia,is_city
+3156,Berlingo,45.5022,10.0414,Italy,berlingo,is_city
+3157,Amorosi,41.2,14.4667,Italy,amorosi,is_city
+3158,Berchidda,40.7858,9.1658,Italy,berchidda,is_city
+3159,Botrugno,40.0667,18.3167,Italy,botrugno,is_city
+3160,Lessona,45.5863,8.1964,Italy,lessona,is_city
+3161,Salandra,40.5333,16.3167,Italy,salandra,is_city
+3162,Serra San Quirico,43.4477,13.0152,Italy,serra san quirico,is_city
+3163,Arrone,42.5837,12.768,Italy,arrone,is_city
+3164,Fossato di Vico,43.3,12.7667,Italy,fossato di vico,is_city
+3165,Sant'Anna Arresi,39.0038,8.6435,Italy,sant'anna arresi,is_city
+3166,Castignano,42.9381,13.6219,Italy,castignano,is_city
+3167,Cordovado,45.85,12.8833,Italy,cordovado,is_city
+3168,Zandobbio,45.6883,9.8525,Italy,zandobbio,is_city
+3169,Mammola,38.3667,16.2333,Italy,mammola,is_city
+3170,Rivello,40.0782,15.758,Italy,rivello,is_city
+3171,Petralia Sottana,37.8,14.0833,Italy,petralia sottana,is_city
+3172,Golasecca,45.7,8.65,Italy,golasecca,is_city
+3173,Barile,40.95,15.6667,Italy,barile,is_city
+3174,Occhieppo Superiore,45.5,8.0,Italy,occhieppo superiore,is_city
+3175,Valle di Maddaloni,41.0833,14.4167,Italy,valle di maddaloni,is_city
+3176,Varmo,45.8833,12.9833,Italy,varmo,is_city
+3177,Paesana,44.6833,7.2833,Italy,paesana,is_city
+3178,Monforte San Giorgio,38.1667,15.3667,Italy,monforte san giorgio,is_city
+3179,Pabillonis,39.5924,8.7217,Italy,pabillonis,is_city
+3180,Formignana,44.85,11.8667,Italy,formignana,is_city
+3181,Acerno,40.75,15.05,Italy,acerno,is_city
+3182,Seminara,38.3333,15.8667,Italy,seminara,is_city
+3183,Nimis,46.2,13.2667,Italy,nimis,is_city
+3184,Trecenta,45.0333,11.45,Italy,trecenta,is_city
+3185,Marlengo,46.6556,11.1403,Italy,marlengo,is_city
+3186,Bornasco,45.2666,9.218,Italy,bornasco,is_city
+3187,Castell'Alfero,44.9822,8.2117,Italy,castell'alfero,is_city
+3188,Mele,44.4455,8.7479,Italy,mele,is_city
+3189,Lama Mocogno,44.3073,10.7318,Italy,lama mocogno,is_city
+3190,Nulvi,40.7839,8.7439,Italy,nulvi,is_city
+3191,Gissi,42.0167,14.55,Italy,gissi,is_city
+3192,Orsara di Puglia,41.2833,15.2667,Italy,orsara di puglia,is_city
+3193,Villanova d'Albenga,44.046,8.1431,Italy,villanova d'albenga,is_city
+3194,Bargagli,44.4445,9.0886,Italy,bargagli,is_city
+3195,Casaloldo,45.25,10.4833,Italy,casaloldo,is_city
+3196,Bereguardo,45.25,9.0333,Italy,bereguardo,is_city
+3197,Poggio Imperiale,41.8167,15.3667,Italy,poggio imperiale,is_city
+3198,Brembio,45.2156,9.5725,Italy,brembio,is_city
+3199,Canaro,44.9333,11.6667,Italy,canaro,is_city
+3200,Rossiglione,44.5667,8.6667,Italy,rossiglione,is_city
+3201,Gussola,45.0167,10.35,Italy,gussola,is_city
+3202,Noli,44.2057,8.4162,Italy,noli,is_city
+3203,Abbasanta,40.1258,8.8194,Italy,abbasanta,is_city
+3204,Montesano Salentino,39.9758,18.3226,Italy,montesano salentino,is_city
+3205,Baschi,42.6667,12.2167,Italy,baschi,is_city
+3206,Montecorice,40.2342,14.9839,Italy,montecorice,is_city
+3207,Santa Maria la Fossa,41.1,14.1333,Italy,santa maria la fossa,is_city
+3208,Guasila,39.5602,9.0447,Italy,guasila,is_city
+3209,Fiano,45.2167,7.5167,Italy,fiano,is_city
+3210,Cetona,42.9667,11.9,Italy,cetona,is_city
+3211,Porto Ercole,42.3939,11.2036,Italy,porto ercole,is_city
+3212,Caggiano,40.5667,15.5,Italy,caggiano,is_city
+3213,Laion,46.6081,11.5656,Italy,laion,is_city
+3214,Serdiana,39.3745,9.159,Italy,serdiana,is_city
+3215,Pietra Montecorvino,41.55,15.1333,Italy,pietra montecorvino,is_city
+3216,San Mango Piemonte,40.7,14.8333,Italy,san mango piemonte,is_city
+3217,Pieve Porto Morone,45.1103,9.4369,Italy,pieve porto morone,is_city
+3218,San Fili,39.3333,16.15,Italy,san fili,is_city
+3219,Apollosa,41.1,14.7,Italy,apollosa,is_city
+3220,Castel San Niccolo,43.7453,11.71,Italy,castel san niccolo,is_city
+3221,Sandigliano,45.5,8.0333,Italy,sandigliano,is_city
+3222,Toirano,44.127,8.2071,Italy,toirano,is_city
+3223,Casalvieri,41.6333,13.7167,Italy,casalvieri,is_city
+3224,Guardamiglio,45.1086,9.6825,Italy,guardamiglio,is_city
+3225,Vicari,37.8333,13.5667,Italy,vicari,is_city
+3226,Besenello,45.9419,11.1086,Italy,besenello,is_city
+3227,Villamar,39.62,8.96,Italy,villamar,is_city
+3228,Vallata,41.0333,15.25,Italy,vallata,is_city
+3229,Romano Canavese,45.3894,7.8675,Italy,romano canavese,is_city
+3230,San Cono,37.2899,14.3671,Italy,san cono,is_city
+3231,Cantalice,42.4667,12.9,Italy,cantalice,is_city
+3232,Campodoro,45.4833,11.75,Italy,campodoro,is_city
+3233,Castelvenere,41.2333,14.55,Italy,castelvenere,is_city
+3234,Alice Castello,45.3667,8.0833,Italy,alice castello,is_city
+3235,Ururi,41.8167,15.0167,Italy,ururi,is_city
+3236,Grotte di Castro,42.6753,11.8731,Italy,grotte di castro,is_city
+3237,Sgurgola,41.6667,13.15,Italy,sgurgola,is_city
+3238,Fontaneto d'Agogna,45.65,8.4833,Italy,fontaneto d'agogna,is_city
+3239,Poggio Moiano,42.2,12.8833,Italy,poggio moiano,is_city
+3240,Genola,44.5833,7.6667,Italy,genola,is_city
+3241,Alvito,41.6889,13.7444,Italy,alvito,is_city
+3242,Cuglieri,40.1889,8.5672,Italy,cuglieri,is_city
+3243,Roccavione,44.3167,7.4833,Italy,roccavione,is_city
+3244,San Quirico d'Orcia,43.0667,11.6,Italy,san quirico d'orcia,is_city
+3245,Merlara,45.1667,11.4333,Italy,merlara,is_city
+3246,Sinagra,38.0833,14.85,Italy,sinagra,is_city
+3247,Verres,45.6666,7.6891,Italy,verres,is_city
+3248,Gavoi,40.1604,9.1947,Italy,gavoi,is_city
+3249,Tocco da Casauria,42.2167,13.9167,Italy,tocco da casauria,is_city
+3250,Moena,46.3768,11.6594,Italy,moena,is_city
+3251,Cison di Valmarino,45.9703,12.1431,Italy,cison di valmarino,is_city
+3252,San Colombano Certenoli,44.3718,9.3116,Italy,san colombano certenoli,is_city
+3253,Solferino,45.3667,10.55,Italy,solferino,is_city
+3254,Gardone Riviera,45.6167,10.5667,Italy,gardone riviera,is_city
+3255,San Nicolo d'Arcidano,39.6835,8.6466,Italy,san nicolo d'arcidano,is_city
+3256,Burgio,37.5985,13.2908,Italy,burgio,is_city
+3257,Schiavon,45.7,11.65,Italy,schiavon,is_city
+3258,Pisciotta,40.1167,15.2333,Italy,pisciotta,is_city
+3259,Casabona,39.25,16.95,Italy,casabona,is_city
+3260,Dervio,46.0764,9.3067,Italy,dervio,is_city
+3261,Castel Sant'Elia,42.2514,12.375,Italy,castel sant'elia,is_city
+3262,Varano de' Melegari,44.6833,10.0167,Italy,varano de' melegari,is_city
+3263,San Gregorio d'Ippona,38.65,16.1,Italy,san gregorio d'ippona,is_city
+3264,Badia Calavena,45.5667,11.15,Italy,badia calavena,is_city
+3265,Aglie,45.3667,7.7667,Italy,aglie,is_city
+3266,Torricella Sicura,42.66,13.6581,Italy,torricella sicura,is_city
+3268,Pianopoli,38.95,16.3833,Italy,pianopoli,is_city
+3269,Baranello,41.5333,14.55,Italy,baranello,is_city
+3270,Fratta Polesine,45.0333,11.65,Italy,fratta polesine,is_city
+3271,Baragiano,40.6798,15.5938,Italy,baragiano,is_city
+3272,Trenta,39.2833,16.3167,Italy,trenta,is_city
+3273,Caravate,45.8833,8.65,Italy,caravate,is_city
+3274,Gravedona,46.15,9.3,Italy,gravedona,is_city
+3275,Ceresara,45.2623,10.5696,Italy,ceresara,is_city
+3276,Rivara,45.3304,7.649,Italy,rivara,is_city
+3277,Mereto di Tomba,46.05,13.0333,Italy,mereto di tomba,is_city
+3278,Villa Santa Lucia,41.5167,13.7667,Italy,villa santa lucia,is_city
+3279,Casola Valsenio,44.2167,11.6167,Italy,casola valsenio,is_city
+3280,Gerace,38.2667,16.2167,Italy,gerace,is_city
+3281,Rotondella,40.1667,16.5167,Italy,rotondella,is_city
+3282,Ausonia,41.35,13.75,Italy,ausonia,is_city
+3283,Vallerano,42.385,12.2642,Italy,vallerano,is_city
+3284,Villaspeciosa,39.3115,8.9266,Italy,villaspeciosa,is_city
+3285,Lurago Marinone,45.7,8.9833,Italy,lurago marinone,is_city
+3286,Besano,45.8833,8.8833,Italy,besano,is_city
+3287,Vignolo,44.3636,7.4721,Italy,vignolo,is_city
+3288,Ternate,45.7833,8.7,Italy,ternate,is_city
+3289,Lusiana,45.7833,11.5667,Italy,lusiana,is_city
+3290,Valfurva,46.45,10.4167,Italy,valfurva,is_city
+3291,Bolotana,40.3283,8.9593,Italy,bolotana,is_city
+3292,Porpetto,45.85,13.2167,Italy,porpetto,is_city
+3293,Urbisaglia,43.1973,13.3773,Italy,urbisaglia,is_city
+3294,Pozzomaggiore,40.3978,8.6598,Italy,pozzomaggiore,is_city
+3295,Dolce,45.6,10.85,Italy,dolce,is_city
+3296,Vallecorsa,41.45,13.4,Italy,vallecorsa,is_city
+3297,Ponte,41.2167,14.7,Italy,ponte,is_city
+3298,Stilo,38.4833,16.4667,Italy,stilo,is_city
+3299,San Gervasio Bresciano,45.3072,10.1494,Italy,san gervasio bresciano,is_city
+3300,Budoia,46.05,12.5333,Italy,budoia,is_city
+3301,San Vittore del Lazio,41.4667,13.9333,Italy,san vittore del lazio,is_city
+3302,San Giorgio Canavese,45.3333,7.8,Italy,san giorgio canavese,is_city
+3303,Vestenanuova,45.5667,11.2333,Italy,vestenanuova,is_city
+3304,Petrona,39.0333,16.75,Italy,petrona,is_city
+3305,Sanza,40.25,15.55,Italy,sanza,is_city
+3306,Santa Fiora,42.8319,11.5853,Italy,santa fiora,is_city
+3307,Casole Bruzio,39.2833,16.3333,Italy,casole bruzio,is_city
+3308,Benestare,38.1833,16.1333,Italy,benestare,is_city
+3309,San Lorenzo,38.0167,15.8333,Italy,san lorenzo,is_city
+3310,Moricone,42.1166,12.7723,Italy,moricone,is_city
+3311,Poggio Nativo,42.2167,12.8,Italy,poggio nativo,is_city
+3312,Costa di Rovigo,45.05,11.7,Italy,costa di rovigo,is_city
+3313,Paularo,46.5333,13.1167,Italy,paularo,is_city
+3314,Buonabitacolo,40.2667,15.6167,Italy,buonabitacolo,is_city
+3315,Rivarolo Mantovano,45.0667,10.4333,Italy,rivarolo mantovano,is_city
+3316,Camerata Picena,43.5783,13.3528,Italy,camerata picena,is_city
+3317,Chiuro,46.1667,9.9833,Italy,chiuro,is_city
+3318,Pieve Vergonte,46.0058,8.2692,Italy,pieve vergonte,is_city
+3319,Pellestrina,45.2723,12.3008,Italy,pellestrina,is_city
+3320,Pignataro Interamna,41.4333,13.7833,Italy,pignataro interamna,is_city
+3321,Caltignaga,45.5167,8.5833,Italy,caltignaga,is_city
+3322,Cinigiano,42.8906,11.3925,Italy,cinigiano,is_city
+3323,Pressana,45.2833,11.4,Italy,pressana,is_city
+3324,Sant'Anna d'Alfaedo,45.6333,10.95,Italy,sant'anna d'alfaedo,is_city
+3325,Lago,39.1667,16.15,Italy,lago,is_city
+3326,Chiuppano,45.7667,11.4667,Italy,chiuppano,is_city
+3327,Santa Sofia d'Epiro,39.55,16.3333,Italy,santa sofia d'epiro,is_city
+3328,Luras,40.9358,9.1747,Italy,luras,is_city
+3329,Ziano Piacentino,45.0,9.4,Italy,ziano piacentino,is_city
+3330,Nuraminis,39.4423,9.0133,Italy,nuraminis,is_city
+3331,Bergantino,45.0667,11.25,Italy,bergantino,is_city
+3332,Mamoiada,40.2142,9.2836,Italy,mamoiada,is_city
+3333,Corleto Perticara,40.3833,16.05,Italy,corleto perticara,is_city
+3334,Corbara,40.7167,14.6,Italy,corbara,is_city
+3335,Donnaz,45.6,7.7667,Italy,donnaz,is_city
+3336,Caltrano,45.7667,11.4667,Italy,caltrano,is_city
+3337,Galati Mamertino,38.0333,14.7667,Italy,galati mamertino,is_city
+3338,Campodipietra,41.55,14.75,Italy,campodipietra,is_city
+3339,Molochio,38.3167,16.0333,Italy,molochio,is_city
+3340,Galeata,44.0,11.9167,Italy,galeata,is_city
+3341,Santo Stefano di Cadore,46.5667,12.55,Italy,santo stefano di cadore,is_city
+3342,Momo,45.5833,8.55,Italy,momo,is_city
+3344,Carpignano Sesia,45.5333,8.4333,Italy,carpignano sesia,is_city
+3345,Lungro,39.75,16.1167,Italy,lungro,is_city
+3346,Sant'Elena,45.1833,11.7167,Italy,sant'elena,is_city
+3347,Montallegro,37.3939,13.3517,Italy,montallegro,is_city
+3348,Amatrice,42.6294,13.2884,Italy,amatrice,is_city
+3349,Moruzzo,46.1167,13.1167,Italy,moruzzo,is_city
+3350,Muzzana del Turgnano,45.8167,13.1333,Italy,muzzana del turgnano,is_city
+3351,Montodine,45.2833,9.7167,Italy,montodine,is_city
+3352,Antrodoco,42.4167,13.0833,Italy,antrodoco,is_city
+3353,Pieve Ligure,44.3748,9.0866,Italy,pieve ligure,is_city
+3354,Cellino Attanasio,42.5833,13.8667,Italy,cellino attanasio,is_city
+3355,San Vero Milis,40.0131,8.5986,Italy,san vero milis,is_city
+3356,San Michele di Serino,40.8833,14.85,Italy,san michele di serino,is_city
+3357,Portocannone,41.9167,15.0167,Italy,portocannone,is_city
+3358,Sestola,44.2333,10.7667,Italy,sestola,is_city
+3359,Ravello,40.65,14.6167,Italy,ravello,is_city
+3360,Meina,45.7888,8.5388,Italy,meina,is_city
+3361,Pieve Fosciana,44.1328,10.4119,Italy,pieve fosciana,is_city
+3362,Chiesa in Valmalenco,46.2667,9.85,Italy,chiesa in valmalenco,is_city
+3363,Berzo Inferiore,45.9317,10.2806,Italy,berzo inferiore,is_city
+3364,Pocenia,45.8364,13.1017,Italy,pocenia,is_city
+3365,Monteodorisio,42.0833,14.65,Italy,monteodorisio,is_city
+3366,Regia Dogana,41.0038,9.6149,Italy,regia dogana,is_city
+3367,Capo di Ponte,46.0317,10.3461,Italy,capo di ponte,is_city
+3368,Sant'Eusanio del Sangro,42.1667,14.3333,Italy,sant'eusanio del sangro,is_city
+3369,Cicagna,44.4085,9.2363,Italy,cicagna,is_city
+3370,Tollegno,45.5833,8.05,Italy,tollegno,is_city
+3371,Revere,45.0572,11.1302,Italy,revere,is_city
+3372,Rive d'Arcano,46.1333,13.0333,Italy,rive d'arcano,is_city

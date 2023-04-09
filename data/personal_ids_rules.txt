@@ -1,0 +1,32 @@
+Oleg Iskra, [18.03.2023 12:39]
+List of some European countries and the template for their government ID numbers, along with examples:
+
+1. Albania - 9 digits, first two digits are the year of birth, followed by five random digits, and a final two-digit checksum. Example: 880022695.
+2. Andorra - 7 digits, starting with the letter N followed by six digits. Example: N123456.
+3. Austria - 9 digits, divided into three groups of three digits. Example: 123/456/789.
+4. Belarus - 14 digits, with the first six digits indicating the date of birth in the format YYMMDD, followed by seven random digits, and a final checksum digit. Example: 8310291234567.
+5. Belgium - 11 digits, with the first six digits indicating the date of birth in the format YYMMDD, followed by three digits indicating the place of birth, and a final two-digit checksum. Example: 940526123-45.
+6. Bosnia and Herzegovina - 13 digits, with the first two digits indicating the entity or Brcko District, the next two digits indicating the municipality, followed by the date of birth in the format DDMMYY, and a final eight-digit number. Example: 03 0112022396001.
+7. Bulgaria - 10 digits, with the first six digits indicating the date of birth in the format DDMMYY, followed by a four-digit number. Example: 0101011234.
+8. Croatia - 11 digits, with the first six digits indicating the date of birth in the format DDMMYY, followed by a five-digit number, and a final checksum digit. Example: 01010112345.
+9. Cyprus - 8 digits, with the first six digits indicating the date of birth in the format DDMMYY, followed by a two-digit number. Example: 01010101.
+10. Czech Republic - 10 digits, with the first six digits indicating the date of birth in the format DDMMYY, followed by a three-digit number, and a final checksum digit. Example: 010101/0015.
+11. Denmark - 10 digits, with the first six digits indicating the date of birth in the format DDMMYY, followed by a four-digit number, and a final checksum digit. Example: 010101-1234.
+12. Estonia - 11 digits, with the first digit indicating the century of birth (3 for 1900-1999, 4 for 2000 onwards), followed by six digits indicating the date of birth in the format DDMMYY, a three-digit number, and a final checksum digit. Example: 39001010001.
+13. Finland - 11 digits, with the first six digits indicating the date of birth in the format DDMMYY, followed by a three-digit number, and a final checksum digit. Example: 010101-123N.
+14. France - 13 digits, with the first six digits indicating the date of birth in the format DDMMYY, followed by a three-digit number indicating the place of birth, a two-digit number indicating the order of births, and a final two-digit checksum. Example: 010101 123 45 678 90.
+15. Germany - 11 digits, with the first six digits indicating the date of birth in the format DDMMYY, followed by a five-digit number, and a final checksum digit. Example: 01010112345.
+16. Greece - 9 digits, with the first two digits indicating the place of birth, followed by six random digits, and a final checksum digit. Example: 010101123.
+17. Hungary - 10 digits, with the first six digits indicating the date of birth in the format YYMMDD, followed by a four-digit number. Example: 0101011234.
+18. Iceland - 10 digits, with the first six digits indicating the date of birth in the format DDMMYY, followed by a four-digit number, and a final checksum digit. Example: 0101011234.
+19. Ireland - 7 digits, with the first letter indicating the person's gender, followed by six digits. Example: F123456.
+20. Italy - 16 digits, with the first six digits indicating the date of birth in the format YYMMDD, followed by a four-letter code indicating the place of birth, a three-digit number indicating the order of births, and a final two-digit checksum. Example: 010101ALZT1234X.
+21. Kosovo - 10 digits, with the first two digits indicating the year of birth, followed by six random digits, and a final two-digit checksum. Example: 8800226954.
+
+Oleg Iskra, [18.03.2023 12:39]
+22. Latvia - 11 digits, with the first six digits indicating the date of birth in the format DDMMYY, followed by a four-digit number, and a final checksum digit. Example: 010101-12345.
+23. Liechtenstein - 9 digits, with the first two digits indicating the year of birth, followed by four random digits, and a final three-digit number. Example: 880022695.
+24. Lithuania - 11 digits, with the first six digits indicating the date of birth in the format YYMMDD, followed by a three-digit number, and a final four-digit number. Example: 88010112345.
+25. Luxembourg - 13 digits, with the first six digits indicating the date of birth in the format DDMMYY, followed by a four-digit number indicating the place of birth, a two-digit number indicating the order of births, and a final checksum digit. Example: 010101-1234-56.
+26. Malta - 7 digits, with the first three digits indicating the year of birth, followed by four random digits. Example: 8801234.
+27. Moldova - 13 digits, with the first two digits indicating the person's gender and the year of birth, followed by two random digits, a four-digit number indicating the place of birth, and a final four-digit number. Example: 9012011234 1234.
