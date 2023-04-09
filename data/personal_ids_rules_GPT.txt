@@ -10,19 +10,17 @@ The government ID number format for Andorra is as follows:
     The last character is a checksum digit calculated based on the first 11 characters using a specific algorithm.
 
 Austria
-The government ID number format for Austria is as follows:
+The Austrian passport number is composed of two letters followed by seven digits. The two letters at the beginning of the passport number are the country code for Austria, which is "AT." The seven digits that follow are unique to each individual passport holder and are used to identify the passport.
 
-    The ID number is composed of 9 digits.
-    The first digit represents the gender and century of birth. It can be one of the following:
-        1 for male born in the 20th century
-        2 for female born in the 20th century
-        3 for male born in the 21st century
-        4 for female born in the 21st century
-    The next two digits represent the birth day.
-    The next two digits represent the birth month.
-    The next two digits represent the last two digits of the birth year.
-    The next two digits are the "serial number", a random number assigned by the government.
-    The last digit is a checksum digit calculated based on the first eight digits using a specific algorithm.
+The rules for the formation of the seven-digit portion of the passport number are as follows:
+
+    The first digit is always a letter and represents the series of the passport. It can be any letter except for "O" and "U", which are not used to avoid confusion with the numbers zero and one, respectively.
+
+    The next two digits represent the issuing authority, which is usually a government agency or embassy. The range of numbers used for this portion of the passport number is from 01 to 99.
+
+    The final four digits are a unique sequence of numbers assigned to each individual passport holder. This sequence can be any combination of numbers and does not follow a specific pattern or rule.
+
+For example, an Austrian passport number might look like this: AT A123 4567. In this example, "A" represents the series of the passport, "12" represents the issuing authority, and "3456" represents the unique sequence of numbers assigned to the passport holder.
 
 Belarus
 

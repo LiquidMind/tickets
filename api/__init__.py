@@ -67,3 +67,27 @@ def get_mailboxes_list():
     response = send_post_request(conf.API_URL_MAILBOXES_LIST, post)
 
     return response
+
+
+def get_subdomains_list():
+    """
+    https://adm.tools/user/api/#/tab-sandbox/hosting/virtual/list
+    """
+    post = {
+        'account_id': conf.DOMAIN_ACCOUNT_ID
+    }
+    response = send_post_request(conf.API_URL_DOMAINS_LIST, post)
+    return response
+
+
+def edit_mailbox_subdomain(virtual_domain_id, catch_non_exist, allow_custom_sender=1):
+    """
+    https://adm.tools/user/api/#/tab-sandbox/hosting/mail/settings
+    """
+    post = {
+        'virtual_domain_id': virtual_domain_id,
+        'catch_non_exist': catch_non_exist,
+        'allow_custom_sender': allow_custom_sender
+    }
+    response = send_post_request(conf.API_URL_MAIL_SETTINGS, post)
+    return response

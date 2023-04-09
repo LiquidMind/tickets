@@ -14,7 +14,6 @@ def print_and_log(logger, msg, ask=False):
         print(f'ABORTED {ask} {answ}')
         logger.warning('ABORTED')
         return False
-    logger.info('DONE')
     return True
 
 
@@ -31,18 +30,20 @@ def send_post_request(url, data):
     return resp_dict
 
 
-def process_data(file_path):
+def process_data(file_path, separator=':'):
     data = []
     with open(file_path) as f:
         lines = f.readlines()
     for line in lines:
+        if line.startswith('#stop'):
+            return data
         if line.startswith('#') or not len(line.strip()):
             continue
 
-        tmp = line.strip().split(':')
+        tmp = line.strip().split(separator)
         data.append(
             {
-                'country': tmp[0].strip().replace(' ', '-').lower(),
+                'subdomain': tmp[0].strip().replace(' ', '-').lower(),
                 'name': tmp[1].strip().replace(' ', '.').lower()
              }
         )

@@ -1,0 +1,2436 @@
+,name,lat,lng,capital,tag,prime
+0,Madrid,40.4167,-3.7167,Spain,madrid,is_city
+2,Sevilla,37.39,-5.99,Spain,sevilla,is_city
+3,Malaga,36.7194,-4.42,Spain,malaga,is_city
+4,Valencia,39.47,-0.3764,Spain,valencia,is_city
+5,Zaragoza,41.6483,-0.883,Spain,zaragoza,is_city
+6,Palma,39.5667,2.65,Spain,palma,is_city
+7,Murcia,37.9861,-1.1303,Spain,murcia,is_city
+8,Las Palmas,28.1272,-15.4314,Spain,las palmas,is_city
+9,A Coruna,43.3713,-8.4188,Spain,a coruna,is_city
+10,Bilbao,43.2569,-2.9236,Spain,bilbao,is_city
+11,Alicante,38.3453,-0.4831,Spain,alicante,is_city
+12,Cordoba,37.8845,-4.7796,Spain,cordoba,is_city
+13,Valladolid,41.6528,-4.7236,Spain,valladolid,is_city
+14,Vigo,42.2314,-8.7124,Spain,vigo,is_city
+15,Gijon,43.5333,-5.7,Spain,gijon,is_city
+16,Vitoria-Gasteiz,42.85,-2.6833,Spain,vitoria-gasteiz,is_city
+17,Elche,38.2669,-0.6983,Spain,elche,is_city
+18,Granada,37.1781,-3.6008,Spain,granada,is_city
+19,Tarrasa,41.5611,2.0081,Spain,tarrasa,is_city
+20,Badalona,41.4333,2.2333,Spain,badalona,is_city
+21,Oviedo,43.36,-5.845,Spain,oviedo,is_city
+22,Petrel,38.4789,-0.7967,Spain,petrel,is_city
+23,Sabadell,41.5483,2.1075,Spain,sabadell,is_city
+24,Cartagena,37.6,-0.9819,Spain,cartagena,is_city
+25,Jerez de la Frontera,36.6817,-6.1378,Spain,jerez de la frontera,is_city
+26,Santa Cruz,28.4667,-16.25,Spain,santa cruz,is_city
+27,Pamplona,42.8167,-1.65,Spain,pamplona,is_city
+28,Leon,42.6056,-5.57,Spain,leon,is_city
+29,Almeria,36.8403,-2.4681,Spain,almeria,is_city
+30,Logrono,42.465,-2.4456,Spain,logrono,is_city
+31,Fuenlabrada,40.2833,-3.8,Spain,fuenlabrada,is_city
+32,Leganes,40.3281,-3.7644,Spain,leganes,is_city
+33,Donostia,43.32,-1.98,Spain,donostia,is_city
+34,Mataro,41.5421,2.4445,Spain,mataro,is_city
+35,Albacete,38.9956,-1.8558,Spain,albacete,is_city
+36,Castellon de la Plana,39.9831,-0.0331,Spain,castellon de la plana,is_city
+37,Santander,43.4628,-3.805,Spain,santander,is_city
+38,Getafe,40.3047,-3.7311,Spain,getafe,is_city
+39,Alcorcon,40.35,-3.8333,Spain,alcorcon,is_city
+40,Burgos,42.35,-3.6822,Spain,burgos,is_city
+41,Guadalajara,40.6337,-3.1674,Spain,guadalajara,is_city
+42,La Laguna,28.4853,-16.3167,Spain,la laguna,is_city
+43,Badajoz,38.8803,-6.9753,Spain,badajoz,is_city
+44,Marbella,36.5167,-4.8833,Spain,marbella,is_city
+45,Salamanca,40.9667,-5.6639,Spain,salamanca,is_city
+46,Huelva,37.25,-6.95,Spain,huelva,is_city
+47,Ciudad de Melilla,35.2937,-2.9383,Spain,ciudad de melilla,is_city
+48,Tarragona,41.1187,1.2453,Spain,tarragona,is_city
+49,Dos Hermanas,37.2836,-5.9222,Spain,dos hermanas,is_city
+50,Torrejon de Ardoz,40.4614,-3.4978,Spain,torrejon de ardoz,is_city
+51,Algeciras,36.1275,-5.4539,Spain,algeciras,is_city
+52,Cadiz,36.535,-6.2975,Spain,cadiz,is_city
+53,Jaen,37.7667,-3.7711,Spain,jaen,is_city
+54,Reus,41.1549,1.1087,Spain,reus,is_city
+55,Girona,41.9833,2.8167,Spain,girona,is_city
+56,San Vicente de Baracaldo,43.2972,-2.9917,Spain,san vicente de baracaldo,is_city
+57,Lugo,43.0167,-7.55,Spain,lugo,is_city
+58,Roquetas de Mar,36.7642,-2.6147,Spain,roquetas de mar,is_city
+59,Caceres,39.4833,-6.3667,Spain,caceres,is_city
+60,Las Rozas de Madrid,40.4917,-3.8733,Spain,las rozas de madrid,is_city
+61,Lorca,37.6798,-1.6944,Spain,lorca,is_city
+62,San Fernando,36.4667,-6.2,Spain,san fernando,is_city
+63,San Cugat del Valles,41.4735,2.0852,Spain,san cugat del valles,is_city
+64,Santiago de Compostela,42.8778,-8.5444,Spain,santiago de compostela,is_city
+65,San Sebastian de los Reyes,40.5469,-3.6258,Spain,san sebastian de los reyes,is_city
+66,Vaciamadrid,40.3394,-3.5181,Spain,vaciamadrid,is_city
+67,El Puerto de Santa Maria,36.6,-6.2167,Spain,el puerto de santa maria,is_city
+68,Toledo,39.8567,-4.0244,Spain,toledo,is_city
+69,Mijas,36.6,-4.6333,Spain,mijas,is_city
+70,Chiclana de la Frontera,36.4167,-6.15,Spain,chiclana de la frontera,is_city
+71,Torrevieja,37.9778,-0.6833,Spain,torrevieja,is_city
+72,San Baudilio de Llobregat,41.3458,2.0417,Spain,san baudilio de llobregat,is_city
+73,Ciudad de Ceuta,35.8867,-5.3,Spain,ciudad de ceuta,is_city
+74,Torrente,39.4365,-0.4679,Spain,torrente,is_city
+75,El Ejido,36.7831,-2.8167,Spain,el ejido,is_city
+76,Pontevedra,42.4333,-8.6333,Spain,pontevedra,is_city
+77,Fuengirola,36.5417,-4.625,Spain,fuengirola,is_city
+78,Arona,28.0996,-16.6809,Spain,arona,is_city
+79,Velez-Malaga,36.7833,-4.1,Spain,velez-malaga,is_city
+80,Rubi,41.4933,2.0325,Spain,rubi,is_city
+81,Manresa,41.7264,1.8292,Spain,manresa,is_city
+82,Aviles,43.5561,-5.9083,Spain,aviles,is_city
+83,Valdemoro,40.1908,-3.6742,Spain,valdemoro,is_city
+84,Gandia,38.9667,-0.1833,Spain,gandia,is_city
+85,Alcala de Guadaira,37.3333,-5.85,Spain,alcala de guadaira,is_city
+86,Molina de Segura,38.0548,-1.2131,Spain,molina de segura,is_city
+87,Majadahonda,40.4728,-3.8722,Spain,majadahonda,is_city
+88,Paterna,39.5028,-0.4406,Spain,paterna,is_city
+89,Benidorm,38.5342,-0.1314,Spain,benidorm,is_city
+90,Sanlucar de Barrameda,36.7667,-6.35,Spain,sanlucar de barrameda,is_city
+91,Torremolinos,36.6218,-4.5003,Spain,torremolinos,is_city
+92,Benalmadena,36.6,-4.5167,Spain,benalmadena,is_city
+93,Villanueva y Geltru,41.2243,1.7259,Spain,villanueva y geltru,is_city
+94,Castelldefels,41.28,1.9767,Spain,castelldefels,is_city
+95,Viladecans,41.3158,2.0194,Spain,viladecans,is_city
+96,Sagunto,39.6764,-0.2733,Spain,sagunto,is_city
+97,Ferrol,43.4844,-8.2328,Spain,ferrol,is_city
+98,El Prat de Llobregat,41.3246,2.0953,Spain,el prat de llobregat,is_city
+99,Arrecife,28.9625,-13.5506,Spain,arrecife,is_city
+100,Collado-Villalba,40.6333,-4.0083,Spain,collado-villalba,is_city
+101,La Linea de la Concepcion,36.1611,-5.3486,Spain,la linea de la concepcion,is_city
+102,Irun,43.3378,-1.7888,Spain,irun,is_city
+103,Granollers,41.6083,2.2889,Spain,granollers,is_city
+104,Zamora,41.5033,-5.7556,Spain,zamora,is_city
+105,Merida,38.9,-6.3333,Spain,merida,is_city
+106,Alcoy,38.6983,-0.4736,Spain,alcoy,is_city
+107,San Vicente del Raspeig,38.3964,-0.5253,Spain,san vicente del raspeig,is_city
+108,Motril,36.75,-3.5167,Spain,motril,is_city
+109,Avila,40.65,-4.6833,Spain,avila,is_city
+110,Linares,38.0833,-3.6333,Spain,linares,is_city
+111,Cuenca,40.0667,-2.15,Spain,cuenca,is_city
+112,Huesca,42.1333,-0.4167,Spain,huesca,is_city
+113,San Bartolome,27.9254,-15.5726,Spain,san bartolome,is_city
+114,Pinto,40.25,-3.7,Spain,pinto,is_city
+115,Elda,38.4789,-0.7967,Spain,elda,is_city
+116,Colmenar Viejo,40.6589,-3.7658,Spain,colmenar viejo,is_city
+117,Mollet,41.5356,2.2107,Spain,mollet,is_city
+118,Torrelavega,43.3531,-4.0458,Spain,torrelavega,is_city
+119,Pola de Siero,43.3833,-5.65,Spain,pola de siero,is_city
+120,Villareal,39.9378,-0.1014,Spain,villareal,is_city
+121,Granadilla de Abona,28.1167,-16.5833,Spain,granadilla de abona,is_city
+122,Ibiza,38.9089,1.4328,Spain,ibiza,is_city
+123,Utrera,37.183,-5.767,Spain,utrera,is_city
+124,Adeje,28.1167,-16.7167,Spain,adeje,is_city
+125,Rincon de la Victoria,36.7167,-4.2833,Spain,rincon de la victoria,is_city
+126,Figueras,42.2667,2.965,Spain,figueras,is_city
+127,Esplugas de Llobregat,41.3767,2.0858,Spain,esplugas de llobregat,is_city
+128,Gava,41.3072,2.0039,Spain,gava,is_city
+129,Puertollano,38.6833,-4.1167,Spain,puertollano,is_city
+130,Mairena del Aljarafe,37.3333,-6.0667,Spain,mairena del aljarafe,is_city
+131,Santurce-Antiguo,43.3303,-3.0314,Spain,santurce-antiguo,is_city
+132,Portugalete,43.3194,-3.0194,Spain,portugalete,is_city
+133,San Feliu de Llobregat,41.3833,2.0439,Spain,san feliu de llobregat,is_city
+134,Alcira,39.15,-0.435,Spain,alcira,is_city
+135,Manacor,39.57,3.2089,Spain,manacor,is_city
+136,Mislata,39.475,-0.4156,Spain,mislata,is_city
+137,Denia,38.8444,0.1111,Spain,denia,is_city
+138,Lucena,37.4,-4.4833,Spain,lucena,is_city
+139,Alcantarilla,37.9722,-1.2094,Spain,alcantarilla,is_city
+140,La Orotava,28.3667,-16.5167,Spain,la orotava,is_city
+141,Puerto del Rosario,28.5,-13.8667,Spain,puerto del rosario,is_city
+142,Puerto Real,36.5292,-6.1919,Spain,puerto real,is_city
+143,Antequera,37.0183,-4.5597,Spain,antequera,is_city
+144,Alhaurin de la Torre,36.6667,-4.55,Spain,alhaurin de la torre,is_city
+145,Igualada,41.5814,1.6208,Spain,igualada,is_city
+146,Villafranca del Panades,41.3447,1.6994,Spain,villafranca del panades,is_city
+147,Blanes,41.674,2.7921,Spain,blanes,is_city
+148,Ecija,37.5333,-5.0833,Spain,ecija,is_city
+149,Plasencia,40.0275,-6.0908,Spain,plasencia,is_city
+150,San Fernando de Henares,40.4256,-3.5353,Spain,san fernando de henares,is_city
+151,Santa Eulalia del Rio,38.9847,1.5336,Spain,santa eulalia del rio,is_city
+152,Sama,43.3,-5.6833,Spain,sama,is_city
+153,Lloret de Mar,41.7,2.8333,Spain,lloret de mar,is_city
+154,Naron,43.55,-8.15,Spain,naron,is_city
+155,Burjasot,39.5064,-0.4067,Spain,burjasot,is_city
+156,Los Palacios y Villafranca,37.1625,-5.9242,Spain,los palacios y villafranca,is_city
+157,Vendrell,41.2201,1.5348,Spain,vendrell,is_city
+158,Ripollet,41.4969,2.1574,Spain,ripollet,is_city
+159,Lluchmayor,39.49,2.8915,Spain,lluchmayor,is_city
+160,Marratxi,39.6421,2.7527,Spain,marratxi,is_city
+161,Villagarcia de Arosa,42.5977,-8.7632,Spain,villagarcia de arosa,is_city
+162,Mieres,43.2508,-5.7767,Spain,mieres,is_city
+163,San Adrian de Besos,41.4305,2.2183,Spain,san adrian de besos,is_city
+164,Don Benito,38.9545,-5.8617,Spain,don benito,is_city
+165,Tudela,42.0653,-1.6067,Spain,tudela,is_city
+166,Moncada,41.4867,2.1879,Spain,moncada,is_city
+167,Andujar,38.0392,-4.0506,Spain,andujar,is_city
+168,Oleiros,43.3333,-8.3166,Spain,oleiros,is_city
+169,Torre-Pacheco,37.7333,-0.95,Spain,torre-pacheco,is_city
+170,Tomelloso,39.1578,-3.0208,Spain,tomelloso,is_city
+171,Olot,42.1822,2.489,Spain,olot,is_city
+172,Onteniente,38.8222,-0.6072,Spain,onteniente,is_city
+173,Miranda de Ebro,42.6833,-2.9333,Spain,miranda de ebro,is_city
+174,Aguilas,37.4042,-1.5819,Spain,aguilas,is_city
+175,Teruel,40.3456,-1.1065,Spain,teruel,is_city
+176,Cieza,38.2392,-1.4189,Spain,cieza,is_city
+177,Villajoyosa,38.5053,-0.2328,Spain,villajoyosa,is_city
+178,Burriana,39.8894,-0.0925,Spain,burriana,is_city
+179,Cambrils,41.067,1.0564,Spain,cambrils,is_city
+180,San Juan Despi,41.3668,2.057,Spain,san juan despi,is_city
+181,Villena,38.635,-0.8658,Spain,villena,is_city
+182,Almendralejo,38.6833,-6.4167,Spain,almendralejo,is_city
+183,Ronda,36.7461,-5.1611,Spain,ronda,is_city
+184,Inca,39.7167,2.9167,Spain,inca,is_city
+185,Tortosa,40.8125,0.5211,Spain,tortosa,is_city
+186,Santa Pola,38.1897,-0.5556,Spain,santa pola,is_city
+187,Aranda de Duero,41.6833,-3.6833,Spain,aranda de duero,is_city
+188,San Javier,37.8037,-0.8343,Spain,san javier,is_city
+189,Mazarron,37.5983,-1.3139,Spain,mazarron,is_city
+190,Arteijo,43.3044,-8.5114,Spain,arteijo,is_city
+191,Totana,37.7711,-1.5003,Spain,totana,is_city
+192,Castro-Urdiales,43.3844,-3.215,Spain,castro-urdiales,is_city
+193,Aldaya,39.4639,-0.4628,Spain,aldaya,is_city
+194,Salt,41.9761,2.7881,Spain,salt,is_city
+195,Vall de Uxo,39.8236,-0.2317,Spain,vall de uxo,is_city
+196,Nijar,36.9667,-2.2,Spain,nijar,is_city
+197,San Roque,36.2097,-5.3844,Spain,san roque,is_city
+198,Carballo,43.2167,-8.6833,Spain,carballo,is_city
+199,Arroyomolinos,40.2667,-3.9,Spain,arroyomolinos,is_city
+200,Manises,39.4833,-0.45,Spain,manises,is_city
+201,San Pedro de Ribas,41.2592,1.773,Spain,san pedro de ribas,is_city
+202,Coria del Rio,37.2833,-6.05,Spain,coria del rio,is_city
+203,Arcos de la Frontera,36.75,-5.8,Spain,arcos de la frontera,is_city
+204,Alcazar de San Juan,39.4056,-3.2056,Spain,alcazar de san juan,is_city
+205,Culleredo,43.2883,-8.3894,Spain,culleredo,is_city
+206,San Andres del Rabanedo,42.6167,-5.6,Spain,san andres del rabanedo,is_city
+207,Puerto de la Cruz,28.4167,-16.55,Spain,puerto de la cruz,is_city
+208,Valdepenas,38.7667,-3.4,Spain,valdepenas,is_city
+209,Chirivella,39.4656,-0.4267,Spain,chirivella,is_city
+210,Durango,43.1689,-2.63,Spain,durango,is_city
+211,Puente-Genil,37.3833,-4.7667,Spain,puente-genil,is_city
+212,Alacuas,39.4583,-0.4628,Spain,alacuas,is_city
+213,Mahon,39.8894,4.2642,Spain,mahon,is_city
+214,Sitges,41.2339,1.8042,Spain,sitges,is_city
+215,Crevillente,38.2486,-0.8089,Spain,crevillente,is_city
+216,Galdacano,43.2306,-2.8458,Spain,galdacano,is_city
+217,Rota,36.6167,-6.35,Spain,rota,is_city
+218,Redondela,42.2833,-8.6167,Spain,redondela,is_city
+219,Campello,38.4275,-0.4011,Spain,campello,is_city
+220,Vinaroz,40.4686,0.4736,Spain,vinaroz,is_city
+221,Martorell,41.4744,1.9305,Spain,martorell,is_city
+222,Catarroja,39.4028,-0.4044,Spain,catarroja,is_city
+223,Premia de Mar,41.492,2.362,Spain,premia de mar,is_city
+224,Salou,41.0796,1.1316,Spain,salou,is_city
+225,Candelaria,28.3547,-16.371,Spain,candelaria,is_city
+226,Javea,38.7892,0.1631,Spain,javea,is_city
+227,Lepe,37.2542,-7.2033,Spain,lepe,is_city
+228,Eibar,43.1843,-2.4733,Spain,eibar,is_city
+229,Moron de la Frontera,37.1222,-5.4517,Spain,moron de la frontera,is_city
+230,Calafell,41.2004,1.5693,Spain,calafell,is_city
+231,Lebrija,36.9194,-6.0781,Spain,lebrija,is_city
+232,San Andres de la Barca,41.4478,1.9769,Spain,san andres de la barca,is_city
+233,Sueca,39.2026,-0.3112,Spain,sueca,is_city
+234,Camas,37.402,-6.0332,Spain,camas,is_city
+235,Sestao,43.3108,-3.0056,Spain,sestao,is_city
+236,Algemesi,39.1897,-0.4378,Spain,algemesi,is_city
+237,Benicarlo,40.4167,0.4167,Spain,benicarlo,is_city
+238,La Oliva,28.6167,-13.9333,Spain,la oliva,is_city
+239,Vicar,36.8317,-2.6431,Spain,vicar,is_city
+240,Santa Eugenia,42.5667,-8.9833,Spain,santa eugenia,is_city
+241,Almazora,39.9403,-0.0625,Spain,almazora,is_city
+242,Cartama,36.7114,-4.6306,Spain,cartama,is_city
+243,Cangas,42.2642,-8.7819,Spain,cangas,is_city
+244,Paiporta,39.4278,-0.4183,Spain,paiporta,is_city
+245,Santa Perpetua de Moguda,41.5375,2.1819,Spain,santa perpetua de moguda,is_city
+246,Jumilla,38.4792,-1.325,Spain,jumilla,is_city
+247,Molins de Rey,41.4139,2.0158,Spain,molins de rey,is_city
+248,San Pedro del Pinatar,37.8167,-0.75,Spain,san pedro del pinatar,is_city
+249,Almunecar,36.7339,-3.6911,Spain,almunecar,is_city
+250,Paracuellos de Jarama,40.55,-3.5167,Spain,paracuellos de jarama,is_city
+251,Villanueva de la Serena,38.9667,-5.8,Spain,villanueva de la serena,is_city
+252,Novelda,38.385,-0.768,Spain,novelda,is_city
+253,Renedo,43.3578,-3.9581,Spain,renedo,is_city
+254,Muchamiel,38.4136,-0.4456,Spain,muchamiel,is_city
+255,Tomares,37.3764,-6.0458,Spain,tomares,is_city
+256,Adra,36.7478,-3.0161,Spain,adra,is_city
+257,Alhaurin el Grande,36.6331,-4.6831,Spain,alhaurin el grande,is_city
+258,Oliva,38.9194,-0.1211,Spain,oliva,is_city
+259,Villarrobledo,39.2667,-2.6,Spain,villarrobledo,is_city
+260,Ciempozuelos,40.1592,-3.6183,Spain,ciempozuelos,is_city
+261,Cuart de Poblet,39.4833,-0.4428,Spain,cuart de poblet,is_city
+262,Onda,39.9625,-0.2639,Spain,onda,is_city
+263,Puebla de Vallbona,39.5917,-0.553,Spain,puebla de vallbona,is_city
+264,Alboraya,39.5,-0.3522,Spain,alboraya,is_city
+265,Betera,39.5922,-0.4625,Spain,betera,is_city
+266,Cambre,43.283,-8.333,Spain,cambre,is_city
+267,Calahorra,42.3,-1.9667,Spain,calahorra,is_city
+268,Erandio,43.3047,-2.9731,Spain,erandio,is_city
+269,Almansa,38.8682,-1.0979,Spain,almansa,is_city
+270,Almonte,37.2667,-6.5167,Spain,almonte,is_city
+271,Valls,41.2883,1.2508,Spain,valls,is_city
+272,San Juan de Alicante,38.4014,-0.4367,Spain,san juan de alicante,is_city
+273,Armilla,37.15,-3.6167,Spain,armilla,is_city
+274,Olesa de Montserrat,41.545,1.8944,Spain,olesa de montserrat,is_city
+275,Torrelodones,40.5778,-3.9278,Spain,torrelodones,is_city
+276,Masnou,41.4817,2.3178,Spain,masnou,is_city
+277,Los Barrios,36.1833,-5.4833,Spain,los barrios,is_city
+278,Mairena del Alcor,37.3667,-5.7333,Spain,mairena del alcor,is_city
+279,Ibi,38.6272,-0.5753,Spain,ibi,is_city
+280,Liria,39.6258,-0.5961,Spain,liria,is_city
+281,Zarautz,43.2833,-2.1667,Spain,zarautz,is_city
+282,Calpe,38.645,0.0442,Spain,calpe,is_city
+283,Icod de los Vinos,28.35,-16.7,Spain,icod de los vinos,is_city
+284,Puenteareas,42.1667,-8.5,Spain,puenteareas,is_city
+285,Conil de la Frontera,36.2667,-6.0833,Spain,conil de la frontera,is_city
+286,Laguna de Duero,41.5833,-4.7167,Spain,laguna de duero,is_city
+287,Montilla,37.5833,-4.6333,Spain,montilla,is_city
+288,Coin,36.8167,-4.75,Spain,coin,is_city
+289,Altea,38.5986,-0.0519,Spain,altea,is_city
+290,Barbate de Franco,36.1833,-5.9167,Spain,barbate de franco,is_city
+291,Vilaseca de Solcina,41.111,1.145,Spain,vilaseca de solcina,is_city
+292,Cullera,39.1639,-0.2517,Spain,cullera,is_city
+293,Priego de Cordoba,37.4333,-4.1833,Spain,priego de cordoba,is_city
+294,Pilar de la Horadada,37.8667,-0.7833,Spain,pilar de la horadada,is_city
+295,Maracena,37.2,-3.6333,Spain,maracena,is_city
+296,Esparraguera,41.5381,1.8692,Spain,esparraguera,is_city
+297,Bormujos,37.3667,-6.0667,Spain,bormujos,is_city
+298,Torre del Mar,36.75,-4.1,Spain,torre del mar,is_city
+299,Alhama de Murcia,37.8514,-1.4264,Spain,alhama de murcia,is_city
+300,San Feliu de Guixols,41.7806,3.0306,Spain,san feliu de guixols,is_city
+302,Moguer,37.2747,-6.8386,Spain,moguer,is_city
+303,Guia de Isora,28.211,-16.7784,Spain,guia de isora,is_city
+304,San Juan de Aznalfarache,37.3667,-6.0167,Spain,san juan de aznalfarache,is_city
+305,Las Torres de Cotillas,38.0264,-1.2436,Spain,las torres de cotillas,is_city
+306,Alcala la Real,37.45,-3.9167,Spain,alcala la real,is_city
+307,Aljaraque,37.2667,-7.0167,Spain,aljaraque,is_city
+308,Alfafar,39.4222,-0.3906,Spain,alfafar,is_city
+309,Isla-Cristina,37.1992,-7.3214,Spain,isla-cristina,is_city
+310,Pajara,28.35,-14.1,Spain,pajara,is_city
+311,Picasent,39.3611,-0.46,Spain,picasent,is_city
+312,Almoradi,38.1097,-0.7894,Spain,almoradi,is_city
+313,Nerja,36.7469,-3.879,Spain,nerja,is_city
+314,Ayamonte,37.2,-7.4,Spain,ayamonte,is_city
+315,Palafrugell,41.9174,3.1631,Spain,palafrugell,is_city
+316,San Juan de Vilasar,41.5053,2.3928,Spain,san juan de vilasar,is_city
+317,Palma del Rio,37.7,-5.2833,Spain,palma del rio,is_city
+318,Manlleu,42.0,2.2836,Spain,manlleu,is_city
+319,Alcudia,39.8525,3.1192,Spain,alcudia,is_city
+320,Aspe,38.3456,-0.7689,Spain,aspe,is_city
+321,Los Llanos de Aridane,28.65,-17.9,Spain,los llanos de aridane,is_city
+322,Guimar,28.315,-16.41,Spain,guimar,is_city
+323,La Union,37.6192,-0.8756,Spain,la union,is_city
+324,Hernani,43.2667,-1.9667,Spain,hernani,is_city
+325,Carcagente,39.1222,-0.4489,Spain,carcagente,is_city
+326,Baza,37.4833,-2.7667,Spain,baza,is_city
+327,Loja,37.1667,-4.15,Spain,loja,is_city
+328,Medina del Campo,41.3,-4.9167,Spain,medina del campo,is_city
+329,Requena,39.4861,-1.1017,Spain,requena,is_city
+330,La Estrada,42.7,-8.4833,Spain,la estrada,is_city
+331,Cabra,37.4667,-4.4333,Spain,cabra,is_city
+332,Lalin,42.65,-8.1167,Spain,lalin,is_city
+333,Baranain,42.8,-1.6667,Spain,baranain,is_city
+334,Porrino,42.1667,-8.6167,Spain,porrino,is_city
+335,Calatayud,41.35,-1.6333,Spain,calatayud,is_city
+336,Cartaya,37.2833,-7.15,Spain,cartaya,is_city
+337,Banolas,42.1194,2.7664,Spain,banolas,is_city
+338,Rosas,42.2633,3.175,Spain,rosas,is_city
+339,Puzol,39.6167,-0.3011,Spain,puzol,is_city
+340,El Arahal,37.2667,-5.55,Spain,el arahal,is_city
+341,Amorebieta,43.2192,-2.7342,Spain,amorebieta,is_city
+342,Moana,42.2833,-8.75,Spain,moana,is_city
+343,Huercal-Overa,37.3833,-1.9333,Spain,huercal-overa,is_city
+344,Archena,38.115,-1.2992,Spain,archena,is_city
+345,Zubia,37.1206,-3.585,Spain,zubia,is_city
+346,Marchena,37.3333,-5.4167,Spain,marchena,is_city
+347,El Viso del Alcor,37.3833,-5.7167,Spain,el viso del alcor,is_city
+348,Calella,41.6169,2.6642,Spain,calella,is_city
+349,Chipiona,36.7333,-6.4333,Spain,chipiona,is_city
+350,Callosa de Segura,38.1225,-0.8797,Spain,callosa de segura,is_city
+351,Silla,39.3618,-0.4103,Spain,silla,is_city
+352,Baena,37.6167,-4.3167,Spain,baena,is_city
+353,Albolote,37.2306,-3.6569,Spain,albolote,is_city
+354,Atarfe,37.2229,-3.6899,Spain,atarfe,is_city
+355,Utebo,41.7141,-0.9944,Spain,utebo,is_city
+356,Malgrat de Mar,41.6456,2.7428,Spain,malgrat de mar,is_city
+357,Villaquilambre,42.6167,-5.6,Spain,villaquilambre,is_city
+358,Sant Just Desvern,41.3833,2.075,Spain,sant just desvern,is_city
+359,Lora del Rio,37.65,-5.5167,Spain,lora del rio,is_city
+360,San Lorenzo de El Escorial,40.5936,-4.1428,Spain,san lorenzo de el escorial,is_city
+361,Guadix,37.3,-3.1333,Spain,guadix,is_city
+362,Cardedeu,41.6406,2.3594,Spain,cardedeu,is_city
+363,Benicasim,40.0553,0.0642,Spain,benicasim,is_city
+364,La Eliana,39.5661,-0.5281,Spain,la eliana,is_city
+365,Felanitx,39.4692,3.1481,Spain,felanitx,is_city
+366,Tarifa,36.014,-5.606,Spain,tarifa,is_city
+367,La Nucia,38.6172,-0.1231,Spain,la nucia,is_city
+368,San Celoni,41.6895,2.4897,Spain,san celoni,is_city
+369,El Astillero,43.4017,-3.8194,Spain,el astillero,is_city
+370,Manzanares,38.9964,-3.3731,Spain,manzanares,is_city
+371,Torrox,36.75,-3.95,Spain,torrox,is_city
+372,Huercal de Almeria,36.8833,-2.4333,Spain,huercal de almeria,is_city
+373,Daimiel,39.0833,-3.6167,Spain,daimiel,is_city
+374,Caldas de Montbuy,41.6328,2.1675,Spain,caldas de montbuy,is_city
+375,Benavente,42.0031,-5.6742,Spain,benavente,is_city
+376,Nigran,42.1419,-8.8056,Spain,nigran,is_city
+377,Munguia,43.3547,-2.8472,Spain,munguia,is_city
+378,Osuna,37.2333,-5.1,Spain,osuna,is_city
+379,Bailen,38.0833,-3.7667,Spain,bailen,is_city
+380,Castilleja de la Cuesta,37.3833,-6.05,Spain,castilleja de la cuesta,is_city
+381,Balaguer,41.7904,0.8056,Spain,balaguer,is_city
+382,Tarrega,41.6464,1.1394,Spain,tarrega,is_city
+383,Sangenjo,42.4017,-8.8067,Spain,sangenjo,is_city
+384,Tabernes de Valldigna,39.0722,-0.2658,Spain,tabernes de valldigna,is_city
+385,Pozoblanco,38.3833,-4.85,Spain,pozoblanco,is_city
+386,Barbastro,42.0361,0.1264,Spain,barbastro,is_city
+387,Navalmoral de la Mata,39.8983,-5.5403,Spain,navalmoral de la mata,is_city
+388,Guernica y Luno,43.3167,-2.6667,Spain,guernica y luno,is_city
+389,Poyo,42.4333,-8.6667,Spain,poyo,is_city
+390,Mula,38.0419,-1.4906,Spain,mula,is_city
+391,Vera,37.25,-1.8667,Spain,vera,is_city
+392,Bermeo,43.42,-2.7264,Spain,bermeo,is_city
+393,Canovellas,41.6176,2.2814,Spain,canovellas,is_city
+394,Zafra,38.4167,-6.4167,Spain,zafra,is_city
+395,Fuente-Alamo de Murcia,37.7394,-1.1881,Spain,fuente-alamo de murcia,is_city
+396,Berga,42.1,1.8456,Spain,berga,is_city
+397,Rojales,38.0886,-0.7236,Spain,rojales,is_city
+398,La Garriga,41.6804,2.2833,Spain,la garriga,is_city
+399,Pollensa,39.8772,3.0164,Spain,pollensa,is_city
+400,Montornes del Valles,41.5444,2.267,Spain,montornes del valles,is_city
+401,Ubrique,36.6833,-5.45,Spain,ubrique,is_city
+402,Los Alcazares,37.7436,-0.8497,Spain,los alcazares,is_city
+403,Albal,39.3972,-0.4156,Spain,albal,is_city
+404,Torredembarra,41.1457,1.3957,Spain,torredembarra,is_city
+405,Guadarrama,40.6728,-4.0889,Spain,guadarrama,is_city
+406,La Algaba,37.45,-6.0,Spain,la algaba,is_city
+407,Manilva,36.3833,-5.25,Spain,manilva,is_city
+408,Las Cabezas de San Juan,36.9817,-5.9406,Spain,las cabezas de san juan,is_city
+409,Santomera,38.0617,-1.0492,Spain,santomera,is_city
+410,Arzua,42.9167,-8.2167,Spain,arzua,is_city
+411,Sada,43.35,-8.25,Spain,sada,is_city
+412,Masamagrell,39.5703,-0.33,Spain,masamagrell,is_city
+413,Piera,41.5222,1.7494,Spain,piera,is_city
+414,Alcaniz,41.0511,-0.1336,Spain,alcaniz,is_city
+415,Arenys de Mar,41.5819,2.5503,Spain,arenys de mar,is_city
+416,Guardamar del Segura,38.0897,-0.655,Spain,guardamar del segura,is_city
+417,Ermua,43.1875,-2.5008,Spain,ermua,is_city
+418,Espartinas,37.3833,-6.1167,Spain,espartinas,is_city
+419,Baeza,37.9833,-3.4667,Spain,baeza,is_city
+420,Lumbreras,37.5633,-1.8072,Spain,lumbreras,is_city
+421,Cubellas,41.21,1.6736,Spain,cubellas,is_city
+422,Santa Cruz de la Palma,28.6825,-17.765,Spain,santa cruz de la palma,is_city
+423,Churriana de la Vega,37.15,-3.65,Spain,churriana de la vega,is_city
+424,La Roda,39.207,-2.1604,Spain,la roda,is_city
+425,Miguelturra,38.9647,-3.8911,Spain,miguelturra,is_city
+426,La Solana,38.9414,-3.2394,Spain,la solana,is_city
+427,Chiva,39.4714,-0.7197,Spain,chiva,is_city
+428,Vieiro,43.6481,-7.59,Spain,vieiro,is_city
+429,Punta Umbria,37.1667,-6.95,Spain,punta umbria,is_city
+430,Fraga,41.52,0.35,Spain,fraga,is_city
+431,La Carolina,38.2667,-3.6167,Spain,la carolina,is_city
+432,Azpeitia,43.1819,-2.2653,Spain,azpeitia,is_city
+433,Cizur Mayor,42.7867,-1.6908,Spain,cizur mayor,is_city
+434,Vergara,43.1175,-2.4133,Spain,vergara,is_city
+435,Arnedo,42.2167,-2.1,Spain,arnedo,is_city
+436,Benetuser,39.425,-0.3961,Spain,benetuser,is_city
+437,Santa Ursula,28.4253,-16.4917,Spain,santa ursula,is_city
+438,San Carlos de la Rapita,40.6203,0.5927,Spain,san carlos de la rapita,is_city
+439,Corbera de Llobregat,41.4169,1.9314,Spain,corbera de llobregat,is_city
+440,Canet de Mar,41.5911,2.5828,Spain,canet de mar,is_city
+441,Cehegin,38.0925,-1.7989,Spain,cehegin,is_city
+442,Gondomar,42.1111,-8.7611,Spain,gondomar,is_city
+443,Andoain,43.2167,-2.0167,Spain,andoain,is_city
+444,Meco,40.5539,-3.3261,Spain,meco,is_city
+445,Mollerusa,41.6317,0.8961,Spain,mollerusa,is_city
+446,Villaviciosa,43.4833,-5.4333,Spain,villaviciosa,is_city
+447,Cuevas del Almanzora,37.3,-1.8667,Spain,cuevas del almanzora,is_city
+448,Torello,42.0492,2.2629,Spain,torello,is_city
+449,Bollullos par del Condado,37.3358,-6.5364,Spain,bollullos par del condado,is_city
+450,Ogijares,37.1167,-3.6,Spain,ogijares,is_city
+451,Noya,42.7833,-8.8833,Spain,noya,is_city
+452,Torre del Campo,37.7667,-3.8833,Spain,torre del campo,is_city
+453,Sopelana,43.3814,-2.9792,Spain,sopelana,is_city
+454,Carballino,42.431,-8.079,Spain,carballino,is_city
+455,La Carlota,37.6667,-4.9333,Spain,la carlota,is_city
+456,Villalba,43.3,-7.6833,Spain,villalba,is_city
+457,Pilas,37.3017,-6.2986,Spain,pilas,is_city
+458,Sanlucar la Mayor,37.3831,-6.2,Spain,sanlucar la mayor,is_city
+459,Beasain,43.0458,-2.1894,Spain,beasain,is_city
+460,Guia,28.1389,-15.6328,Spain,guia,is_city
+461,Alginet,39.2625,-0.4683,Spain,alginet,is_city
+462,La Puebla,39.7693,3.0225,Spain,la puebla,is_city
+463,Cambados,42.5,-8.8,Spain,cambados,is_city
+464,Llanera,43.4667,-5.9333,Spain,llanera,is_city
+465,Torrijos,39.9833,-4.2814,Spain,torrijos,is_city
+466,Verin,41.9408,-7.4358,Spain,verin,is_city
+467,Soller,39.7667,2.7,Spain,soller,is_city
+468,Torredonjimeno,37.7667,-3.95,Spain,torredonjimeno,is_city
+469,La Llagosta,41.5156,2.1928,Spain,la llagosta,is_city
+470,Tomino,41.9833,-8.7167,Spain,tomino,is_city
+471,Cunit,41.1976,1.6345,Spain,cunit,is_city
+472,Canals,38.9611,-0.585,Spain,canals,is_city
+473,Llanes,43.4214,-4.7564,Spain,llanes,is_city
+474,San Agustin de Guadalix,40.6781,-3.615,Spain,san agustin de guadalix,is_city
+475,Cuarte de Huerva,41.5833,-0.9167,Spain,cuarte de huerva,is_city
+476,El Barco de Valdeorras,42.4167,-6.9831,Spain,el barco de valdeorras,is_city
+477,Gines,37.3875,-6.0781,Spain,gines,is_city
+478,Aguilar,37.5167,-4.65,Spain,aguilar,is_city
+479,Santa Coloma de Farnes,41.8624,2.6654,Spain,santa coloma de farnes,is_city
+480,Sarria,42.7833,-7.4167,Spain,sarria,is_city
+481,Campo de Criptana,39.4,-3.1167,Spain,campo de criptana,is_city
+482,Nules,39.8525,-0.1506,Spain,nules,is_city
+483,Alora,36.8167,-4.7,Spain,alora,is_city
+484,Santa Cruz de Bezana,43.4442,-3.9031,Spain,santa cruz de bezana,is_city
+485,Betanzos,43.2792,-8.2106,Spain,betanzos,is_city
+486,Abaran,38.2031,-1.4003,Spain,abaran,is_city
+487,Pola de Laviana,43.2358,-5.5563,Spain,pola de laviana,is_city
+488,Fene,43.4667,-8.1667,Spain,fene,is_city
+489,Sant Sadurni d'Anoia,41.4261,1.785,Spain,sant sadurni d'anoia,is_city
+490,Santa Margarita,39.7033,3.1036,Spain,santa margarita,is_city
+491,Valverde del Camino,37.5667,-6.75,Spain,valverde del camino,is_city
+492,Gibraleon,37.3753,-6.9694,Spain,gibraleon,is_city
+493,Villafranca de los Barros,38.5667,-6.3333,Spain,villafranca de los barros,is_city
+494,Vejer de la Frontera,36.25,-5.9667,Spain,vejer de la frontera,is_city
+495,Vilanova del Cami,41.5733,1.6381,Spain,vilanova del cami,is_city
+496,Berja,36.8453,-2.9469,Spain,berja,is_city
+497,Castellbisbal,41.4767,1.9822,Spain,castellbisbal,is_city
+498,Abrera,41.5165,1.9024,Spain,abrera,is_city
+499,Argentona,41.5558,2.4025,Spain,argentona,is_city
+500,Teror,28.059,-15.5476,Spain,teror,is_city
+501,Salobrena,36.7467,-3.5869,Spain,salobrena,is_city
+502,Brenes,37.55,-5.8667,Spain,brenes,is_city
+503,Estepa,37.2917,-4.8792,Spain,estepa,is_city
+504,Albatera,38.1786,-0.8681,Spain,albatera,is_city
+505,Ocana,39.9569,-3.4967,Spain,ocana,is_city
+506,Santany,39.3542,3.1283,Spain,santany,is_city
+507,Arrigorriaga,43.2078,-2.8861,Spain,arrigorriaga,is_city
+508,Monovar,38.4369,-0.8381,Spain,monovar,is_city
+509,Mongat,41.4667,2.279,Spain,mongat,is_city
+510,Acala del Rio,37.5167,-5.9667,Spain,acala del rio,is_city
+511,Capdepera,39.7,3.4333,Spain,capdepera,is_city
+512,Villamartin,36.8667,-5.65,Spain,villamartin,is_city
+513,Bayona,42.1178,-8.8506,Spain,bayona,is_city
+514,Cangas de Narcea,43.1714,-6.5389,Spain,cangas de narcea,is_city
+515,Alcudia de Carlet,39.1958,-0.5072,Spain,alcudia de carlet,is_city
+516,Albox,37.3833,-2.1333,Spain,albox,is_city
+517,Socuellamos,39.2933,-2.7942,Spain,socuellamos,is_city
+518,Huetor Vega,37.15,-3.5667,Spain,huetor vega,is_city
+519,Bolanos de Calatrava,38.8831,-3.7167,Spain,bolanos de calatrava,is_city
+520,Ceuti,38.0789,-1.2722,Spain,ceuti,is_city
+521,Benifayo,39.2847,-0.4281,Spain,benifayo,is_city
+522,Bueu,42.3167,-8.7833,Spain,bueu,is_city
+523,La Puebla del Rio,37.2667,-6.05,Spain,la puebla del rio,is_city
+524,Olivenza,38.6858,-7.1008,Spain,olivenza,is_city
+525,Son Servera,39.6208,3.36,Spain,son servera,is_city
+526,Medina Sidonia,36.4667,-5.9167,Spain,medina sidonia,is_city
+527,Palos de la Frontera,37.2283,-6.8944,Spain,palos de la frontera,is_city
+528,Jodar,37.8333,-3.35,Spain,jodar,is_city
+529,Azcoitia,43.1792,-2.3106,Spain,azcoitia,is_city
+530,Palleja,41.4242,1.9978,Spain,palleja,is_city
+531,Picana,39.4361,-0.435,Spain,picana,is_city
+532,Elgoibar,43.2142,-2.4169,Spain,elgoibar,is_city
+533,Bullas,38.0497,-1.6706,Spain,bullas,is_city
+534,Onate,43.0333,-2.4167,Spain,onate,is_city
+535,Peligros,37.2333,-3.6333,Spain,peligros,is_city
+536,Beniel,38.0464,-1.0014,Spain,beniel,is_city
+537,Utiel,39.5672,-1.2067,Spain,utiel,is_city
+538,Andraitx,39.5746,2.4206,Spain,andraitx,is_city
+539,Laracha,43.2486,-8.5833,Spain,laracha,is_city
+540,Mancha Real,37.7833,-3.6,Spain,mancha real,is_city
+541,Benisa,38.7145,0.0527,Spain,benisa,is_city
+542,Tegueste,28.5233,-16.3408,Spain,tegueste,is_city
+543,Campos del Puerto,39.4306,3.0194,Spain,campos del puerto,is_city
+544,Santiago del Teide,28.2957,-16.8145,Spain,santiago del teide,is_city
+545,Teulada,38.7292,0.1019,Spain,teulada,is_city
+546,Benaguacil,39.5933,-0.5864,Spain,benaguacil,is_city
+547,Beniajan,37.9833,-1.0667,Spain,beniajan,is_city
+548,Barbadanes,42.3003,-7.9064,Spain,barbadanes,is_city
+549,San Andres de Llevaneras,41.5733,2.4828,Spain,san andres de llevaneras,is_city
+550,Sonseca,39.7,-3.95,Spain,sonseca,is_city
+551,Laredo,43.4144,-3.41,Spain,laredo,is_city
+552,Santona,43.4414,-3.4575,Spain,santona,is_city
+553,Rianxo,42.65,-8.8167,Spain,rianxo,is_city
+554,Sant Joan de Vilatorrada,41.7456,1.8056,Spain,sant joan de vilatorrada,is_city
+555,Meliana,39.5272,-0.3492,Spain,meliana,is_city
+556,La Puebla de Cazalla,37.2222,-5.3125,Spain,la puebla de cazalla,is_city
+557,Bollullos de la Mitacion,37.3333,-6.1333,Spain,bollullos de la mitacion,is_city
+558,Aizoain,42.8356,-1.6394,Spain,aizoain,is_city
+559,Lardero,42.4261,-2.4614,Spain,lardero,is_city
+560,Ripoll,42.2011,2.1903,Spain,ripoll,is_city
+561,La Palma del Condado,37.3842,-6.5517,Spain,la palma del condado,is_city
+562,Los Corrales de Buelna,43.2617,-4.0653,Spain,los corrales de buelna,is_city
+563,Astorga,42.4589,-6.0633,Spain,astorga,is_city
+564,Cantillana,37.6,-5.8167,Spain,cantillana,is_city
+565,Pola de Lena,43.1583,-5.8292,Spain,pola de lena,is_city
+566,Villacarrillo,38.1,-3.0833,Spain,villacarrillo,is_city
+567,Berriozar,42.8361,-1.6714,Spain,berriozar,is_city
+568,Tafalla,42.5289,-1.6736,Spain,tafalla,is_city
+569,Penarroya-Pueblonuevo,38.3,-5.2667,Spain,penarroya-pueblonuevo,is_city
+570,Tarazona de Aragon,41.9044,-1.7225,Spain,tarazona de aragon,is_city
+571,Bargas,39.94,-4.0194,Spain,bargas,is_city
+572,Alberique,39.1167,-0.5211,Spain,alberique,is_city
+573,Grove,42.494,-8.865,Spain,grove,is_city
+574,Alcaudete,37.5833,-4.1,Spain,alcaudete,is_city
+575,Castalla,38.5967,-0.6708,Spain,castalla,is_city
+576,Alcora,40.0667,-0.2,Spain,alcora,is_city
+577,Cabanaquinta,43.1,-5.5833,Spain,cabanaquinta,is_city
+578,Cassa de la Selva,41.8893,2.8742,Spain,cassa de la selva,is_city
+579,Huetor-Tajar,37.1947,-4.0464,Spain,huetor-tajar,is_city
+580,Sedavi,39.4271,-0.3849,Spain,sedavi,is_city
+581,Pulpi,37.4019,-1.7508,Spain,pulpi,is_city
+582,Madridejos,39.4667,-3.5333,Spain,madridejos,is_city
+583,Candas,43.5486,-5.7897,Spain,candas,is_city
+584,La Baneza,42.2975,-5.9017,Spain,la baneza,is_city
+585,Fortuna,38.1789,-1.1233,Spain,fortuna,is_city
+586,Luanco,43.61,-5.79,Spain,luanco,is_city
+587,Amurrio,43.0528,-3.0014,Spain,amurrio,is_city
+588,La Escala,42.1136,3.135,Spain,la escala,is_city
+589,Villanueva de Arosa,42.5628,-8.8278,Spain,villanueva de arosa,is_city
+590,Santa Margarita de Mombuy,41.5756,1.6092,Spain,santa margarita de mombuy,is_city
+591,Gelves,37.3333,-6.0167,Spain,gelves,is_city
+592,Canteras,37.6121,-1.0437,Spain,canteras,is_city
+593,Calasparra,38.2306,-1.7,Spain,calasparra,is_city
+594,Zumaia,43.2972,-2.2569,Spain,zumaia,is_city
+595,Puentes de Garcia Rodriguez,43.45,-7.8333,Spain,puentes de garcia rodriguez,is_city
+596,Illora,37.2883,-3.8797,Spain,illora,is_city
+597,Caspe,41.2333,-0.0333,Spain,caspe,is_city
+598,La Guardia,41.9017,-8.8753,Spain,la guardia,is_city
+599,Foz,43.5694,-7.2583,Spain,foz,is_city
+600,Caudete,38.7044,-0.9881,Spain,caudete,is_city
+601,Mengibar,37.9683,-3.8089,Spain,mengibar,is_city
+602,Salvatierra de Mino,42.0833,-8.5,Spain,salvatierra de mino,is_city
+603,Alella,41.4953,2.2958,Spain,alella,is_city
+604,Rute,37.3167,-4.3667,Spain,rute,is_city
+605,Pinos Puente,37.25,-3.75,Spain,pinos puente,is_city
+606,Villamarchante,39.5678,-0.6225,Spain,villamarchante,is_city
+607,El Alamo,40.2306,-3.9944,Spain,el alamo,is_city
+608,Ribadeo,43.5336,-7.0403,Spain,ribadeo,is_city
+609,Mora,39.684,-3.777,Spain,mora,is_city
+610,Masanasa,39.4083,-0.3989,Spain,masanasa,is_city
+611,Caldas de Reyes,42.6028,-8.6383,Spain,caldas de reyes,is_city
+612,San Vicente de Castellet,41.6655,1.8641,Spain,san vicente de castellet,is_city
+613,Fuente Palmera,37.7,-5.1,Spain,fuente palmera,is_city
+614,Villarrubia de los Ojos,39.2167,-3.6,Spain,villarrubia de los ojos,is_city
+615,Alguazas,38.0514,-1.2414,Spain,alguazas,is_city
+616,Binefar,41.85,0.3,Spain,binefar,is_city
+617,Alcarraz,41.5638,0.5241,Spain,alcarraz,is_city
+618,Grado,43.3881,-6.0736,Spain,grado,is_city
+619,Cuellar,41.4009,-4.3136,Spain,cuellar,is_city
+620,Fernan-Nunez,37.6667,-4.7167,Spain,fernan-nunez,is_city
+621,Santa Maria de Palautordera,41.6953,2.4458,Spain,santa maria de palautordera,is_city
+622,Alfaro,42.1783,-1.7492,Spain,alfaro,is_city
+623,Piedras Blancas,43.56,-5.976,Spain,piedras blancas,is_city
+624,Miajadas,39.15,-6.0667,Spain,miajadas,is_city
+625,Garrucha,37.1833,-1.8167,Spain,garrucha,is_city
+626,Alhendin,37.1167,-3.65,Spain,alhendin,is_city
+627,Bunol,39.4194,-0.7906,Spain,bunol,is_city
+628,Burela de Cabo,43.65,-7.4,Spain,burela de cabo,is_city
+629,Matadepera,41.6036,2.0244,Spain,matadepera,is_city
+630,Tocina,37.6,-5.7333,Spain,tocina,is_city
+631,Alayor,39.9342,4.14,Spain,alayor,is_city
+632,Olivares,37.4167,-6.15,Spain,olivares,is_city
+633,Pizarra,36.7667,-4.7,Spain,pizarra,is_city
+634,Alcanar,40.543,0.4808,Spain,alcanar,is_city
+635,San Juan del Puerto,37.3167,-6.8333,Spain,san juan del puerto,is_city
+636,Masquefa,41.5036,1.8136,Spain,masquefa,is_city
+637,Sevilla La Nueva,40.3475,-4.0272,Spain,sevilla la nueva,is_city
+638,Valsequillo de Gran Canaria,27.9808,-15.4989,Spain,valsequillo de gran canaria,is_city
+639,Santa Comba,43.0383,-8.8142,Spain,santa comba,is_city
+640,Cervera,41.6657,1.271,Spain,cervera,is_city
+641,Puebla del Caraminal,42.6,-8.933,Spain,puebla del caraminal,is_city
+642,Muro del Alcoy,38.7797,-0.4361,Spain,muro del alcoy,is_city
+643,Montoro,38.0167,-4.3833,Spain,montoro,is_city
+644,El Molar,40.7336,-3.5814,Spain,el molar,is_city
+645,San Sebastian de la Gomera,28.0922,-17.11,Spain,san sebastian de la gomera,is_city
+646,Senmanat,41.6086,2.1358,Spain,senmanat,is_city
+647,Colmenarejo,40.5608,-4.0169,Spain,colmenarejo,is_city
+648,Tabernes Blanques,39.5064,-0.3626,Spain,tabernes blanques,is_city
+649,Tineo,43.3333,-6.4167,Spain,tineo,is_city
+650,El Campo,36.7522,-2.6839,Spain,el campo,is_city
+651,Sabinanigo,42.5186,-0.3643,Spain,sabinanigo,is_city
+652,Santa Maria de Cayon,43.3114,-3.8525,Spain,santa maria de cayon,is_city
+653,La Victoria de Acentejo,28.4348,-16.4682,Spain,la victoria de acentejo,is_city
+654,Rafelbunol,39.5922,-0.3342,Spain,rafelbunol,is_city
+655,Solsona,41.9944,1.5178,Spain,solsona,is_city
+656,Arenys de Munt,41.6128,2.5403,Spain,arenys de munt,is_city
+657,Segorbe,39.8519,-0.4896,Spain,segorbe,is_city
+658,El Espinar,40.7186,-4.2478,Spain,el espinar,is_city
+659,Cervello,41.3962,1.9589,Spain,cervello,is_city
+660,La Matanza de Acentejo,28.4403,-16.4389,Spain,la matanza de acentejo,is_city
+661,Cisterniga,41.6167,-4.6833,Spain,cisterniga,is_city
+662,Umbrete,37.3667,-6.15,Spain,umbrete,is_city
+663,Almusafes,39.2903,-0.4147,Spain,almusafes,is_city
+664,Reinosa,43.0019,-4.1378,Spain,reinosa,is_city
+665,Tiana,41.4831,2.2697,Spain,tiana,is_city
+666,Sauzal,28.4799,-16.4357,Spain,sauzal,is_city
+667,Manzanares el Real,40.7272,-3.8611,Spain,manzanares el real,is_city
+668,Almagro,38.8878,-3.7122,Spain,almagro,is_city
+669,Catral,38.1594,-0.805,Spain,catral,is_city
+670,Loeches,40.3833,-3.4,Spain,loeches,is_city
+671,Silleda,42.7,-8.2333,Spain,silleda,is_city
+672,San Fausto de Campcentellas,41.5061,2.24,Spain,san fausto de campcentellas,is_city
+673,Palomares del Rio,37.3167,-6.05,Spain,palomares del rio,is_city
+674,San Fructuoso de Bages,41.7507,1.8727,Spain,san fructuoso de bages,is_city
+675,Montmelo,41.5547,2.25,Spain,montmelo,is_city
+676,Suances,43.4333,-4.05,Spain,suances,is_city
+677,Binisalem,39.6831,2.8333,Spain,binisalem,is_city
+678,Tordesillas,41.5,-5.0,Spain,tordesillas,is_city
+679,San Lorenzo de Descardazar,39.609,3.2853,Spain,san lorenzo de descardazar,is_city
+680,Cheste,39.4797,-0.6844,Spain,cheste,is_city
+681,Puig,39.5896,-0.3031,Spain,puig,is_city
+682,Padul,37.0244,-3.6267,Spain,padul,is_city
+683,Villanueva de Cordoba,38.3167,-4.6167,Spain,villanueva de cordoba,is_city
+684,Toro,41.52,-5.3947,Spain,toro,is_city
+685,Llagostera,41.8292,2.8933,Spain,llagostera,is_city
+686,Colindres,43.3967,-3.4483,Spain,colindres,is_city
+687,Bembibre,42.6154,-6.417,Spain,bembibre,is_city
+688,Santiponce,37.4353,-6.0433,Spain,santiponce,is_city
+689,Polinya,41.5575,2.1562,Spain,polinya,is_city
+690,Herencia,39.35,-3.3667,Spain,herencia,is_city
+691,El Corrillo,43.2142,-3.1311,Spain,el corrillo,is_city
+692,Valldoreix,41.4678,2.0647,Spain,valldoreix,is_city
+693,Reocin,43.3611,-4.0864,Spain,reocin,is_city
+694,Ondarroa,43.3219,-2.4194,Spain,ondarroa,is_city
+695,Campillos,37.05,-4.85,Spain,campillos,is_city
+696,Ortuella,43.3103,-3.0569,Spain,ortuella,is_city
+697,Padron,42.7381,-8.6603,Spain,padron,is_city
+698,Villamediana de Iregua,42.4264,-2.4181,Spain,villamediana de iregua,is_city
+699,Cabezon de la Sal,43.3075,-4.2325,Spain,cabezon de la sal,is_city
+700,Tona,41.8506,2.2292,Spain,tona,is_city
+701,Monforte del Cid,38.3792,-0.7303,Spain,monforte del cid,is_city
+702,Navia,43.5333,-6.7167,Spain,navia,is_city
+703,Legazpia,43.055,-2.335,Spain,legazpia,is_city
+704,Olleria,38.9142,-0.5494,Spain,olleria,is_city
+705,Santa Coloma de Cervello,41.3687,2.0175,Spain,santa coloma de cervello,is_city
+706,Aracena,37.8911,-6.5611,Spain,aracena,is_city
+707,Monserrat,39.3575,-0.6031,Spain,monserrat,is_city
+708,Archidona,37.1,-4.3833,Spain,archidona,is_city
+709,Chantada,42.6167,-7.7667,Spain,chantada,is_city
+710,Cenes de la Vega,37.15,-3.5333,Spain,cenes de la vega,is_city
+711,Puebla de Farnals,39.5643,-0.2834,Spain,puebla de farnals,is_city
+712,Arico el Nuevo,28.1904,-16.4977,Spain,arico el nuevo,is_city
+713,Carboneras,36.9992,-1.8922,Spain,carboneras,is_city
+714,Corella,42.1147,-1.7867,Spain,corella,is_city
+715,Roquetas,40.8206,0.5025,Spain,roquetas,is_city
+716,Villanueva del Arzobispo,38.1667,-3.0,Spain,villanueva del arzobispo,is_city
+717,Los Santos de Maimona,38.4489,-6.3839,Spain,los santos de maimona,is_city
+718,Najera,42.4167,-2.7333,Spain,najera,is_city
+719,Olvera,36.9344,-5.2597,Spain,olvera,is_city
+720,Cintruenigo,42.08,-1.805,Spain,cintruenigo,is_city
+721,Pinoso,38.4033,-1.0422,Spain,pinoso,is_city
+722,Monachil,37.1319,-3.5389,Spain,monachil,is_city
+723,Pravia,43.4833,-6.1,Spain,pravia,is_city
+724,Arta,39.6952,3.3512,Spain,arta,is_city
+725,Arevalo,41.0667,-4.7167,Spain,arevalo,is_city
+726,Vidreras,41.7889,2.7793,Spain,vidreras,is_city
+727,Almodovar del Rio,37.8,-5.0167,Spain,almodovar del rio,is_city
+728,Redovan,38.1139,-0.9056,Spain,redovan,is_city
+729,Brion,42.867,-8.678,Spain,brion,is_city
+730,Pedreguer,38.7933,0.0342,Spain,pedreguer,is_city
+731,Malagon,39.1833,-3.8667,Spain,malagon,is_city
+732,Caldas de Malavella,41.8387,2.8089,Spain,caldas de malavella,is_city
+733,Trigueros,37.3833,-6.8333,Spain,trigueros,is_city
+734,La Puebla de Montalban,39.8722,-4.3589,Spain,la puebla de montalban,is_city
+735,Villaverde del Rio,37.5833,-5.8667,Spain,villaverde del rio,is_city
+736,Valencina de la Concepcion,37.4167,-6.0667,Spain,valencina de la concepcion,is_city
+737,Castro del Rio,37.6833,-4.4667,Spain,castro del rio,is_city
+738,Puentedeume,43.4125,-8.1703,Spain,puentedeume,is_city
+739,Benahavis,36.519,-5.0454,Spain,benahavis,is_city
+740,Azuaga,38.2589,-5.6778,Spain,azuaga,is_city
+741,Valmaseda,43.1958,-3.1928,Spain,valmaseda,is_city
+742,Tobarra,38.5831,-1.6831,Spain,tobarra,is_city
+743,San Esteban Sasroviras,41.495,1.8744,Spain,san esteban sasroviras,is_city
+744,Marchamalo,40.6706,-3.2006,Spain,marchamalo,is_city
+745,Peniscola,40.3592,0.4075,Spain,peniscola,is_city
+746,Gerena,37.517,-6.15,Spain,gerena,is_city
+747,Gelida,41.4409,1.8647,Spain,gelida,is_city
+748,Abadiano Celayeta,43.1525,-2.6075,Spain,abadiano celayeta,is_city
+749,Bornos,36.8167,-5.7333,Spain,bornos,is_city
+750,El Paso,28.6513,-17.8806,Spain,el paso,is_city
+751,Sampedor,41.7836,1.8392,Spain,sampedor,is_city
+752,Onil,38.6333,-0.6667,Spain,onil,is_city
+753,Vega de San Mateo,28.0106,-15.5325,Spain,vega de san mateo,is_city
+754,Cee,42.95,-9.1667,Spain,cee,is_city
+755,Cullar-Vega,37.1531,-3.6706,Spain,cullar-vega,is_city
+756,Viladecaballs,41.5578,1.9558,Spain,viladecaballs,is_city
+757,Oroso,42.9833,-8.4333,Spain,oroso,is_city
+758,Dolores,38.1389,-0.77,Spain,dolores,is_city
+759,La Rambla,37.6,-4.7333,Spain,la rambla,is_city
+760,Callosa de Ensarria,38.6514,-0.1228,Spain,callosa de ensarria,is_city
+761,Centellas,41.7994,2.2217,Spain,centellas,is_city
+762,San Nicolas,27.9826,-15.7799,Spain,san nicolas,is_city
+763,Cobena,40.5669,-3.5069,Spain,cobena,is_city
+764,Foyos,39.5386,-0.3567,Spain,foyos,is_city
+765,Almacera,39.5117,-0.3561,Spain,almacera,is_city
+766,Villarejo de Salvanes,40.1833,-3.3167,Spain,villarejo de salvanes,is_city
+767,Cabrils,41.5283,2.3692,Spain,cabrils,is_city
+768,Santa Eulalia de Ronsana,41.6531,2.2261,Spain,santa eulalia de ronsana,is_city
+769,Sotomayor,42.333,-8.567,Spain,sotomayor,is_city
+770,Talayuela,39.9667,-5.6,Spain,talayuela,is_city
+771,Cox,38.1394,-0.8847,Spain,cox,is_city
+772,Montblanch,41.3764,1.1639,Spain,montblanch,is_city
+773,Valverde de la Virgen,42.5667,-5.6833,Spain,valverde de la virgen,is_city
+774,Elorrio,43.1306,-2.5428,Spain,elorrio,is_city
+775,Albunol,36.8,-3.2,Spain,albunol,is_city
+776,Cazorla,37.9,-3.0,Spain,cazorla,is_city
+778,Bujalance,37.9,-4.3833,Spain,bujalance,is_city
+779,Lekeitio,43.3622,-2.4961,Spain,lekeitio,is_city
+780,Rocafort,39.5306,-0.41,Spain,rocafort,is_city
+781,Begas,41.3319,1.9228,Spain,begas,is_city
+782,Pedro Munoz,39.4,-2.95,Spain,pedro munoz,is_city
+783,Guisona,41.7847,1.288,Spain,guisona,is_city
+784,Brena Alta,28.6333,-17.7667,Spain,brena alta,is_city
+785,Lorqui,38.0817,-1.255,Spain,lorqui,is_city
+786,Benacazon,37.35,-6.1833,Spain,benacazon,is_city
+787,Torreperogil,38.0417,-3.2844,Spain,torreperogil,is_city
+788,Berango,43.365,-2.99,Spain,berango,is_city
+789,Villamayor,41.0008,-5.6897,Spain,villamayor,is_city
+790,Cercedilla,40.7411,-4.0569,Spain,cercedilla,is_city
+791,Huescar,37.8,-2.5333,Spain,huescar,is_city
+792,Fuentes de Andalucia,37.4667,-5.3333,Spain,fuentes de andalucia,is_city
+793,Durcal,36.9833,-3.5667,Spain,durcal,is_city
+794,Collado Mediano,40.6939,-4.0231,Spain,collado mediano,is_city
+795,Arechavaleta,43.0361,-2.5044,Spain,arechavaleta,is_city
+796,Finestrat,38.5669,-0.2125,Spain,finestrat,is_city
+797,Ondara,38.8261,0.0169,Spain,ondara,is_city
+798,Villa del Rio,37.9833,-4.2833,Spain,villa del rio,is_city
+799,Massanet de la Selva,41.734,2.673,Spain,massanet de la selva,is_city
+800,Montellano,36.9833,-5.5667,Spain,montellano,is_city
+801,Astigarraga,43.2833,-1.95,Spain,astigarraga,is_city
+802,San Clemente,39.4039,-2.4294,Spain,san clemente,is_city
+803,Benalup de Sidonia,36.3333,-5.8,Spain,benalup de sidonia,is_city
+804,Vimianzo,43.11,-9.0344,Spain,vimianzo,is_city
+805,Argamasilla de Alba,39.1167,-3.1,Spain,argamasilla de alba,is_city
+806,Puerto Serrano,36.9333,-5.55,Spain,puerto serrano,is_city
+807,Bigastro,38.0631,-0.8956,Spain,bigastro,is_city
+808,Naquera,39.6589,-0.4263,Spain,naquera,is_city
+809,Bunola,39.6967,2.6997,Spain,bunola,is_city
+810,Guarena,38.85,-6.0833,Spain,guarena,is_city
+811,Casares,36.4444,-5.2728,Spain,casares,is_city
+812,Infiesto,43.35,-5.35,Spain,infiesto,is_city
+813,La Ametlla de Mar,40.8839,0.8025,Spain,la ametlla de mar,is_city
+814,Paradas,37.2903,-5.4967,Spain,paradas,is_city
+815,Vacarisas,41.6063,1.9182,Spain,vacarisas,is_city
+816,Almacellas,41.7322,0.4372,Spain,almacellas,is_city
+817,Fuente el Saz,40.6361,-3.5111,Spain,fuente el saz,is_city
+818,Negreira,42.911,-8.735,Spain,negreira,is_city
+819,Roda de Bara,41.1857,1.4568,Spain,roda de bara,is_city
+820,Mojacar,37.1403,-1.8514,Spain,mojacar,is_city
+821,Burguillos,37.5858,-5.9673,Spain,burguillos,is_city
+822,Canet de Berenguer,39.6794,-0.2206,Spain,canet de berenguer,is_city
+823,Marmolejo,38.05,-4.1667,Spain,marmolejo,is_city
+824,Guenes,43.2139,-3.0942,Spain,guenes,is_city
+825,San Luis,39.8494,4.2581,Spain,san luis,is_city
+826,Sallent,41.8259,1.8949,Spain,sallent,is_city
+827,Derio,43.2917,-2.8858,Spain,derio,is_city
+828,Turis,39.3899,-0.7105,Spain,turis,is_city
+829,Fuente del Maestre,38.5289,-6.45,Spain,fuente del maestre,is_city
+830,Moncofar,39.8025,-0.1339,Spain,moncofar,is_city
+831,Jimena de la Frontera,36.4333,-5.45,Spain,jimena de la frontera,is_city
+832,Hinojosa del Duque,38.5,-5.1333,Spain,hinojosa del duque,is_city
+833,Moraleja,40.0667,-6.65,Spain,moraleja,is_city
+834,Cedeira,43.65,-8.05,Spain,cedeira,is_city
+835,Constanti,41.1532,1.2143,Spain,constanti,is_city
+836,Bergondo,43.3167,-8.2333,Spain,bergondo,is_city
+837,Taradell,41.8737,2.2874,Spain,taradell,is_city
+838,Las Pedroneras,39.45,-2.6667,Spain,las pedroneras,is_city
+839,Alcala de Chivert,40.3042,0.2256,Spain,alcala de chivert,is_city
+840,Arbucias,41.8161,2.5142,Spain,arbucias,is_city
+841,Museros,39.5658,-0.3411,Spain,museros,is_city
+842,Villanueva del Ariscal,37.3833,-6.1333,Spain,villanueva del ariscal,is_city
+843,Briviesca,42.55,-3.3167,Spain,briviesca,is_city
+844,Riudoms,41.1391,1.052,Spain,riudoms,is_city
+845,Blanca,38.1792,-1.3761,Spain,blanca,is_city
+846,Arges,39.805,-4.0572,Spain,arges,is_city
+847,Algarrobo,36.7667,-4.0333,Spain,algarrobo,is_city
+848,Velez Rubio,37.65,-2.0667,Spain,velez rubio,is_city
+849,Valdovino,43.6,-8.1331,Spain,valdovino,is_city
+850,Jaraiz de la Vera,40.0603,-5.755,Spain,jaraiz de la vera,is_city
+851,Llissa de Vall,41.5936,2.2431,Spain,llissa de vall,is_city
+852,Roda del Ter,41.9801,2.3091,Spain,roda del ter,is_city
+853,Carral,43.2296,-8.356,Spain,carral,is_city
+854,Villamuriel de Cerrato,41.95,-4.5167,Spain,villamuriel de cerrato,is_city
+855,Herrera,37.3667,-4.8333,Spain,herrera,is_city
+856,San Vicente de Mont-Alt,41.5803,2.5086,Spain,san vicente de mont-alt,is_city
+857,Teya,41.4986,2.3242,Spain,teya,is_city
+858,Venta de Banos,41.9333,-4.5,Spain,venta de banos,is_city
+859,Moya,41.8131,2.0971,Spain,moya,is_city
+860,San Feliu de Codinas,41.6885,2.1647,Spain,san feliu de codinas,is_city
+861,Miraflores de la Sierra,40.8114,-3.7686,Spain,miraflores de la sierra,is_city
+862,Puebla de Alfinden,41.634,-0.748,Spain,puebla de alfinden,is_city
+863,Pereiro de Aguiar,42.3464,-7.8003,Spain,pereiro de aguiar,is_city
+864,San Adrian,42.3325,-1.9333,Spain,san adrian,is_city
+865,Arenas de San Pedro,40.2089,-5.0911,Spain,arenas de san pedro,is_city
+866,Iscar,41.3606,-4.5358,Spain,iscar,is_city
+867,San Miguel de Salinas,37.9806,-0.7897,Spain,san miguel de salinas,is_city
+868,Rosal,41.9356,-8.825,Spain,rosal,is_city
+869,Santo Domingo de la Calzada,42.433,-2.95,Spain,santo domingo de la calzada,is_city
+870,Alpicat,41.6681,0.5561,Spain,alpicat,is_city
+871,Olula del Rio,37.35,-2.2833,Spain,olula del rio,is_city
+872,Allariz,42.1833,-7.8,Spain,allariz,is_city
+873,Gata de Gorgos,38.7747,0.0853,Spain,gata de gorgos,is_city
+874,Zaratan,41.6603,-4.7836,Spain,zaratan,is_city
+875,Sils,41.8094,2.7435,Spain,sils,is_city
+876,San Antonio de Vilamajor,41.6726,2.4,Spain,san antonio de vilamajor,is_city
+877,Tarazona de la Mancha,39.265,-1.9128,Spain,tarazona de la mancha,is_city
+878,Urnieta,43.2469,-1.9917,Spain,urnieta,is_city
+879,Almensilla,37.3167,-6.1167,Spain,almensilla,is_city
+880,Usurbil,43.2667,-2.05,Spain,usurbil,is_city
+881,Calamonte,38.89,-6.385,Spain,calamonte,is_city
+882,Porcuna,37.8697,-4.1872,Spain,porcuna,is_city
+883,Outes,42.85,-8.9,Spain,outes,is_city
+884,Lloseta,39.7179,2.8667,Spain,lloseta,is_city
+885,Nazaret,39.4481,-0.3335,Spain,nazaret,is_city
+886,Lezo,43.3167,-1.9,Spain,lezo,is_city
+887,Abanilla,38.2072,-1.0414,Spain,abanilla,is_city
+888,Orio,43.278,-2.126,Spain,orio,is_city
+889,Almenara,39.7533,-0.2256,Spain,almenara,is_city
+890,Aznalcollar,37.5167,-6.2667,Spain,aznalcollar,is_city
+891,Torrellas de Llobregat,41.3565,1.9816,Spain,torrellas de llobregat,is_city
+892,Bonares,37.3167,-6.6667,Spain,bonares,is_city
+893,Navarcles,41.7532,1.9034,Spain,navarcles,is_city
+894,Los Villares,37.6833,-3.8167,Spain,los villares,is_city
+895,Navas,41.8997,1.8786,Spain,navas,is_city
+896,Almodovar del Campo,38.7186,-4.1667,Spain,almodovar del campo,is_city
+897,Viator,36.8833,-2.4167,Spain,viator,is_city
+898,La Canonja,41.1191,1.183,Spain,la canonja,is_city
+899,Coristanco,43.2,-8.75,Spain,coristanco,is_city
+900,Suria,41.8311,1.7526,Spain,suria,is_city
+901,Membrilla,38.9667,-3.35,Spain,membrilla,is_city
+902,Vilaboa,42.4167,-8.55,Spain,vilaboa,is_city
+903,Albaida,38.8369,-0.5156,Spain,albaida,is_city
+904,Tremp,42.1667,0.8946,Spain,tremp,is_city
+905,Gojar,37.1,-3.6,Spain,gojar,is_city
+906,Guadasuar,39.1833,-0.4781,Spain,guadasuar,is_city
+907,Gorliz-Elexalde,43.4167,-2.9333,Spain,gorliz-elexalde,is_city
+908,Los Yebenes,39.5667,-3.8833,Spain,los yebenes,is_city
+909,Villabona,43.1881,-2.0525,Spain,villabona,is_city
+910,Guardo,42.7833,-4.8333,Spain,guardo,is_city
+911,Alhama de Granada,37.0,-3.9833,Spain,alhama de granada,is_city
+912,Constantina,37.8667,-5.6167,Spain,constantina,is_city
+913,Argamasilla de Calatrava,38.7333,-4.0667,Spain,argamasilla de calatrava,is_city
+914,Puebla de la Calzada,38.9,-6.6167,Spain,puebla de la calzada,is_city
+915,Lazcano,43.0378,-2.1872,Spain,lazcano,is_city
+916,Ares,43.4278,-8.2417,Spain,ares,is_city
+917,Valga,42.6893,-8.6481,Spain,valga,is_city
+918,Brena Baja,28.6167,-17.7667,Spain,brena baja,is_city
+919,Algaida,39.5592,2.8947,Spain,algaida,is_city
+920,Orjiva,36.9,-3.4167,Spain,orjiva,is_city
+921,Castuera,38.7231,-5.5444,Spain,castuera,is_city
+922,Beniganim,38.9431,-0.4433,Spain,beniganim,is_city
+923,Arroyo de la Luz,39.484,-6.5846,Spain,arroyo de la luz,is_city
+924,Artes,41.7981,1.9552,Spain,artes,is_city
+925,Huelma,37.65,-3.45,Spain,huelma,is_city
+926,Llerena,38.2333,-6.0167,Spain,llerena,is_city
+927,Medina de Pomar,42.9333,-3.4833,Spain,medina de pomar,is_city
+928,Cartes,43.3256,-4.0681,Spain,cartes,is_city
+929,Montehermoso,40.0833,-6.3333,Spain,montehermoso,is_city
+930,San Hilario Sacalm,41.8786,2.5079,Spain,san hilario sacalm,is_city
+931,Ribadesella,43.4625,-5.0583,Spain,ribadesella,is_city
+932,La Selva,41.2155,1.1373,Spain,la selva,is_city
+933,Angles,41.9574,2.64,Spain,angles,is_city
+934,Dosrius,41.5942,2.4072,Spain,dosrius,is_city
+935,Celanova,42.1519,-7.9575,Spain,celanova,is_city
+936,La Cenia,40.6336,0.2853,Spain,la cenia,is_city
+937,Aldeamayor de San Martin,41.5167,-4.6333,Spain,aldeamayor de san martin,is_city
+938,Santa Marta de Ortigueira,43.6831,-7.85,Spain,santa marta de ortigueira,is_city
+939,Esquivias,40.1,-3.7667,Spain,esquivias,is_city
+940,Alaro,39.7067,2.7908,Spain,alaro,is_city
+941,Arafo,28.3404,-16.4173,Spain,arafo,is_city
+942,Prado del Rey,36.7833,-5.5667,Spain,prado del rey,is_city
+943,Porreras,39.5144,3.0237,Spain,porreras,is_city
+944,Torreblanca,40.2206,0.1953,Spain,torreblanca,is_city
+945,Nueva-Carteya,37.5833,-4.4667,Spain,nueva-carteya,is_city
+946,Salteras,37.4167,-6.1,Spain,salteras,is_city
+947,Celra,42.0247,2.8789,Spain,celra,is_city
+948,Yeles,40.1167,-3.8,Spain,yeles,is_city
+949,Chauchina,37.2,-3.7667,Spain,chauchina,is_city
+950,La Guancha,28.3738,-16.6516,Spain,la guancha,is_city
+951,Puente Caldelas,42.3833,-8.5,Spain,puente caldelas,is_city
+952,Arjona,37.935,-4.0569,Spain,arjona,is_city
+953,Algodonales,36.8811,-5.4056,Spain,algodonales,is_city
+954,Vilanova de la Roca,41.5542,2.2886,Spain,vilanova de la roca,is_city
+955,Guitiriz,43.182,-7.8954,Spain,guitiriz,is_city
+956,Alfacar,37.2333,-3.5667,Spain,alfacar,is_city
+957,Macael,37.3333,-2.3,Spain,macael,is_city
+958,Aceuchal,38.65,-6.4831,Spain,aceuchal,is_city
+959,Almazan,41.3525,-2.5331,Spain,almazan,is_city
+960,Pulianas,37.2167,-3.6,Spain,pulianas,is_city
+961,Deba,43.2955,-2.3538,Spain,deba,is_city
+962,Paterna de Rivera,36.5167,-5.8667,Spain,paterna de rivera,is_city
+963,Benejuzar,38.0778,-0.8386,Spain,benejuzar,is_city
+964,Casariche,37.2833,-4.75,Spain,casariche,is_city
+965,San Pol de Mar,41.6033,2.6244,Spain,san pol de mar,is_city
+966,Vilafant,42.2468,2.9379,Spain,vilafant,is_city
+967,Chinchon,40.1394,-3.4264,Spain,chinchon,is_city
+968,Agramunt,41.7863,1.0964,Spain,agramunt,is_city
+969,Abegondo,43.2067,-8.31,Spain,abegondo,is_city
+970,Borriol,40.0422,-0.0714,Spain,borriol,is_city
+971,San Ciprian de Vinas,42.2969,-7.8714,Spain,san ciprian de vinas,is_city
+972,Alameda,37.2,-4.65,Spain,alameda,is_city
+973,San Vicente de Alcantara,39.3611,-7.1333,Spain,san vicente de alcantara,is_city
+974,Valencia de Alcantara,39.4133,-7.2436,Spain,valencia de alcantara,is_city
+975,Malpica,43.3167,-8.8,Spain,malpica,is_city
+976,Capellades,41.5319,1.6867,Spain,capellades,is_city
+977,Cigales,41.7581,-4.6997,Spain,cigales,is_city
+978,Librilla,37.8831,-1.35,Spain,librilla,is_city
+979,Meano,42.45,-8.7833,Spain,meano,is_city
+980,Parres,43.3587,-5.1846,Spain,parres,is_city
+981,Talavera La Real,38.8833,-6.7667,Spain,talavera la real,is_city
+982,Montefrio,37.3211,-4.0111,Spain,montefrio,is_city
+983,Mutriku,43.3072,-2.385,Spain,mutriku,is_city
+984,Villanueva del Trabuco,37.0286,-4.3381,Spain,villanueva del trabuco,is_city
+985,Altafulla,41.1433,1.3769,Spain,altafulla,is_city
+986,Alburquerque,39.2167,-7.0,Spain,alburquerque,is_city
+987,Santa Cristina de Aro,41.8139,2.9974,Spain,santa cristina de aro,is_city
+988,San Ildefonso,40.9017,-4.0067,Spain,san ildefonso,is_city
+989,Ayora,39.0583,-1.0572,Spain,ayora,is_city
+990,Mollina,37.1231,-4.6561,Spain,mollina,is_city
+991,Nava,43.35,-5.5167,Spain,nava,is_city
+992,Valencia de Don Juan,42.3,-5.5167,Spain,valencia de don juan,is_city
+993,Simancas,41.5919,-4.8286,Spain,simancas,is_city
+994,Entrambasaguas,43.3778,-3.6767,Spain,entrambasaguas,is_city
+995,Peal de Becerro,37.9,-3.1167,Spain,peal de becerro,is_city
+996,La Campana,37.5681,-5.4278,Spain,la campana,is_city
+997,Sarria de Ter,42.0181,2.8261,Spain,sarria de ter,is_city
+998,Alcala de los Gazules,36.4667,-5.7167,Spain,alcala de los gazules,is_city
+999,Bellpuig,41.6267,1.0133,Spain,bellpuig,is_city
+1000,Mugardos,43.4544,-8.2358,Spain,mugardos,is_city
+1001,Otero de Rey,43.1025,-7.6136,Spain,otero de rey,is_city
+1002,Camarinas,43.13,-9.185,Spain,camarinas,is_city
+1003,Moral de Calatrava,38.8831,-3.7167,Spain,moral de calatrava,is_city
+1004,Cajar,37.1333,-3.5667,Spain,cajar,is_city
+1005,Almaden,38.7764,-4.8369,Spain,almaden,is_city
+1006,Quesada,37.85,-3.0667,Spain,quesada,is_city
+1007,Gualchos,36.75,-3.3833,Spain,gualchos,is_city
+1008,Pedrera,37.2167,-4.8833,Spain,pedrera,is_city
+1009,Las Navas del Marques,40.6039,-4.3278,Spain,las navas del marques,is_city
+1010,Norena,43.3933,-5.7042,Spain,norena,is_city
+1011,Alcover,41.2621,1.1711,Spain,alcover,is_city
+1012,La Caniza,42.2128,-8.2744,Spain,la caniza,is_city
+1013,Iznalloz,37.3925,-3.5225,Spain,iznalloz,is_city
+1014,Alcudia de Crespins,38.9708,-0.5908,Spain,alcudia de crespins,is_city
+1015,Esporlas,39.6662,2.5799,Spain,esporlas,is_city
+1016,Ribadumia,42.5167,-8.75,Spain,ribadumia,is_city
+1017,Beas de Segura,38.25,-2.8833,Spain,beas de segura,is_city
+1018,Ses Salines,39.3386,3.0536,Spain,ses salines,is_city
+1019,Oliva de la Frontera,38.2764,-6.92,Spain,oliva de la frontera,is_city
+1020,Sariegos,42.65,-5.6333,Spain,sariegos,is_city
+1021,La Puebla de Almoradiel,39.6,-3.1,Spain,la puebla de almoradiel,is_city
+1022,Castro de Rey,43.2079,-7.4001,Spain,castro de rey,is_city
+1023,Valverde,27.8097,-17.9151,Spain,valverde,is_city
+1024,Marquina-Jemein,43.2689,-2.4964,Spain,marquina-jemein,is_city
+1025,Polop,38.622,-0.127,Spain,polop,is_city
+1026,Los Montesinos,38.0281,-0.7419,Spain,los montesinos,is_city
+1027,Penafiel,41.6,-4.1167,Spain,penafiel,is_city
+1028,Alcala del Valle,36.9,-5.1667,Spain,alcala del valle,is_city
+1029,Candeleda,40.1558,-5.2408,Spain,candeleda,is_city
+1030,Neda,43.5,-8.1167,Spain,neda,is_city
+1031,Ribadavia,42.2833,-8.1333,Spain,ribadavia,is_city
+1032,Cerceda,43.1886,-8.4703,Spain,cerceda,is_city
+1033,Vedra,42.7833,-8.4667,Spain,vedra,is_city
+1034,Cacabelos,42.5997,-6.7256,Spain,cacabelos,is_city
+1035,Bescano,41.9649,2.737,Spain,bescano,is_city
+1036,Salvatierra,42.8525,-2.3894,Spain,salvatierra,is_city
+1037,Borja,41.8333,-1.5333,Spain,borja,is_city
+1038,Benameji,37.2667,-4.5333,Spain,benameji,is_city
+1039,Carranque,40.1708,-3.8969,Spain,carranque,is_city
+1040,Gironella,42.0375,1.8831,Spain,gironella,is_city
+1041,Isla de Arosa,42.5544,-8.8639,Spain,isla de arosa,is_city
+1042,Cudillero,43.56,-6.15,Spain,cudillero,is_city
+1043,Ferrerias,39.9833,4.0108,Spain,ferrerias,is_city
+1044,Salas,43.4,-6.25,Spain,salas,is_city
+1045,Castilblanco de los Arroyos,37.675,-5.9889,Spain,castilblanco de los arroyos,is_city
+1046,Miengo,43.4281,-3.9911,Spain,miengo,is_city
+1047,Sollana,39.2785,-0.3818,Spain,sollana,is_city
+1048,Garachico,28.3737,-16.764,Spain,garachico,is_city
+1049,Infantes,38.7342,-3.0167,Spain,infantes,is_city
+1050,Villafranca de Cordoba,37.95,-4.5333,Spain,villafranca de cordoba,is_city
+1051,Campanario,38.8667,-5.6167,Spain,campanario,is_city
+1052,Pallaresos,41.1752,1.2695,Spain,pallaresos,is_city
+1053,Villanueva del Rio y Minas,37.65,-5.7,Spain,villanueva del rio y minas,is_city
+1054,Lodosa,42.4242,-2.0786,Spain,lodosa,is_city
+1055,Fregenal de la Sierra,38.1667,-6.65,Spain,fregenal de la sierra,is_city
+1056,El Viso de San Juan,40.15,-3.9167,Spain,el viso de san juan,is_city
+1057,Martorellas,41.5279,2.2375,Spain,martorellas,is_city
+1058,Cabeza del Buey,38.7378,-5.2194,Spain,cabeza del buey,is_city
+1059,Agost,38.4392,-0.6394,Spain,agost,is_city
+1060,Buenavista del Norte,28.3721,-16.8514,Spain,buenavista del norte,is_city
+1061,Enguera,38.9819,-0.6878,Spain,enguera,is_city
+1062,Meis,42.5167,-8.7,Spain,meis,is_city
+1063,Cabrera de Mataro,41.5275,2.3956,Spain,cabrera de mataro,is_city
+1064,Los Silos,28.3658,-16.8167,Spain,los silos,is_city
+1065,Pozo Alcon,37.704,-2.935,Spain,pozo alcon,is_city
+1066,Villanueva de Gallego,41.7683,-0.8264,Spain,villanueva de gallego,is_city
+1067,El Coronil,37.0833,-5.6333,Spain,el coronil,is_city
+1068,Campa,43.3728,-2.9492,Spain,campa,is_city
+1069,Canyellas,41.2829,1.7229,Spain,canyellas,is_city
+1070,Finisterre,42.9,-9.25,Spain,finisterre,is_city
+1071,Torrefarrera,41.675,0.6081,Spain,torrefarrera,is_city
+1072,Fuente de Cantos,38.2467,-6.3092,Spain,fuente de cantos,is_city
+1073,Cazalla de la Sierra,37.9333,-5.7667,Spain,cazalla de la sierra,is_city
+1074,Porqueras,42.1221,2.748,Spain,porqueras,is_city
+1075,Sotillo de la Adrada,40.2831,-4.5831,Spain,sotillo de la adrada,is_city
+1076,El Pino,42.935,-8.333,Spain,el pino,is_city
+1077,Cardona,41.9141,1.681,Spain,cardona,is_city
+1078,Madrigueras,39.2333,-1.8,Spain,madrigueras,is_city
+1079,Ayelo de Malferit,38.8778,-0.5919,Spain,ayelo de malferit,is_city
+1080,Arboleas,37.35,-2.0667,Spain,arboleas,is_city
+1081,Autol,42.2139,-2.0069,Spain,autol,is_city
+1082,Bellreguart,38.9464,-0.1625,Spain,bellreguart,is_city
+1083,Dona Mencia,37.55,-4.35,Spain,dona mencia,is_city
+1084,Santaella,37.5675,-4.8466,Spain,santaella,is_city
+1085,Medina de Rioseco,41.8833,-5.0333,Spain,medina de rioseco,is_city
+1086,Cortegana,37.9,-6.8167,Spain,cortegana,is_city
+1087,Malpartida de Plasencia,39.9833,-6.0333,Spain,malpartida de plasencia,is_city
+1088,Tazacorte,28.6167,-17.9167,Spain,tazacorte,is_city
+1089,Aznalcazar,37.3,-6.25,Spain,aznalcazar,is_city
+1090,Berriz,43.1758,-2.5756,Spain,berriz,is_city
+1091,La Luisiana,37.5167,-5.25,Spain,la luisiana,is_city
+1092,Quintana de la Serena,38.7333,-5.6667,Spain,quintana de la serena,is_city
+1093,Catllar,41.1754,1.3264,Spain,catllar,is_city
+1094,Fuentes de Ebro,41.5167,-0.6333,Spain,fuentes de ebro,is_city
+1095,Collbato,41.5708,1.8303,Spain,collbato,is_city
+1096,San Pedro de Vilamajor,41.6834,2.393,Spain,san pedro de vilamajor,is_city
+1097,Casas Ibanez,39.2833,-1.4667,Spain,casas ibanez,is_city
+1098,Rois,42.75,-8.683,Spain,rois,is_city
+1099,Fuente Obejuna,38.2667,-5.4167,Spain,fuente obejuna,is_city
+1100,Casar de Caceres,39.55,-6.4167,Spain,casar de caceres,is_city
+1101,Benahadux,36.9267,-2.4614,Spain,benahadux,is_city
+1102,Santovenia de Pisuerga,41.7,-4.6833,Spain,santovenia de pisuerga,is_city
+1103,Hornachuelos,37.8333,-5.2333,Spain,hornachuelos,is_city
+1104,Villamanrique de la Condesa,37.25,-6.3,Spain,villamanrique de la condesa,is_city
+1105,Montalban de Cordoba,37.5833,-4.75,Spain,montalban de cordoba,is_city
+1106,Puebla Larga,39.0861,-0.4767,Spain,puebla larga,is_city
+1107,Benitachell,38.7328,0.1442,Spain,benitachell,is_city
+1108,Los Molinos,40.7111,-4.0744,Spain,los molinos,is_city
+1109,Mondariz,42.2333,-8.45,Spain,mondariz,is_city
+1110,Navalvillar de Pela,39.0833,-5.4667,Spain,navalvillar de pela,is_city
+1111,Cospeito,43.2361,-7.5583,Spain,cospeito,is_city
+1112,Zas,43.1,-8.9,Spain,zas,is_city
+1113,Fabero,42.7678,-6.625,Spain,fabero,is_city
+1114,Fuente Vaqueros,37.2167,-3.7831,Spain,fuente vaqueros,is_city
+1115,Piedrabuena,39.0333,-4.1667,Spain,piedrabuena,is_city
+1116,Epila,41.6,-1.283,Spain,epila,is_city
+1117,Valmojado,40.2044,-4.0911,Spain,valmojado,is_city
+1118,Villalonga,38.8833,-0.2,Spain,villalonga,is_city
+1119,El Carpio,37.9333,-4.5,Spain,el carpio,is_city
+1120,Plencia,43.4058,-2.9464,Spain,plencia,is_city
+1121,Beas,37.4167,-6.7833,Spain,beas,is_city
+1122,Ampuero,43.3447,-3.4144,Spain,ampuero,is_city
+1123,Barcena de Cicero,43.425,-3.5211,Spain,barcena de cicero,is_city
+1124,Siguenza,41.0692,-2.6392,Spain,siguenza,is_city
+1125,Puigreig,41.9742,1.8806,Spain,puigreig,is_city
+1126,Hostalrich,41.7481,2.6361,Spain,hostalrich,is_city
+1127,Formentera de Segura,38.0833,-0.75,Spain,formentera de segura,is_city
+1128,Castejon,42.1611,-1.7603,Spain,castejon,is_city
+1129,Ibarra,43.1308,-2.0617,Spain,ibarra,is_city
+1130,Cadrete,41.5553,-0.9597,Spain,cadrete,is_city
+1131,El Saucejo,37.0667,-5.0833,Spain,el saucejo,is_city
+1132,Santillana,43.3933,-4.1047,Spain,santillana,is_city
+1133,Cervo,43.6819,-7.4478,Spain,cervo,is_city
+1134,Sodupe,43.2008,-3.0486,Spain,sodupe,is_city
+1135,Monesterio,38.0833,-6.2667,Spain,monesterio,is_city
+1136,Boqueijon,42.817,-8.417,Spain,boqueijon,is_city
+1137,Chinchilla de Monte Aragon,38.9196,-1.7264,Spain,chinchilla de monte aragon,is_city
+1138,Yebes,40.5347,-3.1097,Spain,yebes,is_city
+1139,Frontera,27.7535,-18.0108,Spain,frontera,is_city
+1140,Sarinena,41.7833,-0.1667,Spain,sarinena,is_city
+1141,Los Sauces,28.8,-17.7667,Spain,los sauces,is_city
+1142,El Tiemblo,40.4144,-4.5003,Spain,el tiemblo,is_city
+1143,La Roda de Andalucia,37.2106,-4.7703,Spain,la roda de andalucia,is_city
+1144,Papiol,41.4392,2.0106,Spain,papiol,is_city
+1145,Valverde de Leganes,38.6667,-6.9833,Spain,valverde de leganes,is_city
+1146,San Clemente de Llobregat,41.3381,1.9983,Spain,san clemente de llobregat,is_city
+1147,Albuixech,39.5436,-0.3217,Spain,albuixech,is_city
+1148,Miravalles,43.1814,-2.9003,Spain,miravalles,is_city
+1149,Boecillo,41.5333,-4.7,Spain,boecillo,is_city
+1150,Villanueva de Algaidas,37.1831,-4.45,Spain,villanueva de algaidas,is_city
+1151,Morana,42.55,-8.55,Spain,morana,is_city
+1152,Orcoyen,42.8239,-1.6992,Spain,orcoyen,is_city
+1153,Bocairente,38.7658,-0.6128,Spain,bocairente,is_city
+1154,Adamuz,38.0167,-4.5167,Spain,adamuz,is_city
+1155,Iznajar,37.25,-4.3,Spain,iznajar,is_city
+1156,Murchante,42.0333,-1.65,Spain,murchante,is_city
+1157,Consell,39.6691,2.8122,Spain,consell,is_city
+1158,Niebla,37.3667,-6.6833,Spain,niebla,is_city
+1159,Beriain,42.7336,-1.6444,Spain,beriain,is_city
+1160,Escoriaza,43.0169,-2.5283,Spain,escoriaza,is_city
+1161,Pechina,36.9167,-2.4333,Spain,pechina,is_city
+1162,Camponaraya,42.5806,-6.6703,Spain,camponaraya,is_city
+1163,San Vicente de la Barquera,43.385,-4.3986,Spain,san vicente de la barquera,is_city
+1164,Santa Cruz de Mudela,38.6333,-3.4667,Spain,santa cruz de mudela,is_city
+1165,Arriate,36.7992,-5.1408,Spain,arriate,is_city
+1166,Selva,39.7545,2.9007,Spain,selva,is_city
+1167,Arroyo de San Servan,38.85,-6.45,Spain,arroyo de san servan,is_city
+1168,Malpartida de Caceres,39.4456,-6.5058,Spain,malpartida de caceres,is_city
+1169,Pinseque,41.7378,-1.1014,Spain,pinseque,is_city
+1170,Villamalea,39.3667,-1.5833,Spain,villamalea,is_city
+1171,Dalias,36.8214,-2.8703,Spain,dalias,is_city
+1172,La Guardia de Jaen,37.7419,-3.6925,Spain,la guardia de jaen,is_city
+1173,Curtis,43.1389,-8.0358,Spain,curtis,is_city
+1174,Castillo de Locubin,37.5167,-3.9333,Spain,castillo de locubin,is_city
+1175,Albalat dels Sorells,39.5433,-0.3461,Spain,albalat dels sorells,is_city
+1176,Sineu,39.6431,3.0116,Spain,sineu,is_city
+1177,Caniles,37.4333,-2.7167,Spain,caniles,is_city
+1178,La Lastrilla,40.9689,-4.1033,Spain,la lastrilla,is_city
+1179,Talamanca de Jarama,40.7444,-3.5081,Spain,talamanca de jarama,is_city
+1180,Olite,42.4875,-1.6625,Spain,olite,is_city
+1181,Santa Amalia,39.0167,-6.0167,Spain,santa amalia,is_city
+1182,La Pobla de Mafumet,41.1866,1.2083,Spain,la pobla de mafumet,is_city
+1183,Competa,36.8333,-3.9833,Spain,competa,is_city
+1184,Hinojos,37.3,-6.3833,Spain,hinojos,is_city
+1185,Hervas,40.2739,-5.8658,Spain,hervas,is_city
+1186,Cascante,41.9992,-1.6789,Spain,cascante,is_city
+1187,Yuncler,40.0406,-3.9036,Spain,yuncler,is_city
+1188,Los Corrales,37.1,-4.9833,Spain,los corrales,is_city
+1189,Olivella,41.3104,1.8109,Spain,olivella,is_city
+1190,Alosno,37.5486,-7.1153,Spain,alosno,is_city
+1191,San Gregorio,41.9893,2.7597,Spain,san gregorio,is_city
+1192,Veigas,43.4157,-6.9992,Spain,veigas,is_city
+1193,Placencia,43.1748,-2.4117,Spain,placencia,is_city
+1194,Pradejon,42.3344,-2.0681,Spain,pradejon,is_city
+1195,Carnota,42.8211,-9.0872,Spain,carnota,is_city
+1196,Bagur,41.9542,3.2088,Spain,bagur,is_city
+1197,Rincon de Soto,42.2344,-1.8508,Spain,rincon de soto,is_city
+1198,Sabiote,38.0667,-3.3,Spain,sabiote,is_city
+1199,Villargordo,37.9406,-3.7294,Spain,villargordo,is_city
+1200,Espera,36.8667,-5.8,Spain,espera,is_city
+1201,Montemayor,37.65,-4.7,Spain,montemayor,is_city
+1202,Jun,37.2167,-3.6,Spain,jun,is_city
+1203,La Lantejuela,37.35,-5.2167,Spain,la lantejuela,is_city
+1204,Pliego,37.99,-1.5061,Spain,pliego,is_city
+1205,Luarca,43.5448,-6.5327,Spain,luarca,is_city
+1206,Mazaricos,42.9333,-8.95,Spain,mazaricos,is_city
+1207,Balenya,41.8129,2.2348,Spain,balenya,is_city
+1208,Azagra,42.3,-1.9,Spain,azagra,is_city
+1209,Calanda,40.9408,-0.2317,Spain,calanda,is_city
+1210,Ojen,36.5667,-4.85,Spain,ojen,is_city
+1211,Minas de Riotinto,37.6833,-6.5833,Spain,minas de riotinto,is_city
+1212,Villasana de Mena,43.1014,-3.2814,Spain,villasana de mena,is_city
+1213,Nieves,42.088,-8.415,Spain,nieves,is_city
+1214,Soto del Barco,43.5333,-6.0667,Spain,soto del barco,is_city
+1215,Quart d'Onyar,41.9399,2.8399,Spain,quart d'onyar,is_city
+1216,Almogia,36.8267,-4.5367,Spain,almogia,is_city
+1217,Turre,37.15,-1.8833,Spain,turre,is_city
+1218,Carino,43.7414,-7.8692,Spain,carino,is_city
+1219,Cestona,43.24,-2.2586,Spain,cestona,is_city
+1220,Breda,41.7486,2.5573,Spain,breda,is_city
+1221,San Bartolome de la Torre,37.45,-7.1,Spain,san bartolome de la torre,is_city
+1222,El Franco,43.55,-6.8667,Spain,el franco,is_city
+1223,Vera de Bidasoa,43.2806,-1.6819,Spain,vera de bidasoa,is_city
+1224,La Robla,42.8,-5.6167,Spain,la robla,is_city
+1225,Teba,36.9667,-4.9333,Spain,teba,is_city
+1226,Morell,41.1922,1.2087,Spain,morell,is_city
+1227,Bonrepos y Mirambell,39.5206,-0.365,Spain,bonrepos y mirambell,is_city
+1228,Ribaforada,41.9972,-1.5108,Spain,ribaforada,is_city
+1229,Espluga de Francoli,41.3972,1.1029,Spain,espluga de francoli,is_city
+1230,La Alameda de la Sagra,40.0119,-3.795,Spain,la alameda de la sagra,is_city
+1231,Magan,39.95,-3.9167,Spain,magan,is_city
+1232,Gilena,37.25,-4.9,Spain,gilena,is_city
+1233,Tabernas,37.05,-2.3833,Spain,tabernas,is_city
+1234,Santa Barbara,40.7146,0.4929,Spain,santa barbara,is_city
+1235,Alhama de Almeria,36.95,-2.5667,Spain,alhama de almeria,is_city
+1236,Valdepenas de Jaen,37.5833,-3.8167,Spain,valdepenas de jaen,is_city
+1237,Olvega,41.7667,-1.9667,Spain,olvega,is_city
+1238,Cangas de Onis,43.35,-5.1167,Spain,cangas de onis,is_city
+1239,Odena,41.6081,1.6419,Spain,odena,is_city
+1240,Yurreta,43.1831,-2.6331,Spain,yurreta,is_city
+1241,Friol,43.0333,-7.7833,Spain,friol,is_city
+1242,Calaf,41.7327,1.5148,Spain,calaf,is_city
+1243,Biar,38.6331,-0.7667,Spain,biar,is_city
+1244,Lopera,37.9333,-4.2,Spain,lopera,is_city
+1245,Olmedo,41.2889,-4.6833,Spain,olmedo,is_city
+1246,Llosa de Ranes,39.0186,-0.5336,Spain,llosa de ranes,is_city
+1247,Penaflor,37.7,-5.3333,Spain,penaflor,is_city
+1248,Bisbal del Panades,41.2808,1.4879,Spain,bisbal del panades,is_city
+1249,La Calzada de Calatrava,38.7039,-3.7764,Spain,la calzada de calatrava,is_city
+1250,Casabermeja,36.8833,-4.4167,Spain,casabermeja,is_city
+1251,Barro,42.525,-8.6472,Spain,barro,is_city
+1252,Villa de Don Fadrique,39.615,-3.2233,Spain,villa de don fadrique,is_city
+1253,Moclin,37.3333,-3.7833,Spain,moclin,is_city
+1254,Jove,43.6858,-7.5089,Spain,jove,is_city
+1255,Cuevas de San Marcos,37.2669,-4.4176,Spain,cuevas de san marcos,is_city
+1256,Altura,39.8667,-0.4,Spain,altura,is_city
+1257,Pedrola,41.7874,-1.2142,Spain,pedrola,is_city
+1258,Godelleta,39.4222,-0.6856,Spain,godelleta,is_city
+1259,Arjonilla,37.9667,-4.1,Spain,arjonilla,is_city
+1260,Navahermosa,39.6367,-4.4856,Spain,navahermosa,is_city
+1261,Faura,39.7278,-0.2611,Spain,faura,is_city
+1262,Santa Susana,41.6367,2.7081,Spain,santa susana,is_city
+1263,Tijola,37.3333,-2.4333,Spain,tijola,is_city
+1264,Zalamea de la Serena,38.65,-5.65,Spain,zalamea de la serena,is_city
+1265,Seva,41.8406,2.2853,Spain,seva,is_city
+1266,San Hipolito de Voltrega,42.0172,2.2389,Spain,san hipolito de voltrega,is_city
+1267,Mondonedo,43.4281,-7.3628,Spain,mondonedo,is_city
+1268,Hornachos,38.4667,-6.1667,Spain,hornachos,is_city
+1269,Villar del Arzobispo,39.7337,-0.8273,Spain,villar del arzobispo,is_city
+1270,Rus,38.05,-3.45,Spain,rus,is_city
+1271,Lanjaron,36.9167,-3.4667,Spain,lanjaron,is_city
+1272,Mendavia,42.45,-2.2,Spain,mendavia,is_city
+1273,Elche de la Sierra,38.45,-2.05,Spain,elche de la sierra,is_city
+1274,Los Molares,37.15,-5.7167,Spain,los molares,is_city
+1275,Lachar,37.2,-3.8333,Spain,lachar,is_city
+1276,Las Ventas de Retamosa,40.15,-4.1167,Spain,las ventas de retamosa,is_city
+1277,Lemorieta,43.2083,-2.775,Spain,lemorieta,is_city
+1278,Juneda,41.5492,0.8251,Spain,juneda,is_city
+1279,Viella,42.7023,0.7958,Spain,viella,is_city
+1280,Herrera del Duque,39.1686,-5.0511,Spain,herrera del duque,is_city
+1281,Tamarite de Litera,41.87,0.4333,Spain,tamarite de litera,is_city
+1282,Barcarrota,38.5147,-6.8486,Spain,barcarrota,is_city
+1283,Albelda de Iregua,42.3575,-2.4728,Spain,albelda de iregua,is_city
+1284,Villafranca de Bonany,39.5699,3.088,Spain,villafranca de bonany,is_city
+1285,Porzuna,39.15,-4.15,Spain,porzuna,is_city
+1286,Paterna del Campo,37.4167,-6.4,Spain,paterna del campo,is_city
+1287,Milagro,42.25,-1.7667,Spain,milagro,is_city
+1288,San Cipriano de Vallalta,41.6214,2.6006,Spain,san cipriano de vallalta,is_city
+1289,Alcoletge,41.6474,0.6942,Spain,alcoletge,is_city
+1290,Munera,39.0333,-2.4667,Spain,munera,is_city
+1291,Villaconejos,40.1042,-3.485,Spain,villaconejos,is_city
+1292,Corgo,42.95,-7.4167,Spain,corgo,is_city
+1293,Cijuela,37.2,-3.8,Spain,cijuela,is_city
+1294,La Bana,42.967,-8.767,Spain,la bana,is_city
+1295,Vinalesa,39.5406,-0.37,Spain,vinalesa,is_city
+1296,Flix,41.231,0.5501,Spain,flix,is_city
+1297,Colmenar,36.9053,-4.3364,Spain,colmenar,is_city
+1298,Talarrubias,39.0333,-5.2333,Spain,talarrubias,is_city
+1299,Gilet,39.6792,-0.3217,Spain,gilet,is_city
+1300,Zarza de Alange,38.8181,-6.2208,Spain,zarza de alange,is_city
+1301,Artesa de Segre,41.8954,1.0454,Spain,artesa de segre,is_city
+1302,Elizondo,43.1468,-1.5171,Spain,elizondo,is_city
+1303,Fonsagrada,43.133,-7.067,Spain,fonsagrada,is_city
+1304,Sancellas,39.6464,2.8978,Spain,sancellas,is_city
+1305,El Rubio,37.35,-4.9833,Spain,el rubio,is_city
+1306,Villalba del Alcor,37.4,-6.4667,Spain,villalba del alcor,is_city
+1307,Cantoria,37.35,-2.1833,Spain,cantoria,is_city
+1308,Graus,42.1875,0.3342,Spain,graus,is_city
+1309,Carracedelo,42.5547,-6.7339,Spain,carracedelo,is_city
+1310,Villanueva del Fresno,38.3833,-7.1667,Spain,villanueva del fresno,is_city
+1311,Villanueva del Rosario,37.0,-4.35,Spain,villanueva del rosario,is_city
+1312,Almenar,41.7986,0.5689,Spain,almenar,is_city
+1313,Carinena,41.3333,-1.2167,Spain,carinena,is_city
+1314,Santa Oliva,41.2533,1.5522,Spain,santa oliva,is_city
+1315,Alcolea del Rio,37.6167,-5.6667,Spain,alcolea del rio,is_city
+1316,Castropol,43.5333,-7.0333,Spain,castropol,is_city
+1317,Vilovi de Onar,41.8889,2.7425,Spain,vilovi de onar,is_city
+1318,Catoira,42.6667,-8.7217,Spain,catoira,is_city
+1319,Albalat de la Ribera,39.2014,-0.3867,Spain,albalat de la ribera,is_city
+1320,Palas de Rey,42.8736,-7.8694,Spain,palas de rey,is_city
+1321,Canada Rosal,37.6,-5.2,Spain,canada rosal,is_city
+1322,La Junquera,42.4197,2.8753,Spain,la junquera,is_city
+1323,Sierra de Yeguas,37.1167,-4.8667,Spain,sierra de yeguas,is_city
+1324,Antas,37.2333,-1.9167,Spain,antas,is_city
+1325,Pedrajas de San Esteban,41.35,-4.5833,Spain,pedrajas de san esteban,is_city
+1326,Forcarey,42.5889,-8.3514,Spain,forcarey,is_city
+1327,Santa Cruz del Retamar,40.1167,-4.2333,Spain,santa cruz del retamar,is_city
+1328,Alcorisa,40.8833,-0.3833,Spain,alcorisa,is_city
+1329,Humilladero,37.1147,-4.7028,Spain,humilladero,is_city
+1330,Simat de Valldigna,39.0437,-0.3104,Spain,simat de valldigna,is_city
+1331,Coana,43.5167,-6.75,Spain,coana,is_city
+1332,Benijofar,38.0806,-0.7386,Spain,benijofar,is_city
+1333,Villanueva de la Concepcion,36.9311,-4.5317,Spain,villanueva de la concepcion,is_city
+1334,Alfara del Patriarca,39.5436,-0.385,Spain,alfara del patriarca,is_city
+1335,La Ampolla,40.8142,0.71,Spain,la ampolla,is_city
+1336,Escalona,40.1708,-4.4053,Spain,escalona,is_city
+1337,Zamudio,43.2828,-2.8625,Spain,zamudio,is_city
+1338,Jamilena,37.75,-3.9,Spain,jamilena,is_city
+1339,San Mateo de Gallego,41.8314,-0.7662,Spain,san mateo de gallego,is_city
+1340,Lousame,42.7833,-8.8667,Spain,lousame,is_city
+1341,San Martin Sarroca,41.3872,1.6119,Spain,san martin sarroca,is_city
+1342,Lucena del Puerto,37.3,-6.7333,Spain,lucena del puerto,is_city
+1343,Tordoya,43.088,-8.56,Spain,tordoya,is_city
+1344,Mojados,41.4333,-4.65,Spain,mojados,is_city
+1345,Ribera del Fresno,38.5333,-6.2167,Spain,ribera del fresno,is_city
+1346,Belalcazar,38.5667,-5.1667,Spain,belalcazar,is_city
+1347,Molina de Aragon,40.8461,-1.8864,Spain,molina de aragon,is_city
+1348,San Juan de Moro,40.05,-0.1333,Spain,san juan de moro,is_city
+1349,Campdevanol,42.2258,2.1694,Spain,campdevanol,is_city
+1350,San Juan de las Abadesas,42.2361,2.2867,Spain,san juan de las abadesas,is_city
+1351,Cebolla,39.9506,-4.5686,Spain,cebolla,is_city
+1352,Fuente el Fresno,39.2333,-3.7667,Spain,fuente el fresno,is_city
+1353,Colunga,43.4861,-5.2703,Spain,colunga,is_city
+1354,Albaida del Aljarafe,37.4333,-6.1667,Spain,albaida del aljarafe,is_city
+1355,Villaviciosa de Cordoba,38.0667,-5.0,Spain,villaviciosa de cordoba,is_city
+1356,Balsareny,41.8658,1.8769,Spain,balsareny,is_city
+1357,Serra,39.6854,-0.4285,Spain,serra,is_city
+1358,Cortes,41.9228,-1.4219,Spain,cortes,is_city
+1359,Oza de los Rios,43.2167,-8.1831,Spain,oza de los rios,is_city
+1360,Cebreros,40.455,-4.4647,Spain,cebreros,is_city
+1361,Fuenmayor,42.4667,-2.56,Spain,fuenmayor,is_city
+1362,Sant Julia de Vilatorta,41.923,2.3251,Spain,sant julia de vilatorta,is_city
+1363,Algorfa,38.0858,-0.8047,Spain,algorfa,is_city
+1364,La Pola de Gordon,42.85,-5.6833,Spain,la pola de gordon,is_city
+1365,Moraleda de Zafayona,37.1667,-3.9667,Spain,moraleda de zafayona,is_city
+1366,Villanueva de Rio Segura,38.1356,-1.3242,Spain,villanueva de rio segura,is_city
+1367,Mora la Nueva,41.1003,0.6508,Spain,mora la nueva,is_city
+1368,Sant Pau d'Ordal,41.3847,1.7981,Spain,sant pau d'ordal,is_city
+1369,Santa Maria del Paramo,42.35,-5.75,Spain,santa maria del paramo,is_city
+1370,Carrion de Calatrava,39.0183,-3.8178,Spain,carrion de calatrava,is_city
+1371,Vallada,38.8958,-0.6919,Spain,vallada,is_city
+1372,Gandesa,41.0521,0.4389,Spain,gandesa,is_city
+1373,Puebla de Guzman,37.6167,-7.25,Spain,puebla de guzman,is_city
+1374,Navacerrada,40.73,-4.0153,Spain,navacerrada,is_city
+1375,Cistierna,42.8,-5.1167,Spain,cistierna,is_city
+1376,Periana,36.9167,-4.2,Spain,periana,is_city
+1377,Badolatosa,37.3,-4.6667,Spain,badolatosa,is_city
+1378,Busot,38.4814,-0.4203,Spain,busot,is_city
+1379,Coles,42.4022,-7.8397,Spain,coles,is_city
+1380,Burguillos del Cerro,38.3806,-6.5917,Spain,burguillos del cerro,is_city
+1381,Cortes de la Frontera,36.6167,-5.3333,Spain,cortes de la frontera,is_city
+1382,Frigiliana,36.7833,-3.9,Spain,frigiliana,is_city
+1383,Castellar de la Frontera,36.3167,-5.45,Spain,castellar de la frontera,is_city
+1384,Zalamea la Real,37.6833,-6.65,Spain,zalamea la real,is_city
+1385,Aroche,37.95,-6.95,Spain,aroche,is_city
+1386,Puentecesures,42.7167,-8.65,Spain,puentecesures,is_city
+1387,Cadalso de los Vidrios,40.3014,-4.4417,Spain,cadalso de los vidrios,is_city
+1388,Benamocarra,36.8,-4.15,Spain,benamocarra,is_city
+1389,Zaldivar,43.1725,-2.5453,Spain,zaldivar,is_city
+1390,Sant Joan les Fonts,42.2125,2.5117,Spain,sant joan les fonts,is_city
+1391,Fuensanta de Martos,37.65,-3.9,Spain,fuensanta de martos,is_city
+1392,Villanueva de la Reina,38.0,-3.9167,Spain,villanueva de la reina,is_city
+1393,Fuente de San Luis,39.4442,-0.3675,Spain,fuente de san luis,is_city
+1394,Alguaire,41.7363,0.5838,Spain,alguaire,is_city
+1395,Agreda,41.8551,-1.9204,Spain,agreda,is_city
+1396,Estartit,42.0531,3.1994,Spain,estartit,is_city
+1397,Cizurquil,43.2,-2.0772,Spain,cizurquil,is_city
+1398,Caldas de Estrach,41.5719,2.5286,Spain,caldas de estrach,is_city
+1399,Trazo,43.0167,-8.5333,Spain,trazo,is_city
+1400,Toreno,42.7006,-6.5097,Spain,toreno,is_city
+1401,Utrillas,40.8167,-0.85,Spain,utrillas,is_city
+1402,Mallen,41.9,-1.4167,Spain,mallen,is_city
+1403,Navarres,39.1014,-0.6933,Spain,navarres,is_city
+1405,Vallgorguina,41.6479,2.5104,Spain,vallgorguina,is_city
+1406,Montuiri,39.57,2.9841,Spain,montuiri,is_city
+1407,Els Hostalets,41.5356,1.7719,Spain,els hostalets,is_city
+1408,La Puebla de los Infantes,37.7667,-5.3833,Spain,la puebla de los infantes,is_city
+1409,Begonte,43.1333,-7.6833,Spain,begonte,is_city
+1410,Cabanes,40.1558,0.0453,Spain,cabanes,is_city
+1411,Luque,37.55,-4.2667,Spain,luque,is_city
+1412,Villarejo de Orbigo,42.45,-5.9,Spain,villarejo de orbigo,is_city
+1413,Morales del Vino,41.4447,-5.7342,Spain,morales del vino,is_city
+1414,Torralba de Calatrava,39.0164,-3.75,Spain,torralba de calatrava,is_city
+1415,Leiza,43.0789,-1.9147,Spain,leiza,is_city
+1416,Pastoriza,43.3004,-7.3512,Spain,pastoriza,is_city
+1417,Saldana,42.5167,-4.7333,Spain,saldana,is_city
+1418,Montroy,39.3394,-0.6139,Spain,montroy,is_city
+1419,Zurgena,37.3333,-2.0333,Spain,zurgena,is_city
+1420,San Esteban de Gormaz,41.5733,-3.205,Spain,san esteban de gormaz,is_city
+1421,Barreiros,43.5333,-7.2333,Spain,barreiros,is_city
+1422,Canete de las Torres,37.8667,-4.3167,Spain,canete de las torres,is_city
+1423,Belmez,38.2722,-5.2086,Spain,belmez,is_city
+1424,Torrejoncillo,39.9,-6.4667,Spain,torrejoncillo,is_city
+1425,Portas,42.5833,-8.6667,Spain,portas,is_city
+1426,Los Gallardos,37.1667,-1.9333,Spain,los gallardos,is_city
+1427,Alonsotegui,43.2467,-2.9878,Spain,alonsotegui,is_city
+1428,Velez de Benaudalla,36.8333,-3.5167,Spain,velez de benaudalla,is_city
+1429,Puente la Reina,42.6717,-1.8155,Spain,puente la reina,is_city
+1430,Villablanca,37.3,-7.3333,Spain,villablanca,is_city
+1431,Pobla de Montornes,41.1789,1.4145,Spain,pobla de montornes,is_city
+1432,Villafranca,42.2831,-1.75,Spain,villafranca,is_city
+1433,Vallehermosa,28.1799,-17.2647,Spain,vallehermosa,is_city
+1434,Ramales de la Victoria,43.2589,-3.4639,Spain,ramales de la victoria,is_city
+1435,Pegalajar,37.7333,-3.65,Spain,pegalajar,is_city
+1436,Yunquera,36.733,-4.917,Spain,yunquera,is_city
+1437,Ricla,41.5036,-1.4028,Spain,ricla,is_city
+1438,San Esteban de Palautordera,41.7061,2.4319,Spain,san esteban de palautordera,is_city
+1439,Marcilla,42.3333,-1.7333,Spain,marcilla,is_city
+1440,Calatorao,41.5333,-1.35,Spain,calatorao,is_city
+1441,Guejar-Sierra,37.15,-3.4333,Spain,guejar-sierra,is_city
+1442,Vall d'Alba,40.1667,-0.0333,Spain,vall d'alba,is_city
+1443,Villafranca del Bierzo,42.6075,-6.8075,Spain,villafranca del bierzo,is_city
+1444,Tanque,28.3563,-16.7798,Spain,tanque,is_city
+1445,Puente Viesgo,43.3006,-3.9631,Spain,puente viesgo,is_city
+1446,Maceda,42.2708,-7.6508,Spain,maceda,is_city
+1447,Castilleja de Guzman,37.4,-6.05,Spain,castilleja de guzman,is_city
+1448,Castellvell,41.1801,1.0987,Spain,castellvell,is_city
+1449,Ibros,38.0167,-3.5,Spain,ibros,is_city
+1450,Perello,40.8751,0.7124,Spain,perello,is_city
+1451,Villanueva de los Castillejos,37.5,-7.2667,Spain,villanueva de los castillejos,is_city
+1452,Viana del Bollo,42.1794,-7.1111,Spain,viana del bollo,is_city
+1453,Pedro Abad,37.9667,-4.45,Spain,pedro abad,is_city
+1454,Pedralba,39.6056,-0.7261,Spain,pedralba,is_city
+1455,Illueca,41.5333,-1.6167,Spain,illueca,is_city
+1456,Jarandilla de la Vera,40.1264,-5.6583,Spain,jarandilla de la vera,is_city
+1457,Catadau,39.2758,-0.5697,Spain,catadau,is_city
+1458,Caparroso,42.3333,-1.6667,Spain,caparroso,is_city
+1459,Torrenueva,36.7019,-3.4858,Spain,torrenueva,is_city
+1460,Getaria,43.3044,-2.2036,Spain,getaria,is_city
+1461,Pozo-Canada,38.9167,-1.7167,Spain,pozo-canada,is_city
+1462,San Saturnino,43.5667,-8.0333,Spain,san saturnino,is_city
+1463,Casinos,39.7016,-0.7093,Spain,casinos,is_city
+1464,Genoves,38.9889,-0.4703,Spain,genoves,is_city
+1465,Golmayo,41.7667,-2.5167,Spain,golmayo,is_city
+1466,Aoiz,42.783,-1.367,Spain,aoiz,is_city
+1467,Zahinos,38.3306,-6.9547,Spain,zahinos,is_city
+1468,Molvizar,36.7833,-3.6,Spain,molvizar,is_city
+1469,Villanubla,41.7114,-4.8447,Spain,villanubla,is_city
+1470,Calanas,37.65,-6.8833,Spain,calanas,is_city
+1471,Alfarras,41.8328,0.5722,Spain,alfarras,is_city
+1472,Lobon,38.85,-6.6167,Spain,lobon,is_city
+1473,Dodro,42.7175,-8.7147,Spain,dodro,is_city
+1474,Lesaca,43.2472,-1.7028,Spain,lesaca,is_city
+1475,Piles,38.9411,-0.1322,Spain,piles,is_city
+1476,Villarta de San Juan,39.2333,-3.4167,Spain,villarta de san juan,is_city
+1477,Guarroman,38.184,-3.6852,Spain,guarroman,is_city
+1478,La Cabrera,40.8667,-3.6,Spain,la cabrera,is_city
+1479,Tielmes,40.2333,-3.3167,Spain,tielmes,is_city
+1480,Falset,41.1462,0.8201,Spain,falset,is_city
+1481,Riogordo,36.9167,-4.3,Spain,riogordo,is_city
+1482,El Bonillo,38.95,-2.5333,Spain,el bonillo,is_city
+1483,Linola,41.7122,0.9056,Spain,linola,is_city
+1484,Losar de la Vera,40.1167,-5.6,Spain,losar de la vera,is_city
+1485,Taboada,42.7161,-7.7631,Spain,taboada,is_city
+1486,El Gurb,41.9575,2.2339,Spain,el gurb,is_city
+1487,Maside,42.4131,-8.0242,Spain,maside,is_city
+1488,Monda,36.6333,-4.8333,Spain,monda,is_city
+1489,Cadaques,42.2886,3.2778,Spain,cadaques,is_city
+1490,Los Santos de la Humosa,40.5017,-3.2561,Spain,los santos de la humosa,is_city
+1491,Miramar,38.95,-0.1389,Spain,miramar,is_city
+1492,Cambil,37.6667,-3.5667,Spain,cambil,is_city
+1493,Basigo de Baguio,43.4278,-2.8114,Spain,basigo de baguio,is_city
+1494,Puebla de Sancho Perez,38.3972,-6.4,Spain,puebla de sancho perez,is_city
+1495,Santa Coloma de Queralt,41.5324,1.3839,Spain,santa coloma de queralt,is_city
+1496,Poblete,38.9333,-3.9833,Spain,poblete,is_city
+1498,Martin de la Jara,37.1,-4.95,Spain,martin de la jara,is_city
+1499,Fuente de Piedra,37.1333,-4.7333,Spain,fuente de piedra,is_city
+1500,Llombay,39.2814,-0.5719,Spain,llombay,is_city
+1501,Campanet,39.7667,2.9667,Spain,campanet,is_city
+1502,Pons,41.916,1.1883,Spain,pons,is_city
+1503,Orellana la Vieja,39.0,-5.5333,Spain,orellana la vieja,is_city
+1504,Guevejar,37.2667,-3.6,Spain,guevejar,is_city
+1505,Guntin,42.8878,-7.6972,Spain,guntin,is_city
+1506,Oropesa,39.9167,-5.1833,Spain,oropesa,is_city
+1507,San Jaime dels Domenys,41.2999,1.5596,Spain,san jaime dels domenys,is_city
+1508,Duenas,41.8833,-4.55,Spain,duenas,is_city
+1509,Salar,37.1489,-4.0678,Spain,salar,is_city
+1510,Anna,39.0222,-0.6447,Spain,anna,is_city
+1511,Yeste,38.35,-2.3167,Spain,yeste,is_city
+1512,Guadalcanal,38.0833,-5.8167,Spain,guadalcanal,is_city
+1513,Pruna,36.9667,-5.2167,Spain,pruna,is_city
+1514,Prats de Llusanes,42.0108,2.0308,Spain,prats de llusanes,is_city
+1515,Solana de los Barros,38.725,-6.5389,Spain,solana de los barros,is_city
+1516,Deifontes,37.3167,-3.6,Spain,deifontes,is_city
+1517,Menasalbas,39.6333,-4.2833,Spain,menasalbas,is_city
+1518,Castroverde,43.031,-7.325,Spain,castroverde,is_city
+1519,Marinaleda,37.3711,-4.9581,Spain,marinaleda,is_city
+1520,Granja de Rocamora,38.1525,-0.8897,Spain,granja de rocamora,is_city
+1521,Cartelle,42.2492,-8.0689,Spain,cartelle,is_city
+1522,Noja,43.4814,-3.5186,Spain,noja,is_city
+1523,Lancara,42.8667,-7.35,Spain,lancara,is_city
+1524,Arbo,42.1167,-8.3167,Spain,arbo,is_city
+1525,Banos de la Encina,38.1667,-3.7667,Spain,banos de la encina,is_city
+1526,Cella,40.4522,-1.2817,Spain,cella,is_city
+1527,Aytona,41.4945,0.4594,Spain,aytona,is_city
+1528,Gallur,41.8692,-1.3161,Spain,gallur,is_city
+1529,Chozas de Abajo,42.5167,-5.6833,Spain,chozas de abajo,is_city
+1530,Lillo,39.7214,-3.3047,Spain,lillo,is_city
+1531,Vallromanas,41.5318,2.2982,Spain,vallromanas,is_city
+1532,Masalfasar,39.5611,-0.325,Spain,masalfasar,is_city
+1533,Alcuescar,39.1811,-6.2294,Spain,alcuescar,is_city
+1534,Puntallana,28.7167,-17.7167,Spain,puntallana,is_city
+1535,Castelltersol,41.7519,2.1225,Spain,castelltersol,is_city
+1536,La Gineta,39.1167,-2.0,Spain,la gineta,is_city
+1537,Carrion de los Cespedes,37.3667,-6.3167,Spain,carrion de los cespedes,is_city
+1538,Zujar,37.5333,-2.8333,Spain,zujar,is_city
+1539,La Adrada,40.2992,-4.635,Spain,la adrada,is_city
+1540,Lerma,42.0264,-3.7589,Spain,lerma,is_city
+1541,Real de Gandia,38.9472,-0.1906,Spain,real de gandia,is_city
+1542,Villasequilla de Yepes,39.8833,-3.7167,Spain,villasequilla de yepes,is_city
+1543,Monterrey,41.9633,-7.4492,Spain,monterrey,is_city
+1544,Ugijar,36.9667,-3.05,Spain,ugijar,is_city
+1545,El Viso,38.4833,-4.95,Spain,el viso,is_city
+1546,Puebla del Duc,38.9033,-0.4172,Spain,puebla del duc,is_city
+1547,Casarabonela,36.7833,-4.85,Spain,casarabonela,is_city
+1548,Ayguafreda,41.7681,2.2515,Spain,ayguafreda,is_city
+1549,Torreblascopedro,37.9974,-3.6363,Spain,torreblascopedro,is_city
+1550,Tijarafe,28.713,-17.9568,Spain,tijarafe,is_city
+1551,Ardales,36.8778,-4.8447,Spain,ardales,is_city
+1552,Favareta,39.1278,-0.2906,Spain,favareta,is_city
+1553,Valle de Abdalagis,36.9333,-4.6833,Spain,valle de abdalagis,is_city
+1554,Carcastillo,42.38,-1.4444,Spain,carcastillo,is_city
+1555,Echarri-Aranaz,42.9,-2.0667,Spain,echarri-aranaz,is_city
+1556,Mesia,43.1,-8.2667,Spain,mesia,is_city
+1557,Madronera,39.4333,-5.7667,Spain,madronera,is_city
+1558,La Romana,38.3669,-0.8969,Spain,la romana,is_city
+1559,Huesa,37.7667,-3.0667,Spain,huesa,is_city
+1560,Besalu,42.1989,2.6986,Spain,besalu,is_city
+1561,Monreal del Campo,40.7833,-1.35,Spain,monreal del campo,is_city
+1562,El Burgo de Ebro,41.5667,-0.7333,Spain,el burgo de ebro,is_city
+1563,Ablitas,41.9667,-1.6333,Spain,ablitas,is_city
+1564,Fustinana,42.0167,-1.4833,Spain,fustinana,is_city
+1565,Baralla,42.8833,-7.25,Spain,baralla,is_city
+1566,Almoines,38.9433,-0.1822,Spain,almoines,is_city
+1567,Sahagun,42.3719,-5.0303,Spain,sahagun,is_city
+1568,Fuente-Alamo,38.6932,-1.4317,Spain,fuente-alamo,is_city
+1569,Chella,39.0444,-0.6606,Spain,chella,is_city
+1570,San Pedro de Torello,42.0748,2.2968,Spain,san pedro de torello,is_city
+1571,Albinana,41.2455,1.4867,Spain,albinana,is_city
+1572,Algarinejo,37.3167,-4.15,Spain,algarinejo,is_city
+1573,Cesuras,43.1667,-8.2,Spain,cesuras,is_city
+1574,Alberite,42.4167,-2.4333,Spain,alberite,is_city
+1575,Funes,42.3167,-1.8,Spain,funes,is_city
+1576,Benavides,42.5,-5.9,Spain,benavides,is_city
+1577,Manuel,39.0517,-0.4961,Spain,manuel,is_city
+1578,Sorbas,37.1,-2.1167,Spain,sorbas,is_city
+1579,Valderrobres,40.8833,0.15,Spain,valderrobres,is_city
+1580,El Provencio,39.3667,-2.5667,Spain,el provencio,is_city
+1581,Valtierra,42.1953,-1.6342,Spain,valtierra,is_city
+1582,San Lorenzo de Hortons,41.4697,1.8256,Spain,san lorenzo de hortons,is_city
+1583,Los Navalmorales,39.7167,-4.6333,Spain,los navalmorales,is_city
+1584,San Lorenzo Savall,41.6789,2.0586,Spain,san lorenzo savall,is_city
+1585,Morella,40.6196,-0.1017,Spain,morella,is_city
+1586,Fontanar,40.7269,-3.1769,Spain,fontanar,is_city
+1587,Vilallonga del Campo,41.2115,1.2059,Spain,vilallonga del campo,is_city
+1588,Espiel,38.1833,-5.0167,Spain,espiel,is_city
+1589,Cornella de Terri,42.0914,2.8178,Spain,cornella de terri,is_city
+1590,Torrellas de Foix,41.39,1.5706,Spain,torrellas de foix,is_city
+1591,Lama,42.391,-8.444,Spain,lama,is_city
+1592,Llorens del Panades,41.282,1.5537,Spain,llorens del panades,is_city
+1593,Ayegui,42.6567,-2.0383,Spain,ayegui,is_city
+1594,Pals,41.9717,3.15,Spain,pals,is_city
+1595,Dos Torres,38.4333,-4.8833,Spain,dos torres,is_city
+1596,Rodeiro,42.65,-7.95,Spain,rodeiro,is_city
+1597,Pina de Ebro,41.489,-0.526,Spain,pina de ebro,is_city
+1598,Agullent,38.8222,-0.5475,Spain,agullent,is_city
+1599,San Pedro de Riudevitlles,41.4525,1.7047,Spain,san pedro de riudevitlles,is_city
+1600,Almudebar,42.0333,-0.5667,Spain,almudebar,is_city
+1601,Portillo,41.4833,-4.5833,Spain,portillo,is_city
+1602,Carcabuey,37.4333,-4.2667,Spain,carcabuey,is_city
+1603,Almedinilla,37.4333,-4.0833,Spain,almedinilla,is_city
+1604,Torres de Segre,41.5342,0.5143,Spain,torres de segre,is_city
+1605,Grijota,42.05,-4.5833,Spain,grijota,is_city
+1606,La Garrovilla,38.9167,-6.4667,Spain,la garrovilla,is_city
+1607,Rafelguaraf,39.0514,-0.4572,Spain,rafelguaraf,is_city
+1608,Toen,42.3167,-7.95,Spain,toen,is_city
+1609,El Palmar de Troya,37.0625,-5.8042,Spain,el palmar de troya,is_city
+1610,Alfajarin,41.6167,-0.7,Spain,alfajarin,is_city
+1611,Falces,42.3833,-1.8,Spain,falces,is_city
+1612,Berlanga,38.2828,-5.8292,Spain,berlanga,is_city
+1613,El Barco de Avila,40.3597,-5.5236,Spain,el barco de avila,is_city
+1614,Balazote,38.8833,-2.1333,Spain,balazote,is_city
+1615,El Cerro de Andevalo,37.7333,-6.9333,Spain,el cerro de andevalo,is_city
+1616,Monterrubio de la Serena,38.59,-5.4433,Spain,monterrubio de la serena,is_city
+1617,Abadin,43.3667,-7.4833,Spain,abadin,is_city
+1618,San Quintin de Mediona,41.4644,1.665,Spain,san quintin de mediona,is_city
+1619,Las Mesas,39.4,-2.75,Spain,las mesas,is_city
+1620,Purullena,37.3167,-3.1833,Spain,purullena,is_city
+1621,Golada,42.7622,-8.0197,Spain,golada,is_city
+1622,Frades,43.04,-8.2772,Spain,frades,is_city
+1623,Murguia,42.9817,-2.844,Spain,murguia,is_city
+1624,Castellon de Rugat,38.8758,-0.3831,Spain,castellon de rugat,is_city
+1625,Llubi,39.6991,3.0049,Spain,llubi,is_city
+1626,Camprodon,42.3118,2.3648,Spain,camprodon,is_city
+1627,Idiazabal,43.0106,-2.2336,Spain,idiazabal,is_city
+1628,Benisano,39.6133,-0.5753,Spain,benisano,is_city
+1629,La Victoria,37.6811,-4.8525,Spain,la victoria,is_city
+1630,Avinyo,41.863,1.9707,Spain,avinyo,is_city
+1631,Arroyo del Ojanco,38.32,-2.89,Spain,arroyo del ojanco,is_city
+1632,Arguedas,42.1769,-1.5983,Spain,arguedas,is_city
+1633,Escacena del Campo,37.4167,-6.3833,Spain,escacena del campo,is_city
+1634,Guaro,36.65,-4.8333,Spain,guaro,is_city
+1635,Alcaucin,36.9,-4.1167,Spain,alcaucin,is_city
+1636,Mequinenza,41.3667,0.3,Spain,mequinenza,is_city
+1637,Santa Eugenia de Berga,41.9022,2.2842,Spain,santa eugenia de berga,is_city
+1638,Cervera de Pisuerga,42.8667,-4.5,Spain,cervera de pisuerga,is_city
+1639,Medellin,38.9631,-5.9578,Spain,medellin,is_city
+1640,Benimodo,39.2139,-0.5281,Spain,benimodo,is_city
+1641,Folgarolas,41.9401,2.3163,Spain,folgarolas,is_city
+1642,Ossa de Montiel,38.9667,-2.75,Spain,ossa de montiel,is_city
+1643,Alpera,38.9667,-1.2167,Spain,alpera,is_city
+1644,Jabugo,37.9167,-6.7333,Spain,jabugo,is_city
+1645,Bellvis,41.6956,0.8328,Spain,bellvis,is_city
+1646,Benamaurel,37.6,-2.7,Spain,benamaurel,is_city
+1647,Sober,42.4667,-7.6,Spain,sober,is_city
+1648,Ajofrin,39.7136,-3.9819,Spain,ajofrin,is_city
+1649,Torremegia,38.7833,-6.3667,Spain,torremegia,is_city
+1650,Pont de Suert,42.4082,0.7417,Spain,pont de suert,is_city
+1651,Viso del Marques,38.5167,-3.55,Spain,viso del marques,is_city
+1652,Encinas Reales,37.2667,-4.4833,Spain,encinas reales,is_city
+1653,Valverde del Fresno,40.2239,-6.8798,Spain,valverde del fresno,is_city
+1654,Irurzun,42.917,-1.817,Spain,irurzun,is_city
+1655,Maria de la Salud,39.6645,3.0747,Spain,maria de la salud,is_city
+1656,Oria,37.4833,-2.2833,Spain,oria,is_city
+1657,Puebla de Don Fadrique,37.9667,-2.4333,Spain,puebla de don fadrique,is_city
+1658,Bellvey,41.2413,1.5766,Spain,bellvey,is_city
+1659,Albatarrech,41.575,0.6064,Spain,albatarrech,is_city
+1660,La Puerta de Segura,38.3497,-2.7367,Spain,la puerta de segura,is_city
+1661,Orba,38.78,0.0644,Spain,orba,is_city
+1662,Carrizo de la Ribera,42.5833,-5.8333,Spain,carrizo de la ribera,is_city
+1663,Chucena,37.3667,-6.3833,Spain,chucena,is_city
+1664,Boboras,42.4333,-8.15,Spain,boboras,is_city
+1665,Avia,42.0797,1.8183,Spain,avia,is_city
+1666,Siles,38.3889,-2.5806,Spain,siles,is_city
+1667,Higuera la Real,38.1333,-6.6833,Spain,higuera la real,is_city
+1668,Benifairo de Les Valls,39.7308,-0.2678,Spain,benifairo de les valls,is_city
+1670,Villarrasa,37.3833,-6.6,Spain,villarrasa,is_city
+1671,La Granada,41.3792,1.7203,Spain,la granada,is_city
+1672,Riudarenas,41.8239,2.7175,Spain,riudarenas,is_city
+1673,Puntagorda,28.75,-17.9667,Spain,puntagorda,is_city
+1674,Cuatretonda,38.9458,-0.4031,Spain,cuatretonda,is_city
+1675,Minglanilla,39.5333,-1.6,Spain,minglanilla,is_city
+1676,Jeresa,39.0092,-0.2181,Spain,jeresa,is_city
+1677,Villafranca del Cid,40.4269,-0.2576,Spain,villafranca del cid,is_city
+1678,Bunuel,41.9814,-1.4408,Spain,bunuel,is_city
+1679,La Pobla de Claramunt,41.5544,1.6797,Spain,la pobla de claramunt,is_city
+1680,Benasque,42.6,0.5333,Spain,benasque,is_city
+1681,Torregrosa,41.5817,0.83,Spain,torregrosa,is_city
+1682,Valdefresno,42.6,-5.4833,Spain,valdefresno,is_city
+1683,Palau de Anglesola,41.6525,0.8833,Spain,palau de anglesola,is_city
+1684,La Coronada,38.9197,-5.6708,Spain,la coronada,is_city
+1685,Beniarbeig,38.8217,-0.0017,Spain,beniarbeig,is_city
+1686,Puente de Genave,38.35,-2.8,Spain,puente de genave,is_city
+1687,San Quirico de Besora,42.1033,2.2203,Spain,san quirico de besora,is_city
+1688,Sort,42.4101,1.1287,Spain,sort,is_city
+1689,Tapia de Casariego,43.5667,-6.95,Spain,tapia de casariego,is_city
+1690,San Juan,39.5943,3.0401,Spain,san juan,is_city
+1691,Penagos,43.3378,-3.8081,Spain,penagos,is_city
+1692,La Pueblanueva,39.9,-4.6833,Spain,la pueblanueva,is_city
+1693,Baga,42.2547,1.8636,Spain,baga,is_city
+1694,Lorenzana,43.4711,-7.2994,Spain,lorenzana,is_city
+1695,Carballedo,42.5167,-7.8333,Spain,carballedo,is_city
+1696,El Bosque,36.75,-5.5,Spain,el bosque,is_city
+1697,Tolox,36.7,-4.9,Spain,tolox,is_city
+1698,Cabezuela del Valle,40.1833,-5.8,Spain,cabezuela del valle,is_city
+1699,Santo Tome,38.0167,-3.1,Spain,santo tome,is_city
+1700,El Hoyo de Pinares,40.5008,-4.4239,Spain,el hoyo de pinares,is_city
+1701,Arbeca,41.5417,0.9237,Spain,arbeca,is_city
+1702,Larraga,42.5667,-1.85,Spain,larraga,is_city
+1703,Zafarraya,36.9667,-4.1333,Spain,zafarraya,is_city
+1704,Manzanilla,37.3833,-6.4167,Spain,manzanilla,is_city
+1705,Torre del Bierzo,42.5947,-6.3258,Spain,torre del bierzo,is_city
+1706,El Bruch,41.5825,1.7811,Spain,el bruch,is_city
+1707,Montejicar,37.5667,-3.5,Spain,montejicar,is_city
+1708,Arnuero,43.4731,-3.5631,Spain,arnuero,is_city
+1709,Villar del Rey,39.1333,-6.85,Spain,villar del rey,is_city
+1710,Anzuola,43.0992,-2.3806,Spain,anzuola,is_city
+1711,Santovenia de Valdoncina,42.55,-5.6167,Spain,santovenia de valdoncina,is_city
+1712,Luzmela,43.2986,-4.2067,Spain,luzmela,is_city
+1713,Dilar,37.0667,-3.6,Spain,dilar,is_city
+1714,San Pedro Pescador,42.19,3.0837,Spain,san pedro pescador,is_city
+1715,Ullastrell,41.5263,1.9587,Spain,ullastrell,is_city
+1716,Cea,42.4725,-7.9819,Spain,cea,is_city
+1717,Cenicero,42.4833,-2.6333,Spain,cenicero,is_city
+1718,Anoeta,43.1622,-2.07,Spain,anoeta,is_city
+1719,Fitero,42.0581,-1.8572,Spain,fitero,is_city
+1720,Yatova,39.3849,-0.8085,Spain,yatova,is_city
+1721,Riudellots de la Selva,41.8956,2.8064,Spain,riudellots de la selva,is_city
+1722,Piedralaves,40.3172,-4.6981,Spain,piedralaves,is_city
+1723,Valderrubio,37.2344,-3.8236,Spain,valderrubio,is_city
+1724,Viana de Cega,41.5333,-4.75,Spain,viana de cega,is_city
+1725,Villanueva de la Vera,40.1306,-5.4639,Spain,villanueva de la vera,is_city
+1726,Alozaina,36.7258,-4.8581,Spain,alozaina,is_city
+1727,La Codosera,39.2,-7.1667,Spain,la codosera,is_city
+1728,San Vicente de Torello,42.0622,2.2728,Spain,san vicente de torello,is_city
+1729,Borjas del Campo,41.1722,1.0204,Spain,borjas del campo,is_city
+1730,San Leonardo de Yague,41.8281,-3.0669,Spain,san leonardo de yague,is_city
+1731,Los Navalucillos,39.6667,-4.6333,Spain,los navalucillos,is_city
+1732,Cadreita,42.2167,-1.6833,Spain,cadreita,is_city
+1733,Ezcaray,42.3267,-3.0133,Spain,ezcaray,is_city
+1734,Puigpunent,39.6226,2.5275,Spain,puigpunent,is_city
+1735,Vega de Espinareda,42.7258,-6.655,Spain,vega de espinareda,is_city
+1736,Aldeanueva de la Vera,40.0167,-5.8667,Spain,aldeanueva de la vera,is_city
+1737,Montealegre del Castillo,38.7833,-1.3167,Spain,montealegre del castillo,is_city
+1738,Cenicientos,40.2639,-4.4667,Spain,cenicientos,is_city
+1739,Larrabezua,43.2619,-2.7947,Spain,larrabezua,is_city
+1740,Aguadulce,37.2522,-4.9925,Spain,aguadulce,is_city
+1741,La Albuera,38.7161,-6.8239,Spain,la albuera,is_city
+1742,Carrion de los Condes,42.3333,-4.6,Spain,carrion de los condes,is_city
+1743,Cuadros,42.7,-5.6333,Spain,cuadros,is_city
+1744,Seron,37.3333,-2.5,Spain,seron,is_city
+1745,Campos del Rio,38.0408,-1.3517,Spain,campos del rio,is_city
+1746,Fuente la Higuera,38.8056,-0.8794,Spain,fuente la higuera,is_city
+1747,Navaconcejo,40.18,-5.82,Spain,navaconcejo,is_city
+1748,El Campillo,37.683,-6.617,Spain,el campillo,is_city
+1749,Santa Olalla del Cala,37.9,-6.2167,Spain,santa olalla del cala,is_city
+1750,Villanueva de Mesia,37.2142,-4.0111,Spain,villanueva de mesia,is_city
+1751,Castril,37.7833,-2.7667,Spain,castril,is_city
+1752,Navaluenga,40.4097,-4.7081,Spain,navaluenga,is_city
+1753,Jabalquinto,38.0167,-3.7167,Spain,jabalquinto,is_city
+1754,Beniparrell,39.3806,-0.4114,Spain,beniparrell,is_city
+1755,Puebla de Trives,42.3394,-7.2531,Spain,puebla de trives,is_city
+1756,Grazalema,36.7667,-5.3667,Spain,grazalema,is_city
+1757,Valldemosa,39.7117,2.6226,Spain,valldemosa,is_city
+1758,El Pedroso,37.8333,-5.75,Spain,el pedroso,is_city
+1759,Maella,41.1333,0.15,Spain,maella,is_city
+1760,Obejo,38.1333,-4.8,Spain,obejo,is_city
+1761,Cogollos Vega,37.2747,-3.5731,Spain,cogollos vega,is_city
+1762,El Vellon,40.7667,-3.5833,Spain,el vellon,is_city
+1763,Garrovillas,39.7,-6.55,Spain,garrovillas,is_city
+1764,Jacarilla,38.0667,-0.8667,Spain,jacarilla,is_city
+1765,Sierra de Fuentes,39.4333,-6.2667,Spain,sierra de fuentes,is_city
+1766,Bareyo,43.4822,-3.6108,Spain,bareyo,is_city
+1767,Crecente,42.1525,-8.2225,Spain,crecente,is_city
+1768,Valdeganga,39.15,-1.6667,Spain,valdeganga,is_city
+1769,Nogueira de Ramuin,42.4197,-7.7531,Spain,nogueira de ramuin,is_city
+1770,Salas de los Infantes,42.0231,-3.2814,Spain,salas de los infantes,is_city
+1771,Finana,37.1667,-2.8333,Spain,finana,is_city
+1772,Vinuela,36.85,-4.1333,Spain,vinuela,is_city
+1773,Granja de Torrehermosa,38.31,-5.5953,Spain,granja de torrehermosa,is_city
+1774,Mendaro,43.2642,-2.3755,Spain,mendaro,is_city
+1775,Ontur,38.6333,-1.4833,Spain,ontur,is_city
+1776,Nava del Rey,41.3333,-5.0833,Spain,nava del rey,is_city
+1777,Albalate del Arzobispo,41.1167,-0.5167,Spain,albalate del arzobispo,is_city
+1778,Logrosan,39.3372,-5.4922,Spain,logrosan,is_city
+1779,Benferri,38.1417,-0.9625,Spain,benferri,is_city
+1780,Daroca,41.1153,-1.4139,Spain,daroca,is_city
+1781,Calig,40.4617,0.3536,Spain,calig,is_city
+1782,Valencia del Ventoso,38.2653,-6.4744,Spain,valencia del ventoso,is_city
+1783,Boimorto,43.008,-8.127,Spain,boimorto,is_city
+1784,Artana,39.8833,-0.25,Spain,artana,is_city
+1785,Navalcan,40.068,-5.093,Spain,navalcan,is_city
+1786,Fuensaldana,41.7,-4.7667,Spain,fuensaldana,is_city
+1787,San Mateo,40.465,0.1803,Spain,san mateo,is_city
+1788,La Sellera de Ter,41.9683,2.6207,Spain,la sellera de ter,is_city
+1789,Quinto,41.4248,-0.4975,Spain,quinto,is_city
+1790,Almargen,37.0,-5.0167,Spain,almargen,is_city
+1791,Seros,41.4617,0.4119,Spain,seros,is_city
+1792,Monturque,37.4667,-4.5667,Spain,monturque,is_city
+1793,Las Arenas,43.2833,-4.7667,Spain,las arenas,is_city
+1794,Castellvi de Rosanes,41.4517,1.9006,Spain,castellvi de rosanes,is_city
+1795,Noalejo,37.5167,-3.65,Spain,noalejo,is_city
+1796,Limpias,43.3628,-3.4247,Spain,limpias,is_city
+1797,Barlovento,28.8167,-17.7667,Spain,barlovento,is_city
+1798,Higuera de Vargas,38.4472,-6.975,Spain,higuera de vargas,is_city
+1799,Herrera de Pisuerga,42.6,-4.3333,Spain,herrera de pisuerga,is_city
+1800,La Merca,42.2231,-7.9053,Spain,la merca,is_city
+1801,Monfero,43.3667,-7.95,Spain,monfero,is_city
+1802,Vallfogona de Balaguer,41.7539,0.8156,Spain,vallfogona de balaguer,is_city
+1803,Batea,41.0941,0.312,Spain,batea,is_city
+1804,Barraco,40.4753,-4.6419,Spain,barraco,is_city
+1805,Paredes de Nava,42.1528,-4.6944,Spain,paredes de nava,is_city
+1806,Muros de Nalon,43.55,-6.1,Spain,muros de nalon,is_city
+1807,Tejeda,27.9974,-15.6139,Spain,tejeda,is_city
+1808,Huetor Santillan,37.2186,-3.5172,Spain,huetor santillan,is_city
+1809,La Iruela,37.9167,-3.0,Spain,la iruela,is_city
+1810,Velez Blanco,37.6833,-2.0833,Spain,velez blanco,is_city
+1811,Selaya,43.2167,-3.8,Spain,selaya,is_city
+1812,Guadahortuna,37.5581,-3.3992,Spain,guadahortuna,is_city
+1813,Belmonte,39.5594,-2.7084,Spain,belmonte,is_city
+1814,Castellar de Santiago,38.5353,-3.2833,Spain,castellar de santiago,is_city
+1815,Siruela,38.9775,-5.0492,Spain,siruela,is_city
+1816,Olza,42.8225,-1.7539,Spain,olza,is_city
+1817,Santa Marina del Rey,42.5167,-5.85,Spain,santa marina del rey,is_city
+1818,Villagonzalo-Pedernales,42.3014,-3.7364,Spain,villagonzalo-pedernales,is_city
+1819,Alange,38.7858,-6.2456,Spain,alange,is_city
+1820,Las Presas,42.1464,2.4594,Spain,las presas,is_city
+1821,Coiros,43.25,-8.1667,Spain,coiros,is_city
+1822,Irura,43.1675,-2.0672,Spain,irura,is_city
+1823,Villamarin,42.4639,-7.89,Spain,villamarin,is_city
+1824,Segura de Leon,38.1208,-6.5292,Spain,segura de leon,is_city
+1825,Mundaca,43.4072,-2.6983,Spain,mundaca,is_city
+1826,Cortes de Baza,37.6333,-2.7667,Spain,cortes de baza,is_city
+1827,Oliana,42.0671,1.3142,Spain,oliana,is_city
+1828,Olesa de Bonesvalls,41.3553,1.8506,Spain,olesa de bonesvalls,is_city
+1829,Puebla de Obando,39.1833,-6.6333,Spain,puebla de obando,is_city
+1830,Ablana de Arriba,43.3083,-5.875,Spain,ablana de arriba,is_city
+1831,Aranga,43.2339,-8.0158,Spain,aranga,is_city
+1832,Fuentealbilla,39.2667,-1.5492,Spain,fuentealbilla,is_city
+1833,Villafames,40.1125,-0.0539,Spain,villafames,is_city
+1834,Olocau,39.7,-0.5317,Spain,olocau,is_city
+1835,Guadalupe,39.4528,-5.3275,Spain,guadalupe,is_city
+1836,Carcer,39.0667,-0.5667,Spain,carcer,is_city
+1837,Villaturiel,42.5167,-5.4833,Spain,villaturiel,is_city
+1838,Almachar,36.8,-4.2333,Spain,almachar,is_city
+1839,El Carpio de Tajo,39.8875,-4.4544,Spain,el carpio de tajo,is_city
+1840,Bonar,42.8667,-5.3167,Spain,bonar,is_city
+1841,Canena,38.05,-3.4667,Spain,canena,is_city
+1842,Toral de los Vados,42.5444,-6.7814,Spain,toral de los vados,is_city
+1843,Almoharin,39.1667,-6.0333,Spain,almoharin,is_city
+1844,Fuenlabrada de los Montes,39.1317,-4.9356,Spain,fuenlabrada de los montes,is_city
+1845,Villaralbo,41.4922,-5.6847,Spain,villaralbo,is_city
+1846,La Peroja,42.4389,-7.7933,Spain,la peroja,is_city
+1847,San Justo de la Vega,42.4542,-6.0147,Spain,san justo de la vega,is_city
+1848,Cuevas de Vinroma,40.3078,0.1225,Spain,cuevas de vinroma,is_city
+1849,Brozas,39.6,-6.7667,Spain,brozas,is_city
+1850,Segura de la Sierra,38.3,-2.65,Spain,segura de la sierra,is_city
+1851,Piedrahita,40.4635,-5.3276,Spain,piedrahita,is_city
+1852,Villardevos,41.9069,-7.3131,Spain,villardevos,is_city
+1853,Arciniega,43.1167,-3.1333,Spain,arciniega,is_city
+1854,Zarza de Granadilla,40.2381,-6.0475,Spain,zarza de granadilla,is_city
+1855,Barrax,39.0458,-2.2028,Spain,barrax,is_city
+1856,Zaidin,41.6,0.2667,Spain,zaidin,is_city
+1857,Burgo,36.783,-4.933,Spain,burgo,is_city
+1858,Orcera,38.3167,-2.65,Spain,orcera,is_city
+1859,Hijar,41.1746,-0.4498,Spain,hijar,is_city
+1860,Riola,39.1964,-0.3336,Spain,riola,is_city
+1861,Chillon,38.7969,-4.8669,Spain,chillon,is_city
+1862,Villahermosa,38.75,-2.8667,Spain,villahermosa,is_city
+1863,Argonos,43.46,-3.4914,Spain,argonos,is_city
+1864,Almonaster la Real,37.8733,-6.7861,Spain,almonaster la real,is_city
+1865,Colmenar del Arroyo,40.4167,-4.2,Spain,colmenar del arroyo,is_city
+1866,Guadamur,39.8167,-4.15,Spain,guadamur,is_city
+1867,Alforja,41.2114,0.9755,Spain,alforja,is_city
+1868,Germade,43.3,-7.6833,Spain,germade,is_city
+1869,Cabra del Santo Cristo,37.7,-3.2833,Spain,cabra del santo cristo,is_city
+1870,Belorado,42.4167,-3.1833,Spain,belorado,is_city
+1871,Socovos,38.3333,-1.9667,Spain,socovos,is_city
+1872,Aliseda,39.4225,-6.6928,Spain,aliseda,is_city
+1873,Hermigua,28.163,-17.1985,Spain,hermigua,is_city
+1874,Vallmoll,41.2459,1.2497,Spain,vallmoll,is_city
+1875,Cubillos del Sil,42.6236,-6.5636,Spain,cubillos del sil,is_city
+1876,Beniarjo,38.9328,-0.1878,Spain,beniarjo,is_city
+1877,Ateca,41.3308,-1.7929,Spain,ateca,is_city
+1878,Soses,41.535,0.4878,Spain,soses,is_city
+1879,Ribas de Fresser,42.3062,2.1676,Spain,ribas de fresser,is_city
+1880,Almayate Bajo,36.7308,-4.1294,Spain,almayate bajo,is_city
+1881,Camunas,39.4167,-3.45,Spain,camunas,is_city
+1882,Fuencaliente de la Palma,28.5066,-17.8416,Spain,fuencaliente de la palma,is_city
+1883,Campillo de Arenas,37.55,-3.6333,Spain,campillo de arenas,is_city
+1884,Usagre,38.35,-6.1667,Spain,usagre,is_city
+1885,Cumbres Mayores,38.0667,-6.6333,Spain,cumbres mayores,is_city
+1886,Meira,43.2167,-7.2831,Spain,meira,is_city
+1887,Lerin,42.4833,-1.9667,Spain,lerin,is_city
+1888,Cuevas del Campo,37.6068,-2.9291,Spain,cuevas del campo,is_city
+1889,Mansilla de las Mulas,42.5,-5.4167,Spain,mansilla de las mulas,is_city
+1890,El Toboso,39.5181,-2.9981,Spain,el toboso,is_city
+1891,Paradela,42.764,-7.5674,Spain,paradela,is_city
+1892,Granen,41.9333,-0.3667,Spain,granen,is_city
+1893,Avion,42.3883,-8.2728,Spain,avion,is_city
+1894,Villalobon,42.0333,-4.5,Spain,villalobon,is_city
+1895,Zarzalejo,40.5,-4.05,Spain,zarzalejo,is_city
+1896,Daya Nueva,38.1136,-0.7614,Spain,daya nueva,is_city
+1897,Moraleja del Vino,41.4667,-5.65,Spain,moraleja del vino,is_city
+1898,Ador,38.9181,-0.2253,Spain,ador,is_city
+1899,Garafia,28.8042,-17.9167,Spain,garafia,is_city
+1900,Sobrado,43.0224,-8.0144,Spain,sobrado,is_city
+1901,El Gastor,36.85,-5.3167,Spain,el gastor,is_city
+1902,Almaraz,39.8,-5.6667,Spain,almaraz,is_city
+1903,Oliva de Merida,38.7833,-6.1167,Spain,oliva de merida,is_city
+1904,Polopos,36.7956,-3.2972,Spain,polopos,is_city
+1905,Arquillos,38.1833,-3.4167,Spain,arquillos,is_city
+1906,Salvaleon,38.5167,-6.7833,Spain,salvaleon,is_city
+1907,Oimbra,41.8853,-7.4725,Spain,oimbra,is_city
+1908,El Casar de Escalona,40.05,-4.5167,Spain,el casar de escalona,is_city
+1909,Madrigalejo,39.1333,-5.6167,Spain,madrigalejo,is_city
+1910,Palma de Gandia,38.925,-0.2225,Spain,palma de gandia,is_city
+1911,La Secuita,41.2032,1.2794,Spain,la secuita,is_city
+1912,Alanis,38.0375,-5.7153,Spain,alanis,is_city
+1913,Rosal de la Frontera,37.9686,-7.2197,Spain,rosal de la frontera,is_city
+1914,Ataun,42.9781,-2.1814,Spain,ataun,is_city
+1915,Pinofranqueado,40.3039,-6.4981,Spain,pinofranqueado,is_city
+1916,Benejama,38.7,-0.7672,Spain,benejama,is_city
+1917,Montizon,38.3333,-3.1,Spain,montizon,is_city
+1918,Montras,41.908,3.1447,Spain,montras,is_city
+1919,Canillas de Aceituno,36.873,-4.082,Spain,canillas de aceituno,is_city
+1920,Bimenes,43.3333,-5.55,Spain,bimenes,is_city
+1921,Lovios,41.8753,-8.0844,Spain,lovios,is_city
+1922,Padrenda,42.1394,-8.1583,Spain,padrenda,is_city
+1923,La Torre de Esteban Hambran,40.1686,-4.2186,Spain,la torre de esteban hambran,is_city
+1924,Montanchez,39.2167,-6.15,Spain,montanchez,is_city
+1925,Gatica,43.3639,-2.8719,Spain,gatica,is_city
+1926,Arenas de Iguna,43.1881,-4.0483,Spain,arenas de iguna,is_city
+1927,Purchena,37.35,-2.35,Spain,purchena,is_city
+1928,Tibi,38.5333,-0.5833,Spain,tibi,is_city
+1929,Alcaudete de la Jaya,39.79,-4.872,Spain,alcaudete de la jaya,is_city
+1930,Alconchel,38.5167,-7.0667,Spain,alconchel,is_city
+1931,Agudo,38.9833,-4.8667,Spain,agudo,is_city
+1932,Torreorgaz,39.3667,-6.25,Spain,torreorgaz,is_city
+1933,Cuartell,39.7389,-0.2639,Spain,cuartell,is_city
+1934,Espinosa de los Monteros,43.0667,-3.5333,Spain,espinosa de los monteros,is_city
+1935,Santiurde de Toranzo,43.2397,-3.9378,Spain,santiurde de toranzo,is_city
+1936,Asco,41.1808,0.5672,Spain,asco,is_city
+1937,Covaleda,41.9333,-2.8833,Spain,covaleda,is_city
+1938,Avinonet de Puig Ventos,42.2505,2.912,Spain,avinonet de puig ventos,is_city
+1940,Zaldivia,43.0364,-2.1497,Spain,zaldivia,is_city
+1941,Montaberner,38.8883,-0.4961,Spain,montaberner,is_city
+1942,Darro,37.35,-3.3,Spain,darro,is_city
+1943,Canete la Real,36.9535,-5.0254,Spain,canete la real,is_city
+1944,Valdestillas,41.4667,-4.7667,Spain,valdestillas,is_city
+1945,Puebla del Brollon,42.5571,-7.3919,Spain,puebla del brollon,is_city
+1946,Zaratamo,43.2128,-2.8722,Spain,zaratamo,is_city
+1947,Aldea del Rey,38.7389,-3.8392,Spain,aldea del rey,is_city
+1948,Castropodame,42.58,-6.4672,Spain,castropodame,is_city
+1949,Araya,42.8957,-2.321,Spain,araya,is_city
+1950,Pol,43.1297,-7.36,Spain,pol,is_city
+1951,Salinas,38.5211,-0.9117,Spain,salinas,is_city
+1952,Cabeza la Vaca,38.0833,-6.4167,Spain,cabeza la vaca,is_city
+1953,Tivisa,41.0423,0.7331,Spain,tivisa,is_city
+1954,Canamero,39.3,-5.3667,Spain,canamero,is_city
+1955,Pola de Allande,43.2667,-6.6167,Spain,pola de allande,is_city
+1956,Santa Pau,42.1458,2.5722,Spain,santa pau,is_city
+1957,Masalaves,39.1417,-0.5211,Spain,masalaves,is_city
+1958,La Alberca de Zancara,39.5167,-2.4833,Spain,la alberca de zancara,is_city
+1959,Salvatierra de los Barros,38.4911,-6.6853,Spain,salvatierra de los barros,is_city
+1960,Quintanar de la Sierra,41.9814,-3.0394,Spain,quintanar de la sierra,is_city
+1961,Cilleros,40.1167,-6.8,Spain,cilleros,is_city
+1962,Fornelos de Montes,42.3333,-8.45,Spain,fornelos de montes,is_city
+1963,Cuevas del Becerro,36.8667,-5.0333,Spain,cuevas del becerro,is_city
+1964,Pozohondo,38.7167,-1.9167,Spain,pozohondo,is_city
+1965,Villanueva de Perales,40.3458,-4.1017,Spain,villanueva de perales,is_city
+1966,Barruera,42.5055,0.8012,Spain,barruera,is_city
+1967,Corcubion,42.95,-9.1833,Spain,corcubion,is_city
+1968,Brea de Aragon,41.5333,-1.6,Spain,brea de aragon,is_city
+1969,Gaucin,36.5167,-5.3167,Spain,gaucin,is_city
+1970,Caserras,42.015,1.8433,Spain,caserras,is_city
+1971,Fuentesauco,41.2314,-5.4931,Spain,fuentesauco,is_city
+1972,Barcheta,39.0211,-0.4158,Spain,barcheta,is_city
+1973,Valderas,42.0831,-5.45,Spain,valderas,is_city
+1974,Banos de Rio Tobia,42.335,-2.7608,Spain,banos de rio tobia,is_city
+1975,Frailes,37.4864,-3.8372,Spain,frailes,is_city
+1976,Hazas de Cesto,43.3969,-3.5897,Spain,hazas de cesto,is_city
+1977,Lecumberri,43.0033,-1.8939,Spain,lecumberri,is_city
+1978,Viver,39.9208,-0.5953,Spain,viver,is_city
+1979,Alfarp,39.2764,-0.5608,Spain,alfarp,is_city
+1980,Lumbrales,40.9333,-6.7167,Spain,lumbrales,is_city
+1981,Belmez de la Moraleda,37.7167,-3.3667,Spain,belmez de la moraleda,is_city
+1982,Sayalonga,36.8,-4.0167,Spain,sayalonga,is_city
+1983,Asteasu,43.1928,-2.0953,Spain,asteasu,is_city
+1984,Albesa,41.7539,0.6617,Spain,albesa,is_city
+1985,Madrigal de la Vera,40.1475,-5.3668,Spain,madrigal de la vera,is_city
+1986,Villalon de Campos,42.1,-5.033,Spain,villalon de campos,is_city
+1987,Guadalcazar,37.75,-4.9333,Spain,guadalcazar,is_city
+1988,Jerica,39.9,-0.5667,Spain,jerica,is_city
+1989,Benifairo de Valldigna,39.0533,-0.3031,Spain,benifairo de valldigna,is_city
+1990,Benirredra,38.9611,-0.1919,Spain,benirredra,is_city
+1991,La Plaza,43.15,-6.1,Spain,la plaza,is_city
+1992,gualba de Dalt,41.7322,2.5047,Spain,gualba de dalt,is_city
+1993,Melgar de Fernamental,42.4042,-4.2456,Spain,melgar de fernamental,is_city
+1994,Ledesma,41.0875,-6.0,Spain,ledesma,is_city
+1995,Entrena,42.3833,-2.5333,Spain,entrena,is_city
+1996,Santiso,42.85,-8.05,Spain,santiso,is_city
+1997,Las Navas de la Concepcion,37.9333,-5.45,Spain,las navas de la concepcion,is_city
+1998,Sarreal,41.4446,1.2489,Spain,sarreal,is_city
+1999,Ibars de Urgel,41.6808,0.9859,Spain,ibars de urgel,is_city
+2000,Benamargosa,36.8333,-4.1833,Spain,benamargosa,is_city
+2001,Artesa de Lerida,41.5547,0.7039,Spain,artesa de lerida,is_city
+2002,Belvis de la Jara,39.7594,-4.9494,Spain,belvis de la jara,is_city
+2003,Cruz de Incio,42.6567,-7.3636,Spain,cruz de incio,is_city
+2004,Chelva,39.7469,-0.9975,Spain,chelva,is_city
+2005,Anora,38.4124,-4.8976,Spain,anora,is_city
+2006,Mancor del Valle,39.7501,2.871,Spain,mancor del valle,is_city
+2007,Torija,40.7433,-3.0314,Spain,torija,is_city
+2008,Laujar de Andarax,36.9833,-2.8833,Spain,laujar de andarax,is_city
+2009,Soto de la Vega,42.3333,-5.8833,Spain,soto de la vega,is_city
+2010,Belchite,41.3064,-0.7542,Spain,belchite,is_city
+2011,Beiro,42.3692,-8.1247,Spain,beiro,is_city
+2012,Cegama,42.9767,-2.2908,Spain,cegama,is_city
+2013,Benavent de Lerida,41.6975,0.6344,Spain,benavent de lerida,is_city
+2014,Garrafe de Torio,42.7333,-5.5167,Spain,garrafe de torio,is_city
+2015,Mora de Rubielos,40.25,-0.75,Spain,mora de rubielos,is_city
+2016,Navalafuente,40.8231,-3.6731,Spain,navalafuente,is_city
+2017,Guijo de Galisteo,40.0937,-6.4117,Spain,guijo de galisteo,is_city
+2018,Molledo,43.1542,-4.0408,Spain,molledo,is_city
+2019,Serradilla,39.8333,-6.1333,Spain,serradilla,is_city
+2020,Rabade,43.1167,-7.6167,Spain,rabade,is_city
+2021,Bande,42.0306,-7.9753,Spain,bande,is_city
+2022,Alqueria de la Condesa,38.9361,-0.1544,Spain,alqueria de la condesa,is_city
+2023,Segura,43.0092,-2.2528,Spain,segura,is_city
+2024,Istan,36.5833,-4.95,Spain,istan,is_city
+2025,El Real de la Jara,37.95,-6.15,Spain,el real de la jara,is_city
+2026,Banos de Molgas,42.2411,-7.6728,Spain,banos de molgas,is_city
+2027,Pulgar,39.6947,-4.1522,Spain,pulgar,is_city
+2028,Pinos Genil,37.1667,-3.5,Spain,pinos genil,is_city
+2029,Olazagutia,42.8778,-2.1944,Spain,olazagutia,is_city
+2030,Chirivel,37.5833,-2.2667,Spain,chirivel,is_city
+2031,Labastida,42.5903,-2.7958,Spain,labastida,is_city
+2032,Piornal,40.1167,-5.8333,Spain,piornal,is_city
+2033,Boal,43.4286,-6.8183,Spain,boal,is_city
+2034,Pedroche,38.4333,-4.7667,Spain,pedroche,is_city
+2035,Mayorga,42.1667,-5.2667,Spain,mayorga,is_city
+2036,Sallent de Gallego,42.7719,-0.3328,Spain,sallent de gallego,is_city
+2037,Gurrea de Gallego,42.0167,-0.7667,Spain,gurrea de gallego,is_city
+2038,Minaya,39.2831,-2.3167,Spain,minaya,is_city
+2039,Villalba de los Barros,38.6167,-6.5,Spain,villalba de los barros,is_city
+2040,Cardena,38.2667,-4.3167,Spain,cardena,is_city
+2041,Alcaracejos,38.3833,-4.9667,Spain,alcaracejos,is_city
+2042,Fontcuberta,42.1444,2.7911,Spain,fontcuberta,is_city
+2043,El Castillo de las Guardas,37.6833,-6.3,Spain,el castillo de las guardas,is_city
+2044,Muinos,41.9542,-7.9856,Spain,muinos,is_city
+2045,Palenciana,37.25,-4.5833,Spain,palenciana,is_city
+2046,Cadiar,36.9333,-3.1667,Spain,cadiar,is_city
+2047,Corbins,41.6906,0.6931,Spain,corbins,is_city
+2048,Rios,41.9742,-7.2825,Spain,rios,is_city
+2049,Esparragalejo,38.95,-6.4333,Spain,esparragalejo,is_city
+2050,Villanueva de Tapia,37.1833,-4.3333,Spain,villanueva de tapia,is_city
+2051,Fonollosa,41.7632,1.669,Spain,fonollosa,is_city
+2052,Puente de Domingo Florez,42.4142,-6.8239,Spain,puente de domingo florez,is_city
+2053,Villalpando,41.8647,-5.4131,Spain,villalpando,is_city
+2054,Campo de Caso,43.1833,-5.35,Spain,campo de caso,is_city
+2055,Palau-Sabardera,42.3079,3.1471,Spain,palau-sabardera,is_city
+2056,Soneja,39.8167,-0.4167,Spain,soneja,is_city
+2057,La Roca de la Sierra,39.1083,-6.6889,Spain,la roca de la sierra,is_city
+2058,Arcos de Jalon,41.2167,-2.2667,Spain,arcos de jalon,is_city
+2059,Benaojan,36.7196,-5.2517,Spain,benaojan,is_city
+2060,Rioja,36.9333,-2.45,Spain,rioja,is_city
+2061,Boveda,42.6278,-7.4806,Spain,boveda,is_city
+2062,Lubrin,37.2167,-2.0667,Spain,lubrin,is_city
+2063,Villanueva del Duque,38.3927,-5.0,Spain,villanueva del duque,is_city
+2064,Casas de Don Pedro,39.1056,-5.3308,Spain,casas de don pedro,is_city
+2065,Congosto,42.6178,-6.52,Spain,congosto,is_city
+2066,Torres de Berrellen,41.7573,-1.0645,Spain,torres de berrellen,is_city
+2067,Alfamen,41.4333,-1.25,Spain,alfamen,is_city
+2068,Estivella,39.7092,-0.3483,Spain,estivella,is_city
+2069,Lloret de Vista Alegre,39.6179,2.9752,Spain,lloret de vista alegre,is_city
+2070,San Feliu de Pallarols,42.0758,2.5078,Spain,san feliu de pallarols,is_city
+2071,Casavieja,40.2811,-4.7667,Spain,casavieja,is_city
+2072,Llivia,42.4644,1.9808,Spain,llivia,is_city
+2073,Algar,36.65,-5.65,Spain,algar,is_city
+2074,Navata,42.224,2.8614,Spain,navata,is_city
+2075,Villalbilla de Burgos,42.3469,-3.7792,Spain,villalbilla de burgos,is_city
+2076,Legorreta,43.085,-2.1486,Spain,legorreta,is_city
+2077,Taboadela,42.2408,-7.825,Spain,taboadela,is_city
+2078,Gata,40.2333,-6.6,Spain,gata,is_city
+2079,Puertomarin,42.8072,-7.6158,Spain,puertomarin,is_city
+2080,Alcantara,39.7222,-6.8897,Spain,alcantara,is_city
+2081,Chilluevar,38.0,-3.0167,Spain,chilluevar,is_city
+2082,Ibeas de Juarros,42.3333,-3.5333,Spain,ibeas de juarros,is_city
+2083,Madrigal de las Altas Torres,41.0894,-4.9989,Spain,madrigal de las altas torres,is_city
+2084,Penas de San Pedro,38.7333,-2.0,Spain,penas de san pedro,is_city
+2085,Peraleda de la Mata,39.85,-5.4667,Spain,peraleda de la mata,is_city
+2086,Alcolea de Calatrava,38.9833,-4.1167,Spain,alcolea de calatrava,is_city
+2087,Miralcamp,41.6064,0.8814,Spain,miralcamp,is_city
+2088,Santa Eulalia de Riuprimer,41.9128,2.1897,Spain,santa eulalia de riuprimer,is_city
+2089,Galaroza,37.9167,-6.7,Spain,galaroza,is_city
+2090,Ahigal,40.1833,-6.1833,Spain,ahigal,is_city
+2091,Alaejos,41.3167,-5.2167,Spain,alaejos,is_city
+2092,El Ronquillo,37.7167,-6.1667,Spain,el ronquillo,is_city
+2093,Trujillanos,38.95,-6.25,Spain,trujillanos,is_city
+2094,Albudeite,38.0283,-1.3853,Spain,albudeite,is_city
+2095,Junquera de Ambia,42.2056,-7.7356,Spain,junquera de ambia,is_city
+2096,Torres,37.7833,-3.5,Spain,torres,is_city
+2097,Cuevas Bajas,37.2333,-4.4833,Spain,cuevas bajas,is_city
+2098,Jadraque,40.9267,-2.9236,Spain,jadraque,is_city
+2099,Cardenadijo,42.3,-3.6667,Spain,cardenadijo,is_city
+2100,San Cristobal de Entrevinas,42.05,-5.6333,Spain,san cristobal de entrevinas,is_city
+2101,Traiguera,40.5256,0.2906,Spain,traiguera,is_city
+2102,Busto de Trevino,42.735,-2.747,Spain,busto de trevino,is_city
+2103,Mahora,39.2167,-1.7333,Spain,mahora,is_city
+2104,Montemolin,38.15,-6.2,Spain,montemolin,is_city
+2105,Termens,41.7194,0.7617,Spain,termens,is_city
+2106,Puebla de Sanabria,42.0553,-6.6336,Spain,puebla de sanabria,is_city
+2107,Rafelcofer,38.9347,-0.1678,Spain,rafelcofer,is_city
+2108,Fuerte del Rey,37.8667,-3.8833,Spain,fuerte del rey,is_city
+2109,Lagartera,39.9,-5.2,Spain,lagartera,is_city
+2110,Villar de Rena,39.0667,-5.8,Spain,villar de rena,is_city
+2111,Cabanillas,42.0314,-1.5269,Spain,cabanillas,is_city
+2112,Abenojar,38.8833,-4.35,Spain,abenojar,is_city
+2113,Puigvert de Lerida,41.5456,0.7347,Spain,puigvert de lerida,is_city
+2114,Villoria,40.9944,-5.3747,Spain,villoria,is_city
+2115,Casatejada,39.8833,-5.6833,Spain,casatejada,is_city
+2116,Facinas,36.1406,-5.6989,Spain,facinas,is_city
+2117,Campillo de Llerena,38.5,-5.8167,Spain,campillo de llerena,is_city
+2118,San Acisclo de Vallalta,41.6247,2.5703,Spain,san acisclo de vallalta,is_city
+2119,Alcantara de Jucar,39.0694,-0.56,Spain,alcantara de jucar,is_city
+2120,Almoster,41.1977,1.1128,Spain,almoster,is_city
+2121,Riopar,38.5,-2.45,Spain,riopar,is_city
+2122,Cantimpalos,41.0739,-4.1589,Spain,cantimpalos,is_city
+2123,Castrelo de Mino,42.2944,-8.0667,Spain,castrelo de mino,is_city
+2124,Irijoa,43.2847,-8.0578,Spain,irijoa,is_city
+2125,Potes,43.1536,-4.6233,Spain,potes,is_city
+2126,Carchel,37.6333,-3.6333,Spain,carchel,is_city
+2127,Lezuza,38.95,-2.35,Spain,lezuza,is_city
+2128,Comares,36.85,-4.25,Spain,comares,is_city
+2129,Costitx,39.6575,2.95,Spain,costitx,is_city
+2130,Torrente de Cinca,41.4667,0.3333,Spain,torrente de cinca,is_city
+2131,La Parra,38.5167,-6.7833,Spain,la parra,is_city
+2132,Alguena,38.3378,-1.0036,Spain,alguena,is_city
+2133,Casas de Juan Nunez,39.1167,-1.55,Spain,casas de juan nunez,is_city
+2134,Bolbaite,39.0639,-0.6739,Spain,bolbaite,is_city
+2135,Alcaraz,38.6667,-2.4833,Spain,alcaraz,is_city
+2136,Majadas,39.9423,-5.7474,Spain,majadas,is_city
+2137,Castillejar,37.7167,-2.6333,Spain,castillejar,is_city
+2138,Manon,43.7361,-7.7056,Spain,manon,is_city
+2139,Lucena del Cid,40.2764,-0.2094,Spain,lucena del cid,is_city
+2140,Encinasola,38.135,-6.8722,Spain,encinasola,is_city
+2141,Almaden de la Plata,37.8667,-6.0667,Spain,almaden de la plata,is_city
+2142,Alcalali,38.7494,0.0417,Spain,alcalali,is_city
+2143,Colomera,37.3667,-3.7,Spain,colomera,is_city
+2144,Macastre,39.3814,-0.7872,Spain,macastre,is_city
+2145,Almoguera,40.2989,-2.9811,Spain,almoguera,is_city
+2146,Lumbier,42.6542,-1.3056,Spain,lumbier,is_city
+2147,Montiel,38.7,-2.8667,Spain,montiel,is_city
+2148,San Roman,42.867,-7.067,Spain,san roman,is_city
+2149,Villapresente,43.3644,-4.1042,Spain,villapresente,is_city
+2150,Rotova,38.9326,-0.2581,Spain,rotova,is_city
+2151,Higuera de la Sierra,37.8333,-6.4333,Spain,higuera de la sierra,is_city
+2152,Tous,39.1381,-0.5867,Spain,tous,is_city
+2153,La Fuente de San Esteban,40.8003,-6.25,Spain,la fuente de san esteban,is_city
+2154,Villar de Barrio,42.1597,-7.6117,Spain,villar de barrio,is_city
+2155,Sartaguda,42.3814,-2.0586,Spain,sartaguda,is_city
+2156,La Cana,42.2069,2.4975,Spain,la cana,is_city
+2157,Melon,42.2575,-8.2172,Spain,melon,is_city
+2158,Navas del Madrono,39.6167,-6.65,Spain,navas del madrono,is_city
+2159,Vilarrodona,41.3105,1.358,Spain,vilarrodona,is_city
+2160,Pla del Panades,41.4176,1.7128,Spain,pla del panades,is_city
+2161,Lacunza,42.923,-2.021,Spain,lacunza,is_city
+2162,Vall de Vianya,42.2413,2.4326,Spain,vall de vianya,is_city
+2163,Carballeda de Avia,42.3214,-8.1653,Spain,carballeda de avia,is_city
+2164,Matallana de Torio,42.8667,-5.5167,Spain,matallana de torio,is_city
+2165,Perafort,41.1911,1.2557,Spain,perafort,is_city
+2166,Loranca de Tajuna,40.4469,-3.1139,Spain,loranca de tajuna,is_city
+2167,Trasmiras,42.0228,-7.6167,Spain,trasmiras,is_city
+2168,Figueruelas,41.7667,-1.1667,Spain,figueruelas,is_city
+2169,Mirandilla,39.0017,-6.2875,Spain,mirandilla,is_city
+2170,Iza,42.8825,-1.7675,Spain,iza,is_city
+2171,Jerte,40.2167,-5.75,Spain,jerte,is_city
+2172,Ormaiztegui,43.0431,-2.255,Spain,ormaiztegui,is_city
+2173,Mas de las Matas,40.8333,-0.25,Spain,mas de las matas,is_city
+2174,Paramo del Sil,42.82,-6.49,Spain,paramo del sil,is_city
+2175,Sariego,43.4167,-5.5667,Spain,sariego,is_city
+2176,Algamitas,37.0167,-5.15,Spain,algamitas,is_city
+2177,Ricote,38.15,-1.3667,Spain,ricote,is_city
+2178,Nunomoral,40.3833,-6.1667,Spain,nunomoral,is_city
+2179,Moclinejo,36.7667,-4.25,Spain,moclinejo,is_city
+2180,Berriatua,43.3097,-2.4672,Spain,berriatua,is_city
+2181,Chimeneas,37.1333,-3.8167,Spain,chimeneas,is_city
+2182,La Fuliola,41.7153,1.0192,Spain,la fuliola,is_city
+2183,Abla,37.1425,-2.7772,Spain,abla,is_city
+2184,Torre de Miguel Sesmero,38.6167,-6.8,Spain,torre de miguel sesmero,is_city
+2185,Samos,42.7333,-7.3,Spain,samos,is_city
+2186,Ceanuri Alto,43.0986,-2.7492,Spain,ceanuri alto,is_city
+2187,Montalban,40.8333,-0.8,Spain,montalban,is_city
+2188,Hondon de los Frailes,38.2667,-0.9167,Spain,hondon de los frailes,is_city
+2189,Almendral,38.6142,-6.8208,Spain,almendral,is_city
+2190,Coripe,36.9667,-5.4333,Spain,coripe,is_city
+2191,Llers,42.2972,2.9133,Spain,llers,is_city
+2192,Tora de Riubregos,41.8129,1.4029,Spain,tora de riubregos,is_city
+2193,Rueda,41.414,-4.96,Spain,rueda,is_city
+2194,La Gudina,42.0608,-7.1381,Spain,la gudina,is_city
+2195,Riotorto,43.3597,-7.2544,Spain,riotorto,is_city
+2196,Villagonzalo,38.8667,-6.2,Spain,villagonzalo,is_city
+2197,Campredo,40.7597,0.5533,Spain,campredo,is_city
+2198,Velilla del Rio Carrion,42.8333,-4.8333,Spain,velilla del rio carrion,is_city
+2199,Maria,37.7,-2.15,Spain,maria,is_city
+2200,Alborache,39.3917,-0.7711,Spain,alborache,is_city
+2201,Campotejar,37.4833,-3.6167,Spain,campotejar,is_city
+2202,San Martin de Tous,41.5619,1.5247,Spain,san martin de tous,is_city
+2203,Rairiz de Veiga,42.0833,-7.8333,Spain,rairiz de veiga,is_city
+2204,Albocacer,40.3578,-0.0236,Spain,albocacer,is_city
+2205,El Puente del Arzobispo,39.8,-5.1667,Spain,el puente del arzobispo,is_city
+2206,Barrio de Jarana,36.5025,-6.1433,Spain,barrio de jarana,is_city
+2207,Laza,42.0606,-7.4614,Spain,laza,is_city
+2208,Capela,43.4353,-8.0722,Spain,capela,is_city
+2209,Villatuerta,42.6595,-1.9934,Spain,villatuerta,is_city
+2210,Alfarrasi,38.9056,-0.4906,Spain,alfarrasi,is_city
+2211,La Haba,38.9167,-5.7833,Spain,la haba,is_city
+2212,Puebla Tornesa,40.1011,-0.0014,Spain,puebla tornesa,is_city
+2213,Puebla de Alcocer,38.9833,-5.25,Spain,puebla de alcocer,is_city
+2214,Vilasantar,43.0667,-8.1,Spain,vilasantar,is_city
+2215,Villarmayor,43.3406,-8.1556,Spain,villarmayor,is_city
+2216,Aldeadavila de la Ribera,41.2183,-6.62,Spain,aldeadavila de la ribera,is_city
+2217,Albalat de Taronchers,39.7028,-0.3378,Spain,albalat de taronchers,is_city
+2218,San Antolin,43.0333,-6.8667,Spain,san antolin,is_city
+2219,Baltanas,41.9333,-4.25,Spain,baltanas,is_city
+2220,Castro Caldelas,42.3833,-7.4333,Spain,castro caldelas,is_city
+2221,Olost,41.9878,2.0969,Spain,olost,is_city
+2222,Riolobos,39.9167,-6.3,Spain,riolobos,is_city
+2223,Valdepolo,42.5833,-5.2167,Spain,valdepolo,is_city
+2224,Bellcaire de Urgel,41.7591,0.9051,Spain,bellcaire de urgel,is_city
+2225,Zarza la Mayor,39.8772,-6.8622,Spain,zarza la mayor,is_city
+2226,Sandianes,42.1111,-7.7567,Spain,sandianes,is_city
+2227,Camporrobles,39.6481,-1.3953,Spain,camporrobles,is_city
+2228,Venta del Moro,39.4839,-1.3569,Spain,venta del moro,is_city
+2229,Cenizate,39.3,-1.65,Spain,cenizate,is_city
+2230,Alcala del Jucar,39.2,-1.4333,Spain,alcala del jucar,is_city
+2231,Corte de Peleas,38.7167,-6.6667,Spain,corte de peleas,is_city
+2232,Riudecols,41.1681,0.9763,Spain,riudecols,is_city
+2233,Villanueva de Duero,41.5186,-4.8658,Spain,villanueva de duero,is_city
+2234,Canjayar,37.0,-2.7333,Spain,canjayar,is_city
+2235,Carrizosa,38.8417,-2.9928,Spain,carrizosa,is_city
+2236,Barzana,43.1333,-5.9667,Spain,barzana,is_city
+2237,Moeche,43.5833,-7.95,Spain,moeche,is_city
+2238,Niguelas,36.9667,-3.5333,Spain,niguelas,is_city
+2239,Orce,37.7167,-2.4667,Spain,orce,is_city
+2240,Vilanova de Bellpuig,41.6156,0.965,Spain,vilanova de bellpuig,is_city
+2241,Pinor,42.4978,-8.005,Spain,pinor,is_city
+2242,Abrucena,37.1333,-2.7833,Spain,abrucena,is_city
+2243,Ayllon,41.4194,-3.3764,Spain,ayllon,is_city
+2244,Caminomorisco,40.3167,-6.2833,Spain,caminomorisco,is_city
+2245,Burgohondo,40.4136,-4.7864,Spain,burgohondo,is_city
+2246,Villayon,43.4478,-6.7047,Spain,villayon,is_city
+2247,Valdetorres,38.9161,-6.0686,Spain,valdetorres,is_city
+2248,Nerpio,38.15,-2.3,Spain,nerpio,is_city
+2249,Ulla,42.0525,3.1092,Spain,ulla,is_city
+2250,Arenas,36.8158,-4.0447,Spain,arenas,is_city
+2251,Alcolea de Cinca,41.7167,0.1167,Spain,alcolea de cinca,is_city
+2252,Medina de las Torres,38.3436,-6.4117,Spain,medina de las torres,is_city
+2253,Cabra del Campo,41.3972,1.2778,Spain,cabra del campo,is_city
+2254,Mallavia,43.1831,-2.5331,Spain,mallavia,is_city
+2255,Cheles,38.5122,-7.2803,Spain,cheles,is_city
+2256,Valle de la Serena,38.7,-5.7833,Spain,valle de la serena,is_city
+2257,San Pedro,38.8267,-2.1867,Spain,san pedro,is_city
+2258,Hueneja,37.1667,-2.9667,Spain,hueneja,is_city
+2259,Verges,42.0612,3.0461,Spain,verges,is_city
+2260,Lapeza,37.2667,-3.2833,Spain,lapeza,is_city
+2261,Fermoselle,41.3174,-6.3949,Spain,fermoselle,is_city
+2262,Ribesalbes,40.0219,-0.2778,Spain,ribesalbes,is_city
+2263,Puigpelat,41.278,1.2971,Spain,puigpelat,is_city
+2264,Villadangos del Paramo,42.5167,-5.7667,Spain,villadangos del paramo,is_city
+2265,Adzaneta de Albaida,38.8364,-0.4961,Spain,adzaneta de albaida,is_city
+2266,Paymogo,37.75,-7.3333,Spain,paymogo,is_city
+2267,Puebla de Don Rodrigo,39.0833,-4.6167,Spain,puebla de don rodrigo,is_city
+2268,Vilamalla,42.2166,2.9708,Spain,vilamalla,is_city
+2269,Sesma,42.4778,-2.0833,Spain,sesma,is_city
+2270,Cala,37.9667,-6.3167,Spain,cala,is_city
+2271,Siete Aguas,39.4718,-0.9169,Spain,siete aguas,is_city
+2272,Antella,39.0828,-0.5906,Spain,antella,is_city
+2273,Montesa,38.95,-0.6531,Spain,montesa,is_city
+2274,Cherta,40.9094,0.4917,Spain,cherta,is_city
+2275,Pradoluengo,42.325,-3.1986,Spain,pradoluengo,is_city
+2276,Lietor,38.5423,-1.9558,Spain,lietor,is_city
+2277,Relleu,38.5872,-0.3114,Spain,relleu,is_city
+2278,Sarrion,40.1333,-0.8167,Spain,sarrion,is_city
+2279,Fuente Carreteros,37.67,-5.3217,Spain,fuente carreteros,is_city
+2280,Horta de San Juan,40.9556,0.3151,Spain,horta de san juan,is_city
+2281,Lecinena,41.8,-0.6167,Spain,lecinena,is_city
+2282,Sarreaus,42.0867,-7.6033,Spain,sarreaus,is_city
+2283,Valle de Santa Ana,38.3667,-6.7833,Spain,valle de santa ana,is_city
+2284,Benabarre,42.1167,0.4833,Spain,benabarre,is_city
+2285,Benisanet,41.0569,0.6347,Spain,benisanet,is_city
+2286,El Pedernoso,39.4833,-2.75,Spain,el pedernoso,is_city
+2287,Valdefuentes,39.2833,-6.1167,Spain,valdefuentes,is_city
+2288,Pedro Martinez,37.5,-3.2167,Spain,pedro martinez,is_city
+2289,Tuejar,39.7625,-1.0386,Spain,tuejar,is_city
+2290,Cardenajimeno,42.3333,-3.6167,Spain,cardenajimeno,is_city
+2291,Sobradiel,41.7389,-1.0369,Spain,sobradiel,is_city
+2292,Higueruela,38.9667,-1.45,Spain,higueruela,is_city
+2293,Senera,39.0625,-0.5133,Spain,senera,is_city
+2294,Elgueta,43.1778,-2.4528,Spain,elgueta,is_city
+2295,Llauri,39.1472,-0.3294,Spain,llauri,is_city
+2296,Bustillo del Paramo,42.4333,-5.7833,Spain,bustillo del paramo,is_city
+2297,Montillana,37.5,-3.6667,Spain,montillana,is_city
+2298,Villamanrique,38.55,-3.0,Spain,villamanrique,is_city
+2299,Los Arcos,42.5667,-2.1831,Spain,los arcos,is_city
+2300,Trabada,43.4472,-7.1943,Spain,trabada,is_city
+2301,La Pedraja de Portillo,41.4714,-4.6469,Spain,la pedraja de portillo,is_city
+2302,Bitem,40.8601,0.5232,Spain,bitem,is_city
+2303,Sabero,42.8333,-5.15,Spain,sabero,is_city
+2304,Cofrentes,39.2297,-1.0614,Spain,cofrentes,is_city
+2305,Iguena,42.7289,-6.2764,Spain,iguena,is_city
+2306,Sastago,41.3234,-0.3456,Spain,sastago,is_city
+2307,Valenzuela,37.7667,-4.2167,Spain,valenzuela,is_city
+2308,Villaralto,38.45,-4.9833,Spain,villaralto,is_city
+2309,Rotgla y Corbera,39.0039,-0.5653,Spain,rotgla y corbera,is_city
+2310,Corral de Calatrava,38.85,-4.0833,Spain,corral de calatrava,is_city
+2311,Vilajuiga,42.3281,3.0953,Spain,vilajuiga,is_city
+2312,Bosost,42.7875,0.6936,Spain,bosost,is_city
+2313,Feria,38.5167,-6.5667,Spain,feria,is_city
+2314,Magallon,41.8333,-1.45,Spain,magallon,is_city
+2315,Traspinedo,41.5833,-4.4667,Spain,traspinedo,is_city
+2316,Agulo,28.1882,-17.1946,Spain,agulo,is_city
+2317,Ribarroja de Ebro,41.2514,0.4856,Spain,ribarroja de ebro,is_city
+2318,Arbizu,42.9167,-2.0333,Spain,arbizu,is_city
+2319,San Carlos del Valle,38.8333,-3.2333,Spain,san carlos del valle,is_city
+2320,Entrimo,41.9333,-8.1167,Spain,entrimo,is_city
+2321,Fabara,41.1833,0.1667,Spain,fabara,is_city
+2322,Vegasdel Condado,42.6833,-5.3656,Spain,vegasdel condado,is_city
+2323,San Asensio,42.5,-2.75,Spain,san asensio,is_city
+2324,Albaladejo,38.6181,-2.8061,Spain,albaladejo,is_city
+2325,Sinarcas,39.7339,-1.2317,Spain,sinarcas,is_city
+2326,Carcar,42.3833,-1.9667,Spain,carcar,is_city
+2327,Serrada,41.4592,-4.8611,Spain,serrada,is_city
+2328,Esgos,42.325,-7.6972,Spain,esgos,is_city
+2329,Pinar,37.4425,-3.4406,Spain,pinar,is_city
+2330,Casalarreina,42.5475,-2.9125,Spain,casalarreina,is_city
+2331,Villagordo del Jucar,39.3,-2.0667,Spain,villagordo del jucar,is_city
+2332,Villamanan,42.3167,-5.5831,Spain,villamanan,is_city
+2333,Cenlle,42.3425,-8.0878,Spain,cenlle,is_city
+2334,Ariza,41.3131,-2.0522,Spain,ariza,is_city
+2335,Beniarres,38.82,-0.3794,Spain,beniarres,is_city
+2336,Albalate de Cinca,41.7236,0.1464,Spain,albalate de cinca,is_city
+2337,Sorihuela del Guadalimar,38.2333,-3.05,Spain,sorihuela del guadalimar,is_city
+2338,Tornavacas,40.25,-5.6833,Spain,tornavacas,is_city
+2339,Sumacarcel,39.0961,-0.6297,Spain,sumacarcel,is_city
+2340,Agoncillo,42.4464,-2.2906,Spain,agoncillo,is_city
+2341,Mendigorria,42.6333,-1.8333,Spain,mendigorria,is_city
+2342,Monteagudo,41.964,-1.69,Spain,monteagudo,is_city
+2343,La Pobla de Lillet,42.2444,1.9744,Spain,la pobla de lillet,is_city
+2344,Pola de Somiedo,43.1,-6.25,Spain,pola de somiedo,is_city
+2345,Villanueva de San Juan,37.05,-5.1667,Spain,villanueva de san juan,is_city
+2346,Villanueva de la Barca,41.6911,0.7286,Spain,villanueva de la barca,is_city
+2347,Duruelo de la Sierra,41.9542,-2.9317,Spain,duruelo de la sierra,is_city
+2348,Buger,39.7591,2.9856,Spain,buger,is_city
+2349,Cerdido,43.6121,-7.952,Spain,cerdido,is_city
+2350,Carcaboso,40.05,-6.2167,Spain,carcaboso,is_city
+2351,Casar de Palomero,40.3667,-6.2167,Spain,casar de palomero,is_city
+2352,Somozas,43.533,-7.9441,Spain,somozas,is_city
+2353,Gergal,37.1186,-2.5396,Spain,gergal,is_city
+2354,Benidoleig,38.7917,-0.0325,Spain,benidoleig,is_city
+2355,Torremocha de Jarama,40.8333,-3.5,Spain,torremocha de jarama,is_city
+2356,Berastegui,43.1242,-1.9792,Spain,berastegui,is_city
+2357,Remolinos,41.8373,-1.1754,Spain,remolinos,is_city
+2358,Santa Cristina de la Polvorosa,41.9986,-5.6864,Spain,santa cristina de la polvorosa,is_city
+2359,Dozon,42.5844,-8.0222,Spain,dozon,is_city
+2360,Masdenverge,40.7146,0.5313,Spain,masdenverge,is_city
+2361,La Alberca,40.4892,-6.1111,Spain,la alberca,is_city
+2362,Galera,37.7431,-2.5514,Spain,galera,is_city
+2363,Cortegada,42.2069,-8.1692,Spain,cortegada,is_city
+2364,Torrecillas de la Tiesa,39.5667,-5.7333,Spain,torrecillas de la tiesa,is_city
+2365,Escatron,41.2833,-0.3167,Spain,escatron,is_city
+2366,Morata de Jalon,41.4667,-1.4667,Spain,morata de jalon,is_city
+2367,Alfarnate,36.9833,-4.25,Spain,alfarnate,is_city
+2368,Alcanices,41.6998,-6.3466,Spain,alcanices,is_city
+2369,Valdecaballeros,39.2333,-5.1833,Spain,valdecaballeros,is_city
+2370,Port-Bou,42.4267,3.1594,Spain,port-bou,is_city
+2371,Benasal,40.3833,-0.1333,Spain,benasal,is_city
+2372,Navia de Suarna,42.965,-7.0044,Spain,navia de suarna,is_city
+2373,Ventas con Pena Aguilera,39.613,-4.229,Spain,ventas con pena aguilera,is_city
+2374,Vedia-Elejalde,43.2081,-2.8019,Spain,vedia-elejalde,is_city
+2375,Laguna de Negrillos,42.2333,-5.6667,Spain,laguna de negrillos,is_city
+2376,Potries,38.9153,-0.2044,Spain,potries,is_city
+2377,Campaspero,41.4917,-4.1944,Spain,campaspero,is_city
+2378,La Seca,41.415,-4.9069,Spain,la seca,is_city
+2379,Nalda,42.3297,-2.4797,Spain,nalda,is_city
+2380,Santa Eulalia,43.4167,-5.4,Spain,santa eulalia,is_city
+2381,Benalua de las Villas,37.4333,-3.6833,Spain,benalua de las villas,is_city
+2382,Algimia de Alfara,39.7531,-0.3617,Spain,algimia de alfara,is_city
+2383,Villabragima,41.8167,-5.1167,Spain,villabragima,is_city
+2384,El Robledo,39.2167,-4.2833,Spain,el robledo,is_city
+2385,San Amaro,42.3731,-8.0731,Spain,san amaro,is_city
+2386,Ayerbe,42.2767,-0.6892,Spain,ayerbe,is_city
+2387,Jayena,36.95,-3.8167,Spain,jayena,is_city
+2389,Benlloch,40.2106,0.0269,Spain,benlloch,is_city
+2390,Llanera de Ranes,38.9944,-0.5753,Spain,llanera de ranes,is_city
+2391,Viladrau,41.85,2.4,Spain,viladrau,is_city
+2392,Valverde de Merida,38.9108,-6.2203,Spain,valverde de merida,is_city
+2393,Santa Elena de Jamuz,42.2667,-5.8833,Spain,santa elena de jamuz,is_city
+2394,Solorzano,43.3869,-3.5864,Spain,solorzano,is_city
+2395,Calders,41.7906,1.9878,Spain,calders,is_city
+2396,Folgoso de la Ribera,42.6433,-6.3192,Spain,folgoso de la ribera,is_city
+2397,Boltana,42.45,0.0667,Spain,boltana,is_city
+2398,Coreses,41.55,-5.6167,Spain,coreses,is_city
+2399,Santa Barbara de Casa,37.8,-7.1833,Spain,santa barbara de casa,is_city
+2400,Gabarda,39.0917,-0.56,Spain,gabarda,is_city
+2401,Torrecampo,38.4667,-4.6667,Spain,torrecampo,is_city
+2402,Hortaleza,40.4667,-3.6333,Spain,hortaleza,is_city
+2403,Arroniz,42.5889,-2.0914,Spain,arroniz,is_city
+2404,Ademuz,40.0667,-1.2833,Spain,ademuz,is_city
+2405,Nivar,37.2667,-3.5833,Spain,nivar,is_city
+2406,Bodonal de la Sierra,38.1483,-6.56,Spain,bodonal de la sierra,is_city
+2407,Canaveral,39.7833,-6.4,Spain,canaveral,is_city
+2408,Partaloa,37.4,-2.2167,Spain,partaloa,is_city
+2409,Matapozuelos,41.4167,-4.7833,Spain,matapozuelos,is_city
+2410,Castanar de Ibor,39.6167,-5.4167,Spain,castanar de ibor,is_city
+2411,Aledo,37.7958,-1.5733,Spain,aledo,is_city
+2412,Montesquiu,42.1111,2.2106,Spain,montesquiu,is_city
+2413,Bonete,38.8699,-1.3538,Spain,bonete,is_city
+2414,Quintanilla de Onesimo,41.6167,-4.35,Spain,quintanilla de onesimo,is_city
+2415,Cuart de les Valls,39.7411,-0.2714,Spain,cuart de les valls,is_city
+2416,Santa Maria de Olo,41.8747,2.0349,Spain,santa maria de olo,is_city
+2417,Illas,43.5,-5.9667,Spain,illas,is_city
+2418,Fortaleny,39.1833,-0.3142,Spain,fortaleny,is_city
+2419,Macotera,40.8333,-5.2833,Spain,macotera,is_city
+2420,Palmera,38.9417,-0.1517,Spain,palmera,is_city
+2421,La Pesga,40.3333,-6.1667,Spain,la pesga,is_city
+2422,Villanueva del Rey,38.2,-5.15,Spain,villanueva del rey,is_city
+2423,La Mezquita,42.0114,-7.0453,Spain,la mezquita,is_city
+2424,San Jose,36.7578,-2.1094,Spain,san jose,is_city
+2425,Alhama de Aragon,41.3,-1.9,Spain,alhama de aragon,is_city
+2426,Albanchez de Ubeda,37.7917,-3.45,Spain,albanchez de ubeda,is_city
+2427,Otivar,36.8167,-3.6833,Spain,otivar,is_city
+2428,Arenas de San Juan,39.2167,-3.5,Spain,arenas de san juan,is_city
+2429,Ruente,43.2594,-4.2661,Spain,ruente,is_city
+2430,San Cugat Sasgarrigas,41.3661,1.7542,Spain,san cugat sasgarrigas,is_city
+2431,Pinell de Bray,41.0155,0.5144,Spain,pinell de bray,is_city
+2432,Bermillo de Sayago,41.3669,-6.1121,Spain,bermillo de sayago,is_city
+2433,Albarracin,40.4053,-1.444,Spain,albarracin,is_city
+2434,Santibanez de la Pena,42.8167,-4.7167,Spain,santibanez de la pena,is_city
+2435,Elciego,42.5167,-2.6167,Spain,elciego,is_city
+2436,Bascara,42.1622,2.9111,Spain,bascara,is_city
+2437,Ourense,42.3364,-7.8633,Spain,ourense,is_city
+2438,Palencia,42.0167,-4.5333,Spain,palencia,is_city
+2439,Lleida,41.6167,0.6222,Spain,lleida,is_city
+2440,Segovia,40.9481,-4.1184,Spain,segovia,is_city
+2441,Ciudad Real,38.9833,-3.9167,Spain,ciudad real,is_city
+2442,Soria,41.7667,-2.4667,Spain,soria,is_city

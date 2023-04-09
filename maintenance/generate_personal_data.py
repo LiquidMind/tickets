@@ -1,133 +1,29 @@
+import logging
+import pandas as pd
 import sqlalchemy as sa
-import random
-import rstr
 from optparse import OptionParser
 
 import googlemaps  # https://googlemaps.github.io/google-maps-services-python/docs/index.html
-from api import get_mailboxes_list
+
+from api import get_obj_id
+from common.functions import print_and_log
+from . import PersonalData
 
 import conf
 
 engine = sa.create_engine(conf.MYSQL_CONNECTION_STRING, isolation_level="AUTOCOMMIT")
 gmaps = googlemaps.Client(key=conf.GOOGLE_API_KEY)
 
-
-def get_domain_id_by_name(domain_name):
-    with engine.connect() as conn:
-        domain_id = conn.execute(sa.text(f"SELECT id FROM domains WHERE name='{domain_name}'")).scalar()
-    return domain_id
-
-
-def get_country_id_by_name(country):
-    with engine.connect() as conn:
-        country_id = conn.execute(sa.text(f""" SELECT id FROM countries WHERE tag="{country}" """)).scalar()
-    return country_id
+logger = logging.getLogger('generate_personal_data')
+handler = logging.FileHandler('logs/generate_personal_data.log')
+handler.setFormatter(logging.Formatter(fmt='[%(asctime)s: %(levelname)s] %(message)s'))
+logger.setLevel('DEBUG')
+logger.addHandler(handler)
 
 
-def get_user_data_from_email(email):
-    email_parts = email.split('@')
-    user_login = email_parts[0]
-    user = user_login.split('.')
-
-    if len(user) == 2:
-        name = user[0]
-        surname = user[1]
-    elif len(user) > 2:
-        name = user[0]
-        surname = user[-1:][0]
-    else:
-        print('Can not generate user data')
-        return False
-
-    return {'name': name.capitalize(), 'surname': surname.capitalize()}
-
-
-def generate_phone_number(country):
-    return ''
-
-
-def generate_address_with_phone(country):
-    country_id = get_country_id_by_name(country)
-    if not country_id:
-        return False
-    q_get_data = """
-        SELECT id, address, phone FROM countries_data
-        WHERE used_by_acc IS NULL AND country_id = :country_id
-        LIMIT 1 
-    """
-    with engine.connect() as conn:
-        res = conn.execute(sa.text(q_get_data), {'country_id': country_id}).fetchone()
-        if res is not None:
-            return {'address_id': res[0], 'address': res[1], 'phone': res[2]}
-    return False
-
-
-def generate_personal_id(email, country):
-    if country in conf.COUNTRIES_PERSONAL_ID_TEMPLATES and 'reg_ex' in conf.COUNTRIES_PERSONAL_ID_TEMPLATES[country]:
-        country_rules = conf.COUNTRIES_PERSONAL_ID_TEMPLATES[country]
-        personal_id = rstr.xeger(country_rules['reg_ex'])
-        if 'rules' in country_rules and 'field' in country_rules['rules'] and 'type' in country_rules['rules']:
-            field = country_rules['rules']['field']
-            with engine.connect() as conn:
-                account_field = conn.execute(
-                    sa.text(f"SELECT {field} FROM accounts WHERE email = :email"),
-                    {'email': email}
-                ).scalar()
-                print('Account:')
-                print(account_field)
-                if account_field is None:
-                    return False
-                if country_rules['rules']['type'] == 'date':
-                    fdata = {f'{field}': account_field.strftime(country_rules['rules']['format'])}
-                    personal_id = personal_id.format(**fdata)
-                elif country_rules['rules']['type'] == 'value':
-                    fdata = {f'{field}': account_field}
-                    personal_id = personal_id.format(**fdata)
-    else:
-        return False
-    # TODO: check if personal_id not exists
-    return personal_id
-
-
-def generate_password(user_name):
-    return f'Pwd4{user_name}'
-
-
-def generate_birth_date():
-    year = random.randrange(1970, 2000)
-    month = random.randrange(1, 12)
-    if month < 10:
-        month = f'0{month}'
-    day = random.randrange(1, 28)
-    if day < 10:
-        day = f'{0}{day}'
-    return f'{year}-{month}-{day}'
-
-
-def generate_user_data(email, country=False):
-    # TODO: do not use email to determine the country
-    tmp = email.split('@')
-    domain = tmp[1]
-    if not country:
-        country = domain.replace(f'.{conf.MAIN_DOMAIN}', '')
-    user_data = get_user_data_from_email(email)
-    if not user_data:
-        print('Error while get user data')
-        return False
-    addr_phone = generate_address_with_phone(country)
-    if not addr_phone:
-        print('Can not find address')
-        return False
-    user_data['email'] = email
-    user_data['birth_date'] = generate_birth_date()
-    user_data['country_id'] = get_country_id_by_name(country)
-    user_data['domain_id'] = get_domain_id_by_name(domain)
-    user_data['password'] = generate_password(user_data['name'])
-    user_data['address_id'] = addr_phone['address_id']
-    user_data['personal_id'] = generate_personal_id(country)
-    user_data['prime'] = ''
-
-    return user_data
+def check_subdomain_on_host(email: str):
+    subdomain = email.split('@')[1]
+    return get_obj_id(subdomain, 'host')
 
 
 def check_if_exists(user_data):
@@ -144,7 +40,7 @@ def check_if_exists(user_data):
     return exists
 
 
-def insert_user_data(user_data):
+def insert_user_data(user_data: dict):
     exists = check_if_exists(user_data)
     if not exists:
         q_insert = sa.text("""
@@ -157,7 +53,7 @@ def insert_user_data(user_data):
         """)
 
         with engine.connect() as conn:
-            print(user_data)
+            # print(user_data)
             prompt = input('continue? (y/n)\n')
             if not prompt:
                 return 0
@@ -166,45 +62,26 @@ def insert_user_data(user_data):
                 upd_id = conn.execute(
                     sa.text(f'UPDATE countries_data SET used_by_acc = {last_id} WHERE id = {user_data["address_id"]}')
                 ).rowcount
-                print(f'UPDATE countries_data res {upd_id}')
+                # print_and_log(logger, f'UPDATE countries_data res {upd_id}')
 
         return last_id
     else:
-        print('account already exists')
+        # print_and_log(logger, f'account already exists: {user_data}')
         return 0
 
 
-def update_user_data(email, data):
-    if not len(data):
-        print('data can not be empty')
-        return False
-
-    acc_where_clause = 'WHERE email = :email'
-    id_where_clause = 'WHERE TRUE'
-    set_str = ''
-
-    for key in data:
-        set_str += f'{key} = :{key}, '
-        id_where_clause += f' AND {key} = :{key}'
-
+def update_user_data(user_data: PersonalData):
     with engine.connect() as conn:
-        acc_exists = conn.execute(sa.text(f"SELECT COUNT(id) FROM accounts {acc_where_clause}"), {'email': email}).scalar()
-        if not acc_exists:
-            # TODO: add account?
-            return False
-        id_exists = conn.execute(
-            sa.text(f"SELECT COUNT(id) FROM accounts {id_where_clause}"),
-            data
-        ).scalar()
-        if id_exists is not None:
-            # TODO: regenerate ID
-            return False
-
-    with engine.connect() as conn:
-        upd_res = conn.execute(sa.text(f"UPDATE accounts SET {set_str[:-2]} {acc_where_clause}"), {'email': email}).rowcount
-        print(f'UPDATING account data: {upd_res}')
-        print(f"UPDATE accounts SET {set_str[:-2]} {acc_where_clause}")
-        return upd_res
+        user_data_in_db = conn.execute(sa.text(f"""
+            SELECT * FROM accounts WHERE email = :email
+        """), user_data.account['email']).fetchone()
+    if user_data_in_db is not None:
+        # updating user
+        pass
+    else:
+        # new user
+        pass
+    return
 
 
 def main():
@@ -213,7 +90,7 @@ def main():
     # return
     # TODO: --update-accounts add --key option for updating specific keys
     usage = """
-    python -m maintenance.generate_personal_data --insert-accounts
+    python -m maintenance.generate_personal_data --insert-accounts --file data/personal_data.csv
     python -m maintenance.generate_personal_data --update-accounts
     """
     parser = OptionParser(usage=usage)
@@ -224,44 +101,88 @@ def main():
     parser.add_option(
         '--update-accounts', action='store_true', dest='update_accounts', default=False,
         help='Generate and update existing accounts data based on email and country values')
+    parser.add_option('--file', action='store', dest='file', default=False,
+                      help='File path for process')
 
     (options, args) = parser.parse_args()
     print(options)
-    mailboxes = get_mailboxes_list()
-    if options.insert_accounts:
-        tmp = 0
-        if mailboxes['result']:
-            for domain, mailboxes in mailboxes['response']['list'].items():
-                for mailbox in mailboxes:
-                    email = mailbox['email_auto']
-                    if email.startswith('info'):
-                        continue
-                    print(email)
-                    user_data = generate_user_data(email)
-                    print(user_data)
-                    if not user_data:
-                        print('empty user_data')
-                        continue
-                    ins_res = insert_user_data(user_data)
-
-                    print(f'insert_user_data: {ins_res}')
-                    tmp += 1
-                    if tmp > 11:
-                        return
-    elif options.update_accounts:
-        if mailboxes['result']:
-            for domain, mailboxes in mailboxes['response']['list'].items():
-                for mailbox in mailboxes:
-                    # TODO: in future do not use country from domain
-                    email = mailbox['email_auto']
-                    country = domain.replace(f'.{conf.MAIN_DOMAIN}', '')
-                    personal_id = generate_personal_id(email, country)
-                    if personal_id:
-                        data = {'personal_id': personal_id}
-                        upd_res = update_user_data(email, data)
-                        print(f'Updating personal data: {upd_res}')
+    if not options.file:
+        print('--file option required')
+        return False
     else:
-        parser.print_help()
+        accounts = pd.read_csv(options.file, sep=';')
+        print(len(accounts))
+    if options.insert_accounts:
+        i = 0
+        for indx, account in accounts.iterrows():
+            print_and_log(logger, f'country: {account[0]} name: {account[1]}')
+            try:
+                acc = PersonalData(account[1], 'chronisto.com', account[0])
+                print_and_log(logger, f'PersonalData: {acc}')
+                exist_on_host = check_subdomain_on_host(acc.account['email'])
+                print_and_log(logger, f'{acc.account["email"]} exists: {exist_on_host}')
+                if exist_on_host['result']:
+                    print_and_log(logger, f'Account for {account[0]} {account[1]} will be added')
+                    res = insert_user_data(acc.account)
+                    print_and_log(logger, f'Result: {res}')
+                else:
+                    print_and_log(logger, f'Error: {exist_on_host}')
+                    if exist_on_host['messages']['error'][0].startswith('Too Many Requests'):
+                        return
+            except Exception as e:
+                print_and_log(logger, f'ERROR: add personal data failed {account[0]}\n {e}')
+                continue
+            # print(acc.account)
+            i += 1
+        print_and_log(logger, f'Added {i} from {len(accounts)} accounts')
+
+    # mailboxes = get_mailboxes_list()
+    # if options.insert_accounts:
+    #     tmp = 0
+    #     if mailboxes['result']:
+    #         for domain, mailboxes in mailboxes['response']['list'].items():
+    #             for mailbox in mailboxes:
+    #                 email = mailbox['email_auto']
+    #                 if email.startswith('info'):
+    #                     continue
+    #                 print(email)
+    #                 user_data = generate_user_data(email)
+    #                 print(user_data)
+    #                 if not user_data:
+    #                     print('empty user_data')
+    #                     continue
+    #                 ins_res = insert_user_data(user_data)
+    #
+    #                 print(f'insert_user_data: {ins_res}')
+    #                 tmp += 1
+    #                 if tmp > 11:
+    #                     return
+    # elif options.update_accounts:
+    #     tmp = 0
+    #     if mailboxes['result']:
+    #         for domain, mailboxes in mailboxes['response']['list'].items():
+    #             for mailbox in mailboxes:
+    #                 # TODO: in future do not use country from domain
+    #                 email = mailbox['email_auto']
+    #                 if email.startswith('info'):
+    #                     continue
+    #                 country = domain.replace(f'.{conf.MAIN_DOMAIN}', '')
+    #                 # personal_id = generate_personal_id(email, country)
+    #                 # if personal_id:
+    #                 #     data = {'personal_id': personal_id}
+    #                 #     upd_res = update_user_data(email, data)
+    #                 #     print(data)
+    #                 #     print(f'Updating personal data for {email}: {upd_res}')
+    #                 user_data = PersonalData(email, country).account
+    #                 del user_data['country']  # TODO: remove from account property in class
+    #                 upd_res = update_user_data(email, user_data)
+    #                 print(user_data)
+    #                 print(f'Updating personal data for {email}: {upd_res}')
+    #                 tmp += 1
+    #                 if tmp > 11:
+    #                     return
+    # else:
+    #     parser.print_help()
     pass
 
 

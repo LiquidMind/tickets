@@ -1,0 +1,333 @@
+,name,lat,lng,capital,tag,prime
+0,Lisbon,38.7452,-9.1604,Portugal,lisbon,is_city
+1,Sintra,38.7974,-9.3904,Portugal,sintra,is_city
+2,Vila Nova de Gaia,41.1333,-8.6167,Portugal,vila nova de gaia,is_city
+3,Porto,41.1495,-8.6108,Portugal,porto,is_city
+4,Braga,41.5333,-8.4167,Portugal,braga,is_city
+5,Matosinhos,41.2077,-8.6674,Portugal,matosinhos,is_city
+6,Amadora,38.75,-9.2333,Portugal,amadora,is_city
+7,Almada,38.6803,-9.1583,Portugal,almada,is_city
+8,Oeiras,38.697,-9.3017,Portugal,oeiras,is_city
+10,Guimaraes,41.445,-8.2908,Portugal,guimaraes,is_city
+11,Odivelas,38.8,-9.1833,Portugal,odivelas,is_city
+12,Coimbra,40.2111,-8.4291,Portugal,coimbra,is_city
+13,Vila Franca de Xira,38.95,-8.9833,Portugal,vila franca de xira,is_city
+14,Maia,41.2333,-8.6167,Portugal,maia,is_city
+15,Setubal,38.5243,-8.8926,Portugal,setubal,is_city
+16,Funchal,32.65,-16.9167,Portugal,funchal,is_city
+17,Viseu,40.6667,-7.9167,Portugal,viseu,is_city
+18,Valongo,41.1833,-8.5,Portugal,valongo,is_city
+19,Viana do Castelo,41.7,-8.8333,Portugal,viana do castelo,is_city
+20,Paredes,41.2,-8.3333,Portugal,paredes,is_city
+21,Vila do Conde,41.35,-8.75,Portugal,vila do conde,is_city
+22,Torres Vedras,39.0833,-9.2667,Portugal,torres vedras,is_city
+23,Aveiro,40.6389,-8.6553,Portugal,aveiro,is_city
+24,Queluz,38.7566,-9.2545,Portugal,queluz,is_city
+25,Mafra,38.9333,-9.3333,Portugal,mafra,is_city
+27,Loule,37.144,-8.0235,Portugal,loule,is_city
+28,Ponta Delgada,37.74,-25.67,Portugal,ponta delgada,is_city
+29,Moita,38.65,-8.9833,Portugal,moita,is_city
+30,Faro,37.0161,-7.935,Portugal,faro,is_city
+31,Povoa de Varzim,41.3916,-8.7571,Portugal,povoa de varzim,is_city
+32,Palmela,38.5667,-8.9,Portugal,palmela,is_city
+33,Santarem,39.2369,-8.685,Portugal,santarem,is_city
+34,Figueira da Foz,40.1508,-8.8618,Portugal,figueira da foz,is_city
+35,Felgueiras,41.3667,-8.2,Portugal,felgueiras,is_city
+36,Pacos de Ferreira,41.2833,-8.3833,Portugal,pacos de ferreira,is_city
+37,Castelo Branco,39.823,-7.4931,Portugal,castelo branco,is_city
+38,Evora,38.5667,-7.9,Portugal,evora,is_city
+39,Portimao,37.1333,-8.5333,Portugal,portimao,is_city
+40,Pombal,39.9162,-8.6279,Portugal,pombal,is_city
+41,Marco de Canavezes,41.1833,-8.15,Portugal,marco de canavezes,is_city
+42,Vila Real,41.3002,-7.7398,Portugal,vila real,is_city
+43,Covilha,40.2833,-7.5,Portugal,covilha,is_city
+44,Caldas da Rainha,39.4069,-9.1363,Portugal,caldas da rainha,is_city
+45,Montijo,38.7049,-8.9757,Portugal,montijo,is_city
+46,Rio Tinto,41.1833,-8.5667,Portugal,rio tinto,is_city
+47,Fafe,41.45,-8.1667,Portugal,fafe,is_city
+48,Sesimbra,38.4437,-9.0996,Portugal,sesimbra,is_city
+49,Amora,38.6265,-9.1189,Portugal,amora,is_city
+50,Vila Verde,41.65,-8.4333,Portugal,vila verde,is_city
+51,Lousada,41.2833,-8.2833,Portugal,lousada,is_city
+52,Corroios,38.65,-9.15,Portugal,corroios,is_city
+53,Ourem,39.65,-8.5833,Portugal,ourem,is_city
+54,Olhao,37.0278,-7.8389,Portugal,olhao,is_city
+55,Leiria,39.7444,-8.8072,Portugal,leiria,is_city
+56,Ponte de Lima,41.7667,-8.5833,Portugal,ponte de lima,is_city
+58,Guarda,40.5364,-7.2683,Portugal,guarda,is_city
+59,Chaves,41.7399,-7.4707,Portugal,chaves,is_city
+60,Tomar,39.6,-8.4167,Portugal,tomar,is_city
+61,Ilhavo,40.6,-8.6667,Portugal,ilhavo,is_city
+62,Trofa,41.3374,-8.5596,Portugal,trofa,is_city
+63,Mafamude,41.1152,-8.6036,Portugal,mafamude,is_city
+64,Ermezinde,41.2133,-8.5472,Portugal,ermezinde,is_city
+65,Silves,37.1833,-8.4333,Portugal,silves,is_city
+66,Torres Novas,39.4833,-8.5333,Portugal,torres novas,is_city
+67,Beja,38.0333,-7.8833,Portugal,beja,is_city
+68,Agualva,38.77,-9.2988,Portugal,agualva,is_city
+69,Camara de Lobos,32.65,-16.9667,Portugal,camara de lobos,is_city
+70,Angra do Heroismo,38.6558,-27.2153,Portugal,angra do heroismo,is_city
+71,Braganca,41.8,-6.75,Portugal,braganca,is_city
+72,Esposende,41.5333,-8.7833,Portugal,esposende,is_city
+73,Ribeira Grande,37.8167,-25.5167,Portugal,ribeira grande,is_city
+74,Espinho,41.01,-8.64,Portugal,espinho,is_city
+75,Lagos,37.1,-8.6667,Portugal,lagos,is_city
+76,Anadia,40.4333,-8.4333,Portugal,anadia,is_city
+78,Massama,38.7568,-9.2748,Portugal,massama,is_city
+79,Estarreja,40.75,-8.5667,Portugal,estarreja,is_city
+80,Lamego,41.0833,-7.8667,Portugal,lamego,is_city
+81,Estoril,38.7057,-9.3977,Portugal,estoril,is_city
+82,Montemor-o-Velho,40.1667,-8.6833,Portugal,montemor-o-velho,is_city
+83,Tavira,37.1309,-7.6506,Portugal,tavira,is_city
+84,Odemira,37.5833,-8.6333,Portugal,odemira,is_city
+85,Albergaria-a-Velha,40.6936,-8.4806,Portugal,albergaria-a-velha,is_city
+86,Portalegre,39.3167,-7.4167,Portugal,portalegre,is_city
+87,Porto de Mos,39.6,-8.8167,Portugal,porto de mos,is_city
+88,Mirandela,41.4833,-7.1833,Portugal,mirandela,is_city
+89,Vizela,41.3833,-8.3,Portugal,vizela,is_city
+90,Canico,32.6412,-16.8504,Portugal,canico,is_city
+91,Oliveira do Bairro,40.5167,-8.5,Portugal,oliveira do bairro,is_city
+92,Vale de Cambra,40.85,-8.4,Portugal,vale de cambra,is_city
+93,Arcos de Valdevez,41.85,-8.4167,Portugal,arcos de valdevez,is_city
+94,Povoa de Lanhoso,41.5667,-8.2667,Portugal,povoa de lanhoso,is_city
+95,Azambuja,39.0667,-8.8667,Portugal,azambuja,is_city
+96,Sao Joao da Madeira,40.9,-8.5,Portugal,sao joao da madeira,is_city
+97,Cacem,38.7704,-9.3081,Portugal,cacem,is_city
+98,Rio Maior,39.3333,-8.9333,Portugal,rio maior,is_city
+99,Praia da Vitoria,38.7333,-27.0667,Portugal,praia da vitoria,is_city
+100,Elvas,38.88,-7.1628,Portugal,elvas,is_city
+101,Baiao,41.1667,-8.0333,Portugal,baiao,is_city
+102,Cinfaes,41.0667,-8.0833,Portugal,cinfaes,is_city
+103,Entroncamento,39.4667,-8.4667,Portugal,entroncamento,is_city
+104,Celorico de Basto,41.3869,-8.0022,Portugal,celorico de basto,is_city
+105,Alfena,41.2395,-8.5244,Portugal,alfena,is_city
+106,Soure,40.05,-8.6333,Portugal,soure,is_city
+107,Moncao,42.0733,-8.48,Portugal,moncao,is_city
+108,Vila Real de Santo Antonio,37.2,-7.4167,Portugal,vila real de santo antonio,is_city
+109,Amares,41.6333,-8.35,Portugal,amares,is_city
+110,Sacavem,38.7944,-9.1053,Portugal,sacavem,is_city
+111,Lousa,40.1125,-8.2469,Portugal,lousa,is_city
+112,Alcochete,38.7553,-8.9608,Portugal,alcochete,is_city
+113,Montemor-o-Novo,38.65,-8.2167,Portugal,montemor-o-novo,is_city
+114,Peso da Regua,41.1632,-7.789,Portugal,peso da regua,is_city
+115,Condeixa-a-Nova,40.1167,-8.5,Portugal,condeixa-a-nova,is_city
+116,Sao Pedro do Sul,40.75,-8.0667,Portugal,sao pedro do sul,is_city
+117,Ponte de Sor,39.25,-8.0167,Portugal,ponte de sor,is_city
+118,Cabeceiras de Basto,41.5167,-8.0,Portugal,cabeceiras de basto,is_city
+119,Quarteira,37.0695,-8.1006,Portugal,quarteira,is_city
+120,Serta,39.8008,-8.1003,Portugal,serta,is_city
+121,Macedo de Cavaleiros,41.5333,-6.95,Portugal,macedo de cavaleiros,is_city
+122,Serpa,37.9333,-7.5833,Portugal,serpa,is_city
+123,Castro Daire,40.9,-7.9333,Portugal,castro daire,is_city
+124,Penacova,40.2667,-8.2667,Portugal,penacova,is_city
+125,Moura,38.1397,-7.4505,Portugal,moura,is_city
+126,Nazare,39.6,-9.0667,Portugal,nazare,is_city
+127,Horta,38.5333,-28.6333,Portugal,horta,is_city
+128,Falagueira,38.759,-9.2199,Portugal,falagueira,is_city
+129,Cadaval,39.25,-9.1,Portugal,cadaval,is_city
+130,Estremoz,38.8422,-7.5881,Portugal,estremoz,is_city
+131,Sines,37.9536,-8.8712,Portugal,sines,is_city
+132,Valenca,42.0282,-8.6339,Portugal,valenca,is_city
+133,Gouveia,40.5,-7.6,Portugal,gouveia,is_city
+134,Nelas,40.5167,-7.85,Portugal,nelas,is_city
+135,Gafanha da Nazare,40.6333,-8.7167,Portugal,gafanha da nazare,is_city
+136,Arruda dos Vinhos,38.9833,-9.0667,Portugal,arruda dos vinhos,is_city
+137,Ribeira Brava,32.6722,-17.0639,Portugal,ribeira brava,is_city
+138,Vila Pouca de Aguiar,41.4833,-7.6333,Portugal,vila pouca de aguiar,is_city
+139,Ansiao,39.9167,-8.4333,Portugal,ansiao,is_city
+140,Miranda do Corvo,40.1,-8.3333,Portugal,miranda do corvo,is_city
+141,Alcacer do Sal,38.3725,-8.5133,Portugal,alcacer do sal,is_city
+142,Vieira do Minho,41.6333,-8.1333,Portugal,vieira do minho,is_city
+144,Satao,40.7333,-7.7167,Portugal,satao,is_city
+145,Arcozelo,41.0555,-8.6395,Portugal,arcozelo,is_city
+146,Sever do Vouga,40.7167,-8.3667,Portugal,sever do vouga,is_city
+147,Tabua,40.3667,-8.0333,Portugal,tabua,is_city
+148,Alijo,41.2764,-7.4749,Portugal,alijo,is_city
+149,Vendas Novas,38.6833,-8.45,Portugal,vendas novas,is_city
+150,Costa de Caparica,38.6446,-9.2356,Portugal,costa de caparica,is_city
+151,Obidos,39.3585,-9.176,Portugal,obidos,is_city
+152,Calheta,32.7333,-17.1667,Portugal,calheta,is_city
+153,Resende,41.1,-7.95,Portugal,resende,is_city
+154,Vila Franca do Campo,37.7167,-25.4333,Portugal,vila franca do campo,is_city
+155,Reguengos de Monsaraz,38.4167,-7.5333,Portugal,reguengos de monsaraz,is_city
+156,Valadares,41.0997,-8.6403,Portugal,valadares,is_city
+157,Sao Bras de Alportel,37.15,-7.8833,Portugal,sao bras de alportel,is_city
+158,Murtosa,40.7369,-8.6386,Portugal,murtosa,is_city
+159,Moimenta da Beira,40.9819,-7.6158,Portugal,moimenta da beira,is_city
+160,Sobral de Monte Agraco,39.0167,-9.15,Portugal,sobral de monte agraco,is_city
+161,Trancoso,40.7833,-7.35,Portugal,trancoso,is_city
+162,Carregal do Sal,40.4333,-8.0,Portugal,carregal do sal,is_city
+163,Idanha-a-Nova,39.9167,-7.2333,Portugal,idanha-a-nova,is_city
+164,Pinhel,40.7833,-7.0667,Portugal,pinhel,is_city
+165,Melgaco,42.1167,-8.2667,Portugal,melgaco,is_city
+166,Vinhais,41.8167,-7.0,Portugal,vinhais,is_city
+167,Almargem,38.8475,-9.2714,Portugal,almargem,is_city
+168,Aver-o-Mar,41.4039,-8.769,Portugal,aver-o-mar,is_city
+169,Ponta do Sol,32.6811,-17.1042,Portugal,ponta do sol,is_city
+170,Ferreira do Zezere,39.7,-8.2833,Portugal,ferreira do zezere,is_city
+171,Torre de Moncorvo,41.2,-7.1333,Portugal,torre de moncorvo,is_city
+172,Campo Maior,39.0167,-7.0667,Portugal,campo maior,is_city
+173,Argoncilhe,41.0167,-8.55,Portugal,argoncilhe,is_city
+174,Vila Vicosa,38.75,-7.4333,Portugal,vila vicosa,is_city
+175,Proenca-a-Nova,39.75,-7.9167,Portugal,proenca-a-nova,is_city
+176,Tarouca,41.0167,-7.7833,Portugal,tarouca,is_city
+177,Penalva do Castelo,40.6667,-7.6833,Portugal,penalva do castelo,is_city
+178,Sao Joao da Pesqueira,41.1333,-7.4,Portugal,sao joao da pesqueira,is_city
+179,Santana,32.8,-16.8667,Portugal,santana,is_city
+180,Alpiarca,39.2593,-8.585,Portugal,alpiarca,is_city
+181,Celorico da Beira,40.6333,-7.4,Portugal,celorico da beira,is_city
+182,Joane,41.4333,-8.4167,Portugal,joane,is_city
+183,Mondim de Basto,41.4,-7.95,Portugal,mondim de basto,is_city
+184,Miranda do Douro,41.5,-6.2667,Portugal,miranda do douro,is_city
+185,Nisa,39.5167,-7.65,Portugal,nisa,is_city
+186,Almodovar,37.5114,-8.0603,Portugal,almodovar,is_city
+187,Arraiolos,38.7229,-7.9843,Portugal,arraiolos,is_city
+188,Santa Marta de Penaguiao,41.2,-7.7833,Portugal,santa marta de penaguiao,is_city
+189,Vila Nova da Barquinha,39.45,-8.4333,Portugal,vila nova da barquinha,is_city
+190,Vila Nova de Foz Coa,41.0833,-7.1333,Portugal,vila nova de foz coa,is_city
+191,Casteloes de Cepeda,41.2008,-8.3306,Portugal,casteloes de cepeda,is_city
+192,Alvaiazere,39.8333,-8.3833,Portugal,alvaiazere,is_city
+193,Poiares,40.2167,-8.25,Portugal,poiares,is_city
+194,Castro Verde,37.6976,-8.0819,Portugal,castro verde,is_city
+195,Mertola,37.6333,-7.65,Portugal,mertola,is_city
+196,Terras de Bouro,41.7167,-8.3,Portugal,terras de bouro,is_city
+197,Almeida,40.7259,-6.9056,Portugal,almeida,is_city
+198,Redondo,38.6464,-7.5464,Portugal,redondo,is_city
+199,Castro Marim,37.2167,-7.45,Portugal,castro marim,is_city
+200,Ribeira de Pena,41.5167,-7.8,Portugal,ribeira de pena,is_city
+201,Portel,38.3,-7.7,Portugal,portel,is_city
+202,Carrazeda de Anciaes,41.25,-7.3,Portugal,carrazeda de anciaes,is_city
+203,Sabrosa,41.2651,-7.5751,Portugal,sabrosa,is_city
+204,Tabuaco,41.1167,-7.5667,Portugal,tabuaco,is_city
+205,Povoacao,37.746,-25.245,Portugal,povoacao,is_city
+206,Armamar,41.1167,-7.6833,Portugal,armamar,is_city
+207,Figueira de Castelo Rodrigo,40.9,-6.9667,Portugal,figueira de castelo rodrigo,is_city
+208,Sao Martinho,38.8125,-9.4208,Portugal,sao martinho,is_city
+209,Madalena,38.5356,-28.5234,Portugal,madalena,is_city
+210,Monchique,37.3167,-8.6,Portugal,monchique,is_city
+211,Celeiroz,41.5136,-8.4522,Portugal,celeiroz,is_city
+212,Penela,40.0333,-8.3833,Portugal,penela,is_city
+213,Murca,41.4,-7.45,Portugal,murca,is_city
+214,Vidigueira,38.2,-7.8,Portugal,vidigueira,is_city
+215,Aljezur,37.3178,-8.8,Portugal,aljezur,is_city
+216,Alandroal,38.7,-7.4,Portugal,alandroal,is_city
+217,Olival,41.0711,-8.5272,Portugal,olival,is_city
+218,Viana do Alentejo,38.3342,-8.0014,Portugal,viana do alentejo,is_city
+220,Penamacor,40.1667,-7.1667,Portugal,penamacor,is_city
+221,Vila do Porto,36.945,-25.145,Portugal,vila do porto,is_city
+222,Vila de Porto Santo,33.0619,-16.3564,Portugal,vila de porto santo,is_city
+223,Aguiar da Beira,40.818,-7.5414,Portugal,aguiar da beira,is_city
+224,Golega,39.4,-8.4833,Portugal,golega,is_city
+225,Riachos,39.4453,-8.5142,Portugal,riachos,is_city
+226,Velas,38.6817,-28.2079,Portugal,velas,is_city
+227,Ourique,37.65,-8.225,Portugal,ourique,is_city
+228,Vila do Bispo,37.0825,-8.9119,Portugal,vila do bispo,is_city
+229,Vila Nova de Paiva,40.85,-7.7333,Portugal,vila nova de paiva,is_city
+230,Terrujem,38.8511,-9.3747,Portugal,terrujem,is_city
+231,Alfandega da Fe,41.35,-6.9667,Portugal,alfandega da fe,is_city
+232,Sousel,38.9532,-7.6757,Portugal,sousel,is_city
+233,Fornos de Algodres,40.6167,-7.5333,Portugal,fornos de algodres,is_city
+235,Caranguejeira,39.75,-8.7,Portugal,caranguejeira,is_city
+236,Nordeste,37.8333,-25.15,Portugal,nordeste,is_city
+238,Real,41.5565,-8.441,Portugal,real,is_city
+239,Pampilhosa da Serra,40.05,-7.95,Portugal,pampilhosa da serra,is_city
+240,Lajes,38.4,-28.25,Portugal,lajes,is_city
+241,Vimioso,41.5667,-6.5167,Portugal,vimioso,is_city
+242,Avis,39.05,-7.8833,Portugal,avis,is_city
+243,Mesao Frio,41.1667,-7.8833,Portugal,mesao frio,is_city
+244,Valpacos,41.6075,-7.31,Portugal,valpacos,is_city
+245,Santa Cruz da Graciosa,39.0833,-28.0167,Portugal,santa cruz da graciosa,is_city
+246,Gois,40.15,-8.1167,Portugal,gois,is_city
+247,Vila Nova de Milfontes,37.7167,-8.7833,Portugal,vila nova de milfontes,is_city
+248,Constancia,39.4833,-8.3333,Portugal,constancia,is_city
+249,Sardoal,39.5333,-8.1667,Portugal,sardoal,is_city
+251,Lorvao,40.2594,-8.3168,Portugal,lorvao,is_city
+252,Pedrogao Grande,39.9167,-8.15,Portugal,pedrogao grande,is_city
+253,Freixo de Espada a Cinta,41.0833,-6.8,Portugal,freixo de espada a cinta,is_city
+255,Armacao de Pera,37.1,-8.3667,Portugal,armacao de pera,is_city
+256,Vila Velha de Rodao,39.65,-7.6667,Portugal,vila velha de rodao,is_city
+257,Marvao,39.3942,-7.3772,Portugal,marvao,is_city
+258,Canas de Senhorim,40.5167,-7.9,Portugal,canas de senhorim,is_city
+259,Tramagal,39.4583,-8.2461,Portugal,tramagal,is_city
+260,Vila de Rei,39.6833,-8.15,Portugal,vila de rei,is_city
+261,Manteigas,40.4,-7.5333,Portugal,manteigas,is_city
+262,Riba de Ave,41.3933,-8.3883,Portugal,riba de ave,is_city
+263,Fronteira,39.05,-7.65,Portugal,fronteira,is_city
+264,Castelo de Vide,39.4167,-7.45,Portugal,castelo de vide,is_city
+265,Sao Roque do Pico,38.5167,-28.3167,Portugal,sao roque do pico,is_city
+266,Monforte,39.05,-7.4333,Portugal,monforte,is_city
+267,Valado de Frades,39.5892,-9.0194,Portugal,valado de frades,is_city
+268,Fermentelos,40.5667,-8.5167,Portugal,fermentelos,is_city
+269,Castanheira de Pera,40.0,-8.2167,Portugal,castanheira de pera,is_city
+270,Arronches,39.1167,-7.2833,Portugal,arronches,is_city
+271,Sao Vicente,32.7967,-17.0433,Portugal,sao vicente,is_city
+272,Trouxemil,40.2756,-8.4528,Portugal,trouxemil,is_city
+273,Ferreiros,41.6308,-8.3686,Portugal,ferreiros,is_city
+275,Carvoeiro,37.1,-8.4667,Portugal,carvoeiro,is_city
+276,Mourao,38.3333,-7.3667,Portugal,mourao,is_city
+278,Barrancos,38.1307,-6.9761,Portugal,barrancos,is_city
+279,Caminha,41.8779,-8.8382,Portugal,caminha,is_city
+280,Boticas,41.6889,-7.665,Portugal,boticas,is_city
+281,Barcelos,41.5347,-8.615,Portugal,barcelos,is_city
+282,Loures,38.8309,-9.1684,Portugal,loures,is_city
+283,Santo Tirso,41.3428,-8.4775,Portugal,santo tirso,is_city
+284,Famalicao,41.4144,-8.5222,Portugal,famalicao,is_city
+285,Cartaxo,39.1619,-8.7864,Portugal,cartaxo,is_city
+286,Fundao,40.1392,-7.5019,Portugal,fundao,is_city
+287,Oliveira de Azemeis,40.84,-8.4764,Portugal,oliveira de azemeis,is_city
+288,Ovar,40.8597,-8.6253,Portugal,ovar,is_city
+289,Lagoa,37.1347,-8.4528,Portugal,lagoa,is_city
+290,Albufeira,37.0889,-8.2511,Portugal,albufeira,is_city
+291,Agueda,40.5745,-8.448,Portugal,agueda,is_city
+292,Peniche,39.3633,-9.3792,Portugal,peniche,is_city
+293,Borba,38.8056,-7.4547,Portugal,borba,is_city
+294,Marinha Grande,39.7478,-8.9322,Portugal,marinha grande,is_city
+295,Salvaterra de Magos,39.0253,-8.7933,Portugal,salvaterra de magos,is_city
+296,Barreiro,38.6631,-9.0725,Portugal,barreiro,is_city
+297,Cascais,38.6972,-9.4217,Portugal,cascais,is_city
+298,Ponte da Barca,41.8078,-8.4194,Portugal,ponte da barca,is_city
+299,Amarante,41.2728,-8.0825,Portugal,amarante,is_city
+300,Aljustrel,37.8775,-8.1653,Portugal,aljustrel,is_city
+301,Alcobaca,39.5522,-8.9775,Portugal,alcobaca,is_city
+302,Oliveira do Hospital,40.3597,-7.8617,Portugal,oliveira do hospital,is_city
+303,Abrantes,39.4667,-8.2,Portugal,abrantes,is_city
+304,Santiago do Cacem,38.0167,-8.7,Portugal,santiago do cacem,is_city
+305,Cantanhede,40.3464,-8.5942,Portugal,cantanhede,is_city
+306,Grandola,38.1833,-8.5667,Portugal,grandola,is_city
+307,Mangualde,40.6058,-7.7658,Portugal,mangualde,is_city
+308,Arouca,40.9289,-8.2436,Portugal,arouca,is_city
+309,Feira,40.9254,-8.5428,Portugal,feira,is_city
+310,Seia,40.4203,-7.7033,Portugal,seia,is_city
+311,Coruche,38.9581,-8.5283,Portugal,coruche,is_city
+312,Chamusca,39.3594,-8.4808,Portugal,chamusca,is_city
+313,Crato,39.2844,-7.6444,Portugal,crato,is_city
+315,Vagos,40.5553,-8.6814,Portugal,vagos,is_city
+316,Tondela,40.5164,-8.0808,Portugal,tondela,is_city
+317,Arganil,40.2183,-8.0542,Portugal,arganil,is_city
+318,Gaviao,39.465,-7.9369,Portugal,gaviao,is_city
+319,Santa Comba Dao,40.3981,-8.1303,Portugal,santa comba dao,is_city
+320,Mogadouro,41.3392,-6.72,Portugal,mogadouro,is_city
+321,Paredes de Coura,41.9111,-8.5597,Portugal,paredes de coura,is_city
+322,Seixal,38.6428,-9.1061,Portugal,seixal,is_city
+323,Alenquer,39.0531,-9.0092,Portugal,alenquer,is_city
+325,Vouzela,40.7231,-8.1122,Portugal,vouzela,is_city
+326,Macao,39.5533,-7.9986,Portugal,macao,is_city
+328,Alter do Chao,39.1974,-7.6589,Portugal,alter do chao,is_city
+329,Mortagua,40.3947,-8.2328,Portugal,mortagua,is_city
+330,Bombarral,39.2672,-9.1581,Portugal,bombarral,is_city
+331,Vila Nova de Cerveira,41.94,-8.7444,Portugal,vila nova de cerveira,is_city
+332,Sabugal,40.3519,-7.0894,Portugal,sabugal,is_city
+333,Almeirim,39.209,-8.6164,Portugal,almeirim,is_city
+334,Alcanena,39.4589,-8.6689,Portugal,alcanena,is_city
+335,Mealhada,40.3781,-8.4514,Portugal,mealhada,is_city
+336,Sernancelhe,40.9003,-7.4942,Portugal,sernancelhe,is_city
+337,Batalha,39.6603,-8.8247,Portugal,batalha,is_city
+338,Figueiro dos Vinhos,39.9019,-8.275,Portugal,figueiro dos vinhos,is_city
+339,Vila Flor,41.3067,-7.1522,Portugal,vila flor,is_city
+340,Castelo de Paiva,41.063,-8.2647,Portugal,castelo de paiva,is_city
+341,Penedono,40.9831,-7.3894,Portugal,penedono,is_city
+342,Oliveira de Frades,40.7314,-8.1767,Portugal,oliveira de frades,is_city
+344,Montalegre,41.8239,-7.79,Portugal,montalegre,is_city
+345,Alcoutim,37.4717,-7.4722,Portugal,alcoutim,is_city
+346,Lourinha,39.2425,-9.3122,Portugal,lourinha,is_city
+347,Ferreira do Alentejo,38.05,-8.1,Portugal,ferreira do alentejo,is_city
