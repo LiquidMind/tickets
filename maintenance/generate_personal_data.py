@@ -5,7 +5,7 @@ from optparse import OptionParser
 
 import googlemaps  # https://googlemaps.github.io/google-maps-services-python/docs/index.html
 
-from api import get_obj_id
+from api import get_obj_id, get_subdomains_list
 from common.functions import print_and_log
 from . import PersonalData
 
@@ -40,23 +40,24 @@ def check_if_exists(user_data):
     return exists
 
 
-def insert_user_data(user_data: dict):
+def insert_user_data(user_data: dict, force: bool = False):
     exists = check_if_exists(user_data)
     if not exists:
         q_insert = sa.text("""
             INSERT INTO accounts 
-            (name, surname, email, password, personal_id, birth_date, domain_id, country_id, address_id)
+            (name, surname, email, password, personal_id, birth_date, domain_id, country_id, address_id, prime)
             VALUES(
                 :name, :surname, :email, :password, :personal_id, :birth_date, 
-                :domain_id, :country_id, :address_id
+                :domain_id, :country_id, :address_id, :prime
             )
         """)
 
         with engine.connect() as conn:
             # print(user_data)
-            prompt = input('continue? (y/n)\n')
-            if not prompt:
-                return 0
+            if not force:
+                prompt = input('continue? (y/n)\n')
+                if not prompt:
+                    return 0
             last_id = conn.execute(q_insert, user_data).lastrowid
             if last_id:
                 upd_id = conn.execute(
@@ -103,6 +104,10 @@ def main():
         help='Generate and update existing accounts data based on email and country values')
     parser.add_option('--file', action='store', dest='file', default=False,
                       help='File path for process')
+    parser.add_option('--prime', action='store', dest='prime', default=None,
+                      help='Prime for account')
+    parser.add_option('--force', action='store_true', dest='force', default=False,
+                      help='Force operation without prompt')
 
     (options, args) = parser.parse_args()
     print(options)
@@ -111,29 +116,33 @@ def main():
         return False
     else:
         accounts = pd.read_csv(options.file, sep=';')
-        print(len(accounts))
+        # print(accounts)
     if options.insert_accounts:
         i = 0
+        mail_domains_res = get_subdomains_list()
+        mail_domains = [m for m in mail_domains_res['response']['list'].keys()]
         for indx, account in accounts.iterrows():
             print_and_log(logger, f'country: {account[0]} name: {account[1]}')
             try:
-                acc = PersonalData(account[1], 'chronisto.com', account[0])
-                print_and_log(logger, f'PersonalData: {acc}')
-                exist_on_host = check_subdomain_on_host(acc.account['email'])
-                print_and_log(logger, f'{acc.account["email"]} exists: {exist_on_host}')
-                if exist_on_host['result']:
+                acc = PersonalData(account[1], 'chronisto.com', account[0], mail_domains)
+                print_and_log(logger, f'PersonalData: {acc.account}')
+
+                acc_domain = acc.account['email'].split('@')[1]
+                print_and_log(logger, f'{acc_domain} in mail_domains {acc_domain in mail_domains}')
+
+                if acc_domain in mail_domains:
                     print_and_log(logger, f'Account for {account[0]} {account[1]} will be added')
-                    res = insert_user_data(acc.account)
+                    acc.account['prime'] = options.prime
+                    res = insert_user_data(acc.account, options.force)
+                    if res > 0:
+                        i += 1
                     print_and_log(logger, f'Result: {res}')
                 else:
-                    print_and_log(logger, f'Error: {exist_on_host}')
-                    if exist_on_host['messages']['error'][0].startswith('Too Many Requests'):
-                        return
+                    print_and_log(logger, f'Error: {acc_domain} not founded on host')
+
             except Exception as e:
-                print_and_log(logger, f'ERROR: add personal data failed {account[0]}\n {e}')
+                print_and_log(logger, f'ERROR: add personal data failed for {account[0]}\n {e}')
                 continue
-            # print(acc.account)
-            i += 1
         print_and_log(logger, f'Added {i} from {len(accounts)} accounts')
 
     # mailboxes = get_mailboxes_list()

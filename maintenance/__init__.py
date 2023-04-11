@@ -4,16 +4,18 @@ import string
 import re
 from datetime import datetime
 
+from api import get_subdomains_list
 import conf
 
 
 class PersonalData:
 
-    def __init__(self, name: str, domain: str, country: str):
+    def __init__(self, name: str, domain: str, country: str, allowed_domains):
         self.account = {
             'name': name,
         }
         self.engine = sa.create_engine(conf.MYSQL_CONNECTION_STRING, isolation_level="AUTOCOMMIT")
+        self.allowed_domains = list(allowed_domains)
         self.domain = domain
         self._set_country_by_name(country)
         self._set_user_name_surname_from_name()
@@ -46,6 +48,7 @@ class PersonalData:
         return self
 
     def _set_email(self, domain):
+        assert domain in self.allowed_domains, f'Domain {domain}  not present on host'
         name = self.account['name'].lower()
         surname = self.account['surname'].lower()
         if len(surname):
@@ -80,26 +83,32 @@ class PersonalData:
     def _set_address_with_phone(self):
         if not self.account['country'].id:
             return False
+        mail_domains = ','.join([f"'{d.replace(f'.{conf.MAIN_DOMAIN}', '')}'" for d in self.allowed_domains])
+        mail_domains_list = ','.join([d.replace(f'.{conf.MAIN_DOMAIN}', '') for d in self.allowed_domains])
         q_get_data = """
-            SELECT id FROM countries_data
-            WHERE used_by_acc IS NULL AND country_id = :country_id
+            SELECT cd.id FROM countries_data cd LEFT JOIN countries c ON cd.country_id = c.id
+            WHERE cd.used_by_acc IS NULL AND cd.country_id = :country_id AND c.id IN(:tag)
             LIMIT 1 
         """
         with self.engine.connect() as conn:
-            addr_id = conn.execute(sa.text(q_get_data), {'country_id': self.account['country'].id}).scalar()
-            # TODO: it is also necessary to replace the domain with an existing one
+            addr_id = conn.execute(sa.text(q_get_data),
+                                   {'country_id': self.account['country'].id, 'tag': mail_domains}
+                                   ).scalar()
+            # print(f'\nADDR_ID: {addr_id}')
             if addr_id is None and self.account['country'].prime == 'is_city':
                 # try to find another location in their area
                 i = 0
                 while addr_id is None and i < 3:
                     print(f'Try to find another address for {self.account["country"].name}')
-                    addr_id = conn.execute(sa.text("""
+                    addr_id = conn.execute(sa.text(f"""
                         SELECT cd.id, c.tag FROM countries c RIGHT JOIN countries_data cd
                         ON c.id = cd.country_id
-                        WHERE cd.used_by_acc IS NULL AND c.capital = :capital AND c.prime = 'is_city'
+                        WHERE cd.used_by_acc IS NULL AND c.capital = :capital AND c.prime = 'is_city' 
+                        AND c.tag IN({mail_domains})
                         LIMIT 1
                     """), {'capital': self.account['country'].capital}).fetchone()
                     i += 1
+                    print(f'ADDR_ID: {addr_id}')
                 if addr_id is not None:
                     print(f"""
                         Founded free location for {self.account['country'].name}: {self.account['name']} {self.account['surname']} {addr_id}

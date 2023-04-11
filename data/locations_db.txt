@@ -1,0 +1,754 @@
+;albania;7
+;andorra;16
+;austria;12
+;belarus;9
+;belgium;11
+;bulgaria;15
+;cyprus;15
+;czech-republic;0
+;estonia;11
+;finland;13
+;france;15
+;germany;3
+;greece;18
+;hungary;2
+;iceland;0
+;ireland;17
+;italy;11
+;kosovo;0
+;latvia;1
+;liechtenstein;11
+;lithuania;5
+;luxembourg;12
+;malta;7
+;moldova;0
+;monaco;15
+;montenegro;9
+;netherlands;9
+;north-macedonia;0
+;norway;11
+;poland;6
+;portugal;0
+;romania;0
+;russia;0
+;san-marino;14
+;serbia;6
+;slovakia;2
+;slovenia;7
+;spain;4
+;sweden;10
+;switzerland;17
+;ukraine;12
+;united-kingdom;6
+;vatican-city;0
+;afghanistan;6
+;armenia;10
+;azerbaijan;7
+;bahrain;11
+;bangladesh;3
+;bhutan;12
+;brunei;0
+;cambodia;12
+;china;3
+;georgia;14
+;india;12
+;indonesia;19
+;iran;0
+;iraq;5
+;israel;13
+;japan;2
+;jordan;16
+;kazakhstan;16
+;kuwait;3
+;kyrgyzstan;10
+;laos;0
+;lebanon;13
+;malaysia;19
+;maldives;5
+;mongolia;7
+;myanmar;0
+;nepal;1
+;north-korea;0
+;oman;11
+;pakistan;5
+;palestine;0
+;philippines;14
+;qatar;10
+;saudi-arabia;13
+;singapore;16
+;south-korea;0
+;sri-lanka;14
+;syria;0
+;taiwan;0
+;tajikistan;9
+;thailand;11
+;timor-leste;1
+;turkey;0
+;turkmenistan;9
+;uzbekistan;14
+;algeria;11
+;angola;10
+;benin;15
+;botswana;4
+;burkina-faso;10
+;burundi;7
+;cameroon;0
+;cape-verde;0
+;central-african-republic;10
+;chad;9
+;comoros;16
+;congo;5
+;democratic-republic-of-congo;0
+;djibouti;9
+;egypt;14
+;equatorial-guinea;10
+;eritrea;2
+;eswatini;0
+;ethiopia;5
+;gabon;10
+;gambia;13
+;ghana;15
+;guinea;10
+;guinea-bissau;9
+;ivory-coast;0
+;kenya;9
+;lesotho;15
+;liberia;12
+;libya;0
+;madagascar;14
+;malawi;11
+;mali;12
+;mauritania;3
+;mauritius;11
+;morocco;14
+;mozambique;9
+;namibia;13
+;niger;10
+;nigeria;15
+;rwanda;11
+;sao-tome-and-principe;5
+;senegal;11
+;seychelles;9
+;sierra-leone;12
+;somalia;9
+;south-africa;17
+;south-sudan;13
+;sudan;2
+;tanzania;0
+;togo;0
+;tunisia;2
+;uganda;14
+;zambia;11
+;zimbabwe;9
+;antigua-and-barbuda;17
+;argentina;6
+;bahamas;14
+;barbados;16
+;belize;9
+;bolivia;0
+;brazil;0
+;canada;19
+;chile;0
+;colombia;0
+;costa-rica;1
+;cuba;7
+;dominica;8
+;dominican-republic;12
+;ecuador;11
+;el-salvador;7
+;grenada;10
+;guatemala;12
+;guyana;13
+;haiti;12
+;honduras;8
+;jamaica;15
+;mexico;0
+;nicaragua;11
+;panama;4
+;paraguay;1
+;peru;10
+;saint-kitts-and-nevis;5
+;saint-lucia;16
+;saint-vincent-and-the-grenadines;10
+;suriname;15
+;trinidad-and-tobago;13
+;united-states-of-america;17
+;uruguay;7
+;venezuela;0
+Germany;berlin;23
+Germany;hamburg;25
+Germany;munich;21
+Germany;cologne;22
+Germany;frankfurt;25
+Germany;bremen;26
+Germany;dusseldorf;23
+Germany;stuttgart;22
+Germany;leipzig;21
+Germany;dortmund;24
+Germany;essen;32
+Germany;dresden;26
+Germany;hannover;25
+Germany;nuremberg;22
+Germany;duisburg;23
+Germany;bochum;19
+Germany;wuppertal;21
+Germany;bielefeld;23
+Germany;bonn;28
+Germany;munster;25
+Germany;karlsruhe;22
+Germany;mannheim;28
+Germany;augsburg;23
+Germany;kassel;21
+Germany;wiesbaden;25
+Germany;monchengladbach;19
+Germany;gelsenkirchen;2
+Germany;braunschweig;26
+Germany;aachen;27
+Germany;kiel;26
+Germany;chemnitz;25
+Germany;halle;24
+Germany;magdeburg;23
+Germany;krefeld;14
+Germany;mainz;4
+Germany;lubeck;22
+Germany;oberhausen;1
+Germany;rostock;26
+Germany;erfurt;24
+Germany;hagen;22
+Germany;potsdam;22
+Germany;saarbrucken;21
+Germany;hamm;23
+Germany;ludwigshafen;11
+Germany;mulheim;2
+Germany;oldenburg;26
+Germany;osnabruck;20
+Germany;leverkusen;3
+Germany;heidelberg;30
+Germany;solingen;7
+Germany;darmstadt;22
+Germany;herne;5
+Germany;neuss;1
+Germany;regensburg;24
+Germany;paderborn;29
+Germany;ingolstadt;22
+Germany;wurzburg;21
+Germany;furth;3
+Germany;ulm;24
+Germany;heilbronn;27
+Germany;pforzheim;24
+Germany;wolfsburg;23
+Germany;gottingen;20
+Germany;bottrop;14
+Germany;reutlingen;22
+Germany;koblenz;26
+Germany;bremerhaven;23
+Germany;recklinghausen;17
+Germany;erlangen;17
+Germany;jena;31
+Germany;remscheid;9
+Germany;trier;23
+Germany;salzgitter;12
+Germany;moers;7
+Germany;siegen;26
+Germany;hildesheim;20
+Germany;cottbus;25
+Germany;gutersloh;13
+Germany;kaiserslautern;22
+Germany;witten;10
+Germany;hanau;18
+Germany;schwerin;22
+Germany;gera;28
+Germany;esslingen;8
+Germany;ludwigsburg;7
+Germany;iserlohn;12
+Germany;duren;20
+Germany;tubingen;6
+Germany;flensburg;22
+Germany;zwickau;30
+Germany;giessen;22
+Germany;ratingen;1
+Germany;lunen;8
+Germany;villingen-schwenningen;24
+Germany;konstanz;25
+Germany;marl;8
+Germany;worms;19
+Germany;velbert;2
+Germany;minden;26
+Spain;madrid;30
+Spain;sevilla;26
+Spain;malaga;6
+Spain;valencia;21
+Spain;zaragoza;27
+Spain;palma;22
+Spain;murcia;34
+Spain;bilbao;34
+Spain;alicante;31
+Spain;cordoba;21
+Spain;valladolid;28
+Spain;vigo;19
+Spain;gijon;21
+Spain;vitoria-gasteiz;28
+Spain;granada;26
+Spain;tarrasa;25
+Spain;badalona;21
+Spain;oviedo;28
+Spain;petrel;30
+Spain;sabadell;15
+Spain;cartagena;28
+Spain;pamplona;27
+Spain;leon;20
+Spain;almeria;20
+Spain;logrono;21
+Spain;fuenlabrada;20
+Spain;leganes;8
+Spain;donostia;31
+Spain;mataro;23
+Spain;albacete;27
+Spain;santander;26
+Spain;getafe;5
+Spain;alcorcon;4
+Spain;burgos;27
+Spain;guadalajara;31
+Spain;badajoz;22
+Spain;marbella;21
+Spain;salamanca;28
+Spain;huelva;27
+Spain;tarragona;30
+Spain;algeciras;22
+Spain;cadiz;21
+Spain;jaen;24
+Spain;reus;13
+Spain;girona;27
+Spain;lugo;23
+Spain;caceres;20
+Spain;lorca;26
+Spain;vaciamadrid;18
+Spain;toledo;25
+Spain;mijas;12
+Spain;torrevieja;29
+Spain;torrente;9
+Spain;pontevedra;21
+Spain;fuengirola;8
+Spain;arona;27
+Spain;velez-malaga;21
+Spain;rubi;4
+Spain;manresa;27
+Spain;aviles;20
+Spain;valdemoro;21
+Spain;gandia;29
+Spain;majadahonda;12
+Spain;paterna;2
+Spain;benidorm;26
+Spain;torremolinos;1
+Spain;benalmadena;11
+Spain;castelldefels;15
+Spain;viladecans;2
+Spain;sagunto;28
+Spain;ferrol;23
+Spain;arrecife;26
+Spain;collado-villalba;29
+Spain;benavente;24
+Spain;gondomar;2
+Spain;penafiel;17
+United Kingdom;london;13
+United Kingdom;birmingham;13
+United Kingdom;manchester;13
+United Kingdom;leeds;13
+United Kingdom;newcastle;13
+United Kingdom;birstall;3
+United Kingdom;glasgow;13
+United Kingdom;liverpool;13
+United Kingdom;portsmouth;13
+United Kingdom;southampton;13
+United Kingdom;nottingham;13
+United Kingdom;bristol;13
+United Kingdom;sheffield;13
+United Kingdom;leicester;13
+United Kingdom;edinburgh;13
+United Kingdom;caerdydd;13
+United Kingdom;stoke-on-trent;13
+United Kingdom;coventry;13
+United Kingdom;reading;13
+United Kingdom;belfast;13
+United Kingdom;derby;13
+United Kingdom;plymouth;13
+United Kingdom;wolverhampton;13
+United Kingdom;abertawe;13
+United Kingdom;aberdeen;13
+United Kingdom;norwich;13
+United Kingdom;luton;13
+United Kingdom;islington;13
+United Kingdom;swindon;13
+United Kingdom;croydon;13
+United Kingdom;basildon;13
+United Kingdom;bournemouth;13
+United Kingdom;worthing;13
+United Kingdom;ipswich;13
+United Kingdom;middlesbrough;13
+United Kingdom;sunderland;13
+United Kingdom;ilford;13
+United Kingdom;warrington;13
+United Kingdom;slough;13
+United Kingdom;huddersfield;13
+United Kingdom;oxford;13
+United Kingdom;york;13
+United Kingdom;poole;13
+United Kingdom;harrow;7
+United Kingdom;dundee;13
+United Kingdom;telford;13
+United Kingdom;blackpool;13
+United Kingdom;brighton;13
+United Kingdom;sale;13
+United Kingdom;enfield;6
+United Kingdom;tottenham;3
+United Kingdom;bolton;8
+United Kingdom;newport;13
+United Kingdom;exeter;13
+United Kingdom;solihull;13
+United Kingdom;romford;13
+United Kingdom;preston;13
+United Kingdom;gateshead;9
+United Kingdom;blackburn;13
+United Kingdom;cheltenham;13
+United Kingdom;basingstoke;13
+United Kingdom;maidstone;13
+United Kingdom;colchester;13
+United Kingdom;chelmsford;13
+United Kingdom;wythenshawe;9
+United Kingdom;doncaster;13
+United Kingdom;rotherham;13
+United Kingdom;walthamstow;3
+United Kingdom;rochdale;11
+United Kingdom;bedford;13
+United Kingdom;crawley;13
+United Kingdom;mansfield;13
+United Kingdom;dagenham;4
+United Kingdom;stockport;3
+United Kingdom;darlington;13
+United Kingdom;fyfield;12
+United Kingdom;gillingham;13
+United Kingdom;salford;3
+United Kingdom;eastbourne;13
+United Kingdom;wigan;11
+United Kingdom;hounslow;6
+United Kingdom;wembley;3
+United Kingdom;worcester;13
+United Kingdom;wakefield;13
+United Kingdom;lincoln;13
+United Kingdom;watford;8
+United Kingdom;oldham;4
+United Kingdom;kettering;13
+United Kingdom;hastings;13
+United Kingdom;hartlepool;13
+United Kingdom;hove;8
+United Kingdom;barnsley;6
+United Kingdom;southport;13
+United Kingdom;bath;13
+Italy;rome;23
+Italy;milan;23
+Italy;naples;21
+Italy;turin;23
+Italy;palermo;23
+Italy;genoa;23
+Italy;bologna;23
+Italy;florence;18
+Italy;bari;23
+Italy;catania;23
+Italy;venice;22
+Italy;verona;24
+Italy;messina;15
+Italy;padova;23
+Italy;trieste;23
+Italy;taranto;24
+Italy;brescia;23
+Italy;parma;23
+Italy;prato;13
+Italy;modena;21
+Italy;perugia;23
+Italy;ravenna;23
+Italy;livorno;23
+Italy;cagliari;23
+Italy;foggia;23
+Italy;rimini;22
+Italy;salerno;25
+Italy;ferrara;24
+Italy;latina;22
+Italy;monza;10
+Italy;siracusa;23
+Italy;bergamo;23
+Italy;pescara;13
+Italy;trento;23
+Italy;forli;18
+Italy;sassari;22
+Italy;vicenza;22
+Italy;terni;21
+Italy;bolzano;22
+Italy;novara;21
+Italy;piacenza;23
+Italy;ancona;23
+Italy;andria;13
+Italy;udine;23
+Italy;arezzo;22
+Italy;cesena;16
+Italy;lecce;23
+Italy;pesaro;14
+Italy;barletta;17
+Italy;alessandria;23
+Italy;pistoia;14
+Italy;pisa;16
+Italy;catanzaro;22
+Italy;mestre;12
+Italy;lucca;15
+Italy;brindisi;22
+Italy;treviso;16
+Italy;como;15
+Italy;marsala;19
+Italy;grosseto;23
+Italy;pozzuoli;4
+Italy;varese;15
+Italy;fiumicino;23
+Italy;casoria;4
+Italy;asti;23
+Italy;caserta;20
+Italy;gela;17
+Italy;ragusa;14
+Italy;pavia;22
+Italy;cremona;21
+Italy;carpi;13
+Italy;altamura;13
+Italy;imola;17
+Italy;massa;14
+Italy;trapani;22
+Italy;viterbo;23
+Italy;cosenza;23
+Italy;potenza;22
+Italy;afragola;4
+Italy;vittoria;18
+Italy;crotone;17
+Italy;pomezia;14
+Italy;vigevano;19
+Italy;carrara;10
+Italy;caltanissetta;17
+Italy;viareggio;18
+Italy;benevento;23
+Italy;fano;17
+Italy;savona;23
+Italy;matera;23
+Portugal;lisbon;13
+Portugal;sintra;14
+Portugal;porto;13
+Portugal;braga;13
+Portugal;matosinhos;8
+Portugal;amadora;8
+Portugal;almada;7
+Portugal;oeiras;10
+Portugal;guimaraes;13
+Portugal;odivelas;6
+Portugal;coimbra;13
+Portugal;maia;2
+Portugal;setubal;13
+Portugal;funchal;13
+Portugal;viseu;13
+Portugal;valongo;11
+Portugal;paredes;17
+Portugal;aveiro;13
+Portugal;queluz;2
+Portugal;mafra;16
+Portugal;loule;17
+Portugal;faro;15
+Portugal;palmela;10
+Portugal;santarem;20
+Portugal;felgueiras;11
+Portugal;evora;18
+Portugal;portimao;17
+Portugal;pombal;17
+Portugal;covilha;18
+Portugal;montijo;8
+Portugal;fafe;11
+Portugal;sesimbra;17
+Portugal;amora;2
+Portugal;lousada;5
+Portugal;corroios;1
+Portugal;ourem;11
+Portugal;olhao;11
+Portugal;leiria;19
+Portugal;guarda;18
+Portugal;chaves;21
+Portugal;tomar;13
+Portugal;ilhavo;12
+Portugal;trofa;10
+Portugal;mafamude;4
+Portugal;ermezinde;3
+Portugal;silves;14
+Portugal;beja;18
+Portugal;agualva;3
+Portugal;braganca;15
+Portugal;esposende;19
+Portugal;espinho;13
+Portugal;lagos;13
+Portugal;anadia;17
+Portugal;massama;3
+Portugal;estarreja;11
+Portugal;lamego;15
+Portugal;estoril;7
+Portugal;montemor-o-velho;14
+Portugal;tavira;21
+Portugal;odemira;20
+Portugal;albergaria-a-velha;6
+Portugal;portalegre;22
+Portugal;mirandela;18
+Portugal;vizela;3
+Portugal;canico;5
+Portugal;azambuja;15
+Turkey;istanbul;12
+Turkey;ankara;11
+Turkey;izmir;11
+Turkey;bursa;11
+Turkey;antalya;12
+Turkey;konya;12
+Turkey;adana;12
+Turkey;gaziantep;12
+Turkey;sanliurfa;11
+Turkey;mersin;11
+Turkey;diyarbakir;17
+Turkey;kayseri;13
+Turkey;samsun;13
+Turkey;tekirdag;11
+Turkey;denizli;12
+Turkey;eskisehir;11
+Turkey;trabzon;11
+Turkey;erzurum;11
+Turkey;malatya;12
+Turkey;batman;13
+Turkey;kahramanmaras;11
+Turkey;elazig;6
+Turkey;hatay;13
+Turkey;sivas;15
+Turkey;kocaeli;20
+Turkey;van;11
+Turkey;tarsus;11
+Turkey;balikesir;18
+Turkey;alanya;11
+Turkey;adiyaman;16
+Turkey;afyonkarahisar;11
+Turkey;iskenderun;11
+Turkey;aksaray;12
+Turkey;corum;11
+Turkey;inegol;11
+Turkey;kutahya;12
+Turkey;osmaniye;12
+Turkey;corlu;17
+Turkey;sakarya;12
+Turkey;isparta;13
+Turkey;kiziltepe;13
+Turkey;usak;11
+Turkey;manisa;12
+Turkey;duzce;19
+Turkey;nigde;2
+Turkey;bolu;11
+Turkey;tokat;12
+Turkey;kirikkale;11
+Turkey;viransehir;13
+Turkey;karaman;13
+Turkey;mus;8
+Turkey;aydin;11
+Turkey;canakkale;20
+Turkey;edirne;11
+Turkey;torbali;17
+Turkey;eregli;11
+Turkey;menemen;11
+Turkey;siirt;12
+Turkey;korfez;11
+Turkey;turgutlu;11
+Turkey;golcuk;2
+Turkey;salihli;12
+Turkey;bingol;15
+Turkey;fethiye;11
+Turkey;talas;9
+Turkey;erzincan;11
+Turkey;zonguldak;13
+Turkey;nazilli;11
+Turkey;ordu;11
+Turkey;bartin;11
+Turkey;bandirma;17
+Turkey;kirsehir;11
+Turkey;agri;12
+Turkey;amasya;11
+Turkey;kastamonu;14
+Turkey;luleburgaz;11
+Turkey;yalova;20
+Turkey;nevsehir;11
+Turkey;cizre;12
+Turkey;nizip;11
+Turkey;rize;11
+Turkey;igdir;13
+Turkey;giresun;13
+Turkey;odemis;11
+Turkey;karabuk;16
+Turkey;kozan;12
+Turkey;cayirova;11
+Turkey;unye;12
+Turkey;polatli;18
+Turkey;kadirli;10
+Turkey;patnos;9
+Turkey;dogubayazit;6
+Turkey;samandag;9
+Turkey;kapakli;11
+Turkey;kilis;11
+Turkey;kusadasi;19
+Turkey;akcakale;11
+Turkey;burdur;11
+Turkey;kars;12
+Turkey;soma;11
+Turkey;kemalpasa;11
+Turkey;nusaybin;14
+Turkey;yozgat;13
+Turkey;bergama;21
+Turkey;kirklareli;11
+Turkey;reyhanli;5
+Turkey;bafra;12
+Turkey;cankiri;12
+Turkey;aliaga;19
+Turkey;marmaris;12
+Turkey;menderes;16
+Turkey;sirnak;4
+Turkey;ceylanpinar;12
+Turkey;mardin;11
+Turkey;tire;11
+Turkey;bilecik;11
+Turkey;hakkari;10
+Turkey;soke;5
+Turkey;cinar;6
+Turkey;tatvan;15
+Turkey;bitlis;3
+Turkey;islahiye;13
+Turkey;bayburt;8
+Turkey;urla;21
+Turkey;bucak;11
+Turkey;sinop;13
+Turkey;caldiran;3
+Turkey;mut;10
+Turkey;derik;3
+Turkey;uzunkopru;13
+Turkey;bor;18
+Turkey;kas;15
+Turkey;gumushane;11
+Turkey;mugla;18
+Turkey;hassa;7
+Turkey;kulu;11
+Turkey;kozlu;11
+Turkey;beypazari;11
+Turkey;finike;12
+Turkey;haymana;9
+Turkey;yatagan;6
+Turkey;seferhisar;7
+Turkey;dikili;11
+Turkey;of;11
+Turkey;cesme;11
+Turkey;kemer;13
+Turkey;ardahan;5
+Turkey;yakacik;11
+Turkey;erzin;5
+Turkey;bayindir;5
+Turkey;tunceli;16
+Total: {'': 1458, 'Germany': 1915, 'Spain': 1604, 'Italy': 1744, 'Portugal': 799, 'United Kingdom': 1089, 'Turkey': 1759}

@@ -40,8 +40,9 @@ def load_cities_addresses(obj_types):
                     FROM countries c 
                     -- LEFT JOIN countries_data cd
                     -- ON c.id = cd.country_id
-                    WHERE c.capital = 'Turkey'
-                    -- WHERE c.tag IN({','.join(mail_subdomains)}) AND c.prime = 'is_city'
+                    WHERE c.tag IN({','.join(mail_subdomains)}) 
+                    AND c.prime = 'is_city'
+                    -- AND c.capital = 'Portugal'
                     -- GROUP BY c.id
                     -- HAVING addr_cnt = 0
                 """
@@ -100,8 +101,8 @@ def load_cities_addresses(obj_types):
                             ).lastrowid
                             print(f'INSERTED address {data_place["address"]}: {last_id}')
                             i += 1
-                            if i >= 10:
-                                break
+                            # if i >= 10:
+                            #     break
                             time.sleep(1)
             # return
 

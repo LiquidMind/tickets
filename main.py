@@ -105,7 +105,9 @@ def add_new_mailboxes(source_file, add=False):
 
 def main():
     usage = """
-        python %prog --add-domains --file data/countries.txt
+        python %prog --add-domains --file data/countries.csv
+        python %prog --update-subdomains
+        python %prog --add-mailbox --file data/COUNTRY_NAME_personal_data.csv
         python %prog --new-emails [show, add] --file data/new_emails.txt
     """
     parser = OptionParser(usage=usage)
@@ -176,14 +178,21 @@ def main():
                 if not int(subdomain['email_catch_non_existent']):
                     mail_res = get_obj_id(f'info@{key}', 'mailbox')
                     if mail_res['result']:
-                        res = edit_mailbox_subdomain(subdomain["virtual_domain_id"], mail_res['response']['box_id'])
-                        if res['result']:
-                            print(f'UPDATING {key} with id {subdomain["virtual_domain_id"]}: {res["result"]}')
-                            time.sleep(1)
-                        else:
-                            print(f'ERROR UPDATING {subdomain["virtual_domain_id"]}')
+                        try:
+                            res = edit_mailbox_subdomain(subdomain["virtual_domain_id"], mail_res['response']['box_id'])
+                            if res['result']:
+                                print(f'UPDATING {key} with id {subdomain["virtual_domain_id"]}: {res["result"]}')
+                                time.sleep(1)
+                            else:
+                                print(f'ERROR UPDATING {subdomain["virtual_domain_id"]}')
+                                print(res)
+                        except Exception as e:
+                            print(f'ERROR UPDATING: {e}')
                             print(res)
                     else:
+                        if mail_res['status'] == 429:
+                            print(mail_res)
+                            exit()
                         print(f'id for info@{key} not found')
                         print(mail_res)
         else:
