@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Test",
+  "version": "1.0",
+  "description": "Test",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "permissions": [
+    "scripting",
+    "activeTab",
+    "management",
+    "nativeMessaging"
+  ],
+  "externally_connectable": {
+    "matches": ["*://*/*"]
+  }
+}

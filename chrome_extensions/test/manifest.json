@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Extension Manager",
+  "version": "1.0",
+  "description": "Manage Chrome extensions",
+  "permissions": ["management"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "favicon-16x16.png"
+    }
+  },
+  "icons": {
+    "16": "favicon-16x16.png"
+  }
+}

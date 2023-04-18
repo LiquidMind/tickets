@@ -4,6 +4,8 @@ import time
 from optparse import OptionParser
 
 from api import get_obj_id, add_subdomain, add_mailbox, get_mailboxes_list, get_subdomains_list, edit_mailbox_subdomain
+from api.octo_barowser import get_profiles, add_profile, delete_profiles
+from api.accounts import get_free_accounts, update_account
 from common.functions import process_data, print_and_log
 
 import conf
@@ -17,6 +19,7 @@ handler.setFormatter(logging.Formatter(fmt='[%(asctime)s: %(levelname)s] %(messa
 logger.addHandler(handler)
 
 
+# TODO: replace functions to api/__init__.py
 def process_domain(domain):
     already_exists = get_obj_id(f'{domain}', 'host')
     print_and_log(
@@ -109,6 +112,8 @@ def main():
         python %prog --update-subdomains
         python %prog --add-mailbox --file data/COUNTRY_NAME_personal_data.csv
         python %prog --new-emails [show, add] --file data/new_emails.txt
+        python %prog --add-octo-profiles
+        python %prog --delete-octo-profiles
     """
     parser = OptionParser(usage=usage)
 
@@ -125,6 +130,10 @@ def main():
                       help='Compare specified list of emails with already presented for domain and show or add them')
     parser.add_option('--file', action='store', dest='file', default=False,
                       help='File path for process')
+    parser.add_option('--add-octo-profiles', action='store_true', dest='add_octo_profiles', default=False,
+                      help='Add Octo Browser profiles')
+    parser.add_option('--delete-octo-profiles', action='store_true', dest='delete_octo_profiles', default=False,
+                      help='DeleteOcto Browser profiles')
 
     (options, args) = parser.parse_args()
 
@@ -197,6 +206,36 @@ def main():
                         print(mail_res)
         else:
             print(sub_res)
+    elif options.add_octo_profiles:
+        try:
+            profiles = get_profiles()
+            print(profiles)
+            if profiles['success']:
+                profiles_created = profiles['total_count']
+                db_accounts = get_free_accounts(limit=conf.OCTO_MAX_PROFILES-profiles_created)
+                print(conf.OCTO_MAX_PROFILES-profiles_created)
+                print_and_log(logger, f'START Creating OCTO profiles, to create: {len(db_accounts)}')
+                for account in db_accounts:
+                    print_and_log(logger, f'Create OCTO profile for {account.email}')
+                    add_res = add_profile(account)
+                    print_and_log(logger, f'add_res: {add_res}')
+                    if add_res['success']:
+                        print_and_log(logger, 'CREATED, start updating account')
+                        upd_res = update_account(
+                            account.email,
+                            {'used': 1, 'registration_ip': add_res['used_proxy_ip']}
+                        )
+                        if not upd_res:
+                            print_and_log(logger, f'ERROR: updating failed for {account.email}')
+                        else:
+                            print_and_log(logger, 'Account updated')
+                    else:
+                        print_and_log(logger, f'OCTO ERROR: profile not created for {account.email}')
+        except Exception as e:
+            print_and_log(logger, f'OCTO BROWSER EXCEPTION: {e}')
+    elif options.delete_octo_profiles:
+        # TODO: implement
+        parser.print_help()
     else:
         parser.print_help()
 

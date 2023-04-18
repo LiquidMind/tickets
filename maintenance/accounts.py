@@ -3,6 +3,7 @@ import sqlalchemy as sa
 from optparse import OptionParser
 
 from common.functions import print_and_log
+from api.accounts import get_free_account, update_account
 import conf
 
 engine = sa.create_engine(conf.MYSQL_CONNECTION_STRING, isolation_level="AUTOCOMMIT")
@@ -29,36 +30,30 @@ def main():
         help='Mark account as used')
     parser.add_option('--email', action='store', dest='email', default=None,
                       help='Email for process')
+    parser.add_option('--after-1000', action='store', dest='after_1000', default=None,
+                      help='Get accounts that added later, after 1000')
 
     (options, args) = parser.parse_args()
 
     if options.get_free:
         print_and_log(logger, 'Getting account')
-        with engine.connect() as conn:
-            account = conn.execute(sa.text("""
-                SELECT 
-                    a.id, a.name, a.surname, a.email, a.birth_date, a.personal_id, c.name, cd.address, cd.phone, a.prime
-                FROM 
-                    accounts a 
-                    LEFT JOIN countries c ON a.country_id = c.id
-                    LEFT JOIN countries_data cd ON a.country_id = cd.country_id
-                WHERE
-                    a.email_verified = 1 
-                    AND used = 0 
-                LIMIT 1
-            """)).fetchone()
-            print(account)
+
+        if options.after_1000:
+            prime_clause = "AND prime = 'after_1000'"
+        else:
+            prime_clause = "AND prime IS NULL"
+
+        account = get_free_account(prime_clause)
+        print(account)
+
         return account
     elif options.set_used:
         if options.email is None:
             parser.error('--email option required')
         print_and_log(logger, f'Marking account as used: {options.email}')
-        with engine.connect() as conn:
-            upd_res = conn.execute(sa.text("""
-                UPDATE accounts SET used = 1 WHERE email = :email
-            """), {'email': options.email}).rowcount
-            print(upd_res)
-            return upd_res
+        upd_res = update_account(options.email, {'used': 1})
+        print(upd_res)
+        return upd_res
     else:
         parser.print_help()
 
