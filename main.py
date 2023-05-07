@@ -209,7 +209,7 @@ def main():
     elif options.add_octo_profiles:
         try:
             profiles = get_profiles()
-            print(profiles)
+            # print(profiles)
             if profiles['success']:
                 profiles_created = profiles['total_count']
                 db_accounts = get_free_accounts(limit=conf.OCTO_MAX_PROFILES-profiles_created)

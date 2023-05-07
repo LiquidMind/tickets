@@ -13,7 +13,8 @@ def get_free_accounts(clause='', limit=1):
     with engine.connect() as conn:
         account = conn.execute(sa.text(f"""
              SELECT 
-                 a.id, a.name, a.surname, a.email, a.birth_date, a.personal_id, c.name, cd.address, cd.phone, a.prime
+                 a.id, a.name, a.surname, a.email, a.birth_date, a.personal_id, c.name as location, cd.address, 
+                 cd.phone, a.prime, a.password, c.capital
              FROM 
                  accounts a 
                  LEFT JOIN countries c ON a.country_id = c.id
